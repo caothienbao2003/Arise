@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 84e821597dc517d4489432703fc628eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 186382578978670955
+    second: Paladin_Combat_without_Attack_Effect_24x24_0
+  - first:
+      213: -6423351695365637926
+    second: Paladin_Combat_without_Attack_Effect_24x24_1
+  - first:
+      213: -725896088476031830
+    second: Paladin_Combat_without_Attack_Effect_24x24_2
+  - first:
+      213: 2857587434915145563
+    second: Paladin_Combat_without_Attack_Effect_24x24_3
+  - first:
+      213: 5900322898863936609
+    second: Paladin_Combat_without_Attack_Effect_24x24_4
+  - first:
+      213: 5464041845897441987
+    second: Paladin_Combat_without_Attack_Effect_24x24_5
+  - first:
+      213: -8173431134498016459
+    second: Paladin_Combat_without_Attack_Effect_24x24_6
+  - first:
+      213: 8522418574069705643
+    second: Paladin_Combat_without_Attack_Effect_24x24_7
+  - first:
+      213: -8216907236421872611
+    second: Paladin_Combat_without_Attack_Effect_24x24_8
+  - first:
+      213: -3928308103596105263
+    second: Paladin_Combat_without_Attack_Effect_24x24_9
+  - first:
+      213: -1709545086652537122
+    second: Paladin_Combat_without_Attack_Effect_24x24_10
+  - first:
+      213: -4118150306228386184
+    second: Paladin_Combat_without_Attack_Effect_24x24_11
+  - first:
+      213: 3810097393674678545
+    second: Paladin_Combat_without_Attack_Effect_24x24_12
+  - first:
+      213: 6965223070140894941
+    second: Paladin_Combat_without_Attack_Effect_24x24_13
+  - first:
+      213: -2701607109828429219
+    second: Paladin_Combat_without_Attack_Effect_24x24_14
+  - first:
+      213: 6774300207507458540
+    second: Paladin_Combat_without_Attack_Effect_24x24_15
+  - first:
+      213: 484138706938394519
+    second: Paladin_Combat_without_Attack_Effect_24x24_16
+  - first:
+      213: -7192229411337154600
+    second: Paladin_Combat_without_Attack_Effect_24x24_17
+  - first:
+      213: 202090845965069297
+    second: Paladin_Combat_without_Attack_Effect_24x24_18
+  - first:
+      213: -7850340884681561780
+    second: Paladin_Combat_without_Attack_Effect_24x24_19
+  - first:
+      213: -4969345172822051636
+    second: Paladin_Combat_without_Attack_Effect_24x24_20
+  - first:
+      213: 5107632286616316315
+    second: Paladin_Combat_without_Attack_Effect_24x24_21
+  - first:
+      213: 3803372568718246384
+    second: Paladin_Combat_without_Attack_Effect_24x24_22
+  - first:
+      213: -1531793484766242454
+    second: Paladin_Combat_without_Attack_Effect_24x24_23
+  - first:
+      213: 7559843130715101849
+    second: Paladin_Combat_without_Attack_Effect_24x24_24
+  - first:
+      213: 6981814598134706413
+    second: Paladin_Combat_without_Attack_Effect_24x24_25
+  - first:
+      213: 8291528498282841933
+    second: Paladin_Combat_without_Attack_Effect_24x24_26
+  - first:
+      213: 8415518376668456375
+    second: Paladin_Combat_without_Attack_Effect_24x24_27
+  - first:
+      213: 137477751754128222
+    second: Paladin_Combat_without_Attack_Effect_24x24_28
+  - first:
+      213: -4526748349280085257
+    second: Paladin_Combat_without_Attack_Effect_24x24_29
+  - first:
+      213: 6789503237038462066
+    second: Paladin_Combat_without_Attack_Effect_24x24_30
+  - first:
+      213: -854417837643297558
+    second: Paladin_Combat_without_Attack_Effect_24x24_31
+  - first:
+      213: 6524783313909450478
+    second: Paladin_Combat_without_Attack_Effect_24x24_32
+  - first:
+      213: -5447317237531525614
+    second: Paladin_Combat_without_Attack_Effect_24x24_33
+  - first:
+      213: -2786974432328515017
+    second: Paladin_Combat_without_Attack_Effect_24x24_34
+  - first:
+      213: 6283716232335219219
+    second: Paladin_Combat_without_Attack_Effect_24x24_35
+  - first:
+      213: 7231702389984131742
+    second: Paladin_Combat_without_Attack_Effect_24x24_36
+  - first:
+      213: 7613291548102952568
+    second: Paladin_Combat_without_Attack_Effect_24x24_37
+  - first:
+      213: -6853384819999831085
+    second: Paladin_Combat_without_Attack_Effect_24x24_38
+  - first:
+      213: 1342954378324602142
+    second: Paladin_Combat_without_Attack_Effect_24x24_39
+  - first:
+      213: 5191838819206156174
+    second: Paladin_Combat_without_Attack_Effect_24x24_40
+  - first:
+      213: -1394243774741693018
+    second: Paladin_Combat_without_Attack_Effect_24x24_41
+  - first:
+      213: 2526169934685903208
+    second: Paladin_Combat_without_Attack_Effect_24x24_42
+  - first:
+      213: -6979535545437562162
+    second: Paladin_Combat_without_Attack_Effect_24x24_43
+  - first:
+      213: -3468956185662046450
+    second: Paladin_Combat_without_Attack_Effect_24x24_44
+  - first:
+      213: -2242474288607952367
+    second: Paladin_Combat_without_Attack_Effect_24x24_45
+  - first:
+      213: 1432922087994358065
+    second: Paladin_Combat_without_Attack_Effect_24x24_46
+  - first:
+      213: 6846621927206209921
+    second: Paladin_Combat_without_Attack_Effect_24x24_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b694854d7f9269200800000000000000
+      internalID: 186382578978670955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 267
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8f35a5aababd6a0800000000000000
+      internalID: -6423351695365637926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 267
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa46a8e7a591de5f0800000000000000
+      internalID: -725896088476031830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 267
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57acb4c1a038a720800000000000000
+      internalID: 2857587434915145563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 243
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16453ee4a6822e150800000000000000
+      internalID: 5900322898863936609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 243
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2369eeb1d24db40800000000000000
+      internalID: 5464041845897441987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 243
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533b02810b3229e80800000000000000
+      internalID: -8173431134498016459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 243
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babad961a86b54670800000000000000
+      internalID: 8522418574069705643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14dcbc476ea7fd80800000000000000
+      internalID: -8216907236421872611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 219
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1add4c798db79c0800000000000000
+      internalID: -3928308103596105263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 219
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6af8e1dc97648e0800000000000000
+      internalID: -1709545086652537122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 219
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87647998d1469d6c0800000000000000
+      internalID: -4118150306228386184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111fe9d846f20e430800000000000000
+      internalID: 3810097393674678545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 195
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8a1d9a7179a060800000000000000
+      internalID: 6965223070140894941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 195
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab108b5a6f18ad0800000000000000
+      internalID: -2701607109828429219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 195
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9465e9526230e50800000000000000
+      internalID: 6774300207507458540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7977411c69108b600800000000000000
+      internalID: 484138706938394519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfc12ad471103c90800000000000000
+      internalID: -7192229411337154600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 170
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2b1ebd88fdc200800000000000000
+      internalID: 202090845965069297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 170
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4964daee8cfd0390800000000000000
+      internalID: -7850340884681561780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 146
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4b3afd4e6590bb0800000000000000
+      internalID: -4969345172822051636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 147
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99e417d084f1e640800000000000000
+      internalID: 5107632286616316315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 147
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f18aea333b48c430800000000000000
+      internalID: 3803372568718246384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 147
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69104ff0f9fdbae0800000000000000
+      internalID: -1531793484766242454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a53fb0645f9e860800000000000000
+      internalID: 7559843130715101849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 122
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0b471c26364e060800000000000000
+      internalID: 6981814598134706413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 123
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d474d212d3d611370800000000000000
+      internalID: 8291528498282841933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 123
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b56812506de9c470800000000000000
+      internalID: 8415518376668456375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bf2dd694b68e100800000000000000
+      internalID: 137477751754128222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 99
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa139d2c52cd21c0800000000000000
+      internalID: -4526748349280085257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 98
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274da05c839293e50800000000000000
+      internalID: 6789503237038462066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 98
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec8389e08f7424f0800000000000000
+      internalID: -854417837643297558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee608fdaadfac8a50800000000000000
+      internalID: 6524783313909450478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 75
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e321665dd3764b0800000000000000
+      internalID: -5447317237531525614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 75
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73286f2158da259d0800000000000000
+      internalID: -2786974432328515017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 75
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a52b9ee9e343750800000000000000
+      internalID: 6283716232335219219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af85c220b2c5460800000000000000
+      internalID: 7231702389984131742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87609287358d7a960800000000000000
+      internalID: 7613291548102952568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 51
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db0bd621d2e3e0a0800000000000000
+      internalID: -6853384819999831085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de79d44e123a210800000000000000
+      internalID: 1342954378324602142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fcdd506ed1d0840800000000000000
+      internalID: 5191838819206156174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adb8348ca6a6ace0800000000000000
+      internalID: -1394243774741693018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 28
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869993fdb22ce0320800000000000000
+      internalID: 2526169934685903208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca5bfc8665b32f90800000000000000
+      internalID: -6979535545437562162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f383c7abacbdfc0800000000000000
+      internalID: -3468956185662046450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1128391048121e0e0800000000000000
+      internalID: -2242474288607952367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f6bd0c03c2e310800000000000000
+      internalID: 1432922087994358065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_without_Attack_Effect_24x24_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189c68a2e56140f50800000000000000
+      internalID: 6846621927206209921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Paladin_Combat_without_Attack_Effect_24x24_0: 186382578978670955
+      Paladin_Combat_without_Attack_Effect_24x24_1: -6423351695365637926
+      Paladin_Combat_without_Attack_Effect_24x24_10: -1709545086652537122
+      Paladin_Combat_without_Attack_Effect_24x24_11: -4118150306228386184
+      Paladin_Combat_without_Attack_Effect_24x24_12: 3810097393674678545
+      Paladin_Combat_without_Attack_Effect_24x24_13: 6965223070140894941
+      Paladin_Combat_without_Attack_Effect_24x24_14: -2701607109828429219
+      Paladin_Combat_without_Attack_Effect_24x24_15: 6774300207507458540
+      Paladin_Combat_without_Attack_Effect_24x24_16: 484138706938394519
+      Paladin_Combat_without_Attack_Effect_24x24_17: -7192229411337154600
+      Paladin_Combat_without_Attack_Effect_24x24_18: 202090845965069297
+      Paladin_Combat_without_Attack_Effect_24x24_19: -7850340884681561780
+      Paladin_Combat_without_Attack_Effect_24x24_2: -725896088476031830
+      Paladin_Combat_without_Attack_Effect_24x24_20: -4969345172822051636
+      Paladin_Combat_without_Attack_Effect_24x24_21: 5107632286616316315
+      Paladin_Combat_without_Attack_Effect_24x24_22: 3803372568718246384
+      Paladin_Combat_without_Attack_Effect_24x24_23: -1531793484766242454
+      Paladin_Combat_without_Attack_Effect_24x24_24: 7559843130715101849
+      Paladin_Combat_without_Attack_Effect_24x24_25: 6981814598134706413
+      Paladin_Combat_without_Attack_Effect_24x24_26: 8291528498282841933
+      Paladin_Combat_without_Attack_Effect_24x24_27: 8415518376668456375
+      Paladin_Combat_without_Attack_Effect_24x24_28: 137477751754128222
+      Paladin_Combat_without_Attack_Effect_24x24_29: -4526748349280085257
+      Paladin_Combat_without_Attack_Effect_24x24_3: 2857587434915145563
+      Paladin_Combat_without_Attack_Effect_24x24_30: 6789503237038462066
+      Paladin_Combat_without_Attack_Effect_24x24_31: -854417837643297558
+      Paladin_Combat_without_Attack_Effect_24x24_32: 6524783313909450478
+      Paladin_Combat_without_Attack_Effect_24x24_33: -5447317237531525614
+      Paladin_Combat_without_Attack_Effect_24x24_34: -2786974432328515017
+      Paladin_Combat_without_Attack_Effect_24x24_35: 6283716232335219219
+      Paladin_Combat_without_Attack_Effect_24x24_36: 7231702389984131742
+      Paladin_Combat_without_Attack_Effect_24x24_37: 7613291548102952568
+      Paladin_Combat_without_Attack_Effect_24x24_38: -6853384819999831085
+      Paladin_Combat_without_Attack_Effect_24x24_39: 1342954378324602142
+      Paladin_Combat_without_Attack_Effect_24x24_4: 5900322898863936609
+      Paladin_Combat_without_Attack_Effect_24x24_40: 5191838819206156174
+      Paladin_Combat_without_Attack_Effect_24x24_41: -1394243774741693018
+      Paladin_Combat_without_Attack_Effect_24x24_42: 2526169934685903208
+      Paladin_Combat_without_Attack_Effect_24x24_43: -6979535545437562162
+      Paladin_Combat_without_Attack_Effect_24x24_44: -3468956185662046450
+      Paladin_Combat_without_Attack_Effect_24x24_45: -2242474288607952367
+      Paladin_Combat_without_Attack_Effect_24x24_46: 1432922087994358065
+      Paladin_Combat_without_Attack_Effect_24x24_47: 6846621927206209921
+      Paladin_Combat_without_Attack_Effect_24x24_5: 5464041845897441987
+      Paladin_Combat_without_Attack_Effect_24x24_6: -8173431134498016459
+      Paladin_Combat_without_Attack_Effect_24x24_7: 8522418574069705643
+      Paladin_Combat_without_Attack_Effect_24x24_8: -8216907236421872611
+      Paladin_Combat_without_Attack_Effect_24x24_9: -3928308103596105263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

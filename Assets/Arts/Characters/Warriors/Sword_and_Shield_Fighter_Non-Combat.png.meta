@@ -1,0 +1,3350 @@
+fileFormatVersion: 2
+guid: 2d381bb464f8e494b9a93168e6d109ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4073870664581539196
+    second: Sword_and_Shield_Fighter_Non-Combat_0
+  - first:
+      213: -1709180519398801203
+    second: Sword_and_Shield_Fighter_Non-Combat_1
+  - first:
+      213: 8979197261284636482
+    second: Sword_and_Shield_Fighter_Non-Combat_2
+  - first:
+      213: -7918987047686333543
+    second: Sword_and_Shield_Fighter_Non-Combat_3
+  - first:
+      213: 1119993053604740685
+    second: Sword_and_Shield_Fighter_Non-Combat_4
+  - first:
+      213: 8807091951849863478
+    second: Sword_and_Shield_Fighter_Non-Combat_5
+  - first:
+      213: 7279974099038989158
+    second: Sword_and_Shield_Fighter_Non-Combat_6
+  - first:
+      213: 7711018190544969797
+    second: Sword_and_Shield_Fighter_Non-Combat_7
+  - first:
+      213: 3135641432598948007
+    second: Sword_and_Shield_Fighter_Non-Combat_8
+  - first:
+      213: -7573895979031048288
+    second: Sword_and_Shield_Fighter_Non-Combat_9
+  - first:
+      213: -6662955155344015302
+    second: Sword_and_Shield_Fighter_Non-Combat_10
+  - first:
+      213: 3346323462319466435
+    second: Sword_and_Shield_Fighter_Non-Combat_11
+  - first:
+      213: -3404845775412009015
+    second: Sword_and_Shield_Fighter_Non-Combat_12
+  - first:
+      213: 7290784848057886432
+    second: Sword_and_Shield_Fighter_Non-Combat_13
+  - first:
+      213: -1831266754696696815
+    second: Sword_and_Shield_Fighter_Non-Combat_14
+  - first:
+      213: -6786433253094719312
+    second: Sword_and_Shield_Fighter_Non-Combat_15
+  - first:
+      213: -1880076330484394417
+    second: Sword_and_Shield_Fighter_Non-Combat_16
+  - first:
+      213: 7405439710991912722
+    second: Sword_and_Shield_Fighter_Non-Combat_17
+  - first:
+      213: 1646710720988481144
+    second: Sword_and_Shield_Fighter_Non-Combat_18
+  - first:
+      213: 156137735747892371
+    second: Sword_and_Shield_Fighter_Non-Combat_19
+  - first:
+      213: 5716337719276348838
+    second: Sword_and_Shield_Fighter_Non-Combat_20
+  - first:
+      213: -3505588599904717980
+    second: Sword_and_Shield_Fighter_Non-Combat_21
+  - first:
+      213: 1003759550804151765
+    second: Sword_and_Shield_Fighter_Non-Combat_22
+  - first:
+      213: 63613695658396855
+    second: Sword_and_Shield_Fighter_Non-Combat_23
+  - first:
+      213: -1809879432958919419
+    second: Sword_and_Shield_Fighter_Non-Combat_24
+  - first:
+      213: -4773967442979028721
+    second: Sword_and_Shield_Fighter_Non-Combat_25
+  - first:
+      213: 5152556746567749426
+    second: Sword_and_Shield_Fighter_Non-Combat_26
+  - first:
+      213: 6488222939756646766
+    second: Sword_and_Shield_Fighter_Non-Combat_27
+  - first:
+      213: -2353170215992469555
+    second: Sword_and_Shield_Fighter_Non-Combat_28
+  - first:
+      213: 3528830512426309432
+    second: Sword_and_Shield_Fighter_Non-Combat_29
+  - first:
+      213: -1540654837399297714
+    second: Sword_and_Shield_Fighter_Non-Combat_30
+  - first:
+      213: 2400811211237604227
+    second: Sword_and_Shield_Fighter_Non-Combat_31
+  - first:
+      213: -4882859983178453745
+    second: Sword_and_Shield_Fighter_Non-Combat_32
+  - first:
+      213: 6289242364118615385
+    second: Sword_and_Shield_Fighter_Non-Combat_33
+  - first:
+      213: -1957565627936961586
+    second: Sword_and_Shield_Fighter_Non-Combat_34
+  - first:
+      213: -2735470144075772641
+    second: Sword_and_Shield_Fighter_Non-Combat_35
+  - first:
+      213: 2123972120666008667
+    second: Sword_and_Shield_Fighter_Non-Combat_36
+  - first:
+      213: 6701921182184905065
+    second: Sword_and_Shield_Fighter_Non-Combat_37
+  - first:
+      213: 7970176666525212229
+    second: Sword_and_Shield_Fighter_Non-Combat_38
+  - first:
+      213: 8195040765269316796
+    second: Sword_and_Shield_Fighter_Non-Combat_39
+  - first:
+      213: 2544867839278241041
+    second: Sword_and_Shield_Fighter_Non-Combat_40
+  - first:
+      213: 933988147286361655
+    second: Sword_and_Shield_Fighter_Non-Combat_41
+  - first:
+      213: 2437255341218532773
+    second: Sword_and_Shield_Fighter_Non-Combat_42
+  - first:
+      213: 9118449525719936980
+    second: Sword_and_Shield_Fighter_Non-Combat_43
+  - first:
+      213: -3125641089006690778
+    second: Sword_and_Shield_Fighter_Non-Combat_44
+  - first:
+      213: 788290154191606126
+    second: Sword_and_Shield_Fighter_Non-Combat_45
+  - first:
+      213: -153978457313660677
+    second: Sword_and_Shield_Fighter_Non-Combat_46
+  - first:
+      213: -1914542151400181947
+    second: Sword_and_Shield_Fighter_Non-Combat_47
+  - first:
+      213: -3338102296218795932
+    second: Sword_and_Shield_Fighter_Non-Combat_48
+  - first:
+      213: 8842900582608337869
+    second: Sword_and_Shield_Fighter_Non-Combat_49
+  - first:
+      213: -3385776500836987417
+    second: Sword_and_Shield_Fighter_Non-Combat_50
+  - first:
+      213: 7039980677425836059
+    second: Sword_and_Shield_Fighter_Non-Combat_51
+  - first:
+      213: 8076130209506953072
+    second: Sword_and_Shield_Fighter_Non-Combat_52
+  - first:
+      213: 1864237357793318649
+    second: Sword_and_Shield_Fighter_Non-Combat_53
+  - first:
+      213: -3503016992620768250
+    second: Sword_and_Shield_Fighter_Non-Combat_54
+  - first:
+      213: -4031315937608740873
+    second: Sword_and_Shield_Fighter_Non-Combat_55
+  - first:
+      213: -2716480468551047316
+    second: Sword_and_Shield_Fighter_Non-Combat_56
+  - first:
+      213: 3287018703080922115
+    second: Sword_and_Shield_Fighter_Non-Combat_57
+  - first:
+      213: -954787017514341869
+    second: Sword_and_Shield_Fighter_Non-Combat_58
+  - first:
+      213: 7739895043519140441
+    second: Sword_and_Shield_Fighter_Non-Combat_59
+  - first:
+      213: 3101269312252239147
+    second: Sword_and_Shield_Fighter_Non-Combat_60
+  - first:
+      213: -3701372162821332999
+    second: Sword_and_Shield_Fighter_Non-Combat_61
+  - first:
+      213: -4795102199196819614
+    second: Sword_and_Shield_Fighter_Non-Combat_62
+  - first:
+      213: -4431770378832376236
+    second: Sword_and_Shield_Fighter_Non-Combat_63
+  - first:
+      213: 6535121321409492456
+    second: Sword_and_Shield_Fighter_Non-Combat_64
+  - first:
+      213: -7770990740725116299
+    second: Sword_and_Shield_Fighter_Non-Combat_65
+  - first:
+      213: 724662542552190032
+    second: Sword_and_Shield_Fighter_Non-Combat_66
+  - first:
+      213: -1382974915857692566
+    second: Sword_and_Shield_Fighter_Non-Combat_67
+  - first:
+      213: 8367892462582492465
+    second: Sword_and_Shield_Fighter_Non-Combat_68
+  - first:
+      213: -8639203829279836476
+    second: Sword_and_Shield_Fighter_Non-Combat_69
+  - first:
+      213: 6807450289433465660
+    second: Sword_and_Shield_Fighter_Non-Combat_70
+  - first:
+      213: -2516040005185920442
+    second: Sword_and_Shield_Fighter_Non-Combat_71
+  - first:
+      213: 8538266195019275517
+    second: Sword_and_Shield_Fighter_Non-Combat_72
+  - first:
+      213: 4529369743948611936
+    second: Sword_and_Shield_Fighter_Non-Combat_73
+  - first:
+      213: 1023506619859273437
+    second: Sword_and_Shield_Fighter_Non-Combat_74
+  - first:
+      213: -2517037628031279346
+    second: Sword_and_Shield_Fighter_Non-Combat_75
+  - first:
+      213: 2834231483169847570
+    second: Sword_and_Shield_Fighter_Non-Combat_76
+  - first:
+      213: 7911696801718135665
+    second: Sword_and_Shield_Fighter_Non-Combat_77
+  - first:
+      213: 8490915650954145515
+    second: Sword_and_Shield_Fighter_Non-Combat_78
+  - first:
+      213: -3414938491996295654
+    second: Sword_and_Shield_Fighter_Non-Combat_79
+  - first:
+      213: 2405258971428529390
+    second: Sword_and_Shield_Fighter_Non-Combat_80
+  - first:
+      213: -2450078969376468904
+    second: Sword_and_Shield_Fighter_Non-Combat_81
+  - first:
+      213: 433574770035078349
+    second: Sword_and_Shield_Fighter_Non-Combat_82
+  - first:
+      213: -7001529705035254664
+    second: Sword_and_Shield_Fighter_Non-Combat_83
+  - first:
+      213: -3072849900011143488
+    second: Sword_and_Shield_Fighter_Non-Combat_84
+  - first:
+      213: -8037305944909628036
+    second: Sword_and_Shield_Fighter_Non-Combat_85
+  - first:
+      213: 161619443422857043
+    second: Sword_and_Shield_Fighter_Non-Combat_86
+  - first:
+      213: 6090770569944941372
+    second: Sword_and_Shield_Fighter_Non-Combat_87
+  - first:
+      213: 805707644040968124
+    second: Sword_and_Shield_Fighter_Non-Combat_88
+  - first:
+      213: 2925151467191476703
+    second: Sword_and_Shield_Fighter_Non-Combat_89
+  - first:
+      213: -707520089418365553
+    second: Sword_and_Shield_Fighter_Non-Combat_90
+  - first:
+      213: -7980295815510606955
+    second: Sword_and_Shield_Fighter_Non-Combat_91
+  - first:
+      213: 5237058359687975364
+    second: Sword_and_Shield_Fighter_Non-Combat_92
+  - first:
+      213: -4799167216680158333
+    second: Sword_and_Shield_Fighter_Non-Combat_93
+  - first:
+      213: 7438290220538421032
+    second: Sword_and_Shield_Fighter_Non-Combat_94
+  - first:
+      213: 1347007547450223336
+    second: Sword_and_Shield_Fighter_Non-Combat_95
+  - first:
+      213: -7267924718109623282
+    second: Sword_and_Shield_Fighter_Non-Combat_96
+  - first:
+      213: -5542430211082996683
+    second: Sword_and_Shield_Fighter_Non-Combat_97
+  - first:
+      213: 9207705694382541449
+    second: Sword_and_Shield_Fighter_Non-Combat_98
+  - first:
+      213: 7182951659992322969
+    second: Sword_and_Shield_Fighter_Non-Combat_99
+  - first:
+      213: 2084768594173040881
+    second: Sword_and_Shield_Fighter_Non-Combat_100
+  - first:
+      213: -5908009266550668596
+    second: Sword_and_Shield_Fighter_Non-Combat_101
+  - first:
+      213: -3960273616333125565
+    second: Sword_and_Shield_Fighter_Non-Combat_102
+  - first:
+      213: 2213903170194905555
+    second: Sword_and_Shield_Fighter_Non-Combat_103
+  - first:
+      213: -6187718268802647934
+    second: Sword_and_Shield_Fighter_Non-Combat_104
+  - first:
+      213: -3794166584652385338
+    second: Sword_and_Shield_Fighter_Non-Combat_105
+  - first:
+      213: -4679896375357157320
+    second: Sword_and_Shield_Fighter_Non-Combat_106
+  - first:
+      213: 3711946222837458115
+    second: Sword_and_Shield_Fighter_Non-Combat_107
+  - first:
+      213: -7316673414752560206
+    second: Sword_and_Shield_Fighter_Non-Combat_108
+  - first:
+      213: 6072014306946113633
+    second: Sword_and_Shield_Fighter_Non-Combat_109
+  - first:
+      213: -1391766236493497103
+    second: Sword_and_Shield_Fighter_Non-Combat_110
+  - first:
+      213: 835601081349571926
+    second: Sword_and_Shield_Fighter_Non-Combat_111
+  - first:
+      213: -4233579535071409601
+    second: Sword_and_Shield_Fighter_Non-Combat_112
+  - first:
+      213: -2841900503325098594
+    second: Sword_and_Shield_Fighter_Non-Combat_113
+  - first:
+      213: 5352718850088241978
+    second: Sword_and_Shield_Fighter_Non-Combat_114
+  - first:
+      213: 337501124782045400
+    second: Sword_and_Shield_Fighter_Non-Combat_115
+  - first:
+      213: 8350156877233275591
+    second: Sword_and_Shield_Fighter_Non-Combat_116
+  - first:
+      213: -3899253768308696375
+    second: Sword_and_Shield_Fighter_Non-Combat_117
+  - first:
+      213: 8385778853303655874
+    second: Sword_and_Shield_Fighter_Non-Combat_118
+  - first:
+      213: 8289283297881582282
+    second: Sword_and_Shield_Fighter_Non-Combat_119
+  - first:
+      213: -3355216984852381152
+    second: Sword_and_Shield_Fighter_Non-Combat_120
+  - first:
+      213: 7012674986525964209
+    second: Sword_and_Shield_Fighter_Non-Combat_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a9bb00734b677c0800000000000000
+      internalID: -4073870664581539196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0873c8f55c748e0800000000000000
+      internalID: -1709180519398801203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247f707d5548c9c70800000000000000
+      internalID: 8979197261284636482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b9cb99c3b1a1290800000000000000
+      internalID: -7918987047686333543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ef30f8fb30b8f00800000000000000
+      internalID: 1119993053604740685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639763ed773193a70800000000000000
+      internalID: 8807091951849863478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b63434fd9a70560800000000000000
+      internalID: 7279974099038989158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5402208803a030b60800000000000000
+      internalID: 7711018190544969797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8ae050549048b20800000000000000
+      internalID: 3135641432598948007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af481c3cbd14e690800000000000000
+      internalID: -7573895979031048288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30cc5b869d6883a0800000000000000
+      internalID: -6662955155344015302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c76b1b9577807e20800000000000000
+      internalID: 3346323462319466435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7e3919ece8fb0d0800000000000000
+      internalID: -3404845775412009015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e66a4ae0321e2560800000000000000
+      internalID: 7290784848057886432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c225dc6980696e0800000000000000
+      internalID: -1831266754696696815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0046199eeb1d1a0800000000000000
+      internalID: -6786433253094719312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f469bdad980a8e5e0800000000000000
+      internalID: -1880076330484394417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f8e337e2865c660800000000000000
+      internalID: 7405439710991912722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87688541daa4ad610800000000000000
+      internalID: 1646710720988481144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39479438176ba2200800000000000000
+      internalID: 156137735747892371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a522a58ed2845f40800000000000000
+      internalID: 5716337719276348838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4633506edb5a95fc0800000000000000
+      internalID: -3505588599904717980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd46994ef11eed00800000000000000
+      internalID: 1003759550804151765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc8194b15002e000800000000000000
+      internalID: 63613695658396855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db230be3402e6e0800000000000000
+      internalID: -1809879432958919419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0184f777e57fbdb0800000000000000
+      internalID: -4773967442979028721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f8634cf0f818740800000000000000
+      internalID: 5152556746567749426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e615cbb336cca0a50800000000000000
+      internalID: 6488222939756646766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc75dbbf72cd75fd0800000000000000
+      internalID: -2353170215992469555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837dabd87ace8f030800000000000000
+      internalID: 3528830512426309432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b8ee8adaf2895449c581b907c9ae8f
+      internalID: -1540654837399297714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4efe20e241463458c293418016e11e
+      internalID: 2400811211237604227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be336c6d75e672945852e767cbc6eb5a
+      internalID: -4882859983178453745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d707aacdf77e9241aa4867fe15cb542
+      internalID: 6289242364118615385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fc680895bad364fa2601858fcf65e2
+      internalID: -1957565627936961586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a86181e16436fd48b1b11019f67d089
+      internalID: -2735470144075772641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8a62f8ae4533342a0b93ac54e6f8c9
+      internalID: 2123972120666008667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a819eaeeaca014baa881ff2944912b
+      internalID: 6701921182184905065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b86be9d4929a747b4a0ed03b2df3ae
+      internalID: 7970176666525212229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dac672bd9cce64caa7ed094272367c
+      internalID: 8195040765269316796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69671b269fedc43aa416cb2ac7785d
+      internalID: 2544867839278241041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a61abfd6b94d6d49af4b2acd719f27d
+      internalID: 933988147286361655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dc8e236366ba84683bc1c33e04d027
+      internalID: 2437255341218532773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030744dbf30d8bb459d1e20004c9a194
+      internalID: 9118449525719936980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675499d6ec8760845b83eceacac9b02b
+      internalID: -3125641089006690778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8707da6d15623478a60c3d7fdb3ded
+      internalID: 788290154191606126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5125652286fba244a5567e43cb23fe3
+      internalID: -153978457313660677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd56b211adede43bed4d09c50a6051
+      internalID: -1914542151400181947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4fd237fbb9714e88abda2607bf0aa
+      internalID: -3338102296218795932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85837091525b8a549973322a92105b0a
+      internalID: 8842900582608337869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ff5c7e59edd44796d501f2c6f224a
+      internalID: -3385776500836987417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687faa985ad1f3444b638c0b9671a8a4
+      internalID: 7039980677425836059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b4664d58ee2740adab95096ba29d2
+      internalID: 8076130209506953072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd9f62310827c419e7c554402eb444
+      internalID: 1864237357793318649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5461e78c7e5e04a88fd5a80d75550f
+      internalID: -3503016992620768250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8973aeb0176d04fb2b9424270dbff8
+      internalID: -4031315937608740873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857897f2aa210364dbc96d86de7cbc55
+      internalID: -2716480468551047316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b11aa6abe542045b76b5bdea161454
+      internalID: 3287018703080922115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82869d57fe749b248b8ed9e5f87c5f76
+      internalID: -954787017514341869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efacfcf1e4cd5af44816143fd0715aa6
+      internalID: 7739895043519140441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe90eac225c774ebffb9394adf5574
+      internalID: 3101269312252239147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a45a598918e1749b7156708820b796
+      internalID: -3701372162821332999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af25468f0fbb38242b45c2fc7efe86c3
+      internalID: -4795102199196819614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa78a5aa413df498c662c502696be0
+      internalID: -4431770378832376236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16b01968c05bdf4695b421c25ba31ea
+      internalID: 6535121321409492456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72526dc93d6fb9a46891247dbc6e965a
+      internalID: -7770990740725116299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e36971f2a66cc45be454d97abcd44c
+      internalID: 724662542552190032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc9f23590a3b849a535c39a2989e17
+      internalID: -1382974915857692566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8048942466a73e4297f013b8f239fee
+      internalID: 8367892462582492465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0837505c47f587c4db8e7dc7fa9d7197
+      internalID: -8639203829279836476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf42e52041ea4942971de027a38f354
+      internalID: 6807450289433465660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce67467f46cf841a92079242651019
+      internalID: -2516040005185920442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aeec78a16d448409f9fffb81d9f8e3
+      internalID: 8538266195019275517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67303af558c6a8241b0c0d0b24d4da1b
+      internalID: 4529369743948611936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7ddf8a6f870554b8408f544d1c9181
+      internalID: 1023506619859273437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cefad6d446bf84da8adcd2d3cc32f7
+      internalID: -2517037628031279346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c70f0b2595dbd49bb92e0bdb0b66bf
+      internalID: 2834231483169847570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86aa2851e7d744b9657794ca83b831
+      internalID: 7911696801718135665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db1c3aa07c3e7d4abf5f02457927510
+      internalID: 8490915650954145515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea51280118b7b4584c44bb36689e32
+      internalID: -3414938491996295654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f775b79ece55547a92f0d5cca026a3
+      internalID: 2405258971428529390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1788ed54fd9798d46b88bdba783bc723
+      internalID: -2450078969376468904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29aacc442b95a49a02932ff228e9b7
+      internalID: 433574770035078349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5480ac6005f7349a35b4c7572857cb
+      internalID: -7001529705035254664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12161f1de2ebd349b14d1cfb7f86692
+      internalID: -3072849900011143488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e1ae21bed07d4789f18ffe7084389
+      internalID: -8037305944909628036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c9b578d70f5641b01fe07226a91f4
+      internalID: 161619443422857043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2195a9053aeed458e710dfd9b08563
+      internalID: 6090770569944941372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c2011c1800a614e857a460cb017344
+      internalID: 805707644040968124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37230a25794a203428079a47988a4388
+      internalID: 2925151467191476703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73050a77c6bb8c1468de3689c5b785a7
+      internalID: -707520089418365553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c993347a5bef4698ca89250258e97
+      internalID: -7980295815510606955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a072d05be9384049ac53f9aa31e3d99
+      internalID: 5237058359687975364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddef864ef038684b8262a5bd6ecccc1
+      internalID: -4799167216680158333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887dde40ed4b61842802b342c08d6f44
+      internalID: 7438290220538421032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3daebe36e5d3bc4a95ef4d0ae30abfd
+      internalID: 1347007547450223336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b640ce0ebb495d5439db099db97f927b
+      internalID: -7267924718109623282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f40c0418f7698547b67d26ad5a3cd7d
+      internalID: -5542430211082996683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024077d9ba8e70a4cb4c12a991a455c0
+      internalID: 9207705694382541449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dbdeff3fbfd114bb42c8de22b4b7c6
+      internalID: 7182951659992322969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f5ce4eda58d446b066fddab4065f9
+      internalID: 2084768594173040881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e711a72c299f4592c671cacaa1ea9
+      internalID: -5908009266550668596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f2206fdb6201c47b8042605aed0ec8
+      internalID: -3960273616333125565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea65a7d7ea4fe4381cda085db9b661
+      internalID: 2213903170194905555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298b508f5518f7a4b9a9be862378aec1
+      internalID: -6187718268802647934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e10d2962ad63ec4190f618893962aea
+      internalID: -3794166584652385338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed94994a26dfa54aa04ce13666a356f
+      internalID: -4679896375357157320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce904ca18ca2ba48850108d9d2213f0
+      internalID: 3711946222837458115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4f7c0988607e944a192d477d8d54e4
+      internalID: -7316673414752560206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15121c91c07bb4e931ed57146c941e
+      internalID: 6072014306946113633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b731713bf814c7c47921c71bd4c501a7
+      internalID: -1391766236493497103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9a69d462bfdba4abe2df6c43315aa8
+      internalID: 835601081349571926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9e9448ff433634b9652ad9c60619f1
+      internalID: -4233579535071409601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472c1b70e554a1b459854256e1c50370
+      internalID: -2841900503325098594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ce7f298196d2a4295b7c2d6685e553
+      internalID: 5352718850088241978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864d9c5669479f4a83b8b9e5d2515fe
+      internalID: 337501124782045400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91d6f1e3c5399488b55bce9cf63358
+      internalID: 8350156877233275591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886dd286dae34514f84e9144ab138af0
+      internalID: -3899253768308696375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545b1798310aa146aa610baccfb9c0c
+      internalID: 8385778853303655874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2975918ed9772d45b94be05aa0b93c7
+      internalID: 8289283297881582282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea626cb70c594174eb6d10ceb1fc6187
+      internalID: -3355216984852381152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c4a0d39824704b976eddbb0e983aa
+      internalID: 7012674986525964209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03130bfed9405040941cebe9291b002
+      internalID: -1264330133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_and_Shield_Fighter_Non-Combat_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da669888cc640242a688e2d98abec3a
+      internalID: -271625487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a026a627f3a2de843b9380054a3a794d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":30.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sword_and_Shield_Fighter_Non-Combat_0: -4073870664581539196
+      Sword_and_Shield_Fighter_Non-Combat_1: -1709180519398801203
+      Sword_and_Shield_Fighter_Non-Combat_10: -6662955155344015302
+      Sword_and_Shield_Fighter_Non-Combat_100: 2084768594173040881
+      Sword_and_Shield_Fighter_Non-Combat_101: -5908009266550668596
+      Sword_and_Shield_Fighter_Non-Combat_102: -3960273616333125565
+      Sword_and_Shield_Fighter_Non-Combat_103: 2213903170194905555
+      Sword_and_Shield_Fighter_Non-Combat_104: -6187718268802647934
+      Sword_and_Shield_Fighter_Non-Combat_105: -3794166584652385338
+      Sword_and_Shield_Fighter_Non-Combat_106: -4679896375357157320
+      Sword_and_Shield_Fighter_Non-Combat_107: 3711946222837458115
+      Sword_and_Shield_Fighter_Non-Combat_108: -7316673414752560206
+      Sword_and_Shield_Fighter_Non-Combat_109: 6072014306946113633
+      Sword_and_Shield_Fighter_Non-Combat_11: 3346323462319466435
+      Sword_and_Shield_Fighter_Non-Combat_110: -1391766236493497103
+      Sword_and_Shield_Fighter_Non-Combat_111: 835601081349571926
+      Sword_and_Shield_Fighter_Non-Combat_112: -4233579535071409601
+      Sword_and_Shield_Fighter_Non-Combat_113: -2841900503325098594
+      Sword_and_Shield_Fighter_Non-Combat_114: 5352718850088241978
+      Sword_and_Shield_Fighter_Non-Combat_115: 337501124782045400
+      Sword_and_Shield_Fighter_Non-Combat_116: 8350156877233275591
+      Sword_and_Shield_Fighter_Non-Combat_117: -3899253768308696375
+      Sword_and_Shield_Fighter_Non-Combat_118: 8385778853303655874
+      Sword_and_Shield_Fighter_Non-Combat_119: 8289283297881582282
+      Sword_and_Shield_Fighter_Non-Combat_12: -3404845775412009015
+      Sword_and_Shield_Fighter_Non-Combat_120: -3355216984852381152
+      Sword_and_Shield_Fighter_Non-Combat_121: 7012674986525964209
+      Sword_and_Shield_Fighter_Non-Combat_122: -1264330133
+      Sword_and_Shield_Fighter_Non-Combat_123: -271625487
+      Sword_and_Shield_Fighter_Non-Combat_13: 7290784848057886432
+      Sword_and_Shield_Fighter_Non-Combat_14: -1831266754696696815
+      Sword_and_Shield_Fighter_Non-Combat_15: -6786433253094719312
+      Sword_and_Shield_Fighter_Non-Combat_16: -1880076330484394417
+      Sword_and_Shield_Fighter_Non-Combat_17: 7405439710991912722
+      Sword_and_Shield_Fighter_Non-Combat_18: 1646710720988481144
+      Sword_and_Shield_Fighter_Non-Combat_19: 156137735747892371
+      Sword_and_Shield_Fighter_Non-Combat_2: 8979197261284636482
+      Sword_and_Shield_Fighter_Non-Combat_20: 5716337719276348838
+      Sword_and_Shield_Fighter_Non-Combat_21: -3505588599904717980
+      Sword_and_Shield_Fighter_Non-Combat_22: 1003759550804151765
+      Sword_and_Shield_Fighter_Non-Combat_23: 63613695658396855
+      Sword_and_Shield_Fighter_Non-Combat_24: -1809879432958919419
+      Sword_and_Shield_Fighter_Non-Combat_25: -4773967442979028721
+      Sword_and_Shield_Fighter_Non-Combat_26: 5152556746567749426
+      Sword_and_Shield_Fighter_Non-Combat_27: 6488222939756646766
+      Sword_and_Shield_Fighter_Non-Combat_28: -2353170215992469555
+      Sword_and_Shield_Fighter_Non-Combat_29: 3528830512426309432
+      Sword_and_Shield_Fighter_Non-Combat_3: -7918987047686333543
+      Sword_and_Shield_Fighter_Non-Combat_30: -1540654837399297714
+      Sword_and_Shield_Fighter_Non-Combat_31: 2400811211237604227
+      Sword_and_Shield_Fighter_Non-Combat_32: -4882859983178453745
+      Sword_and_Shield_Fighter_Non-Combat_33: 6289242364118615385
+      Sword_and_Shield_Fighter_Non-Combat_34: -1957565627936961586
+      Sword_and_Shield_Fighter_Non-Combat_35: -2735470144075772641
+      Sword_and_Shield_Fighter_Non-Combat_36: 2123972120666008667
+      Sword_and_Shield_Fighter_Non-Combat_37: 6701921182184905065
+      Sword_and_Shield_Fighter_Non-Combat_38: 7970176666525212229
+      Sword_and_Shield_Fighter_Non-Combat_39: 8195040765269316796
+      Sword_and_Shield_Fighter_Non-Combat_4: 1119993053604740685
+      Sword_and_Shield_Fighter_Non-Combat_40: 2544867839278241041
+      Sword_and_Shield_Fighter_Non-Combat_41: 933988147286361655
+      Sword_and_Shield_Fighter_Non-Combat_42: 2437255341218532773
+      Sword_and_Shield_Fighter_Non-Combat_43: 9118449525719936980
+      Sword_and_Shield_Fighter_Non-Combat_44: -3125641089006690778
+      Sword_and_Shield_Fighter_Non-Combat_45: 788290154191606126
+      Sword_and_Shield_Fighter_Non-Combat_46: -153978457313660677
+      Sword_and_Shield_Fighter_Non-Combat_47: -1914542151400181947
+      Sword_and_Shield_Fighter_Non-Combat_48: -3338102296218795932
+      Sword_and_Shield_Fighter_Non-Combat_49: 8842900582608337869
+      Sword_and_Shield_Fighter_Non-Combat_5: 8807091951849863478
+      Sword_and_Shield_Fighter_Non-Combat_50: -3385776500836987417
+      Sword_and_Shield_Fighter_Non-Combat_51: 7039980677425836059
+      Sword_and_Shield_Fighter_Non-Combat_52: 8076130209506953072
+      Sword_and_Shield_Fighter_Non-Combat_53: 1864237357793318649
+      Sword_and_Shield_Fighter_Non-Combat_54: -3503016992620768250
+      Sword_and_Shield_Fighter_Non-Combat_55: -4031315937608740873
+      Sword_and_Shield_Fighter_Non-Combat_56: -2716480468551047316
+      Sword_and_Shield_Fighter_Non-Combat_57: 3287018703080922115
+      Sword_and_Shield_Fighter_Non-Combat_58: -954787017514341869
+      Sword_and_Shield_Fighter_Non-Combat_59: 7739895043519140441
+      Sword_and_Shield_Fighter_Non-Combat_6: 7279974099038989158
+      Sword_and_Shield_Fighter_Non-Combat_60: 3101269312252239147
+      Sword_and_Shield_Fighter_Non-Combat_61: -3701372162821332999
+      Sword_and_Shield_Fighter_Non-Combat_62: -4795102199196819614
+      Sword_and_Shield_Fighter_Non-Combat_63: -4431770378832376236
+      Sword_and_Shield_Fighter_Non-Combat_64: 6535121321409492456
+      Sword_and_Shield_Fighter_Non-Combat_65: -7770990740725116299
+      Sword_and_Shield_Fighter_Non-Combat_66: 724662542552190032
+      Sword_and_Shield_Fighter_Non-Combat_67: -1382974915857692566
+      Sword_and_Shield_Fighter_Non-Combat_68: 8367892462582492465
+      Sword_and_Shield_Fighter_Non-Combat_69: -8639203829279836476
+      Sword_and_Shield_Fighter_Non-Combat_7: 7711018190544969797
+      Sword_and_Shield_Fighter_Non-Combat_70: 6807450289433465660
+      Sword_and_Shield_Fighter_Non-Combat_71: -2516040005185920442
+      Sword_and_Shield_Fighter_Non-Combat_72: 8538266195019275517
+      Sword_and_Shield_Fighter_Non-Combat_73: 4529369743948611936
+      Sword_and_Shield_Fighter_Non-Combat_74: 1023506619859273437
+      Sword_and_Shield_Fighter_Non-Combat_75: -2517037628031279346
+      Sword_and_Shield_Fighter_Non-Combat_76: 2834231483169847570
+      Sword_and_Shield_Fighter_Non-Combat_77: 7911696801718135665
+      Sword_and_Shield_Fighter_Non-Combat_78: 8490915650954145515
+      Sword_and_Shield_Fighter_Non-Combat_79: -3414938491996295654
+      Sword_and_Shield_Fighter_Non-Combat_8: 3135641432598948007
+      Sword_and_Shield_Fighter_Non-Combat_80: 2405258971428529390
+      Sword_and_Shield_Fighter_Non-Combat_81: -2450078969376468904
+      Sword_and_Shield_Fighter_Non-Combat_82: 433574770035078349
+      Sword_and_Shield_Fighter_Non-Combat_83: -7001529705035254664
+      Sword_and_Shield_Fighter_Non-Combat_84: -3072849900011143488
+      Sword_and_Shield_Fighter_Non-Combat_85: -8037305944909628036
+      Sword_and_Shield_Fighter_Non-Combat_86: 161619443422857043
+      Sword_and_Shield_Fighter_Non-Combat_87: 6090770569944941372
+      Sword_and_Shield_Fighter_Non-Combat_88: 805707644040968124
+      Sword_and_Shield_Fighter_Non-Combat_89: 2925151467191476703
+      Sword_and_Shield_Fighter_Non-Combat_9: -7573895979031048288
+      Sword_and_Shield_Fighter_Non-Combat_90: -707520089418365553
+      Sword_and_Shield_Fighter_Non-Combat_91: -7980295815510606955
+      Sword_and_Shield_Fighter_Non-Combat_92: 5237058359687975364
+      Sword_and_Shield_Fighter_Non-Combat_93: -4799167216680158333
+      Sword_and_Shield_Fighter_Non-Combat_94: 7438290220538421032
+      Sword_and_Shield_Fighter_Non-Combat_95: 1347007547450223336
+      Sword_and_Shield_Fighter_Non-Combat_96: -7267924718109623282
+      Sword_and_Shield_Fighter_Non-Combat_97: -5542430211082996683
+      Sword_and_Shield_Fighter_Non-Combat_98: 9207705694382541449
+      Sword_and_Shield_Fighter_Non-Combat_99: 7182951659992322969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

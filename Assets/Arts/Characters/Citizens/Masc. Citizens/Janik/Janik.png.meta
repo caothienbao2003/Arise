@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 70860b961a08b054a880ba7272987197
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5572374320824719925
+    second: Janik_0
+  - first:
+      213: -1707088792922547076
+    second: Janik_1
+  - first:
+      213: 1644157129290238831
+    second: Janik_2
+  - first:
+      213: -2838103068688029008
+    second: Janik_3
+  - first:
+      213: 2960248180622739604
+    second: Janik_4
+  - first:
+      213: 118369666490530590
+    second: Janik_5
+  - first:
+      213: 2258549887688245466
+    second: Janik_6
+  - first:
+      213: 8953276535738320744
+    second: Janik_7
+  - first:
+      213: -2554574046657616975
+    second: Janik_8
+  - first:
+      213: -1777641670806052474
+    second: Janik_9
+  - first:
+      213: 1250560149973451050
+    second: Janik_10
+  - first:
+      213: 166158594117343699
+    second: Janik_11
+  - first:
+      213: 4533062544146342706
+    second: Janik_12
+  - first:
+      213: -3164482771769101881
+    second: Janik_13
+  - first:
+      213: -131727323941342903
+    second: Janik_14
+  - first:
+      213: 7863764720249989614
+    second: Janik_15
+  - first:
+      213: -5401260843878196481
+    second: Janik_16
+  - first:
+      213: 3747111636436726526
+    second: Janik_17
+  - first:
+      213: 1461028294645993466
+    second: Janik_18
+  - first:
+      213: 6886728461030356500
+    second: Janik_19
+  - first:
+      213: 4181395870362099526
+    second: Janik_20
+  - first:
+      213: -8557612273565408272
+    second: Janik_21
+  - first:
+      213: 5414650434506481699
+    second: Janik_22
+  - first:
+      213: 5466008028031420646
+    second: Janik_23
+  - first:
+      213: 7307839401466381846
+    second: Janik_24
+  - first:
+      213: 730832618407757312
+    second: Janik_25
+  - first:
+      213: 88178673000763620
+    second: Janik_26
+  - first:
+      213: 3452858553201470300
+    second: Janik_27
+  - first:
+      213: -3477608350776790051
+    second: Janik_28
+  - first:
+      213: 8915733691119091885
+    second: Janik_29
+  - first:
+      213: 7839006390461097998
+    second: Janik_30
+  - first:
+      213: -8562861988890895854
+    second: Janik_31
+  - first:
+      213: -614841494684778482
+    second: Janik_32
+  - first:
+      213: 6696072442547265305
+    second: Janik_33
+  - first:
+      213: -428495334971833842
+    second: Janik_34
+  - first:
+      213: -3559088404605463950
+    second: Janik_35
+  - first:
+      213: -3193771071614783469
+    second: Janik_36
+  - first:
+      213: -8786655316745241774
+    second: Janik_37
+  - first:
+      213: 6742849705316158412
+    second: Janik_38
+  - first:
+      213: -5895471023562575572
+    second: Janik_39
+  - first:
+      213: 2521700280378117378
+    second: Janik_40
+  - first:
+      213: -4098965012131133298
+    second: Janik_41
+  - first:
+      213: -9112916168139714397
+    second: Janik_42
+  - first:
+      213: 5096537526244436685
+    second: Janik_43
+  - first:
+      213: -2339412734977903423
+    second: Janik_44
+  - first:
+      213: -7607019465274929559
+    second: Janik_45
+  - first:
+      213: -5939639143892395442
+    second: Janik_46
+  - first:
+      213: 5312262382396894569
+    second: Janik_47
+  - first:
+      213: 1724311964179850686
+    second: Janik_48
+  - first:
+      213: 365929453602697741
+    second: Janik_49
+  - first:
+      213: 3524736063858381810
+    second: Janik_50
+  - first:
+      213: -8901360184739592877
+    second: Janik_51
+  - first:
+      213: 1455404811125077798
+    second: Janik_52
+  - first:
+      213: 5967515585867604926
+    second: Janik_53
+  - first:
+      213: -3039914097745178031
+    second: Janik_54
+  - first:
+      213: 6263569486960434973
+    second: Janik_55
+  - first:
+      213: 7976253740083553508
+    second: Janik_56
+  - first:
+      213: -7293995391085982926
+    second: Janik_57
+  - first:
+      213: -1020428323461174660
+    second: Janik_58
+  - first:
+      213: 1422576024636434053
+    second: Janik_59
+  - first:
+      213: 1062925900349715059
+    second: Janik_60
+  - first:
+      213: -5891279900270983573
+    second: Janik_61
+  - first:
+      213: 7352782437104870494
+    second: Janik_62
+  - first:
+      213: 4715128526332972914
+    second: Janik_63
+  - first:
+      213: 7676102057356386644
+    second: Janik_64
+  - first:
+      213: 1414964549574056267
+    second: Janik_65
+  - first:
+      213: -2404819730473766851
+    second: Janik_66
+  - first:
+      213: -5462668492363005037
+    second: Janik_67
+  - first:
+      213: -3406962694539421401
+    second: Janik_68
+  - first:
+      213: 1192937919734783080
+    second: Janik_69
+  - first:
+      213: 5741369597658466529
+    second: Janik_70
+  - first:
+      213: -3698167493536138956
+    second: Janik_71
+  - first:
+      213: 8235732189150224126
+    second: Janik_72
+  - first:
+      213: 8907317432071839331
+    second: Janik_73
+  - first:
+      213: 4359864350530735491
+    second: Janik_74
+  - first:
+      213: -1496573431930495877
+    second: Janik_75
+  - first:
+      213: 8703009557823320390
+    second: Janik_76
+  - first:
+      213: -6436489402740838567
+    second: Janik_77
+  - first:
+      213: -3117143612178501776
+    second: Janik_78
+  - first:
+      213: -8389599479768142163
+    second: Janik_79
+  - first:
+      213: -2996024892921703576
+    second: Janik_80
+  - first:
+      213: -8754087001396883687
+    second: Janik_81
+  - first:
+      213: 8581866792246513589
+    second: Janik_82
+  - first:
+      213: 5443328296287612640
+    second: Janik_83
+  - first:
+      213: -6401185886679813138
+    second: Janik_84
+  - first:
+      213: 1055352609456905583
+    second: Janik_85
+  - first:
+      213: -333289258630191119
+    second: Janik_86
+  - first:
+      213: -3067367766113245188
+    second: Janik_87
+  - first:
+      213: 3131513096570698840
+    second: Janik_88
+  - first:
+      213: 2392788676776200846
+    second: Janik_89
+  - first:
+      213: 1825076712566107371
+    second: Janik_90
+  - first:
+      213: 5651166081729238804
+    second: Janik_91
+  - first:
+      213: 5405050121622753286
+    second: Janik_92
+  - first:
+      213: -8860437376356555305
+    second: Janik_93
+  - first:
+      213: 8260143686693292048
+    second: Janik_94
+  - first:
+      213: -1849392681139449493
+    second: Janik_95
+  - first:
+      213: 8517290217648294803
+    second: Janik_96
+  - first:
+      213: -3216901384867354372
+    second: Janik_97
+  - first:
+      213: 2014609201477592877
+    second: Janik_98
+  - first:
+      213: -1082059915241198003
+    second: Janik_99
+  - first:
+      213: 6172322563586882789
+    second: Janik_100
+  - first:
+      213: 1041718417045024354
+    second: Janik_101
+  - first:
+      213: 1395980227392643481
+    second: Janik_102
+  - first:
+      213: -1851768777008569184
+    second: Janik_103
+  - first:
+      213: -5704405416992602240
+    second: Janik_104
+  - first:
+      213: -438954742840777389
+    second: Janik_105
+  - first:
+      213: 2905609530462722286
+    second: Janik_106
+  - first:
+      213: -8045806593797780633
+    second: Janik_107
+  - first:
+      213: -8591559184768271122
+    second: Janik_108
+  - first:
+      213: 5809234009928834532
+    second: Janik_109
+  - first:
+      213: -4034010038065426225
+    second: Janik_110
+  - first:
+      213: 6713754472077264928
+    second: Janik_111
+  - first:
+      213: 5896308791740370472
+    second: Janik_112
+  - first:
+      213: -553191188304421928
+    second: Janik_113
+  - first:
+      213: -3968630547621345473
+    second: Janik_114
+  - first:
+      213: -6161565460915215994
+    second: Janik_115
+  - first:
+      213: 2741632217357570419
+    second: Janik_116
+  - first:
+      213: 4309556362933944576
+    second: Janik_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Janik_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 479
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5ebb33413faa2b0800000000000000
+      internalID: -5572374320824719925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 463
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c1dc199c33f48e0800000000000000
+      internalID: -1707088792922547076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 479
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b454ea23831d610800000000000000
+      internalID: 1644157129290238831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 463
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba67e2cb480d98d0800000000000000
+      internalID: -2838103068688029008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 479
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498c305490ae41920800000000000000
+      internalID: 2960248180622739604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 463
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b7953a59884a100800000000000000
+      internalID: 118369666490530590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 479
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00823182bf75f10800000000000000
+      internalID: 2258549887688245466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 463
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867c580a29d604c70800000000000000
+      internalID: 8953276535738320744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b36a8470745c8cd0800000000000000
+      internalID: -2554574046657616975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6816ca9915c8457e0800000000000000
+      internalID: -1777641670806052474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 448
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a214d65a4d1ea5110800000000000000
+      internalID: 1250560149973451050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 432
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d91eba6c505e4200800000000000000
+      internalID: 166158594117343699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 448
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a870ed5ca8ee30800000000000000
+      internalID: 4533062544146342706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 432
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1fbda6faf7514d0800000000000000
+      internalID: -3164482771769101881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941734162b20c2ef0800000000000000
+      internalID: -131727323941342903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9efbb5954b12d60800000000000000
+      internalID: 7863764720249989614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 415
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffad96d21edda05b0800000000000000
+      internalID: -5401260843878196481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 415
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef23b872e2a600430800000000000000
+      internalID: 3747111636436726526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 415
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff4b2d3e7d964410800000000000000
+      internalID: 1461028294645993466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 399
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41679404c03929f50800000000000000
+      internalID: 6886728461030356500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 399
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fd73ed36d470a30800000000000000
+      internalID: 4181395870362099526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f36c943af04d3980800000000000000
+      internalID: -8557612273565408272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 399
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3206ca3d1e3b42b40800000000000000
+      internalID: 5414650434506481699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 399
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e80f3267592bdb40800000000000000
+      internalID: 5466008028031420646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 384
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616c1009739aa6560800000000000000
+      internalID: 7307839401466381846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0068672f460742a00800000000000000
+      internalID: 730832618407757312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 352
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0d9f03906493100800000000000000
+      internalID: 88178673000763620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 384
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b2e336f840bef20800000000000000
+      internalID: 3452858553201470300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3740051ad0dbfc0800000000000000
+      internalID: -3477608350776790051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 352
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c223fd8c0bbb70800000000000000
+      internalID: 8915733691119091885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08637f77ceb9cc60800000000000000
+      internalID: 7839006390461097998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a967b936a9a2980800000000000000
+      internalID: -8562861988890895854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00c42c0be4a777f0800000000000000
+      internalID: -614841494684778482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 351
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fdf40c86a3dec50800000000000000
+      internalID: 6696072442547265305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02871b53cdad0af0800000000000000
+      internalID: -428495334971833842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 319
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272974fe3f39b9ec0800000000000000
+      internalID: -3559088404605463950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 336
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3107b76b1227da3d0800000000000000
+      internalID: -3193771071614783469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b3a990b878f0680800000000000000
+      internalID: -8786655316745241774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 335
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb8733f41a639d50800000000000000
+      internalID: 6742849705316158412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 319
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21b1f0f6541f2ea0800000000000000
+      internalID: -5895471023562575572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dc0f16b01eef220800000000000000
+      internalID: 2521700280378117378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 321
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e884b29e90d8d17c0800000000000000
+      internalID: -4098965012131133298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 303
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a05e12070b688180800000000000000
+      internalID: -9112916168139714397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 305
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca6f34a0e98ab640800000000000000
+      internalID: 5096537526244436685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4fd94238cb88fd0800000000000000
+      internalID: -2339412734977903423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4ecc99107e6690800000000000000
+      internalID: -7607019465274929559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ad94e0ba9229da0800000000000000
+      internalID: -5939639143892395442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96def60cd72f8b940800000000000000
+      internalID: 5312262382396894569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb565ea789cfde710800000000000000
+      internalID: 1724311964179850686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0277d636ea041500800000000000000
+      internalID: 365929453602697741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3994576c06ae030800000000000000
+      internalID: 3524736063858381810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3558acac214087480800000000000000
+      internalID: -8901360184739592877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 287
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6273183f6f2a23410800000000000000
+      internalID: 1455404811125077798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 271
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3ee3fdecfd0d250800000000000000
+      internalID: 5967515585867604926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1525238fb3e00d5d0800000000000000
+      internalID: -3039914097745178031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f9048334bace650800000000000000
+      internalID: 6263569486960434973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4af00448851be60800000000000000
+      internalID: 7976253740083553508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bcbf846d586ca90800000000000000
+      internalID: -7293995391085982926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6955a8d5b6d1f0800000000000000
+      internalID: -1020428323461174660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58621767b510eb310800000000000000
+      internalID: 1422576024636434053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37238e8897540ce00800000000000000
+      internalID: 1062925900349715059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6603ffd428fd3ea0800000000000000
+      internalID: -5891279900270983573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_62
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 223
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54ed5a7ba45a0660800000000000000
+      internalID: 7352782437104870494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f4362b9608f6140800000000000000
+      internalID: 4715128526332972914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_64
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4516f54c62ef68a60800000000000000
+      internalID: 7676102057356386644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d123d2c6f2a310800000000000000
+      internalID: 1414964549574056267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30b248423d50aed0800000000000000
+      internalID: -2404819730473766851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3930cfad2f3b034b0800000000000000
+      internalID: -5462668492363005037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_68
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72958fcea7908b0d0800000000000000
+      internalID: -3406962694539421401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c92e0b7ba2e8010800000000000000
+      internalID: 1192937919734783080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e809a0ea317daf40800000000000000
+      internalID: 5741369597658466529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b1e322487dacc0800000000000000
+      internalID: -3698167493536138956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_72
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe9c8f8ac23b4270800000000000000
+      internalID: 8235732189150224126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e5940f2062d9b70800000000000000
+      internalID: 8907317432071839331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d064af689518c30800000000000000
+      internalID: 4359864350530735491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cde71946a1b3be0800000000000000
+      internalID: -1496573431930495877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64173e2151d47c870800000000000000
+      internalID: 8703009557823320390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe01d7dfefca6a0800000000000000
+      internalID: -6436489402740838567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_78
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 159
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe83a666eadb4d0800000000000000
+      internalID: -3117143612178501776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_79
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 176
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae2e9029b7229b80800000000000000
+      internalID: -8389599479768142163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_80
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8639c27cb3bfb66d0800000000000000
+      internalID: -2996024892921703576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 159
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fcfdcd04c338680800000000000000
+      internalID: -8754087001396883687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf039df06ae81770800000000000000
+      internalID: 8581866792246513589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee2e08de369a8b40800000000000000
+      internalID: 5443328296287612640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3b43bd95b6a27a0800000000000000
+      internalID: -6401185886679813138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dd5775b9d55ae00800000000000000
+      internalID: 1055352609456905583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_86
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7e4e36f2bef5bf0800000000000000
+      internalID: -333289258630191119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_87
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf72651b4458e65d0800000000000000
+      internalID: -3067367766113245188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_88
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c7492e19e557b20800000000000000
+      internalID: 3131513096570698840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a82ddbf94e43120800000000000000
+      internalID: 2392788676776200846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 113
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec2754b999f35910800000000000000
+      internalID: 1825076712566107371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41715343c99fc6e40800000000000000
+      internalID: 5651166081729238804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600918cc278920b40800000000000000
+      internalID: 5405050121622753286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_93
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 97
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d56cab9627690580800000000000000
+      internalID: -8860437376356555305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_94
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0180a0f3bece1a270800000000000000
+      internalID: 8260143686693292048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61d97ea723a556e0800000000000000
+      internalID: -1849392681139449493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b06df835e733670800000000000000
+      internalID: 8517290217648294803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8e48dfb354b53d0800000000000000
+      internalID: -3216901384867354372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_98
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d272e47156455fb10800000000000000
+      internalID: 2014609201477592877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_99
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eeb567d30cbf0f0800000000000000
+      internalID: -1082059915241198003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec79b15bae78a550800000000000000
+      internalID: 6172322563586882789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e63fb816de47e00800000000000000
+      internalID: 1041718417045024354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991253fde948f5310800000000000000
+      internalID: 1395980227392643481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_103
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4ae30cb123d46e0800000000000000
+      internalID: -1851768777008569184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 51
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08787591f71e5d0b0800000000000000
+      internalID: -5704405416992602240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a080bcf488e9f0800000000000000
+      internalID: -438954742840777389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8583f297cc25820800000000000000
+      internalID: 2905609530462722286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b003d088d875090800000000000000
+      internalID: -8045806593797780633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_108
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec74250176a4c880800000000000000
+      internalID: -8591559184768271122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_109
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed1deaad8b8e9050800000000000000
+      internalID: 5809234009928834532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc010c45e315408c0800000000000000
+      internalID: -4034010038065426225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0280b511f1c0c2d50800000000000000
+      internalID: 6713754472077264928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e82b92b95e3d150800000000000000
+      internalID: 5896308791740370472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_113
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db1d309b8ba258f0800000000000000
+      internalID: -553191188304421928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37044c2b879ce8c0800000000000000
+      internalID: -3968630547621345473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68125d1dbd8bd7aa0800000000000000
+      internalID: -6161565460915215994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_116
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3715d54d9fb3c0620800000000000000
+      internalID: 2741632217357570419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_117
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001c338ddae9ecb30800000000000000
+      internalID: 4309556362933944576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Janik_0: -5572374320824719925
+      Janik_1: -1707088792922547076
+      Janik_10: 1250560149973451050
+      Janik_100: 6172322563586882789
+      Janik_101: 1041718417045024354
+      Janik_102: 1395980227392643481
+      Janik_103: -1851768777008569184
+      Janik_104: -5704405416992602240
+      Janik_105: -438954742840777389
+      Janik_106: 2905609530462722286
+      Janik_107: -8045806593797780633
+      Janik_108: -8591559184768271122
+      Janik_109: 5809234009928834532
+      Janik_11: 166158594117343699
+      Janik_110: -4034010038065426225
+      Janik_111: 6713754472077264928
+      Janik_112: 5896308791740370472
+      Janik_113: -553191188304421928
+      Janik_114: -3968630547621345473
+      Janik_115: -6161565460915215994
+      Janik_116: 2741632217357570419
+      Janik_117: 4309556362933944576
+      Janik_12: 4533062544146342706
+      Janik_13: -3164482771769101881
+      Janik_14: -131727323941342903
+      Janik_15: 7863764720249989614
+      Janik_16: -5401260843878196481
+      Janik_17: 3747111636436726526
+      Janik_18: 1461028294645993466
+      Janik_19: 6886728461030356500
+      Janik_2: 1644157129290238831
+      Janik_20: 4181395870362099526
+      Janik_21: -8557612273565408272
+      Janik_22: 5414650434506481699
+      Janik_23: 5466008028031420646
+      Janik_24: 7307839401466381846
+      Janik_25: 730832618407757312
+      Janik_26: 88178673000763620
+      Janik_27: 3452858553201470300
+      Janik_28: -3477608350776790051
+      Janik_29: 8915733691119091885
+      Janik_3: -2838103068688029008
+      Janik_30: 7839006390461097998
+      Janik_31: -8562861988890895854
+      Janik_32: -614841494684778482
+      Janik_33: 6696072442547265305
+      Janik_34: -428495334971833842
+      Janik_35: -3559088404605463950
+      Janik_36: -3193771071614783469
+      Janik_37: -8786655316745241774
+      Janik_38: 6742849705316158412
+      Janik_39: -5895471023562575572
+      Janik_4: 2960248180622739604
+      Janik_40: 2521700280378117378
+      Janik_41: -4098965012131133298
+      Janik_42: -9112916168139714397
+      Janik_43: 5096537526244436685
+      Janik_44: -2339412734977903423
+      Janik_45: -7607019465274929559
+      Janik_46: -5939639143892395442
+      Janik_47: 5312262382396894569
+      Janik_48: 1724311964179850686
+      Janik_49: 365929453602697741
+      Janik_5: 118369666490530590
+      Janik_50: 3524736063858381810
+      Janik_51: -8901360184739592877
+      Janik_52: 1455404811125077798
+      Janik_53: 5967515585867604926
+      Janik_54: -3039914097745178031
+      Janik_55: 6263569486960434973
+      Janik_56: 7976253740083553508
+      Janik_57: -7293995391085982926
+      Janik_58: -1020428323461174660
+      Janik_59: 1422576024636434053
+      Janik_6: 2258549887688245466
+      Janik_60: 1062925900349715059
+      Janik_61: -5891279900270983573
+      Janik_62: 7352782437104870494
+      Janik_63: 4715128526332972914
+      Janik_64: 7676102057356386644
+      Janik_65: 1414964549574056267
+      Janik_66: -2404819730473766851
+      Janik_67: -5462668492363005037
+      Janik_68: -3406962694539421401
+      Janik_69: 1192937919734783080
+      Janik_7: 8953276535738320744
+      Janik_70: 5741369597658466529
+      Janik_71: -3698167493536138956
+      Janik_72: 8235732189150224126
+      Janik_73: 8907317432071839331
+      Janik_74: 4359864350530735491
+      Janik_75: -1496573431930495877
+      Janik_76: 8703009557823320390
+      Janik_77: -6436489402740838567
+      Janik_78: -3117143612178501776
+      Janik_79: -8389599479768142163
+      Janik_8: -2554574046657616975
+      Janik_80: -2996024892921703576
+      Janik_81: -8754087001396883687
+      Janik_82: 8581866792246513589
+      Janik_83: 5443328296287612640
+      Janik_84: -6401185886679813138
+      Janik_85: 1055352609456905583
+      Janik_86: -333289258630191119
+      Janik_87: -3067367766113245188
+      Janik_88: 3131513096570698840
+      Janik_89: 2392788676776200846
+      Janik_9: -1777641670806052474
+      Janik_90: 1825076712566107371
+      Janik_91: 5651166081729238804
+      Janik_92: 5405050121622753286
+      Janik_93: -8860437376356555305
+      Janik_94: 8260143686693292048
+      Janik_95: -1849392681139449493
+      Janik_96: 8517290217648294803
+      Janik_97: -3216901384867354372
+      Janik_98: 2014609201477592877
+      Janik_99: -1082059915241198003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

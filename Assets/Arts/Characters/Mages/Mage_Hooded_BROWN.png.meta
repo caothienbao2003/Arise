@@ -1,0 +1,3356 @@
+fileFormatVersion: 2
+guid: 2f0af0003efbe324fa26245ef2929887
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6597565010480006927
+    second: Mage_Hooded_BROWN_0
+  - first:
+      213: 6757495589775274867
+    second: Mage_Hooded_BROWN_1
+  - first:
+      213: -3498894372847044029
+    second: Mage_Hooded_BROWN_2
+  - first:
+      213: 8350042926076931083
+    second: Mage_Hooded_BROWN_3
+  - first:
+      213: -94587691733998720
+    second: Mage_Hooded_BROWN_4
+  - first:
+      213: 2092260392394463421
+    second: Mage_Hooded_BROWN_5
+  - first:
+      213: -1190912082302189925
+    second: Mage_Hooded_BROWN_6
+  - first:
+      213: 6678333084866371616
+    second: Mage_Hooded_BROWN_7
+  - first:
+      213: -318570219610077277
+    second: Mage_Hooded_BROWN_8
+  - first:
+      213: -5909003973986132183
+    second: Mage_Hooded_BROWN_9
+  - first:
+      213: -3080302875549376224
+    second: Mage_Hooded_BROWN_10
+  - first:
+      213: -2065054599356605764
+    second: Mage_Hooded_BROWN_11
+  - first:
+      213: 386019159965491805
+    second: Mage_Hooded_BROWN_12
+  - first:
+      213: -6209182079845381565
+    second: Mage_Hooded_BROWN_13
+  - first:
+      213: 82953006842632253
+    second: Mage_Hooded_BROWN_14
+  - first:
+      213: -4946660306738677023
+    second: Mage_Hooded_BROWN_15
+  - first:
+      213: -9174341977733784720
+    second: Mage_Hooded_BROWN_16
+  - first:
+      213: -7152931304211682142
+    second: Mage_Hooded_BROWN_17
+  - first:
+      213: -4294885488122329499
+    second: Mage_Hooded_BROWN_18
+  - first:
+      213: -2258649871478099741
+    second: Mage_Hooded_BROWN_19
+  - first:
+      213: -4568005847871775922
+    second: Mage_Hooded_BROWN_20
+  - first:
+      213: -1282906475560574679
+    second: Mage_Hooded_BROWN_21
+  - first:
+      213: 2740922272082855339
+    second: Mage_Hooded_BROWN_22
+  - first:
+      213: 3627645440388368572
+    second: Mage_Hooded_BROWN_23
+  - first:
+      213: 7122714069798105453
+    second: Mage_Hooded_BROWN_24
+  - first:
+      213: -6252202509930887177
+    second: Mage_Hooded_BROWN_25
+  - first:
+      213: -682012233385383439
+    second: Mage_Hooded_BROWN_26
+  - first:
+      213: 7697951765728360722
+    second: Mage_Hooded_BROWN_27
+  - first:
+      213: -5562358209917056554
+    second: Mage_Hooded_BROWN_28
+  - first:
+      213: -2722994261503173075
+    second: Mage_Hooded_BROWN_29
+  - first:
+      213: -5675668437185228974
+    second: Mage_Hooded_BROWN_30
+  - first:
+      213: 8384706731621250788
+    second: Mage_Hooded_BROWN_31
+  - first:
+      213: -6698707445793375689
+    second: Mage_Hooded_BROWN_32
+  - first:
+      213: 3496880409776658467
+    second: Mage_Hooded_BROWN_33
+  - first:
+      213: 8666478298137014704
+    second: Mage_Hooded_BROWN_34
+  - first:
+      213: -4783725275658362417
+    second: Mage_Hooded_BROWN_35
+  - first:
+      213: 1060680405593766536
+    second: Mage_Hooded_BROWN_36
+  - first:
+      213: 3279055406964249305
+    second: Mage_Hooded_BROWN_37
+  - first:
+      213: -8968339905847462666
+    second: Mage_Hooded_BROWN_38
+  - first:
+      213: 8978187467103988331
+    second: Mage_Hooded_BROWN_39
+  - first:
+      213: -3452137522658131342
+    second: Mage_Hooded_BROWN_40
+  - first:
+      213: -2764803219997227991
+    second: Mage_Hooded_BROWN_41
+  - first:
+      213: -5311906787456270258
+    second: Mage_Hooded_BROWN_42
+  - first:
+      213: -1773362280147548333
+    second: Mage_Hooded_BROWN_43
+  - first:
+      213: -3898584466284430252
+    second: Mage_Hooded_BROWN_44
+  - first:
+      213: -7228837455822011904
+    second: Mage_Hooded_BROWN_45
+  - first:
+      213: 1639506433200059735
+    second: Mage_Hooded_BROWN_46
+  - first:
+      213: 5841229794651509235
+    second: Mage_Hooded_BROWN_47
+  - first:
+      213: -800662973767940613
+    second: Mage_Hooded_BROWN_48
+  - first:
+      213: 8029869250254487898
+    second: Mage_Hooded_BROWN_49
+  - first:
+      213: -4226727180342373021
+    second: Mage_Hooded_BROWN_50
+  - first:
+      213: -5118523582293355135
+    second: Mage_Hooded_BROWN_51
+  - first:
+      213: -5096450940635957376
+    second: Mage_Hooded_BROWN_52
+  - first:
+      213: 9119008340765838069
+    second: Mage_Hooded_BROWN_53
+  - first:
+      213: -6047992962226304170
+    second: Mage_Hooded_BROWN_54
+  - first:
+      213: 3603473963199495441
+    second: Mage_Hooded_BROWN_55
+  - first:
+      213: 5145543866412653381
+    second: Mage_Hooded_BROWN_56
+  - first:
+      213: -76400959879713866
+    second: Mage_Hooded_BROWN_57
+  - first:
+      213: 3119510390447298530
+    second: Mage_Hooded_BROWN_58
+  - first:
+      213: 6207436699225258549
+    second: Mage_Hooded_BROWN_59
+  - first:
+      213: -5116818622035131950
+    second: Mage_Hooded_BROWN_60
+  - first:
+      213: -1824636223987074666
+    second: Mage_Hooded_BROWN_61
+  - first:
+      213: -5691770831802052631
+    second: Mage_Hooded_BROWN_62
+  - first:
+      213: -8765354824888232076
+    second: Mage_Hooded_BROWN_63
+  - first:
+      213: 6540245428844141408
+    second: Mage_Hooded_BROWN_64
+  - first:
+      213: 7461848931013542031
+    second: Mage_Hooded_BROWN_65
+  - first:
+      213: 5806963138222491046
+    second: Mage_Hooded_BROWN_66
+  - first:
+      213: -228136674366631880
+    second: Mage_Hooded_BROWN_67
+  - first:
+      213: 3781540908061264255
+    second: Mage_Hooded_BROWN_68
+  - first:
+      213: -4246995130573131716
+    second: Mage_Hooded_BROWN_69
+  - first:
+      213: 2174084668831614877
+    second: Mage_Hooded_BROWN_70
+  - first:
+      213: -8793990278445059059
+    second: Mage_Hooded_BROWN_71
+  - first:
+      213: 6615520750812759747
+    second: Mage_Hooded_BROWN_72
+  - first:
+      213: 9155015436106532397
+    second: Mage_Hooded_BROWN_73
+  - first:
+      213: -5187463406513573635
+    second: Mage_Hooded_BROWN_74
+  - first:
+      213: 8588234227885431701
+    second: Mage_Hooded_BROWN_75
+  - first:
+      213: -8902834263274054685
+    second: Mage_Hooded_BROWN_76
+  - first:
+      213: -7733054310237441447
+    second: Mage_Hooded_BROWN_77
+  - first:
+      213: -4402848198113176114
+    second: Mage_Hooded_BROWN_78
+  - first:
+      213: -2079468798606316050
+    second: Mage_Hooded_BROWN_79
+  - first:
+      213: -1705439789372459195
+    second: Mage_Hooded_BROWN_80
+  - first:
+      213: 3269856093923942565
+    second: Mage_Hooded_BROWN_81
+  - first:
+      213: -994372710153589392
+    second: Mage_Hooded_BROWN_82
+  - first:
+      213: 5057697329413116185
+    second: Mage_Hooded_BROWN_83
+  - first:
+      213: 2934948690719000626
+    second: Mage_Hooded_BROWN_84
+  - first:
+      213: 2560515141570598322
+    second: Mage_Hooded_BROWN_85
+  - first:
+      213: 1467742727404003242
+    second: Mage_Hooded_BROWN_86
+  - first:
+      213: -2301351036690153139
+    second: Mage_Hooded_BROWN_87
+  - first:
+      213: -4316956431290253498
+    second: Mage_Hooded_BROWN_88
+  - first:
+      213: -4604775859708996789
+    second: Mage_Hooded_BROWN_89
+  - first:
+      213: -245781391695107389
+    second: Mage_Hooded_BROWN_90
+  - first:
+      213: 8031801470432909199
+    second: Mage_Hooded_BROWN_91
+  - first:
+      213: -5840958273900068085
+    second: Mage_Hooded_BROWN_92
+  - first:
+      213: -2302040043469695930
+    second: Mage_Hooded_BROWN_93
+  - first:
+      213: -3170049593282777589
+    second: Mage_Hooded_BROWN_94
+  - first:
+      213: -8299954845876673822
+    second: Mage_Hooded_BROWN_95
+  - first:
+      213: -343977015491961963
+    second: Mage_Hooded_BROWN_96
+  - first:
+      213: -2914577379117024374
+    second: Mage_Hooded_BROWN_97
+  - first:
+      213: -6266869237387536932
+    second: Mage_Hooded_BROWN_98
+  - first:
+      213: 4935294750518699785
+    second: Mage_Hooded_BROWN_99
+  - first:
+      213: 5474967468236053222
+    second: Mage_Hooded_BROWN_100
+  - first:
+      213: 4364581377524458950
+    second: Mage_Hooded_BROWN_101
+  - first:
+      213: -2703933130316354328
+    second: Mage_Hooded_BROWN_102
+  - first:
+      213: -3796553876499993163
+    second: Mage_Hooded_BROWN_103
+  - first:
+      213: -8684281267597817637
+    second: Mage_Hooded_BROWN_104
+  - first:
+      213: -6826175616701886200
+    second: Mage_Hooded_BROWN_105
+  - first:
+      213: -3454839372716695517
+    second: Mage_Hooded_BROWN_106
+  - first:
+      213: -3947020865011562864
+    second: Mage_Hooded_BROWN_107
+  - first:
+      213: 7566678286577036874
+    second: Mage_Hooded_BROWN_108
+  - first:
+      213: 1886131087261564364
+    second: Mage_Hooded_BROWN_109
+  - first:
+      213: 5059434677465218877
+    second: Mage_Hooded_BROWN_110
+  - first:
+      213: -1659268852212663236
+    second: Mage_Hooded_BROWN_111
+  - first:
+      213: 3914155397944898985
+    second: Mage_Hooded_BROWN_112
+  - first:
+      213: -5772025667871801952
+    second: Mage_Hooded_BROWN_113
+  - first:
+      213: -4072590972995796350
+    second: Mage_Hooded_BROWN_114
+  - first:
+      213: 7213375002904603907
+    second: Mage_Hooded_BROWN_115
+  - first:
+      213: 8310664000345853557
+    second: Mage_Hooded_BROWN_116
+  - first:
+      213: 8373409948719283258
+    second: Mage_Hooded_BROWN_117
+  - first:
+      213: 4139468024414480186
+    second: Mage_Hooded_BROWN_118
+  - first:
+      213: 8329281979773151370
+    second: Mage_Hooded_BROWN_119
+  - first:
+      213: 7563331977326867393
+    second: Mage_Hooded_BROWN_120
+  - first:
+      213: -4031094267501451728
+    second: Mage_Hooded_BROWN_121
+  - first:
+      213: 502113840317992879
+    second: Mage_Hooded_BROWN_122
+  - first:
+      213: 8764057727995295627
+    second: Mage_Hooded_BROWN_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f070530fb624f8b50800000000000000
+      internalID: 6597565010480006927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373f2d7af6277cd50800000000000000
+      internalID: 6757495589775274867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab6d71b1e617fc0800000000000000
+      internalID: -3498894372847044029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c24140dcf41e370800000000000000
+      internalID: 8350042926076931083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083221adef4ffaef0800000000000000
+      internalID: -94587691733998720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db89a4addb3390d10800000000000000
+      internalID: 2092260392394463421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e38a755c7097fe0800000000000000
+      internalID: -1190912082302189925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e23fae843eac50800000000000000
+      internalID: 6678333084866371616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a78f18b216349bf0800000000000000
+      internalID: -318570219610077277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f5f2261300ffda0800000000000000
+      internalID: -5909003973986132183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021e346dad09045d0800000000000000
+      internalID: -3080302875549376224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba109378c37753e0800000000000000
+      internalID: -2065054599356605764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52ec3a716a6b5500800000000000000
+      internalID: 386019159965491805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a4819cbcd84d9a0800000000000000
+      internalID: -6209182079845381565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38d7e9f155b62100800000000000000
+      internalID: 82953006842632253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaf058d8aee95bb0800000000000000
+      internalID: -4946660306738677023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b193934903ea080800000000000000
+      internalID: -9174341977733784720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ace0bd60eeabbc90800000000000000
+      internalID: -7152931304211682142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660d7167608564c0800000000000000
+      internalID: -4294885488122329499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0f092a8e9a7a0e0800000000000000
+      internalID: -2258649871478099741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b12b932ee2b90c0800000000000000
+      internalID: -4568005847871775922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921e92c8b53323ee0800000000000000
+      internalID: -1282906475560574679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba58470d846b90620800000000000000
+      internalID: 2740922272082855339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb80a65de4cf75230800000000000000
+      internalID: 3627645440388368572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d613efe65b6f8d260800000000000000
+      internalID: 7122714069798105453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f783cb51f6bb39a0800000000000000
+      internalID: -6252202509930887177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e798bc710986f0800000000000000
+      internalID: -682012233385383439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219745e685e94da60800000000000000
+      internalID: 7697951765728360722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d98a60cda88ec2b0800000000000000
+      internalID: -5562358209917056554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e1dad652bf53ad0800000000000000
+      internalID: -2722994261503173075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f8daa90a9fb31b0800000000000000
+      internalID: -5675668437185228974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67c1c29567c5470800000000000000
+      internalID: 8384706731621250788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ab83fb1196903a0800000000000000
+      internalID: -6698707445793375689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32892c6943a678030800000000000000
+      internalID: 3496880409776658467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1b61e5814854870800000000000000
+      internalID: 8666478298137014704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc16351053bcc9db0800000000000000
+      internalID: -4783725275658362417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a32ab853b48be00800000000000000
+      internalID: 1060680405593766536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d29deaf48b818d20800000000000000
+      internalID: 3279055406964249305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f470073f5e0a8380800000000000000
+      internalID: -8968339905847462666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae89fceede89c70800000000000000
+      internalID: 8978187467103988331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2724a2e963b8710d0800000000000000
+      internalID: -3452137522658131342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9248536be1271a9d0800000000000000
+      internalID: -2764803219997227991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40cea5abe05846b0800000000000000
+      internalID: -5311906787456270258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3578ab1e660c367e0800000000000000
+      internalID: -1773362280147548333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cb240651275e9c0800000000000000
+      internalID: -3898584466284430252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002c0ba42a20eab90800000000000000
+      internalID: -7228837455822011904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7557bdd1a62b0c610800000000000000
+      internalID: 1639506433200059735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f191a1dc87301150800000000000000
+      internalID: 5841229794651509235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf501c7744973e4f0800000000000000
+      internalID: -800662973767940613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51404ef983df6f60800000000000000
+      internalID: 8029869250254487898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365543d0606a755c0800000000000000
+      internalID: -4226727180342373021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185d1f6cbe957f8b0800000000000000
+      internalID: -5118523582293355135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08730342fd4c549b0800000000000000
+      internalID: -5096450940635957376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa0c2775c93d8e70800000000000000
+      internalID: 9119008340765838069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b407ac176311ca0800000000000000
+      internalID: -6047992962226304170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dffdd3a7c120230800000000000000
+      internalID: 3603473963199495441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b57bd52e4a86740800000000000000
+      internalID: 5145543866412653381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbeed55bb190fef0800000000000000
+      internalID: -76400959879713866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e750c71c2aba4b20800000000000000
+      internalID: 3119510390447298530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a7b0f1ace352650800000000000000
+      internalID: 6207436699225258549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d10e75c2986df8b0800000000000000
+      internalID: -5116818622035131950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b0f885079da6e0800000000000000
+      internalID: -1824636223987074666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef4283b594c201b0800000000000000
+      internalID: -5691770831802052631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477d7444a343b5680800000000000000
+      internalID: -8765354824888232076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7230817435c7b4f97c93dba46b91f6
+      internalID: 6540245428844141408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ae8ed4d4265684b941d14ddc53dcd7
+      internalID: 7461848931013542031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd48765b76fcf646882ec1cdfdd5ca3
+      internalID: 5806963138222491046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fa1070dd8283948954216d269c2b5d
+      internalID: -228136674366631880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfa77049e0b06e41b0c4d1346b68dda
+      internalID: 3781540908061264255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ee55420dbdab44ac72ff773f000fe
+      internalID: -4246995130573131716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c729f89edc36b964aae5361fe86221cb
+      internalID: 2174084668831614877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea1cfff7d9c25428a15b3afdc3365a
+      internalID: -8793990278445059059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158c8e98151df846bfc01c6b89e33a6
+      internalID: 6615520750812759747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4695fe364c4084d889f78b3e94362b
+      internalID: 9155015436106532397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff85d1a25118ba469c55d58021de279
+      internalID: -5187463406513573635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753b6243e6cdb94fb9a21e4c422f004
+      internalID: 8588234227885431701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0f854d0536ede48b3d7ce5a15dd380
+      internalID: -8902834263274054685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9108a565473300d4aa629903d4b82b7b
+      internalID: -7733054310237441447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c7db5e91e903f46bfd127e10b0a25c
+      internalID: -4402848198113176114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57f7647073603647887b6d526568d74
+      internalID: -2079468798606316050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f06c2de51fe0445a1a7b1db0a23beb
+      internalID: -1705439789372459195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8052d9271a0a9e4ba359c2bf9c29b38
+      internalID: 3269856093923942565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4da1fb28704a947af8e58c94868dfe
+      internalID: -994372710153589392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef4dd54d84ff4043bbcb82c6e9bef5e
+      internalID: 5057697329413116185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ed24272aef14746a3e15e2cff0d45c
+      internalID: 2934948690719000626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e9e2454907073449956b233df9ebc9
+      internalID: 2560515141570598322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129960644573d4945853ca88aa9d3fd8
+      internalID: 1467742727404003242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243c158e9e8c7814a9764af186ac64a8
+      internalID: -2301351036690153139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0f1936c7e06e4fafdfe9cfeaab618
+      internalID: -4316956431290253498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4ed2fd3a49a147a85b265f977cb79
+      internalID: -4604775859708996789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f0cd56838adcb4fb7a1f1a67f32c96
+      internalID: -245781391695107389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aa06cb4f4138945a59f521e4466e89
+      internalID: 8031801470432909199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4052d4d508074469fe7d5326446943
+      internalID: -5840958273900068085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf44255d8997714cb49be89806bf216
+      internalID: -2302040043469695930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134283d8fcdaaa44c9d61dc47109991a
+      internalID: -3170049593282777589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd66488ba864c14ea213ecc22c5228c
+      internalID: -8299954845876673822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede2c17e577ece34dbbb86f260669de7
+      internalID: -343977015491961963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a74e52e970609d40bfd3242026321fb
+      internalID: -2914577379117024374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770dc06bbbfad334d9226358edf7dc0f
+      internalID: -6266869237387536932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a796def5191ee4e458b19d0d0bfddbd0
+      internalID: 4935294750518699785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af05885dada411f409f4ed26d56ad344
+      internalID: 5474967468236053222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e9913111bb794498c58dcc50083380
+      internalID: 4364581377524458950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79966941e771b4892f3ee565f740e4
+      internalID: -2703933130316354328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870d4f02a425ad4dafdf68e79f90657
+      internalID: -3796553876499993163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecdde6ab7721b1409d43b740a6f648b
+      internalID: -8684281267597817637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6432bd995b944014a9b3ee54ae9571c3
+      internalID: -6826175616701886200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bf09db069046e4880f755bccde87a1
+      internalID: -3454839372716695517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c842b49332b34cb9ed8f1a70b4178
+      internalID: -3947020865011562864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89be2a27eca4d45b6ee1ec96220e29
+      internalID: 7566678286577036874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d41a95e3a37aac41b2d1387f51f0cb2
+      internalID: 1886131087261564364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8352a91e7690a3d4b914da800347e706
+      internalID: 5059434677465218877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be8429c7da2724da26cad4fc26693a
+      internalID: -1659268852212663236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff460b07da1b9e4ead4aad7c41792f0
+      internalID: 3914155397944898985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5413a19efe8793b40bb306d75eb551ee
+      internalID: -5772025667871801952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c5589bae091874590a2497214fb0cc
+      internalID: -4072590972995796350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d01336e17afb3489c45b535ae8b113
+      internalID: 7213375002904603907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff20114e11023504587c2b73f80a379c
+      internalID: 8310664000345853557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b197bc495d4e31479efb5ebb39bacec
+      internalID: 8373409948719283258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded1478358ed76d43a7aa32baf2673c1
+      internalID: 4139468024414480186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a0d1f860a389c41a3983bc00f02d74
+      internalID: 8329281979773151370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba57ca4f2a4904428c81bf7e874ddc8
+      internalID: 7563331977326867393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65382fdf6ce873e48bd375c5c7e087c7
+      internalID: -4031094267501451728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884054ec428af349a285a1bc1921283
+      internalID: 502113840317992879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3426dc798283fbc41b7327e5e8784246
+      internalID: 8764057727995295627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 049d84c3dbada5a4381559234f35aadf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":30.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage_Hooded_BROWN_0: 6597565010480006927
+      Mage_Hooded_BROWN_1: 6757495589775274867
+      Mage_Hooded_BROWN_10: -3080302875549376224
+      Mage_Hooded_BROWN_100: 5474967468236053222
+      Mage_Hooded_BROWN_101: 4364581377524458950
+      Mage_Hooded_BROWN_102: -2703933130316354328
+      Mage_Hooded_BROWN_103: -3796553876499993163
+      Mage_Hooded_BROWN_104: -8684281267597817637
+      Mage_Hooded_BROWN_105: -6826175616701886200
+      Mage_Hooded_BROWN_106: -3454839372716695517
+      Mage_Hooded_BROWN_107: -3947020865011562864
+      Mage_Hooded_BROWN_108: 7566678286577036874
+      Mage_Hooded_BROWN_109: 1886131087261564364
+      Mage_Hooded_BROWN_11: -2065054599356605764
+      Mage_Hooded_BROWN_110: 5059434677465218877
+      Mage_Hooded_BROWN_111: -1659268852212663236
+      Mage_Hooded_BROWN_112: 3914155397944898985
+      Mage_Hooded_BROWN_113: -5772025667871801952
+      Mage_Hooded_BROWN_114: -4072590972995796350
+      Mage_Hooded_BROWN_115: 7213375002904603907
+      Mage_Hooded_BROWN_116: 8310664000345853557
+      Mage_Hooded_BROWN_117: 8373409948719283258
+      Mage_Hooded_BROWN_118: 4139468024414480186
+      Mage_Hooded_BROWN_119: 8329281979773151370
+      Mage_Hooded_BROWN_12: 386019159965491805
+      Mage_Hooded_BROWN_120: 7563331977326867393
+      Mage_Hooded_BROWN_121: -4031094267501451728
+      Mage_Hooded_BROWN_122: 502113840317992879
+      Mage_Hooded_BROWN_123: 8764057727995295627
+      Mage_Hooded_BROWN_13: -6209182079845381565
+      Mage_Hooded_BROWN_14: 82953006842632253
+      Mage_Hooded_BROWN_15: -4946660306738677023
+      Mage_Hooded_BROWN_16: -9174341977733784720
+      Mage_Hooded_BROWN_17: -7152931304211682142
+      Mage_Hooded_BROWN_18: -4294885488122329499
+      Mage_Hooded_BROWN_19: -2258649871478099741
+      Mage_Hooded_BROWN_2: -3498894372847044029
+      Mage_Hooded_BROWN_20: -4568005847871775922
+      Mage_Hooded_BROWN_21: -1282906475560574679
+      Mage_Hooded_BROWN_22: 2740922272082855339
+      Mage_Hooded_BROWN_23: 3627645440388368572
+      Mage_Hooded_BROWN_24: 7122714069798105453
+      Mage_Hooded_BROWN_25: -6252202509930887177
+      Mage_Hooded_BROWN_26: -682012233385383439
+      Mage_Hooded_BROWN_27: 7697951765728360722
+      Mage_Hooded_BROWN_28: -5562358209917056554
+      Mage_Hooded_BROWN_29: -2722994261503173075
+      Mage_Hooded_BROWN_3: 8350042926076931083
+      Mage_Hooded_BROWN_30: -5675668437185228974
+      Mage_Hooded_BROWN_31: 8384706731621250788
+      Mage_Hooded_BROWN_32: -6698707445793375689
+      Mage_Hooded_BROWN_33: 3496880409776658467
+      Mage_Hooded_BROWN_34: 8666478298137014704
+      Mage_Hooded_BROWN_35: -4783725275658362417
+      Mage_Hooded_BROWN_36: 1060680405593766536
+      Mage_Hooded_BROWN_37: 3279055406964249305
+      Mage_Hooded_BROWN_38: -8968339905847462666
+      Mage_Hooded_BROWN_39: 8978187467103988331
+      Mage_Hooded_BROWN_4: -94587691733998720
+      Mage_Hooded_BROWN_40: -3452137522658131342
+      Mage_Hooded_BROWN_41: -2764803219997227991
+      Mage_Hooded_BROWN_42: -5311906787456270258
+      Mage_Hooded_BROWN_43: -1773362280147548333
+      Mage_Hooded_BROWN_44: -3898584466284430252
+      Mage_Hooded_BROWN_45: -7228837455822011904
+      Mage_Hooded_BROWN_46: 1639506433200059735
+      Mage_Hooded_BROWN_47: 5841229794651509235
+      Mage_Hooded_BROWN_48: -800662973767940613
+      Mage_Hooded_BROWN_49: 8029869250254487898
+      Mage_Hooded_BROWN_5: 2092260392394463421
+      Mage_Hooded_BROWN_50: -4226727180342373021
+      Mage_Hooded_BROWN_51: -5118523582293355135
+      Mage_Hooded_BROWN_52: -5096450940635957376
+      Mage_Hooded_BROWN_53: 9119008340765838069
+      Mage_Hooded_BROWN_54: -6047992962226304170
+      Mage_Hooded_BROWN_55: 3603473963199495441
+      Mage_Hooded_BROWN_56: 5145543866412653381
+      Mage_Hooded_BROWN_57: -76400959879713866
+      Mage_Hooded_BROWN_58: 3119510390447298530
+      Mage_Hooded_BROWN_59: 6207436699225258549
+      Mage_Hooded_BROWN_6: -1190912082302189925
+      Mage_Hooded_BROWN_60: -5116818622035131950
+      Mage_Hooded_BROWN_61: -1824636223987074666
+      Mage_Hooded_BROWN_62: -5691770831802052631
+      Mage_Hooded_BROWN_63: -8765354824888232076
+      Mage_Hooded_BROWN_64: 6540245428844141408
+      Mage_Hooded_BROWN_65: 7461848931013542031
+      Mage_Hooded_BROWN_66: 5806963138222491046
+      Mage_Hooded_BROWN_67: -228136674366631880
+      Mage_Hooded_BROWN_68: 3781540908061264255
+      Mage_Hooded_BROWN_69: -4246995130573131716
+      Mage_Hooded_BROWN_7: 6678333084866371616
+      Mage_Hooded_BROWN_70: 2174084668831614877
+      Mage_Hooded_BROWN_71: -8793990278445059059
+      Mage_Hooded_BROWN_72: 6615520750812759747
+      Mage_Hooded_BROWN_73: 9155015436106532397
+      Mage_Hooded_BROWN_74: -5187463406513573635
+      Mage_Hooded_BROWN_75: 8588234227885431701
+      Mage_Hooded_BROWN_76: -8902834263274054685
+      Mage_Hooded_BROWN_77: -7733054310237441447
+      Mage_Hooded_BROWN_78: -4402848198113176114
+      Mage_Hooded_BROWN_79: -2079468798606316050
+      Mage_Hooded_BROWN_8: -318570219610077277
+      Mage_Hooded_BROWN_80: -1705439789372459195
+      Mage_Hooded_BROWN_81: 3269856093923942565
+      Mage_Hooded_BROWN_82: -994372710153589392
+      Mage_Hooded_BROWN_83: 5057697329413116185
+      Mage_Hooded_BROWN_84: 2934948690719000626
+      Mage_Hooded_BROWN_85: 2560515141570598322
+      Mage_Hooded_BROWN_86: 1467742727404003242
+      Mage_Hooded_BROWN_87: -2301351036690153139
+      Mage_Hooded_BROWN_88: -4316956431290253498
+      Mage_Hooded_BROWN_89: -4604775859708996789
+      Mage_Hooded_BROWN_9: -5909003973986132183
+      Mage_Hooded_BROWN_90: -245781391695107389
+      Mage_Hooded_BROWN_91: 8031801470432909199
+      Mage_Hooded_BROWN_92: -5840958273900068085
+      Mage_Hooded_BROWN_93: -2302040043469695930
+      Mage_Hooded_BROWN_94: -3170049593282777589
+      Mage_Hooded_BROWN_95: -8299954845876673822
+      Mage_Hooded_BROWN_96: -343977015491961963
+      Mage_Hooded_BROWN_97: -2914577379117024374
+      Mage_Hooded_BROWN_98: -6266869237387536932
+      Mage_Hooded_BROWN_99: 4935294750518699785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: babdfa6fdefadc64f82d2b3aac069914
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2398165329394149359
+    second: caped_warrior_combat_32x32_0
+  - first:
+      213: 3579726302920038002
+    second: caped_warrior_combat_32x32_1
+  - first:
+      213: 7707379773113464026
+    second: caped_warrior_combat_32x32_2
+  - first:
+      213: 7658670633338027749
+    second: caped_warrior_combat_32x32_3
+  - first:
+      213: -4545391392615124054
+    second: caped_warrior_combat_32x32_4
+  - first:
+      213: -1681006999459361744
+    second: caped_warrior_combat_32x32_5
+  - first:
+      213: 8190699279475966764
+    second: caped_warrior_combat_32x32_6
+  - first:
+      213: -1425191722192349792
+    second: caped_warrior_combat_32x32_7
+  - first:
+      213: 4060067650688308481
+    second: caped_warrior_combat_32x32_8
+  - first:
+      213: 1275414891691207888
+    second: caped_warrior_combat_32x32_9
+  - first:
+      213: -3473023848435166873
+    second: caped_warrior_combat_32x32_10
+  - first:
+      213: 8906922642557321792
+    second: caped_warrior_combat_32x32_11
+  - first:
+      213: -6939943897889616163
+    second: caped_warrior_combat_32x32_12
+  - first:
+      213: -3721719601563128652
+    second: caped_warrior_combat_32x32_13
+  - first:
+      213: -4123213279851536455
+    second: caped_warrior_combat_32x32_14
+  - first:
+      213: -8151442458348952793
+    second: caped_warrior_combat_32x32_15
+  - first:
+      213: -5894243082764111615
+    second: caped_warrior_combat_32x32_16
+  - first:
+      213: 6789790309054161505
+    second: caped_warrior_combat_32x32_17
+  - first:
+      213: -2370623964912189149
+    second: caped_warrior_combat_32x32_18
+  - first:
+      213: 4365865791837578902
+    second: caped_warrior_combat_32x32_19
+  - first:
+      213: 6146175744051172439
+    second: caped_warrior_combat_32x32_20
+  - first:
+      213: -9110655505005915691
+    second: caped_warrior_combat_32x32_21
+  - first:
+      213: -6914673803330382026
+    second: caped_warrior_combat_32x32_22
+  - first:
+      213: 1029623781292346066
+    second: caped_warrior_combat_32x32_23
+  - first:
+      213: -1340230883137082240
+    second: caped_warrior_combat_32x32_24
+  - first:
+      213: 5477753178010360957
+    second: caped_warrior_combat_32x32_25
+  - first:
+      213: 7682212063912620508
+    second: caped_warrior_combat_32x32_26
+  - first:
+      213: -2654067801562959258
+    second: caped_warrior_combat_32x32_27
+  - first:
+      213: 1901611846431002044
+    second: caped_warrior_combat_32x32_28
+  - first:
+      213: -6238844393100856610
+    second: caped_warrior_combat_32x32_29
+  - first:
+      213: -5361123453689248774
+    second: caped_warrior_combat_32x32_30
+  - first:
+      213: 5263525373127133604
+    second: caped_warrior_combat_32x32_31
+  - first:
+      213: 4266614304029602837
+    second: caped_warrior_combat_32x32_32
+  - first:
+      213: -6941475741901453727
+    second: caped_warrior_combat_32x32_33
+  - first:
+      213: -789229468005203711
+    second: caped_warrior_combat_32x32_34
+  - first:
+      213: -394652534815519364
+    second: caped_warrior_combat_32x32_35
+  - first:
+      213: 71799350658419421
+    second: caped_warrior_combat_32x32_36
+  - first:
+      213: -2098491767873617808
+    second: caped_warrior_combat_32x32_37
+  - first:
+      213: 229829942848994874
+    second: caped_warrior_combat_32x32_38
+  - first:
+      213: 6016277821460019276
+    second: caped_warrior_combat_32x32_39
+  - first:
+      213: 1135838818251329678
+    second: caped_warrior_combat_32x32_40
+  - first:
+      213: -6935349248776943775
+    second: caped_warrior_combat_32x32_41
+  - first:
+      213: -1654946180100425420
+    second: caped_warrior_combat_32x32_42
+  - first:
+      213: 5069331977014588861
+    second: caped_warrior_combat_32x32_43
+  - first:
+      213: -612284643424616462
+    second: caped_warrior_combat_32x32_44
+  - first:
+      213: -7995761970780869254
+    second: caped_warrior_combat_32x32_45
+  - first:
+      213: -7623221069190460454
+    second: caped_warrior_combat_32x32_46
+  - first:
+      213: 7878856734337062761
+    second: caped_warrior_combat_32x32_47
+  - first:
+      213: -852194676069417205
+    second: caped_warrior_combat_32x32_48
+  - first:
+      213: -2214364960156982824
+    second: caped_warrior_combat_32x32_49
+  - first:
+      213: 3977024665480491534
+    second: caped_warrior_combat_32x32_50
+  - first:
+      213: -3863155375441293157
+    second: caped_warrior_combat_32x32_51
+  - first:
+      213: 8405131366927802148
+    second: caped_warrior_combat_32x32_52
+  - first:
+      213: -1678364480683673685
+    second: caped_warrior_combat_32x32_53
+  - first:
+      213: -8339250821084739797
+    second: caped_warrior_combat_32x32_54
+  - first:
+      213: -5837783247829863770
+    second: caped_warrior_combat_32x32_55
+  - first:
+      213: 4319585323036077710
+    second: caped_warrior_combat_32x32_56
+  - first:
+      213: -2726096799433236580
+    second: caped_warrior_combat_32x32_57
+  - first:
+      213: -7215617219554515652
+    second: caped_warrior_combat_32x32_58
+  - first:
+      213: 8168059696884246431
+    second: caped_warrior_combat_32x32_59
+  - first:
+      213: 2631426769991197759
+    second: caped_warrior_combat_32x32_60
+  - first:
+      213: -3133067758399274935
+    second: caped_warrior_combat_32x32_61
+  - first:
+      213: -3945287966740033433
+    second: caped_warrior_combat_32x32_62
+  - first:
+      213: -4967029951710470930
+    second: caped_warrior_combat_32x32_63
+  - first:
+      213: 2955724105827899714
+    second: caped_warrior_combat_32x32_64
+  - first:
+      213: 8421536269550347812
+    second: caped_warrior_combat_32x32_65
+  - first:
+      213: 6146642399451658361
+    second: caped_warrior_combat_32x32_66
+  - first:
+      213: 3413589286956185899
+    second: caped_warrior_combat_32x32_67
+  - first:
+      213: -6805326377554031503
+    second: caped_warrior_combat_32x32_68
+  - first:
+      213: -2103812416363994315
+    second: caped_warrior_combat_32x32_69
+  - first:
+      213: -1342819179171593450
+    second: caped_warrior_combat_32x32_70
+  - first:
+      213: -3933690162139106152
+    second: caped_warrior_combat_32x32_71
+  - first:
+      213: -2277354941980646683
+    second: caped_warrior_combat_32x32_72
+  - first:
+      213: -6017637471218723185
+    second: caped_warrior_combat_32x32_73
+  - first:
+      213: -8582482410854490169
+    second: caped_warrior_combat_32x32_74
+  - first:
+      213: 9005075957959717654
+    second: caped_warrior_combat_32x32_75
+  - first:
+      213: 1481646810818471778
+    second: caped_warrior_combat_32x32_76
+  - first:
+      213: 5348073254941277141
+    second: caped_warrior_combat_32x32_77
+  - first:
+      213: 2925415056619423030
+    second: caped_warrior_combat_32x32_78
+  - first:
+      213: -4753719141395644842
+    second: caped_warrior_combat_32x32_79
+  - first:
+      213: 2986833343903396770
+    second: caped_warrior_combat_32x32_80
+  - first:
+      213: 9005390947649929634
+    second: caped_warrior_combat_32x32_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 615
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7223b39aef74120800000000000000
+      internalID: 2398165329394149359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 615
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276dba63b1ebda130800000000000000
+      internalID: 3579726302920038002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad47575711d16fa60800000000000000
+      internalID: 7707379773113464026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 615
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee34d71d50194a60800000000000000
+      internalID: 7658670633338027749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 583
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3be066c968be0c0800000000000000
+      internalID: -4545391392615124054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 583
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c87445a0ddba8e0800000000000000
+      internalID: -1681006999459361744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 581
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23863739953ba170800000000000000
+      internalID: 8190699279475966764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 581
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5d5edfda3b83ce0800000000000000
+      internalID: -1425191722192349792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 581
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d4536402485830800000000000000
+      internalID: 4060067650688308481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 551
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc6f78261f23b110800000000000000
+      internalID: 1275414891691207888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 551
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761df81f5375dcfc0800000000000000
+      internalID: -3473023848435166873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 551
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0424387d3febb9b70800000000000000
+      internalID: 8906922642557321792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 551
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde46255bcd50bf90800000000000000
+      internalID: -6939943897889616163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 519
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bca83badbbc95cc0800000000000000
+      internalID: -3721719601563128652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 519
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf96412e5767c6c0800000000000000
+      internalID: -4123213279851536455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 517
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723e217b54240ee80800000000000000
+      internalID: -8151442458348952793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 517
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101ba003521733ea0800000000000000
+      internalID: -5894243082764111615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 517
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162209eef4e2a3e50800000000000000
+      internalID: 6789790309054161505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 487
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3218163601ad91fd0800000000000000
+      internalID: -2370623964912189149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 487
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696228b6ecba69c30800000000000000
+      internalID: 4365865791837578902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754da4f764a9b4550800000000000000
+      internalID: 6146175744051172439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 479
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d15a29a613709180800000000000000
+      internalID: -9110655505005915691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 454
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6371bc6bfc42a00a0800000000000000
+      internalID: -6914673803330382026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 455
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da8938bf55f94e00800000000000000
+      internalID: 1029623781292346066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2b95dc1b866de0800000000000000
+      internalID: -1340230883137082240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 447
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c13963e73e40c40800000000000000
+      internalID: 5477753178010360957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 422
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd17bb68b23bc9a60800000000000000
+      internalID: 7682212063912620508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 422
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662b906756bda2bd0800000000000000
+      internalID: -2654067801562959258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 423
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc13f26e1e36a10800000000000000
+      internalID: 1901611846431002044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 423
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2394c441c2b69a0800000000000000
+      internalID: -6238844393100856610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af346d19f967995b0800000000000000
+      internalID: -5361123453689248774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 391
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a98f73807ccb0940800000000000000
+      internalID: 5263525373127133604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 390
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f841aa1f063b30800000000000000
+      internalID: 4266614304029602837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 390
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16609fa179ceaaf90800000000000000
+      internalID: -6941475741901453727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 359
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1018749faf71c05f0800000000000000
+      internalID: -789229468005203711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 359
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d0d9c4c99e58af0800000000000000
+      internalID: -394652534815519364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 359
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda491701251ff000800000000000000
+      internalID: 71799350658419421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 359
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070cfcbfad8a0e2e0800000000000000
+      internalID: -2098491767873617808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e33468d15803300800000000000000
+      internalID: 229829942848994874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c487f229dcc1e7350800000000000000
+      internalID: 6016277821460019276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 327
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8058f3236f43cf00800000000000000
+      internalID: 1135838818251329678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 327
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167c0617a90b0cf90800000000000000
+      internalID: -6935349248776943775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 296
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43979bca7337809e0800000000000000
+      internalID: -1654946180100425420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 296
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5bb7a1392e95640800000000000000
+      internalID: 5069331977014588861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 296
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffbf3f5c5ab087f0800000000000000
+      internalID: -612284643424616462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 296
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d6707d9d8590190800000000000000
+      internalID: -7995761970780869254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb01aeb3d0e43690800000000000000
+      internalID: -7623221069190460454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967da56b472575d60800000000000000
+      internalID: 7878856734337062761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 262
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f376d05756c24f0800000000000000
+      internalID: -852194676069417205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 262
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d165ca0dcef441e0800000000000000
+      internalID: -2214364960156982824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 231
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e027ee0bcda313730800000000000000
+      internalID: 3977024665480491534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b905ea667a0536ac0800000000000000
+      internalID: -3863155375441293157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9938227605a470800000000000000
+      internalID: 8405131366927802148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7773da56045b8e0800000000000000
+      internalID: -1678364480683673685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 199
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270c5cbf87054c80800000000000000
+      internalID: -8339250821084739797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 199
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2ff55e0170cfea0800000000000000
+      internalID: -5837783247829863770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 199
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e6e8417ff32fb30800000000000000
+      internalID: 4319585323036077710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 199
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd3768765fa2ad0800000000000000
+      internalID: -2726096799433236580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35e2496e5afcdb90800000000000000
+      internalID: -7215617219554515652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9768f0a407ca5170800000000000000
+      internalID: 8168059696884246431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3467c594b4b48420800000000000000
+      internalID: 2631426769991197759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940c163397b1584d0800000000000000
+      internalID: -3133067758399274935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76056dd4f758f39c0800000000000000
+      internalID: -3945287966740033433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 135
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec529b4390911bb0800000000000000
+      internalID: -4967029951710470930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 135
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2495ee50a67d40920800000000000000
+      internalID: 2955724105827899714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426ed913e9e4fd470800000000000000
+      internalID: 8421536269550347812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978bbac22b24d4550800000000000000
+      internalID: 6146642399451658361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b293a1ade518f5f20800000000000000
+      internalID: 3413589286956185899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ccb4d37bf9e81a0800000000000000
+      internalID: -6805326377554031503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5336198f0c1cdc2e0800000000000000
+      internalID: -2103812416363994315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61345e332195d5de0800000000000000
+      internalID: -1342819179171593450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894ff3d93a9b869c0800000000000000
+      internalID: -3933690162139106152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e263c70fb53560e0800000000000000
+      internalID: -2277354941980646683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f869dec4a9e0d7ca0800000000000000
+      internalID: -6017637471218723185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfdaf128b5e4e880800000000000000
+      internalID: -8582482410854490169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61379917fd478fc70800000000000000
+      internalID: 9005075957959717654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ec61aceddf8410800000000000000
+      internalID: 1481646810818471778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbba814a4c283a40800000000000000
+      internalID: 5348073254941277141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63541669e79299820800000000000000
+      internalID: 2925415056619423030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e332f80a5670eb0800000000000000
+      internalID: -4753719141395644842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a377a2f91d537920800000000000000
+      internalID: 2986833343903396770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a14132ba5399fc70800000000000000
+      internalID: 9005390947649929634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caped_warrior_combat_32x32_0: 2398165329394149359
+      caped_warrior_combat_32x32_1: 3579726302920038002
+      caped_warrior_combat_32x32_10: -3473023848435166873
+      caped_warrior_combat_32x32_11: 8906922642557321792
+      caped_warrior_combat_32x32_12: -6939943897889616163
+      caped_warrior_combat_32x32_13: -3721719601563128652
+      caped_warrior_combat_32x32_14: -4123213279851536455
+      caped_warrior_combat_32x32_15: -8151442458348952793
+      caped_warrior_combat_32x32_16: -5894243082764111615
+      caped_warrior_combat_32x32_17: 6789790309054161505
+      caped_warrior_combat_32x32_18: -2370623964912189149
+      caped_warrior_combat_32x32_19: 4365865791837578902
+      caped_warrior_combat_32x32_2: 7707379773113464026
+      caped_warrior_combat_32x32_20: 6146175744051172439
+      caped_warrior_combat_32x32_21: -9110655505005915691
+      caped_warrior_combat_32x32_22: -6914673803330382026
+      caped_warrior_combat_32x32_23: 1029623781292346066
+      caped_warrior_combat_32x32_24: -1340230883137082240
+      caped_warrior_combat_32x32_25: 5477753178010360957
+      caped_warrior_combat_32x32_26: 7682212063912620508
+      caped_warrior_combat_32x32_27: -2654067801562959258
+      caped_warrior_combat_32x32_28: 1901611846431002044
+      caped_warrior_combat_32x32_29: -6238844393100856610
+      caped_warrior_combat_32x32_3: 7658670633338027749
+      caped_warrior_combat_32x32_30: -5361123453689248774
+      caped_warrior_combat_32x32_31: 5263525373127133604
+      caped_warrior_combat_32x32_32: 4266614304029602837
+      caped_warrior_combat_32x32_33: -6941475741901453727
+      caped_warrior_combat_32x32_34: -789229468005203711
+      caped_warrior_combat_32x32_35: -394652534815519364
+      caped_warrior_combat_32x32_36: 71799350658419421
+      caped_warrior_combat_32x32_37: -2098491767873617808
+      caped_warrior_combat_32x32_38: 229829942848994874
+      caped_warrior_combat_32x32_39: 6016277821460019276
+      caped_warrior_combat_32x32_4: -4545391392615124054
+      caped_warrior_combat_32x32_40: 1135838818251329678
+      caped_warrior_combat_32x32_41: -6935349248776943775
+      caped_warrior_combat_32x32_42: -1654946180100425420
+      caped_warrior_combat_32x32_43: 5069331977014588861
+      caped_warrior_combat_32x32_44: -612284643424616462
+      caped_warrior_combat_32x32_45: -7995761970780869254
+      caped_warrior_combat_32x32_46: -7623221069190460454
+      caped_warrior_combat_32x32_47: 7878856734337062761
+      caped_warrior_combat_32x32_48: -852194676069417205
+      caped_warrior_combat_32x32_49: -2214364960156982824
+      caped_warrior_combat_32x32_5: -1681006999459361744
+      caped_warrior_combat_32x32_50: 3977024665480491534
+      caped_warrior_combat_32x32_51: -3863155375441293157
+      caped_warrior_combat_32x32_52: 8405131366927802148
+      caped_warrior_combat_32x32_53: -1678364480683673685
+      caped_warrior_combat_32x32_54: -8339250821084739797
+      caped_warrior_combat_32x32_55: -5837783247829863770
+      caped_warrior_combat_32x32_56: 4319585323036077710
+      caped_warrior_combat_32x32_57: -2726096799433236580
+      caped_warrior_combat_32x32_58: -7215617219554515652
+      caped_warrior_combat_32x32_59: 8168059696884246431
+      caped_warrior_combat_32x32_6: 8190699279475966764
+      caped_warrior_combat_32x32_60: 2631426769991197759
+      caped_warrior_combat_32x32_61: -3133067758399274935
+      caped_warrior_combat_32x32_62: -3945287966740033433
+      caped_warrior_combat_32x32_63: -4967029951710470930
+      caped_warrior_combat_32x32_64: 2955724105827899714
+      caped_warrior_combat_32x32_65: 8421536269550347812
+      caped_warrior_combat_32x32_66: 6146642399451658361
+      caped_warrior_combat_32x32_67: 3413589286956185899
+      caped_warrior_combat_32x32_68: -6805326377554031503
+      caped_warrior_combat_32x32_69: -2103812416363994315
+      caped_warrior_combat_32x32_7: -1425191722192349792
+      caped_warrior_combat_32x32_70: -1342819179171593450
+      caped_warrior_combat_32x32_71: -3933690162139106152
+      caped_warrior_combat_32x32_72: -2277354941980646683
+      caped_warrior_combat_32x32_73: -6017637471218723185
+      caped_warrior_combat_32x32_74: -8582482410854490169
+      caped_warrior_combat_32x32_75: 9005075957959717654
+      caped_warrior_combat_32x32_76: 1481646810818471778
+      caped_warrior_combat_32x32_77: 5348073254941277141
+      caped_warrior_combat_32x32_78: 2925415056619423030
+      caped_warrior_combat_32x32_79: -4753719141395644842
+      caped_warrior_combat_32x32_8: 4060067650688308481
+      caped_warrior_combat_32x32_80: 2986833343903396770
+      caped_warrior_combat_32x32_81: 9005390947649929634
+      caped_warrior_combat_32x32_9: 1275414891691207888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

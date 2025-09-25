@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 537886a75aa84ea45b362a3796ad9e37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4312650361158730195
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_0
+  - first:
+      213: 7481300678722674960
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_1
+  - first:
+      213: 6910052307371556759
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_2
+  - first:
+      213: 4868063935936535841
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_3
+  - first:
+      213: 1138449224660831910
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_4
+  - first:
+      213: -5311138506032153721
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_5
+  - first:
+      213: 227278146417889989
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_6
+  - first:
+      213: 581551736123939445
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_7
+  - first:
+      213: 5122144560784290116
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_8
+  - first:
+      213: -9012450816551684605
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_9
+  - first:
+      213: -9128088233563040900
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_10
+  - first:
+      213: 2136263304221507367
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_11
+  - first:
+      213: 6871942044052723843
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_12
+  - first:
+      213: 1361573109933713188
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_13
+  - first:
+      213: 2083590521441273732
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_14
+  - first:
+      213: 8573266824356136938
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_15
+  - first:
+      213: 7593813653541307996
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_16
+  - first:
+      213: -4112542381668248452
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_17
+  - first:
+      213: -279304323163227398
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_18
+  - first:
+      213: 4672954477074074311
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_19
+  - first:
+      213: -6776103177650025989
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_20
+  - first:
+      213: -4216820577728451661
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_21
+  - first:
+      213: 7083032628177632500
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_22
+  - first:
+      213: 1271426159657367772
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_23
+  - first:
+      213: 9190771883006113136
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_24
+  - first:
+      213: -1785315812115772692
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_25
+  - first:
+      213: -3335881894026697683
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_26
+  - first:
+      213: -8433553242021574906
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_27
+  - first:
+      213: 5532023628907854461
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_28
+  - first:
+      213: -3113231738541032651
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_29
+  - first:
+      213: 2856074492386278152
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_30
+  - first:
+      213: -6114901107432339020
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_31
+  - first:
+      213: -3210190024083280418
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_32
+  - first:
+      213: -4996433379922717178
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_33
+  - first:
+      213: 3156181252610026878
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_34
+  - first:
+      213: 8461642153836888970
+    second: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1835177ac99db30800000000000000
+      internalID: 4312650361158730195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0116725645be2d760800000000000000
+      internalID: 7481300678722674960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fff3866ff65ef50800000000000000
+      internalID: 6910052307371556759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d136d8b56de8340800000000000000
+      internalID: 4868063935936535841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae4abeb9859ccf00800000000000000
+      internalID: 1138449224660831910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bfd0b1bab0b46b0800000000000000
+      internalID: -5311138506032153721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2927e1544772300800000000000000
+      internalID: 227278146417889989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57add2a0936121800800000000000000
+      internalID: 581551736123939445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4413fb9f653851740800000000000000
+      internalID: 5122144560784290116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f1cb7bb75de280800000000000000
+      internalID: -9012450816551684605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c735d004d14825180800000000000000
+      internalID: -9128088233563040900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f33d2282885ad10800000000000000
+      internalID: 2136263304221507367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38895d441ea0e5f50800000000000000
+      internalID: 6871942044052723843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427a251978745e210800000000000000
+      internalID: 1361573109933713188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487c0e73a866aec10800000000000000
+      internalID: 2083590521441273732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7836ee0cc5af670800000000000000
+      internalID: 8573266824356136938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5647ddb845a26960800000000000000
+      internalID: 7593813653541307996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74dce83e705de6c0800000000000000
+      internalID: -4112542381668248452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaff99a236bf1cf0800000000000000
+      internalID: -279304323163227398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4299a65ba9d040800000000000000
+      internalID: 4672954477074074311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf946ceaf0276f1a0800000000000000
+      internalID: -6776103177650025989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb20f6b608da75c0800000000000000
+      internalID: -4216820577728451661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc7707d5acfb4260800000000000000
+      internalID: 7083032628177632500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8348c1b5305a110800000000000000
+      internalID: 1271426159657367772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0753a32355e2c8f70800000000000000
+      internalID: 9190771883006113136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea83f65ab84937e0800000000000000
+      internalID: -1785315812115772692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24a1e5771194b1d0800000000000000
+      internalID: -3335881894026697683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 28
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607c5fe520006fa80800000000000000
+      internalID: -8433553242021574906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7abe1a3e22b5cc40800000000000000
+      internalID: 5532023628907854461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b3ac87a349bc4d0800000000000000
+      internalID: -3113231738541032651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bfcb26e90d2a720800000000000000
+      internalID: 2856074492386278152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b94ad647d1832ba0800000000000000
+      internalID: -6114901107432339020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd63017e2d1373d0800000000000000
+      internalID: -3210190024083280418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065dcd205a19aab0800000000000000
+      internalID: -4996433379922717178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d619880220dcb20800000000000000
+      internalID: 3156181252610026878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a834beb05bacd6570800000000000000
+      internalID: 8461642153836888970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ababecfc95d5aea48a1d3ce82498441c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":9.0},"gridSpriteSize":{"x":14.0,"y":14.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_0: 4312650361158730195
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_1: 7481300678722674960
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_10: -9128088233563040900
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_11: 2136263304221507367
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_12: 6871942044052723843
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_13: 1361573109933713188
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_14: 2083590521441273732
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_15: 8573266824356136938
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_16: 7593813653541307996
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_17: -4112542381668248452
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_18: -279304323163227398
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_19: 4672954477074074311
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_2: 6910052307371556759
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_20: -6776103177650025989
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_21: -4216820577728451661
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_22: 7083032628177632500
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_23: 1271426159657367772
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_24: 9190771883006113136
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_25: -1785315812115772692
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_26: -3335881894026697683
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_27: -8433553242021574906
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_28: 5532023628907854461
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_29: -3113231738541032651
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_3: 4868063935936535841
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_30: 2856074492386278152
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_31: -6114901107432339020
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_32: -3210190024083280418
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_33: -4996433379922717178
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_34: 3156181252610026878
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_35: 8461642153836888970
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_4: 1138449224660831910
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_5: -5311138506032153721
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_6: 227278146417889989
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_7: 581551736123939445
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_8: 5122144560784290116
+      Extra_Elemental_Spellcasting_Effects_Anti-Alias_glow_14x14_9: -9012450816551684605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 71539457bb878ba48b5e8143924b7b48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4663809239018882995
+    second: Fire_Explosion_Anti-Alias_glow_0
+  - first:
+      213: -7403265313938404763
+    second: Fire_Explosion_Anti-Alias_glow_1
+  - first:
+      213: 2895781570705192578
+    second: Fire_Explosion_Anti-Alias_glow_2
+  - first:
+      213: -653561914655085735
+    second: Fire_Explosion_Anti-Alias_glow_3
+  - first:
+      213: 8038836474609319596
+    second: Fire_Explosion_Anti-Alias_glow_4
+  - first:
+      213: 660060850568947752
+    second: Fire_Explosion_Anti-Alias_glow_5
+  - first:
+      213: -9006262871739810491
+    second: Fire_Explosion_Anti-Alias_glow_6
+  - first:
+      213: -1681395369222724669
+    second: Fire_Explosion_Anti-Alias_glow_7
+  - first:
+      213: 4204645265149858078
+    second: Fire_Explosion_Anti-Alias_glow_8
+  - first:
+      213: -8699917267089173697
+    second: Fire_Explosion_Anti-Alias_glow_9
+  - first:
+      213: 195446441885304102
+    second: Fire_Explosion_Anti-Alias_glow_10
+  - first:
+      213: -1907620062868844638
+    second: Fire_Explosion_Anti-Alias_glow_11
+  - first:
+      213: 8020540727224333919
+    second: Fire_Explosion_Anti-Alias_glow_12
+  - first:
+      213: -559738504104687012
+    second: Fire_Explosion_Anti-Alias_glow_13
+  - first:
+      213: 7419224255321277684
+    second: Fire_Explosion_Anti-Alias_glow_14
+  - first:
+      213: 6001138889354070507
+    second: Fire_Explosion_Anti-Alias_glow_15
+  - first:
+      213: -2977136629204833575
+    second: Fire_Explosion_Anti-Alias_glow_16
+  - first:
+      213: 1595887555820368650
+    second: Fire_Explosion_Anti-Alias_glow_17
+  - first:
+      213: 6841067327823782685
+    second: Fire_Explosion_Anti-Alias_glow_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4838100532d64fb0800000000000000
+      internalID: -4663809239018882995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a0bb0db61524990800000000000000
+      internalID: -7403265313938404763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286710dfef1ef2820800000000000000
+      internalID: 2895781570705192578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b624eb6e41ee6f0800000000000000
+      internalID: -653561914655085735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeba8c9e2faf8f60800000000000000
+      internalID: 8038836474609319596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828ed40b8d1092900800000000000000
+      internalID: 660060850568947752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54db828a2a3530380800000000000000
+      internalID: -9006262871739810491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32e72f1db7aa8e0800000000000000
+      internalID: -1681395369222724669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1119cb6796e95a30800000000000000
+      internalID: 4204645265149858078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33dcd7f65fa34780800000000000000
+      internalID: -8699917267089173697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625003dd08d56b200800000000000000
+      internalID: 195446441885304102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Explosion_Anti-Alias_glow_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af4b4ae8a5c685e0800000000000000
+      internalID: -1907620062868844638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6d0d20d4afda0984aaa974a7370fad2a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":16.0},"gridSpriteSize":{"x":28.0,"y":28.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fire_Explosion_Anti-Alias_glow_0: -4663809239018882995
+      Fire_Explosion_Anti-Alias_glow_1: -7403265313938404763
+      Fire_Explosion_Anti-Alias_glow_10: 195446441885304102
+      Fire_Explosion_Anti-Alias_glow_11: -1907620062868844638
+      Fire_Explosion_Anti-Alias_glow_2: 2895781570705192578
+      Fire_Explosion_Anti-Alias_glow_3: -653561914655085735
+      Fire_Explosion_Anti-Alias_glow_4: 8038836474609319596
+      Fire_Explosion_Anti-Alias_glow_5: 660060850568947752
+      Fire_Explosion_Anti-Alias_glow_6: -9006262871739810491
+      Fire_Explosion_Anti-Alias_glow_7: -1681395369222724669
+      Fire_Explosion_Anti-Alias_glow_8: 4204645265149858078
+      Fire_Explosion_Anti-Alias_glow_9: -8699917267089173697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

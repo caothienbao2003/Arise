@@ -1,0 +1,1796 @@
+fileFormatVersion: 2
+guid: d5f813a65de516144904d381da0cbe08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6809925153491598471
+    second: Mage_Hooded_BROWN-Combat_0
+  - first:
+      213: 4921736611237389627
+    second: Mage_Hooded_BROWN-Combat_1
+  - first:
+      213: -4148778798030173585
+    second: Mage_Hooded_BROWN-Combat_2
+  - first:
+      213: 8825884453751138805
+    second: Mage_Hooded_BROWN-Combat_3
+  - first:
+      213: 8151199405344097218
+    second: Mage_Hooded_BROWN-Combat_4
+  - first:
+      213: -2430116372376539139
+    second: Mage_Hooded_BROWN-Combat_5
+  - first:
+      213: -5438462835568812151
+    second: Mage_Hooded_BROWN-Combat_6
+  - first:
+      213: -5913182191081934486
+    second: Mage_Hooded_BROWN-Combat_7
+  - first:
+      213: 4144095370424124940
+    second: Mage_Hooded_BROWN-Combat_8
+  - first:
+      213: -8575493819853536360
+    second: Mage_Hooded_BROWN-Combat_9
+  - first:
+      213: 1645885567043528030
+    second: Mage_Hooded_BROWN-Combat_10
+  - first:
+      213: -5584171313963833778
+    second: Mage_Hooded_BROWN-Combat_11
+  - first:
+      213: -7773717942172956165
+    second: Mage_Hooded_BROWN-Combat_12
+  - first:
+      213: -3297522255824788896
+    second: Mage_Hooded_BROWN-Combat_13
+  - first:
+      213: -4629636695766177099
+    second: Mage_Hooded_BROWN-Combat_14
+  - first:
+      213: 2684913009499312743
+    second: Mage_Hooded_BROWN-Combat_15
+  - first:
+      213: -1332747042025074705
+    second: Mage_Hooded_BROWN-Combat_16
+  - first:
+      213: 3602884570632740681
+    second: Mage_Hooded_BROWN-Combat_17
+  - first:
+      213: -3832394772911849375
+    second: Mage_Hooded_BROWN-Combat_18
+  - first:
+      213: 1847858262606318910
+    second: Mage_Hooded_BROWN-Combat_19
+  - first:
+      213: 7960746918813658051
+    second: Mage_Hooded_BROWN-Combat_20
+  - first:
+      213: 8232082848499942083
+    second: Mage_Hooded_BROWN-Combat_21
+  - first:
+      213: 3841383367360811322
+    second: Mage_Hooded_BROWN-Combat_22
+  - first:
+      213: -7017000955182904267
+    second: Mage_Hooded_BROWN-Combat_23
+  - first:
+      213: -7282278800694337707
+    second: Mage_Hooded_BROWN-Combat_24
+  - first:
+      213: 3340052732269735048
+    second: Mage_Hooded_BROWN-Combat_25
+  - first:
+      213: 3584946277077492124
+    second: Mage_Hooded_BROWN-Combat_26
+  - first:
+      213: 3202293010441125222
+    second: Mage_Hooded_BROWN-Combat_27
+  - first:
+      213: -2639580027567068263
+    second: Mage_Hooded_BROWN-Combat_28
+  - first:
+      213: 8426637845014984557
+    second: Mage_Hooded_BROWN-Combat_29
+  - first:
+      213: -4193652799432233286
+    second: Mage_Hooded_BROWN-Combat_30
+  - first:
+      213: -5006725754700170485
+    second: Mage_Hooded_BROWN-Combat_31
+  - first:
+      213: 912127757674086428
+    second: Mage_Hooded_BROWN-Combat_32
+  - first:
+      213: 4156383909573048217
+    second: Mage_Hooded_BROWN-Combat_33
+  - first:
+      213: 1546495880754304912
+    second: Mage_Hooded_BROWN-Combat_34
+  - first:
+      213: -4923922914770637852
+    second: Mage_Hooded_BROWN-Combat_35
+  - first:
+      213: 629006057017459940
+    second: Mage_Hooded_BROWN-Combat_36
+  - first:
+      213: 7676063521889767219
+    second: Mage_Hooded_BROWN-Combat_37
+  - first:
+      213: -3350722960731388820
+    second: Mage_Hooded_BROWN-Combat_38
+  - first:
+      213: -3454697067460992941
+    second: Mage_Hooded_BROWN-Combat_39
+  - first:
+      213: 8527388471706339224
+    second: Mage_Hooded_BROWN-Combat_40
+  - first:
+      213: -4387692442185419757
+    second: Mage_Hooded_BROWN-Combat_41
+  - first:
+      213: -6769067725583205089
+    second: Mage_Hooded_BROWN-Combat_42
+  - first:
+      213: -4788106109773115405
+    second: Mage_Hooded_BROWN-Combat_43
+  - first:
+      213: 6991713614265089044
+    second: Mage_Hooded_BROWN-Combat_44
+  - first:
+      213: 2719946506296922302
+    second: Mage_Hooded_BROWN-Combat_45
+  - first:
+      213: -7213555603851575834
+    second: Mage_Hooded_BROWN-Combat_46
+  - first:
+      213: 2768341943539886471
+    second: Mage_Hooded_BROWN-Combat_47
+  - first:
+      213: 7781815661152179284
+    second: Mage_Hooded_BROWN-Combat_48
+  - first:
+      213: -121137854094794400
+    second: Mage_Hooded_BROWN-Combat_49
+  - first:
+      213: -986646602627925179
+    second: Mage_Hooded_BROWN-Combat_50
+  - first:
+      213: -7721730016622843028
+    second: Mage_Hooded_BROWN-Combat_51
+  - first:
+      213: -5803089025091412103
+    second: Mage_Hooded_BROWN-Combat_52
+  - first:
+      213: -3621983794597650377
+    second: Mage_Hooded_BROWN-Combat_53
+  - first:
+      213: 2526450166635833052
+    second: Mage_Hooded_BROWN-Combat_54
+  - first:
+      213: 8042110566987955356
+    second: Mage_Hooded_BROWN-Combat_55
+  - first:
+      213: 2192021589237695446
+    second: Mage_Hooded_BROWN-Combat_56
+  - first:
+      213: 4835644517899157779
+    second: Mage_Hooded_BROWN-Combat_57
+  - first:
+      213: -1890373439529791772
+    second: Mage_Hooded_BROWN-Combat_58
+  - first:
+      213: 7180972395405909340
+    second: Mage_Hooded_BROWN-Combat_59
+  - first:
+      213: 2186127692095000464
+    second: Mage_Hooded_BROWN-Combat_60
+  - first:
+      213: 1456473493370401167
+    second: Mage_Hooded_BROWN-Combat_61
+  - first:
+      213: 8880375661847232024
+    second: Mage_Hooded_BROWN-Combat_62
+  - first:
+      213: 911584789712400536
+    second: Mage_Hooded_BROWN-Combat_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c22747294e71a0800000000000000
+      internalID: -6809925153491598471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35e6d61f558d4440800000000000000
+      internalID: 4921736611237389627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a4db31aa39c66c0800000000000000
+      internalID: -4148778798030173585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9aa7e2627db7a70800000000000000
+      internalID: 8825884453751138805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c309e81ca0ee1170800000000000000
+      internalID: 8151199405344097218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffa2add80e764ed0800000000000000
+      internalID: -2430116372376539139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fd1c18dd2b684b0800000000000000
+      internalID: -5438462835568812151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613568602820fda0800000000000000
+      internalID: -5913182191081934486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06887578c8c28930800000000000000
+      internalID: 4144095370424124940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89382164ec9bdf880800000000000000
+      internalID: -8575493819853536360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e556294f33c57d610800000000000000
+      internalID: 1645885567043528030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466242b6c90182b0800000000000000
+      internalID: -5584171313963833778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf943b0f7b43e1490800000000000000
+      internalID: -7773717942172956165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0626e96baf8dc32d0800000000000000
+      internalID: -3297522255824788896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba6ebd34f930cfb0800000000000000
+      internalID: -4629636695766177099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7621808282ab24520800000000000000
+      internalID: 2684913009499312743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef84a060a1218de0800000000000000
+      internalID: -1332747042025074705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fdc479d64000230800000000000000
+      internalID: 3602884570632740681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1608689424990dac0800000000000000
+      internalID: -3832394772911849375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d8be9ac49e4a910800000000000000
+      internalID: 1847858262606318910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb6ca215214a7e60800000000000000
+      internalID: 7960746918813658051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2cc6a3cbb3e3270800000000000000
+      internalID: 8232082848499942083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3192a1f1d55f4530800000000000000
+      internalID: 3841383367360811322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c0fb51fca9e9e90800000000000000
+      internalID: -7017000955182904267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f9141930620fa90800000000000000
+      internalID: -7282278800694337707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ca20e73404a5e20800000000000000
+      internalID: 3340052732269735048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91201825a940c130800000000000000
+      internalID: 3584946277077492124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d3f0ac684d07c20800000000000000
+      internalID: 3202293010441125222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b26a433f35e5bd0800000000000000
+      internalID: -2639580027567068263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d673bfa497e61f470800000000000000
+      internalID: 8426637845014984557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abee4827ff62dc5c0800000000000000
+      internalID: -4193652799432233286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bfb4fe379848ab0800000000000000
+      internalID: -5006725754700170485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1000f9ec5788ac00800000000000000
+      internalID: 912127757674086428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9973040f4217ea930800000000000000
+      internalID: 4156383909573048217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09717f25fc1467510800000000000000
+      internalID: 1546495880754304912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba0b37236baabb0800000000000000
+      internalID: -4923922914770637852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4481e1dadaab800800000000000000
+      internalID: 629006057017459940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fc2978a1bd68a60800000000000000
+      internalID: 7676063521889767219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c644cd85837df71d0800000000000000
+      internalID: -3350722960731388820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350676722537e00d0800000000000000
+      internalID: -3454697067460992941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89741dd82ae575670800000000000000
+      internalID: 8527388471706339224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3143fd788f8cb13c0800000000000000
+      internalID: -4387692442185419757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d3d0484c07f02a0800000000000000
+      internalID: -6769067725583205089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff88149cda3d8db0800000000000000
+      internalID: -4788106109773115405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c788d0d7e870160800000000000000
+      internalID: 6991713614265089044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb094e3cfe03fb520800000000000000
+      internalID: 2719946506296922302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf5e8b56d44eb90800000000000000
+      internalID: -7213555603851575834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789628194502b6620800000000000000
+      internalID: 2768341943539886471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4541c8e2d109efb60800000000000000
+      internalID: 7781815661152179284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061a3d573c1a15ef0800000000000000
+      internalID: -121137854094794400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b3483742abe42f0800000000000000
+      internalID: -986646602627925179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b69bb1677e6d490800000000000000
+      internalID: -7721730016622843028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f557b1749477fa0800000000000000
+      internalID: -5803089025091412103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73029cccde02cbdc0800000000000000
+      internalID: -3621983794597650377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62e057a01cf0320800000000000000
+      internalID: 2526450166635833052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c7bb5a3f05b9f60800000000000000
+      internalID: 8042110566987955356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d300868500ab6e10800000000000000
+      internalID: 2192021589237695446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c1759119ab1340800000000000000
+      internalID: 4835644517899157779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee4ef35f5b04c5e0800000000000000
+      internalID: -1890373439529791772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d1e02e850f7a360800000000000000
+      internalID: 7180972395405909340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f87f8ad8fa65e10800000000000000
+      internalID: 2186127692095000464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f817d1decee663410800000000000000
+      internalID: 1456473493370401167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ebd6c3d9e6d3b70800000000000000
+      internalID: 8880375661847232024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Hooded_BROWN-Combat_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890f475598996ac00800000000000000
+      internalID: 911584789712400536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b7f993d272ec2247b8b7415b4837efe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":16.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage_Hooded_BROWN-Combat_0: -6809925153491598471
+      Mage_Hooded_BROWN-Combat_1: 4921736611237389627
+      Mage_Hooded_BROWN-Combat_10: 1645885567043528030
+      Mage_Hooded_BROWN-Combat_11: -5584171313963833778
+      Mage_Hooded_BROWN-Combat_12: -7773717942172956165
+      Mage_Hooded_BROWN-Combat_13: -3297522255824788896
+      Mage_Hooded_BROWN-Combat_14: -4629636695766177099
+      Mage_Hooded_BROWN-Combat_15: 2684913009499312743
+      Mage_Hooded_BROWN-Combat_16: -1332747042025074705
+      Mage_Hooded_BROWN-Combat_17: 3602884570632740681
+      Mage_Hooded_BROWN-Combat_18: -3832394772911849375
+      Mage_Hooded_BROWN-Combat_19: 1847858262606318910
+      Mage_Hooded_BROWN-Combat_2: -4148778798030173585
+      Mage_Hooded_BROWN-Combat_20: 7960746918813658051
+      Mage_Hooded_BROWN-Combat_21: 8232082848499942083
+      Mage_Hooded_BROWN-Combat_22: 3841383367360811322
+      Mage_Hooded_BROWN-Combat_23: -7017000955182904267
+      Mage_Hooded_BROWN-Combat_24: -7282278800694337707
+      Mage_Hooded_BROWN-Combat_25: 3340052732269735048
+      Mage_Hooded_BROWN-Combat_26: 3584946277077492124
+      Mage_Hooded_BROWN-Combat_27: 3202293010441125222
+      Mage_Hooded_BROWN-Combat_28: -2639580027567068263
+      Mage_Hooded_BROWN-Combat_29: 8426637845014984557
+      Mage_Hooded_BROWN-Combat_3: 8825884453751138805
+      Mage_Hooded_BROWN-Combat_30: -4193652799432233286
+      Mage_Hooded_BROWN-Combat_31: -5006725754700170485
+      Mage_Hooded_BROWN-Combat_32: 912127757674086428
+      Mage_Hooded_BROWN-Combat_33: 4156383909573048217
+      Mage_Hooded_BROWN-Combat_34: 1546495880754304912
+      Mage_Hooded_BROWN-Combat_35: -4923922914770637852
+      Mage_Hooded_BROWN-Combat_36: 629006057017459940
+      Mage_Hooded_BROWN-Combat_37: 7676063521889767219
+      Mage_Hooded_BROWN-Combat_38: -3350722960731388820
+      Mage_Hooded_BROWN-Combat_39: -3454697067460992941
+      Mage_Hooded_BROWN-Combat_4: 8151199405344097218
+      Mage_Hooded_BROWN-Combat_40: 8527388471706339224
+      Mage_Hooded_BROWN-Combat_41: -4387692442185419757
+      Mage_Hooded_BROWN-Combat_42: -6769067725583205089
+      Mage_Hooded_BROWN-Combat_43: -4788106109773115405
+      Mage_Hooded_BROWN-Combat_44: 6991713614265089044
+      Mage_Hooded_BROWN-Combat_45: 2719946506296922302
+      Mage_Hooded_BROWN-Combat_46: -7213555603851575834
+      Mage_Hooded_BROWN-Combat_47: 2768341943539886471
+      Mage_Hooded_BROWN-Combat_48: 7781815661152179284
+      Mage_Hooded_BROWN-Combat_49: -121137854094794400
+      Mage_Hooded_BROWN-Combat_5: -2430116372376539139
+      Mage_Hooded_BROWN-Combat_50: -986646602627925179
+      Mage_Hooded_BROWN-Combat_51: -7721730016622843028
+      Mage_Hooded_BROWN-Combat_52: -5803089025091412103
+      Mage_Hooded_BROWN-Combat_53: -3621983794597650377
+      Mage_Hooded_BROWN-Combat_54: 2526450166635833052
+      Mage_Hooded_BROWN-Combat_55: 8042110566987955356
+      Mage_Hooded_BROWN-Combat_56: 2192021589237695446
+      Mage_Hooded_BROWN-Combat_57: 4835644517899157779
+      Mage_Hooded_BROWN-Combat_58: -1890373439529791772
+      Mage_Hooded_BROWN-Combat_59: 7180972395405909340
+      Mage_Hooded_BROWN-Combat_6: -5438462835568812151
+      Mage_Hooded_BROWN-Combat_60: 2186127692095000464
+      Mage_Hooded_BROWN-Combat_61: 1456473493370401167
+      Mage_Hooded_BROWN-Combat_62: 8880375661847232024
+      Mage_Hooded_BROWN-Combat_63: 911584789712400536
+      Mage_Hooded_BROWN-Combat_7: -5913182191081934486
+      Mage_Hooded_BROWN-Combat_8: 4144095370424124940
+      Mage_Hooded_BROWN-Combat_9: -8575493819853536360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

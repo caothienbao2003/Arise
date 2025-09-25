@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 10805313187423241834f85d8c7f819d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4902459160650566025
+    second: Paladin_Combat_32x32_0
+  - first:
+      213: -80465131872195795
+    second: Paladin_Combat_32x32_1
+  - first:
+      213: 2678594337365771572
+    second: Paladin_Combat_32x32_2
+  - first:
+      213: -4527274538599436139
+    second: Paladin_Combat_32x32_3
+  - first:
+      213: -7959032304345464161
+    second: Paladin_Combat_32x32_4
+  - first:
+      213: 6381699596510016324
+    second: Paladin_Combat_32x32_5
+  - first:
+      213: -3101528173061484319
+    second: Paladin_Combat_32x32_6
+  - first:
+      213: 6997625264848003420
+    second: Paladin_Combat_32x32_7
+  - first:
+      213: 6116684845329723668
+    second: Paladin_Combat_32x32_8
+  - first:
+      213: 2849737190667041388
+    second: Paladin_Combat_32x32_9
+  - first:
+      213: 6553284047204881082
+    second: Paladin_Combat_32x32_10
+  - first:
+      213: 1882942481734349587
+    second: Paladin_Combat_32x32_11
+  - first:
+      213: -7106894034540382999
+    second: Paladin_Combat_32x32_12
+  - first:
+      213: -2502018376070565229
+    second: Paladin_Combat_32x32_13
+  - first:
+      213: -7058803040706703679
+    second: Paladin_Combat_32x32_14
+  - first:
+      213: 7676608270289598042
+    second: Paladin_Combat_32x32_15
+  - first:
+      213: -1646826372504727697
+    second: Paladin_Combat_32x32_16
+  - first:
+      213: -5772106436295849239
+    second: Paladin_Combat_32x32_17
+  - first:
+      213: 5396421578768195305
+    second: Paladin_Combat_32x32_18
+  - first:
+      213: 8053043670108212466
+    second: Paladin_Combat_32x32_19
+  - first:
+      213: -2496313807455003311
+    second: Paladin_Combat_32x32_20
+  - first:
+      213: -8499613922535626909
+    second: Paladin_Combat_32x32_21
+  - first:
+      213: 4440662077290761661
+    second: Paladin_Combat_32x32_22
+  - first:
+      213: -5381006276745133489
+    second: Paladin_Combat_32x32_23
+  - first:
+      213: -2512379061741969365
+    second: Paladin_Combat_32x32_24
+  - first:
+      213: -6285693214060169780
+    second: Paladin_Combat_32x32_25
+  - first:
+      213: 3242332931241467454
+    second: Paladin_Combat_32x32_26
+  - first:
+      213: 6509268240913392027
+    second: Paladin_Combat_32x32_27
+  - first:
+      213: 725936495144960423
+    second: Paladin_Combat_32x32_28
+  - first:
+      213: 7845255875584359894
+    second: Paladin_Combat_32x32_29
+  - first:
+      213: 3161825442864807470
+    second: Paladin_Combat_32x32_30
+  - first:
+      213: 7402342006651656267
+    second: Paladin_Combat_32x32_31
+  - first:
+      213: -6033534270071553595
+    second: Paladin_Combat_32x32_32
+  - first:
+      213: 6604270689825818101
+    second: Paladin_Combat_32x32_33
+  - first:
+      213: 1899960245999668839
+    second: Paladin_Combat_32x32_34
+  - first:
+      213: -5979052586189143595
+    second: Paladin_Combat_32x32_35
+  - first:
+      213: -719630164423477187
+    second: Paladin_Combat_32x32_36
+  - first:
+      213: 8804689184376265819
+    second: Paladin_Combat_32x32_37
+  - first:
+      213: -7402188433500461008
+    second: Paladin_Combat_32x32_38
+  - first:
+      213: 542505695940807141
+    second: Paladin_Combat_32x32_39
+  - first:
+      213: -4081069231782475564
+    second: Paladin_Combat_32x32_40
+  - first:
+      213: 6857678615389620124
+    second: Paladin_Combat_32x32_41
+  - first:
+      213: -6010584669148423234
+    second: Paladin_Combat_32x32_42
+  - first:
+      213: 5955732366058827501
+    second: Paladin_Combat_32x32_43
+  - first:
+      213: -6129879180777481556
+    second: Paladin_Combat_32x32_44
+  - first:
+      213: -6517544654737140037
+    second: Paladin_Combat_32x32_45
+  - first:
+      213: 4962743867744368833
+    second: Paladin_Combat_32x32_46
+  - first:
+      213: -4923785859620603002
+    second: Paladin_Combat_32x32_47
+  - first:
+      213: 2354084120035646463
+    second: Paladin_Combat_32x32_48
+  - first:
+      213: -196377870710415563
+    second: Paladin_Combat_32x32_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989cf6cd1a8090440800000000000000
+      internalID: 4902459160650566025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 359
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be3fd836122eef0800000000000000
+      internalID: -80465131872195795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 359
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354f08ab574c2520800000000000000
+      internalID: 2678594337365771572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 359
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5903c1e2bc3eb21c0800000000000000
+      internalID: -4527274538599436139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 327
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9241a7b946db8190800000000000000
+      internalID: -7959032304345464161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 327
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443bb39a8f9509850800000000000000
+      internalID: 6381699596510016324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 325
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0ddc72f8825f4d0800000000000000
+      internalID: -3101528173061484319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5160967a1f8c1160800000000000000
+      internalID: 6997625264848003420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 325
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411b4e09574d2e450800000000000000
+      internalID: 6116684845329723668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 295
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6abde850ec4c8720800000000000000
+      internalID: 2849737190667041388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 295
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab291e1ce11f1fa50800000000000000
+      internalID: 6553284047204881082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 295
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b44cf53e812a10800000000000000
+      internalID: 1882942481734349587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 295
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b0ee878d3f5d90800000000000000
+      internalID: -7106894034540382999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39270d01b8b074dd0800000000000000
+      internalID: -2502018376070565229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 263
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceca3b98081a0e90800000000000000
+      internalID: -7058803040706703679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 261
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ff66ac8ac88a60800000000000000
+      internalID: 7676608270289598042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 261
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f4c14b32c4529e0800000000000000
+      internalID: -1646826372504727697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 261
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea07d237cb55efa0800000000000000
+      internalID: -5772106436295849239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee1bbc95d0f3ea40800000000000000
+      internalID: 5396421578768195305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc02851d8822cf60800000000000000
+      internalID: 8053043670108212466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dddb271df4b5dd0800000000000000
+      internalID: -2496313807455003311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ac4b9b2e4b0a80800000000000000
+      internalID: -8499613922535626909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdc674b1a660ad30800000000000000
+      internalID: 4440662077290761661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 199
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4285741d43d255b0800000000000000
+      internalID: -5381006276745133489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20adb3fd8c322dd0800000000000000
+      internalID: -2512379061741969365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 191
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc53cd8235bb4c8a0800000000000000
+      internalID: -6285693214060169780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 166
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed2325f941ffc20800000000000000
+      internalID: 3242332931241467454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91ef5f3af0955a50800000000000000
+      internalID: 6509268240913392027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 167
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a18b9a656b031a00800000000000000
+      internalID: 725936495144960423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 167
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd704427a2ffdc60800000000000000
+      internalID: 7845255875584359894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebfbbfc7f01eb20800000000000000
+      internalID: 3161825442864807470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b489c64f5d66ab660800000000000000
+      internalID: 7402342006651656267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 134
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c14d346c84944ca0800000000000000
+      internalID: -6033534270071553595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 134
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58793933517ab50800000000000000
+      internalID: 6604270689825818101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 103
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e8c2ef6c30e5a10800000000000000
+      internalID: 1899960245999668839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1c0dae953260da0800000000000000
+      internalID: -5979052586189143595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 103
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38f1ef9d2c5306f0800000000000000
+      internalID: -719630164423477187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c9878f92a803a70800000000000000
+      internalID: 8804689184376265819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03823b496d4264990800000000000000
+      internalID: -7402188433500461008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e98d2f5e0e578700800000000000000
+      internalID: 542505695940807141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d844d7f7212d57c0800000000000000
+      internalID: -4081069231782475564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97471efd5e5b2f50800000000000000
+      internalID: 6857678615389620124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbdffeb61d169ca0800000000000000
+      internalID: -6010584669148423234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 40
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeab38380307a250800000000000000
+      internalID: 5955732366058827501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa12b1dc5b4eeaa0800000000000000
+      internalID: -6129879180777481556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb695aefaa70d85a0800000000000000
+      internalID: -6517544654737140037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b62401453fd440800000000000000
+      internalID: 4962743867744368833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf83719d23babb0800000000000000
+      internalID: -4923785859620603002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbdc12e8036ba020800000000000000
+      internalID: 2354084120035646463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fde86fd53564df0800000000000000
+      internalID: -196377870710415563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Paladin_Combat_32x32_0: 4902459160650566025
+      Paladin_Combat_32x32_1: -80465131872195795
+      Paladin_Combat_32x32_10: 6553284047204881082
+      Paladin_Combat_32x32_11: 1882942481734349587
+      Paladin_Combat_32x32_12: -7106894034540382999
+      Paladin_Combat_32x32_13: -2502018376070565229
+      Paladin_Combat_32x32_14: -7058803040706703679
+      Paladin_Combat_32x32_15: 7676608270289598042
+      Paladin_Combat_32x32_16: -1646826372504727697
+      Paladin_Combat_32x32_17: -5772106436295849239
+      Paladin_Combat_32x32_18: 5396421578768195305
+      Paladin_Combat_32x32_19: 8053043670108212466
+      Paladin_Combat_32x32_2: 2678594337365771572
+      Paladin_Combat_32x32_20: -2496313807455003311
+      Paladin_Combat_32x32_21: -8499613922535626909
+      Paladin_Combat_32x32_22: 4440662077290761661
+      Paladin_Combat_32x32_23: -5381006276745133489
+      Paladin_Combat_32x32_24: -2512379061741969365
+      Paladin_Combat_32x32_25: -6285693214060169780
+      Paladin_Combat_32x32_26: 3242332931241467454
+      Paladin_Combat_32x32_27: 6509268240913392027
+      Paladin_Combat_32x32_28: 725936495144960423
+      Paladin_Combat_32x32_29: 7845255875584359894
+      Paladin_Combat_32x32_3: -4527274538599436139
+      Paladin_Combat_32x32_30: 3161825442864807470
+      Paladin_Combat_32x32_31: 7402342006651656267
+      Paladin_Combat_32x32_32: -6033534270071553595
+      Paladin_Combat_32x32_33: 6604270689825818101
+      Paladin_Combat_32x32_34: 1899960245999668839
+      Paladin_Combat_32x32_35: -5979052586189143595
+      Paladin_Combat_32x32_36: -719630164423477187
+      Paladin_Combat_32x32_37: 8804689184376265819
+      Paladin_Combat_32x32_38: -7402188433500461008
+      Paladin_Combat_32x32_39: 542505695940807141
+      Paladin_Combat_32x32_4: -7959032304345464161
+      Paladin_Combat_32x32_40: -4081069231782475564
+      Paladin_Combat_32x32_41: 6857678615389620124
+      Paladin_Combat_32x32_42: -6010584669148423234
+      Paladin_Combat_32x32_43: 5955732366058827501
+      Paladin_Combat_32x32_44: -6129879180777481556
+      Paladin_Combat_32x32_45: -6517544654737140037
+      Paladin_Combat_32x32_46: 4962743867744368833
+      Paladin_Combat_32x32_47: -4923785859620603002
+      Paladin_Combat_32x32_48: 2354084120035646463
+      Paladin_Combat_32x32_49: -196377870710415563
+      Paladin_Combat_32x32_5: 6381699596510016324
+      Paladin_Combat_32x32_6: -3101528173061484319
+      Paladin_Combat_32x32_7: 6997625264848003420
+      Paladin_Combat_32x32_8: 6116684845329723668
+      Paladin_Combat_32x32_9: 2849737190667041388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

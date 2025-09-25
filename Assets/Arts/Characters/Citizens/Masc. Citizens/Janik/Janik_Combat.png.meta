@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 1137440217cb2a44d9032c54cfad28f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4852516240480611990
+    second: Janik_Combat_0
+  - first:
+      213: -3120091547606702846
+    second: Janik_Combat_1
+  - first:
+      213: -4859340812309497184
+    second: Janik_Combat_2
+  - first:
+      213: -99810944275157670
+    second: Janik_Combat_3
+  - first:
+      213: 1256131450123662372
+    second: Janik_Combat_4
+  - first:
+      213: -6493498293003910932
+    second: Janik_Combat_5
+  - first:
+      213: -3468440689749574146
+    second: Janik_Combat_6
+  - first:
+      213: 2455986307050346344
+    second: Janik_Combat_7
+  - first:
+      213: -2673228642157390136
+    second: Janik_Combat_8
+  - first:
+      213: 3217268472169428824
+    second: Janik_Combat_9
+  - first:
+      213: 3698943914583211834
+    second: Janik_Combat_10
+  - first:
+      213: -8762333721876874267
+    second: Janik_Combat_11
+  - first:
+      213: 1308855547928497549
+    second: Janik_Combat_12
+  - first:
+      213: 2147676072372553729
+    second: Janik_Combat_13
+  - first:
+      213: -6430067208886797355
+    second: Janik_Combat_14
+  - first:
+      213: -4412436577025750615
+    second: Janik_Combat_15
+  - first:
+      213: 3759939256248243790
+    second: Janik_Combat_16
+  - first:
+      213: 748874680926330655
+    second: Janik_Combat_17
+  - first:
+      213: 7935128148851512743
+    second: Janik_Combat_18
+  - first:
+      213: 6513456245960618353
+    second: Janik_Combat_19
+  - first:
+      213: 2947218172030062863
+    second: Janik_Combat_20
+  - first:
+      213: -2684594145705610585
+    second: Janik_Combat_21
+  - first:
+      213: -2473034101219868807
+    second: Janik_Combat_22
+  - first:
+      213: 674763359859135650
+    second: Janik_Combat_23
+  - first:
+      213: -5686251071122176096
+    second: Janik_Combat_24
+  - first:
+      213: 406260659608810743
+    second: Janik_Combat_25
+  - first:
+      213: 3198348052584613869
+    second: Janik_Combat_26
+  - first:
+      213: -7290851350056716964
+    second: Janik_Combat_27
+  - first:
+      213: -7960808830526545154
+    second: Janik_Combat_28
+  - first:
+      213: -1735507478732051014
+    second: Janik_Combat_29
+  - first:
+      213: -470188356826539395
+    second: Janik_Combat_30
+  - first:
+      213: 2646148640967160143
+    second: Janik_Combat_31
+  - first:
+      213: -4854414478113415159
+    second: Janik_Combat_32
+  - first:
+      213: 5118161345163620747
+    second: Janik_Combat_33
+  - first:
+      213: -5688657439214251198
+    second: Janik_Combat_34
+  - first:
+      213: -3807831579923823982
+    second: Janik_Combat_35
+  - first:
+      213: 8950711030781422094
+    second: Janik_Combat_36
+  - first:
+      213: -7832195278545589831
+    second: Janik_Combat_37
+  - first:
+      213: -8825186664140688909
+    second: Janik_Combat_38
+  - first:
+      213: -2043896967942187081
+    second: Janik_Combat_39
+  - first:
+      213: 1010300749495501426
+    second: Janik_Combat_40
+  - first:
+      213: -7250364904760932129
+    second: Janik_Combat_41
+  - first:
+      213: -7850817553906900332
+    second: Janik_Combat_42
+  - first:
+      213: -722139699190572908
+    second: Janik_Combat_43
+  - first:
+      213: -2220347387471729105
+    second: Janik_Combat_44
+  - first:
+      213: 1035394532716465248
+    second: Janik_Combat_45
+  - first:
+      213: 3040636959652317799
+    second: Janik_Combat_46
+  - first:
+      213: -7313626451648734336
+    second: Janik_Combat_47
+  - first:
+      213: 1136416921531825356
+    second: Janik_Combat_48
+  - first:
+      213: 2592293837723430769
+    second: Janik_Combat_49
+  - first:
+      213: 7345149159287121695
+    second: Janik_Combat_50
+  - first:
+      213: -1952336783093377417
+    second: Janik_Combat_51
+  - first:
+      213: 6790962714794577277
+    second: Janik_Combat_52
+  - first:
+      213: -6142239348572301106
+    second: Janik_Combat_53
+  - first:
+      213: 3750865786832946208
+    second: Janik_Combat_54
+  - first:
+      213: -813889985354994079
+    second: Janik_Combat_55
+  - first:
+      213: -3780522176671693095
+    second: Janik_Combat_56
+  - first:
+      213: -1182947743759478478
+    second: Janik_Combat_57
+  - first:
+      213: 4414331675983243880
+    second: Janik_Combat_58
+  - first:
+      213: 2122187538430174138
+    second: Janik_Combat_59
+  - first:
+      213: 5276646589983398152
+    second: Janik_Combat_60
+  - first:
+      213: 5595736563310963617
+    second: Janik_Combat_61
+  - first:
+      213: 7432853976114510925
+    second: Janik_Combat_62
+  - first:
+      213: -7167818610555579822
+    second: Janik_Combat_63
+  - first:
+      213: -5514148703008241661
+    second: Janik_Combat_64
+  - first:
+      213: 2662721345455244912
+    second: Janik_Combat_65
+  - first:
+      213: 4352021553017763345
+    second: Janik_Combat_66
+  - first:
+      213: -1891280751648425939
+    second: Janik_Combat_67
+  - first:
+      213: 312572371431913578
+    second: Janik_Combat_68
+  - first:
+      213: -4228114250432833248
+    second: Janik_Combat_69
+  - first:
+      213: 5711137238506105165
+    second: Janik_Combat_70
+  - first:
+      213: 1498928319137262080
+    second: Janik_Combat_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Janik_Combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e29ac9fc9975340800000000000000
+      internalID: 4852516240480611990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2052436b44533b4d0800000000000000
+      internalID: -3120091547606702846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 303
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aafbbfe647209cb0800000000000000
+      internalID: -4859340812309497184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d68c999766d9ef0800000000000000
+      internalID: -99810944275157670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42431db06ecae6110800000000000000
+      internalID: 1256131450123662372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce085efd4b572e5a0800000000000000
+      internalID: -6493498293003910932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd37fab19f9ddfc0800000000000000
+      internalID: -3468440689749574146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86795fca88a651220800000000000000
+      internalID: 2455986307050346344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c61fcc96b8c6ead0800000000000000
+      internalID: -2673228642157390136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f8be21a806ac20800000000000000
+      internalID: 3217268472169428824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f33d874e9455330800000000000000
+      internalID: 3698943914583211834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb3a10a7efe56680800000000000000
+      internalID: -8762333721876874267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc39caf2df92210800000000000000
+      internalID: 1308855547928497549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084f5a42041ecd10800000000000000
+      internalID: 2147676072372553729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db3a6401ffc3c6a0800000000000000
+      internalID: -6430067208886797355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a98070bf40e3c2c0800000000000000
+      internalID: -4412436577025750615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4619b125dcfd2430800000000000000
+      internalID: 3759939256248243790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fd5e9fd89846a00800000000000000
+      internalID: 748874680926330655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a55f7f520d3f1e60800000000000000
+      internalID: 7935128148851512743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171388822f1746a50800000000000000
+      internalID: 6513456245960618353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019d6bff4f96e820800000000000000
+      internalID: 2947218172030062863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2bf1b19d76ebad0800000000000000
+      internalID: -2684594145705610585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fbc5f66940eadd0800000000000000
+      internalID: -2473034101219868807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a45ad363bd3d5900800000000000000
+      internalID: 674763359859135650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7041227c06611b0800000000000000
+      internalID: -5686251071122176096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4f23edae353a500800000000000000
+      internalID: 406260659608810743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de74e56bb90d26c20800000000000000
+      internalID: 3198348052584613869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5531b16351b1da90800000000000000
+      internalID: -7290851350056716964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef22cabfb86858190800000000000000
+      internalID: -7960808830526545154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd6429a42d3ae7e0800000000000000
+      internalID: -1735507478732051014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a54dd3e2e8979f0800000000000000
+      internalID: -470188356826539395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41fab74b2209b420800000000000000
+      internalID: 2646148640967160143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900698f70c7a1acb0800000000000000
+      internalID: -4854414478113415159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81fc9150ac570740800000000000000
+      internalID: 5118161345163620747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24350c6e234dd01b0800000000000000
+      internalID: -5688657439214251198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29240225a5dd72bc0800000000000000
+      internalID: -3807831579923823982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa5e47240573c70800000000000000
+      internalID: 8950711030781422094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b96cc214e37e4390800000000000000
+      internalID: -7832195278545589831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1316f9c73a68580800000000000000
+      internalID: -8825186664140688909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7de44698e92a3e0800000000000000
+      internalID: -2043896967942187081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2728df9cd2f450e00800000000000000
+      internalID: 1010300749495501426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd804cf7887816b90800000000000000
+      internalID: -7250364904760932129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4926af6b70b4c0390800000000000000
+      internalID: -7850817553906900332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d98705c17af5f0800000000000000
+      internalID: -722139699190572908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee7c3a0ddbf21e0800000000000000
+      internalID: -2220347387471729105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c42fc77d57e5e00800000000000000
+      internalID: 1035394532716465248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a000f6433823a20800000000000000
+      internalID: 3040636959652317799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b9391dd77c08a90800000000000000
+      internalID: -7313626451648734336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_48
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccb5ac4b2d55cf00800000000000000
+      internalID: 1136416921531825356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f60f6c28da9f320800000000000000
+      internalID: 2592293837723430769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17619d7e363fe560800000000000000
+      internalID: 7345149159287121695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7765ac92a08e7e4e0800000000000000
+      internalID: -1952336783093377417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dc04aeb985e3e50800000000000000
+      internalID: 6790962714794577277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8dbeefad162caa0800000000000000
+      internalID: -6142239348572301106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02408586f80cd0430800000000000000
+      internalID: 3750865786832946208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eeaa8de5b74b4f0800000000000000
+      internalID: -813889985354994079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 80
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d64ff14c13e88bc0800000000000000
+      internalID: -3780522176671693095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231dd596b43559fe0800000000000000
+      internalID: -1182947743759478478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6cbb654bd24d30800000000000000
+      internalID: 4414331675983243880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab324e68256837d10800000000000000
+      internalID: 2122187538430174138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8099c31ed1a6a3940800000000000000
+      internalID: 5276646589983398152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aba0d0c1cc08ad40800000000000000
+      internalID: 5595736563310963617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cb7a17f4dc62760800000000000000
+      internalID: 7432853976114510925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252966f43fac68c90800000000000000
+      internalID: -7167818610555579822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308438648fec973b0800000000000000
+      internalID: -5514148703008241661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076c5bbb4f2e3f420800000000000000
+      internalID: 2662721345455244912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116b7726b8c756c30800000000000000
+      internalID: 4352021553017763345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2836734d22d0c5e0800000000000000
+      internalID: -1891280751648425939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68fccd6aea765400800000000000000
+      internalID: 312572371431913578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_69
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0291f21ad78b255c0800000000000000
+      internalID: -4228114250432833248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4969ac3f09024f40800000000000000
+      internalID: 5711137238506105165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Janik_Combat_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a23f55d534dc410800000000000000
+      internalID: 1498928319137262080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Janik_Combat_0: 4852516240480611990
+      Janik_Combat_1: -3120091547606702846
+      Janik_Combat_10: 3698943914583211834
+      Janik_Combat_11: -8762333721876874267
+      Janik_Combat_12: 1308855547928497549
+      Janik_Combat_13: 2147676072372553729
+      Janik_Combat_14: -6430067208886797355
+      Janik_Combat_15: -4412436577025750615
+      Janik_Combat_16: 3759939256248243790
+      Janik_Combat_17: 748874680926330655
+      Janik_Combat_18: 7935128148851512743
+      Janik_Combat_19: 6513456245960618353
+      Janik_Combat_2: -4859340812309497184
+      Janik_Combat_20: 2947218172030062863
+      Janik_Combat_21: -2684594145705610585
+      Janik_Combat_22: -2473034101219868807
+      Janik_Combat_23: 674763359859135650
+      Janik_Combat_24: -5686251071122176096
+      Janik_Combat_25: 406260659608810743
+      Janik_Combat_26: 3198348052584613869
+      Janik_Combat_27: -7290851350056716964
+      Janik_Combat_28: -7960808830526545154
+      Janik_Combat_29: -1735507478732051014
+      Janik_Combat_3: -99810944275157670
+      Janik_Combat_30: -470188356826539395
+      Janik_Combat_31: 2646148640967160143
+      Janik_Combat_32: -4854414478113415159
+      Janik_Combat_33: 5118161345163620747
+      Janik_Combat_34: -5688657439214251198
+      Janik_Combat_35: -3807831579923823982
+      Janik_Combat_36: 8950711030781422094
+      Janik_Combat_37: -7832195278545589831
+      Janik_Combat_38: -8825186664140688909
+      Janik_Combat_39: -2043896967942187081
+      Janik_Combat_4: 1256131450123662372
+      Janik_Combat_40: 1010300749495501426
+      Janik_Combat_41: -7250364904760932129
+      Janik_Combat_42: -7850817553906900332
+      Janik_Combat_43: -722139699190572908
+      Janik_Combat_44: -2220347387471729105
+      Janik_Combat_45: 1035394532716465248
+      Janik_Combat_46: 3040636959652317799
+      Janik_Combat_47: -7313626451648734336
+      Janik_Combat_48: 1136416921531825356
+      Janik_Combat_49: 2592293837723430769
+      Janik_Combat_5: -6493498293003910932
+      Janik_Combat_50: 7345149159287121695
+      Janik_Combat_51: -1952336783093377417
+      Janik_Combat_52: 6790962714794577277
+      Janik_Combat_53: -6142239348572301106
+      Janik_Combat_54: 3750865786832946208
+      Janik_Combat_55: -813889985354994079
+      Janik_Combat_56: -3780522176671693095
+      Janik_Combat_57: -1182947743759478478
+      Janik_Combat_58: 4414331675983243880
+      Janik_Combat_59: 2122187538430174138
+      Janik_Combat_6: -3468440689749574146
+      Janik_Combat_60: 5276646589983398152
+      Janik_Combat_61: 5595736563310963617
+      Janik_Combat_62: 7432853976114510925
+      Janik_Combat_63: -7167818610555579822
+      Janik_Combat_64: -5514148703008241661
+      Janik_Combat_65: 2662721345455244912
+      Janik_Combat_66: 4352021553017763345
+      Janik_Combat_67: -1891280751648425939
+      Janik_Combat_68: 312572371431913578
+      Janik_Combat_69: -4228114250432833248
+      Janik_Combat_7: 2455986307050346344
+      Janik_Combat_70: 5711137238506105165
+      Janik_Combat_71: 1498928319137262080
+      Janik_Combat_8: -2673228642157390136
+      Janik_Combat_9: 3217268472169428824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

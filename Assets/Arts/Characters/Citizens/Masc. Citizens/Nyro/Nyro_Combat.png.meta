@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 7dbb553d6e9fd9842b9425fda19d5305
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4880317382707788444
+    second: Nyro_Combat_0
+  - first:
+      213: 1676296075621925017
+    second: Nyro_Combat_1
+  - first:
+      213: 5688772391244688856
+    second: Nyro_Combat_2
+  - first:
+      213: -7841765586373059593
+    second: Nyro_Combat_3
+  - first:
+      213: -2082073780998600739
+    second: Nyro_Combat_4
+  - first:
+      213: -4848418197967475094
+    second: Nyro_Combat_5
+  - first:
+      213: 3455099359388351697
+    second: Nyro_Combat_6
+  - first:
+      213: -7755450155950982219
+    second: Nyro_Combat_7
+  - first:
+      213: 6642043863928943196
+    second: Nyro_Combat_8
+  - first:
+      213: 7820506773448705210
+    second: Nyro_Combat_9
+  - first:
+      213: -7201215950903698735
+    second: Nyro_Combat_10
+  - first:
+      213: -3383243778657409273
+    second: Nyro_Combat_11
+  - first:
+      213: -7038197140415391993
+    second: Nyro_Combat_12
+  - first:
+      213: -682081860329102375
+    second: Nyro_Combat_13
+  - first:
+      213: 974635097479378570
+    second: Nyro_Combat_14
+  - first:
+      213: -5975224537315925883
+    second: Nyro_Combat_15
+  - first:
+      213: 1938084766416146475
+    second: Nyro_Combat_16
+  - first:
+      213: -320927920389262278
+    second: Nyro_Combat_17
+  - first:
+      213: 568012819536208548
+    second: Nyro_Combat_18
+  - first:
+      213: 4264085407584593608
+    second: Nyro_Combat_19
+  - first:
+      213: 6371045430515721786
+    second: Nyro_Combat_20
+  - first:
+      213: 2889573915354977755
+    second: Nyro_Combat_21
+  - first:
+      213: -34494568275237600
+    second: Nyro_Combat_22
+  - first:
+      213: 3644350785704238824
+    second: Nyro_Combat_23
+  - first:
+      213: 7758653188572421579
+    second: Nyro_Combat_24
+  - first:
+      213: 137064153935738296
+    second: Nyro_Combat_25
+  - first:
+      213: -664924288573154861
+    second: Nyro_Combat_26
+  - first:
+      213: -7214188402749531900
+    second: Nyro_Combat_27
+  - first:
+      213: -7499480490679350497
+    second: Nyro_Combat_28
+  - first:
+      213: 6859585512672858069
+    second: Nyro_Combat_29
+  - first:
+      213: 1890788540419344080
+    second: Nyro_Combat_30
+  - first:
+      213: -4422346271726366646
+    second: Nyro_Combat_31
+  - first:
+      213: -8058078894018602641
+    second: Nyro_Combat_32
+  - first:
+      213: 6900211421114298070
+    second: Nyro_Combat_33
+  - first:
+      213: -8728520733994594408
+    second: Nyro_Combat_34
+  - first:
+      213: 2370570924161962328
+    second: Nyro_Combat_35
+  - first:
+      213: -8372927282432243779
+    second: Nyro_Combat_36
+  - first:
+      213: 4353300208528962032
+    second: Nyro_Combat_37
+  - first:
+      213: -6860384733452370221
+    second: Nyro_Combat_38
+  - first:
+      213: -5703110430265640489
+    second: Nyro_Combat_39
+  - first:
+      213: -1906674236270803018
+    second: Nyro_Combat_40
+  - first:
+      213: 8588746630612974057
+    second: Nyro_Combat_41
+  - first:
+      213: 1608841405641111897
+    second: Nyro_Combat_42
+  - first:
+      213: 805013683622314992
+    second: Nyro_Combat_43
+  - first:
+      213: -400933831198384343
+    second: Nyro_Combat_44
+  - first:
+      213: -1751604608238414119
+    second: Nyro_Combat_45
+  - first:
+      213: -2084356339708594021
+    second: Nyro_Combat_46
+  - first:
+      213: -7062008908067340864
+    second: Nyro_Combat_47
+  - first:
+      213: 3071117391783439549
+    second: Nyro_Combat_48
+  - first:
+      213: -920809440091828494
+    second: Nyro_Combat_49
+  - first:
+      213: -2042890121609077045
+    second: Nyro_Combat_50
+  - first:
+      213: 5188922526180961501
+    second: Nyro_Combat_51
+  - first:
+      213: 4598820312405548014
+    second: Nyro_Combat_52
+  - first:
+      213: -9140867084012817214
+    second: Nyro_Combat_53
+  - first:
+      213: -5562934133695772386
+    second: Nyro_Combat_54
+  - first:
+      213: 8141883590738724352
+    second: Nyro_Combat_55
+  - first:
+      213: 6315869774817521024
+    second: Nyro_Combat_56
+  - first:
+      213: 8436536997038581766
+    second: Nyro_Combat_57
+  - first:
+      213: -7656643377185352610
+    second: Nyro_Combat_58
+  - first:
+      213: 1593266600733273446
+    second: Nyro_Combat_59
+  - first:
+      213: -7534229189741780161
+    second: Nyro_Combat_60
+  - first:
+      213: 159596061301457772
+    second: Nyro_Combat_61
+  - first:
+      213: 6637825921452752023
+    second: Nyro_Combat_62
+  - first:
+      213: -1875876512472167277
+    second: Nyro_Combat_63
+  - first:
+      213: -3998321839259814890
+    second: Nyro_Combat_64
+  - first:
+      213: -7509326374452112191
+    second: Nyro_Combat_65
+  - first:
+      213: -36095840554587485
+    second: Nyro_Combat_66
+  - first:
+      213: -8004244138236559332
+    second: Nyro_Combat_67
+  - first:
+      213: 8359193782001144330
+    second: Nyro_Combat_68
+  - first:
+      213: -7391673879509656017
+    second: Nyro_Combat_69
+  - first:
+      213: 4073019910187328023
+    second: Nyro_Combat_70
+  - first:
+      213: 2298401616509643533
+    second: Nyro_Combat_71
+  - first:
+      213: 3274328809909108036
+    second: Nyro_Combat_72
+  - first:
+      213: 2889608790539092228
+    second: Nyro_Combat_73
+  - first:
+      213: -9031326642269619266
+    second: Nyro_Combat_74
+  - first:
+      213: -1090052195969260884
+    second: Nyro_Combat_75
+  - first:
+      213: -312096092007329330
+    second: Nyro_Combat_76
+  - first:
+      213: -2795578885992663960
+    second: Nyro_Combat_77
+  - first:
+      213: 1306295299486875849
+    second: Nyro_Combat_78
+  - first:
+      213: -8548000753345936411
+    second: Nyro_Combat_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nyro_Combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465c98c8231a54cb0800000000000000
+      internalID: -4880317382707788444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99083dd3666634710800000000000000
+      internalID: 1676296075621925017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd6034795492fe40800000000000000
+      internalID: 5688772391244688856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbd9542fb37c2390800000000000000
+      internalID: -7841765586373059593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd78c6f6decfa13e0800000000000000
+      internalID: -2082073780998600739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eeb934655f6bcb0800000000000000
+      internalID: -4848418197967475094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcb50cbf8af2ff20800000000000000
+      internalID: 3455099359388351697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb3b4d5c2b1f5490800000000000000
+      internalID: -7755450155950982219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c523c0404b74d2c50800000000000000
+      internalID: 6642043863928943196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab442f2c975088c60800000000000000
+      internalID: 7820506773448705210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da128f0f34201c90800000000000000
+      internalID: -7201215950903698735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707239065bd4c01d0800000000000000
+      internalID: -3383243778657409273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707de52adfc435e90800000000000000
+      internalID: -7038197140415391993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3a85f6922c886f0800000000000000
+      internalID: -682081860329102375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86f2e21579968d00800000000000000
+      internalID: 974635097479378570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580261001fcb31da0800000000000000
+      internalID: -5975224537315925883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2094de93d575ea10800000000000000
+      internalID: 1938084766416146475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3471bab1c5db8bf0800000000000000
+      internalID: -320927920389262278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2e25066acf1e700800000000000000
+      internalID: 568012819536208548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6a10b06131d2b30800000000000000
+      internalID: 4264085407584593608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36e3c550108a6850800000000000000
+      internalID: 6371045430515721786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d7f89a24d91820800000000000000
+      internalID: 2889573915354977755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02526477f53758ff0800000000000000
+      internalID: -34494568275237600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee11d22bb5539230800000000000000
+      internalID: 3644350785704238824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9f48c7f54cab60800000000000000
+      internalID: 7758653188572421579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b577ce2f13f6e100800000000000000
+      internalID: 137064153935738296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95119e1e6b5c6f0800000000000000
+      internalID: -664924288573154861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4091f5fbedd02eb90800000000000000
+      internalID: -7214188402749531900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc5194a3e7ce790800000000000000
+      internalID: -7499480490679350497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df084d1ea4223f50800000000000000
+      internalID: 6859585512672858069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d60311e82e6d3a10800000000000000
+      internalID: 1890788540419344080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a401af71f7ba0a2c0800000000000000
+      internalID: -4422346271726366646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69d2fd70f3fb2090800000000000000
+      internalID: -8058078894018602641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de6c968ab972cf50800000000000000
+      internalID: 6900211421114298070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fce9b53a01ed680800000000000000
+      internalID: -8728520733994594408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8511b8912b5f5e020800000000000000
+      internalID: 2370570924161962328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db703709ff26dcb80800000000000000
+      internalID: -8372927282432243779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1b00299770a6c30800000000000000
+      internalID: 4353300208528962032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3defe0cce640bc0a0800000000000000
+      internalID: -6860384733452370221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9f031b74b7ad0b0800000000000000
+      internalID: -5703110430265640489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b780b452e12a85e0800000000000000
+      internalID: -1906674236270803018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f48f2e8b513770800000000000000
+      internalID: 8588746630612974057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959bd230cb0c35610800000000000000
+      internalID: 1608841405641111897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_43
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f303ab1eabfb2b00800000000000000
+      internalID: 805013683622314992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fdbf40ec89f6af0800000000000000
+      internalID: -400933831198384343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d61303a3ec01b7e0800000000000000
+      internalID: -1751604608238414119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98f552d3f0e213e0800000000000000
+      internalID: -2084356339708594021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd70027054befd90800000000000000
+      internalID: -7062008908067340864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbca6c01ffcce9a20800000000000000
+      internalID: 3071117391783439549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe008161b0a833f0800000000000000
+      internalID: -920809440091828494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce1652124236a3e0800000000000000
+      internalID: -2042890121609077045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddce904ab81c20840800000000000000
+      internalID: 5188922526180961501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb98c265ba42df30800000000000000
+      internalID: 4598820312405548014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4fa5641dd152180800000000000000
+      internalID: -9140867084012817214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e190b2c01ec7cc2b0800000000000000
+      internalID: -5562934133695772386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006409cfcf7cdf070800000000000000
+      internalID: 8141883590738724352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08def97e81a76a750800000000000000
+      internalID: 6315869774817521024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608ecea33b9941570800000000000000
+      internalID: 8436536997038581766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5415034a632eb590800000000000000
+      internalID: -7656643377185352610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d6339288b6c1610800000000000000
+      internalID: 1593266600733273446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33ef01587a017790800000000000000
+      internalID: -7534229189741780161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63cc6da5cff63200800000000000000
+      internalID: 159596061301457772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_62
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c3211c18b4e1c50800000000000000
+      internalID: 6637825921452752023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_63
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c099f204c87f5e0800000000000000
+      internalID: -1875876512472167277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6147b31a87b1388c0800000000000000
+      internalID: -3998321839259814890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c45f44d27389c790800000000000000
+      internalID: -7509326374452112191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaefd53603cf7ff0800000000000000
+      internalID: -36095840554587485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1048e45d563be090800000000000000
+      internalID: -8004244138236559332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0215d0b472d10470800000000000000
+      internalID: 8359193782001144330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e1b44f4cf7b6990800000000000000
+      internalID: -7391673879509656017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7122fcd4706468830800000000000000
+      internalID: 4073019910187328023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bad3fb71095ef10800000000000000
+      internalID: 2298401616509643533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44db57854b0c07d20800000000000000
+      internalID: 3274328809909108036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401cdeb92e3f91820800000000000000
+      internalID: 2889608790539092228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb7ff4d4484aa280800000000000000
+      internalID: -9031326642269619266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca22e989d4b5fd0f0800000000000000
+      internalID: -1090052195969260884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec19d1402463babf0800000000000000
+      internalID: -312096092007329330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86433d690db1439d0800000000000000
+      internalID: -2795578885992663960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c08da167a4e02210800000000000000
+      internalID: 1306295299486875849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyro_Combat_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e34b05aa966f5980800000000000000
+      internalID: -8548000753345936411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nyro_Combat_0: -4880317382707788444
+      Nyro_Combat_1: 1676296075621925017
+      Nyro_Combat_10: -7201215950903698735
+      Nyro_Combat_11: -3383243778657409273
+      Nyro_Combat_12: -7038197140415391993
+      Nyro_Combat_13: -682081860329102375
+      Nyro_Combat_14: 974635097479378570
+      Nyro_Combat_15: -5975224537315925883
+      Nyro_Combat_16: 1938084766416146475
+      Nyro_Combat_17: -320927920389262278
+      Nyro_Combat_18: 568012819536208548
+      Nyro_Combat_19: 4264085407584593608
+      Nyro_Combat_2: 5688772391244688856
+      Nyro_Combat_20: 6371045430515721786
+      Nyro_Combat_21: 2889573915354977755
+      Nyro_Combat_22: -34494568275237600
+      Nyro_Combat_23: 3644350785704238824
+      Nyro_Combat_24: 7758653188572421579
+      Nyro_Combat_25: 137064153935738296
+      Nyro_Combat_26: -664924288573154861
+      Nyro_Combat_27: -7214188402749531900
+      Nyro_Combat_28: -7499480490679350497
+      Nyro_Combat_29: 6859585512672858069
+      Nyro_Combat_3: -7841765586373059593
+      Nyro_Combat_30: 1890788540419344080
+      Nyro_Combat_31: -4422346271726366646
+      Nyro_Combat_32: -8058078894018602641
+      Nyro_Combat_33: 6900211421114298070
+      Nyro_Combat_34: -8728520733994594408
+      Nyro_Combat_35: 2370570924161962328
+      Nyro_Combat_36: -8372927282432243779
+      Nyro_Combat_37: 4353300208528962032
+      Nyro_Combat_38: -6860384733452370221
+      Nyro_Combat_39: -5703110430265640489
+      Nyro_Combat_4: -2082073780998600739
+      Nyro_Combat_40: -1906674236270803018
+      Nyro_Combat_41: 8588746630612974057
+      Nyro_Combat_42: 1608841405641111897
+      Nyro_Combat_43: 805013683622314992
+      Nyro_Combat_44: -400933831198384343
+      Nyro_Combat_45: -1751604608238414119
+      Nyro_Combat_46: -2084356339708594021
+      Nyro_Combat_47: -7062008908067340864
+      Nyro_Combat_48: 3071117391783439549
+      Nyro_Combat_49: -920809440091828494
+      Nyro_Combat_5: -4848418197967475094
+      Nyro_Combat_50: -2042890121609077045
+      Nyro_Combat_51: 5188922526180961501
+      Nyro_Combat_52: 4598820312405548014
+      Nyro_Combat_53: -9140867084012817214
+      Nyro_Combat_54: -5562934133695772386
+      Nyro_Combat_55: 8141883590738724352
+      Nyro_Combat_56: 6315869774817521024
+      Nyro_Combat_57: 8436536997038581766
+      Nyro_Combat_58: -7656643377185352610
+      Nyro_Combat_59: 1593266600733273446
+      Nyro_Combat_6: 3455099359388351697
+      Nyro_Combat_60: -7534229189741780161
+      Nyro_Combat_61: 159596061301457772
+      Nyro_Combat_62: 6637825921452752023
+      Nyro_Combat_63: -1875876512472167277
+      Nyro_Combat_64: -3998321839259814890
+      Nyro_Combat_65: -7509326374452112191
+      Nyro_Combat_66: -36095840554587485
+      Nyro_Combat_67: -8004244138236559332
+      Nyro_Combat_68: 8359193782001144330
+      Nyro_Combat_69: -7391673879509656017
+      Nyro_Combat_7: -7755450155950982219
+      Nyro_Combat_70: 4073019910187328023
+      Nyro_Combat_71: 2298401616509643533
+      Nyro_Combat_72: 3274328809909108036
+      Nyro_Combat_73: 2889608790539092228
+      Nyro_Combat_74: -9031326642269619266
+      Nyro_Combat_75: -1090052195969260884
+      Nyro_Combat_76: -312096092007329330
+      Nyro_Combat_77: -2795578885992663960
+      Nyro_Combat_78: 1306295299486875849
+      Nyro_Combat_79: -8548000753345936411
+      Nyro_Combat_8: 6642043863928943196
+      Nyro_Combat_9: 7820506773448705210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

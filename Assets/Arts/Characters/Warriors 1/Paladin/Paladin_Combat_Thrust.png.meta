@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 4043aaafa10b8ce47994737e58eb36e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2727292307672541287
+    second: Paladin_Combat_Thrust_0
+  - first:
+      213: 947382155371788880
+    second: Paladin_Combat_Thrust_1
+  - first:
+      213: 6706256258837151366
+    second: Paladin_Combat_Thrust_2
+  - first:
+      213: -6291794413347622875
+    second: Paladin_Combat_Thrust_3
+  - first:
+      213: 3006484946592021002
+    second: Paladin_Combat_Thrust_4
+  - first:
+      213: 3383948626784567873
+    second: Paladin_Combat_Thrust_5
+  - first:
+      213: 4353482348684938184
+    second: Paladin_Combat_Thrust_6
+  - first:
+      213: 9136548833302093806
+    second: Paladin_Combat_Thrust_7
+  - first:
+      213: -6610754065152898796
+    second: Paladin_Combat_Thrust_8
+  - first:
+      213: 451523530375030477
+    second: Paladin_Combat_Thrust_9
+  - first:
+      213: 4545841862355141321
+    second: Paladin_Combat_Thrust_10
+  - first:
+      213: -5560002711060917358
+    second: Paladin_Combat_Thrust_11
+  - first:
+      213: -7928692368227535385
+    second: Paladin_Combat_Thrust_12
+  - first:
+      213: 4216316119735667526
+    second: Paladin_Combat_Thrust_13
+  - first:
+      213: -8294057568861894361
+    second: Paladin_Combat_Thrust_14
+  - first:
+      213: -8973007400277958927
+    second: Paladin_Combat_Thrust_15
+  - first:
+      213: 8335371964516417985
+    second: Paladin_Combat_Thrust_16
+  - first:
+      213: 7937924716835324260
+    second: Paladin_Combat_Thrust_17
+  - first:
+      213: -2952947034316473405
+    second: Paladin_Combat_Thrust_18
+  - first:
+      213: -67012519752604017
+    second: Paladin_Combat_Thrust_19
+  - first:
+      213: 1798438887458498429
+    second: Paladin_Combat_Thrust_20
+  - first:
+      213: -6093362949767422026
+    second: Paladin_Combat_Thrust_21
+  - first:
+      213: -83869814529023802
+    second: Paladin_Combat_Thrust_22
+  - first:
+      213: 715041308032678294
+    second: Paladin_Combat_Thrust_23
+  - first:
+      213: -4977604207134430984
+    second: Paladin_Combat_Thrust_24
+  - first:
+      213: 5185276612623965308
+    second: Paladin_Combat_Thrust_25
+  - first:
+      213: 4524081084916604753
+    second: Paladin_Combat_Thrust_26
+  - first:
+      213: 7751813550562707752
+    second: Paladin_Combat_Thrust_27
+  - first:
+      213: -2796971823140198412
+    second: Paladin_Combat_Thrust_28
+  - first:
+      213: -4527946105057505508
+    second: Paladin_Combat_Thrust_29
+  - first:
+      213: 5160814567631216645
+    second: Paladin_Combat_Thrust_30
+  - first:
+      213: 3741718432753347626
+    second: Paladin_Combat_Thrust_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997d5829816b62ad0800000000000000
+      internalID: -2727292307672541287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aba750d07c52d00800000000000000
+      internalID: 947382155371788880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e7ab04988611d50800000000000000
+      internalID: 6706256258837151366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 75
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520b0a0015e0fa8a0800000000000000
+      internalID: -6291794413347622875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a3d20412e29b920800000000000000
+      internalID: 3006484946592021002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 75
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1424aadd85336fe20800000000000000
+      internalID: 3383948626784567873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb8c41612daa6c30800000000000000
+      internalID: 4353482348684938184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 75
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef1bf1a1ca8bce70800000000000000
+      internalID: 9136548833302093806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4198719f332e144a0800000000000000
+      internalID: -6610754065152898796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ebb33242244600800000000000000
+      internalID: 451523530375030477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 51
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c247c2c613161f30800000000000000
+      internalID: 4545841862355141321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29351011ef6e6d2b0800000000000000
+      internalID: -5560002711060917358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e572729c40a7f190800000000000000
+      internalID: -7928692368227535385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b09910c2d538a30800000000000000
+      internalID: 4216316119735667526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c85db59695ec80800000000000000
+      internalID: -8294057568861894361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe1b7b7f49797380800000000000000
+      internalID: -8973007400277958927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 28
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c140c793a03da370800000000000000
+      internalID: 8335371964516417985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46143c8197c292e60800000000000000
+      internalID: 7937924716835324260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 28
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbf50351560507d0800000000000000
+      internalID: -2952947034316473405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 25
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8664a4e77ce11ff0800000000000000
+      internalID: -67012519752604017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77663db3a655f810800000000000000
+      internalID: 1798438887458498429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 25
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf16936ea6007ba0800000000000000
+      internalID: -6093362949767422026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 25
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ae9919d806def0800000000000000
+      internalID: -83869814529023802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 26
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b40df7465ce900800000000000000
+      internalID: 715041308032678294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f82349985ffbeab0800000000000000
+      internalID: -4977604207134430984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c979d3b9dc5f740800000000000000
+      internalID: 5185276612623965308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f9481f6c3c8ce30800000000000000
+      internalID: 4524081084916604753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82989567a59f39b60800000000000000
+      internalID: 7751813550562707752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7a3f222f82f29d0800000000000000
+      internalID: -2796971823140198412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f0fede1018921c0800000000000000
+      internalID: -4527946105057505508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e15f8185ee9740800000000000000
+      internalID: 5160814567631216645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c6bc117114de330800000000000000
+      internalID: 3741718432753347626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Paladin_Combat_Thrust_0: -2727292307672541287
+      Paladin_Combat_Thrust_1: 947382155371788880
+      Paladin_Combat_Thrust_10: 4545841862355141321
+      Paladin_Combat_Thrust_11: -5560002711060917358
+      Paladin_Combat_Thrust_12: -7928692368227535385
+      Paladin_Combat_Thrust_13: 4216316119735667526
+      Paladin_Combat_Thrust_14: -8294057568861894361
+      Paladin_Combat_Thrust_15: -8973007400277958927
+      Paladin_Combat_Thrust_16: 8335371964516417985
+      Paladin_Combat_Thrust_17: 7937924716835324260
+      Paladin_Combat_Thrust_18: -2952947034316473405
+      Paladin_Combat_Thrust_19: -67012519752604017
+      Paladin_Combat_Thrust_2: 6706256258837151366
+      Paladin_Combat_Thrust_20: 1798438887458498429
+      Paladin_Combat_Thrust_21: -6093362949767422026
+      Paladin_Combat_Thrust_22: -83869814529023802
+      Paladin_Combat_Thrust_23: 715041308032678294
+      Paladin_Combat_Thrust_24: -4977604207134430984
+      Paladin_Combat_Thrust_25: 5185276612623965308
+      Paladin_Combat_Thrust_26: 4524081084916604753
+      Paladin_Combat_Thrust_27: 7751813550562707752
+      Paladin_Combat_Thrust_28: -2796971823140198412
+      Paladin_Combat_Thrust_29: -4527946105057505508
+      Paladin_Combat_Thrust_3: -6291794413347622875
+      Paladin_Combat_Thrust_30: 5160814567631216645
+      Paladin_Combat_Thrust_31: 3741718432753347626
+      Paladin_Combat_Thrust_4: 3006484946592021002
+      Paladin_Combat_Thrust_5: 3383948626784567873
+      Paladin_Combat_Thrust_6: 4353482348684938184
+      Paladin_Combat_Thrust_7: 9136548833302093806
+      Paladin_Combat_Thrust_8: -6610754065152898796
+      Paladin_Combat_Thrust_9: 451523530375030477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

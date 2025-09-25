@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: eeebd630910edb448ad9b286800373c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6123393651331993315
+    second: Serek_Combat_0
+  - first:
+      213: 3808291552974138198
+    second: Serek_Combat_1
+  - first:
+      213: -1682751199895914332
+    second: Serek_Combat_2
+  - first:
+      213: -878575287025012310
+    second: Serek_Combat_3
+  - first:
+      213: 127430226109038749
+    second: Serek_Combat_4
+  - first:
+      213: -2384844105016183943
+    second: Serek_Combat_5
+  - first:
+      213: -5726457560696657224
+    second: Serek_Combat_6
+  - first:
+      213: 4971367768519558548
+    second: Serek_Combat_7
+  - first:
+      213: 6213673762949320869
+    second: Serek_Combat_8
+  - first:
+      213: -1411246205462537192
+    second: Serek_Combat_9
+  - first:
+      213: 780272855276960836
+    second: Serek_Combat_10
+  - first:
+      213: -8538916800619564183
+    second: Serek_Combat_11
+  - first:
+      213: -2243434308881668567
+    second: Serek_Combat_12
+  - first:
+      213: -6508232226717431478
+    second: Serek_Combat_13
+  - first:
+      213: -6082353842375391761
+    second: Serek_Combat_14
+  - first:
+      213: -2378881648295171589
+    second: Serek_Combat_15
+  - first:
+      213: 7586084728570812611
+    second: Serek_Combat_16
+  - first:
+      213: 1126407749852046205
+    second: Serek_Combat_17
+  - first:
+      213: 2652397685445376412
+    second: Serek_Combat_18
+  - first:
+      213: 8992039178633877021
+    second: Serek_Combat_19
+  - first:
+      213: 610851536406385388
+    second: Serek_Combat_20
+  - first:
+      213: -780817501739444918
+    second: Serek_Combat_21
+  - first:
+      213: 3227009544224663099
+    second: Serek_Combat_22
+  - first:
+      213: -7011584949540539355
+    second: Serek_Combat_23
+  - first:
+      213: -1602550819647664356
+    second: Serek_Combat_24
+  - first:
+      213: -4210192520676420474
+    second: Serek_Combat_25
+  - first:
+      213: -3441070976211834583
+    second: Serek_Combat_26
+  - first:
+      213: 6924467779844065945
+    second: Serek_Combat_27
+  - first:
+      213: 3663956710662587410
+    second: Serek_Combat_28
+  - first:
+      213: 3044217330660272572
+    second: Serek_Combat_29
+  - first:
+      213: -9150678768274620400
+    second: Serek_Combat_30
+  - first:
+      213: -8442063338629312260
+    second: Serek_Combat_31
+  - first:
+      213: -3911514025320690209
+    second: Serek_Combat_32
+  - first:
+      213: 8050610190842700909
+    second: Serek_Combat_33
+  - first:
+      213: 3356749990722320351
+    second: Serek_Combat_34
+  - first:
+      213: -8796168624043398977
+    second: Serek_Combat_35
+  - first:
+      213: -7722126923421420698
+    second: Serek_Combat_36
+  - first:
+      213: 2109700012144877976
+    second: Serek_Combat_37
+  - first:
+      213: -5183121430202146867
+    second: Serek_Combat_38
+  - first:
+      213: 6908476273767740424
+    second: Serek_Combat_39
+  - first:
+      213: 4962879623896698980
+    second: Serek_Combat_40
+  - first:
+      213: -7753086993095313688
+    second: Serek_Combat_41
+  - first:
+      213: -1713061382608270998
+    second: Serek_Combat_42
+  - first:
+      213: -3407590095325198304
+    second: Serek_Combat_43
+  - first:
+      213: -5827909396862392136
+    second: Serek_Combat_44
+  - first:
+      213: -6838909931499480636
+    second: Serek_Combat_45
+  - first:
+      213: 5345819445364695418
+    second: Serek_Combat_46
+  - first:
+      213: -6776350566326462139
+    second: Serek_Combat_47
+  - first:
+      213: 5456247880820092417
+    second: Serek_Combat_48
+  - first:
+      213: -7074292210246661910
+    second: Serek_Combat_49
+  - first:
+      213: 3440408155526154167
+    second: Serek_Combat_50
+  - first:
+      213: 3633081189378442055
+    second: Serek_Combat_51
+  - first:
+      213: 7801042488158370594
+    second: Serek_Combat_52
+  - first:
+      213: -2130510808564897266
+    second: Serek_Combat_53
+  - first:
+      213: 8494759119531281408
+    second: Serek_Combat_54
+  - first:
+      213: 1423862249278938468
+    second: Serek_Combat_55
+  - first:
+      213: 7809513971000020788
+    second: Serek_Combat_56
+  - first:
+      213: 2774303701796373535
+    second: Serek_Combat_57
+  - first:
+      213: 1040284638952689888
+    second: Serek_Combat_58
+  - first:
+      213: -3183400773769779864
+    second: Serek_Combat_59
+  - first:
+      213: 6356877584014517706
+    second: Serek_Combat_60
+  - first:
+      213: -4023973764227291097
+    second: Serek_Combat_61
+  - first:
+      213: 3197782288358049957
+    second: Serek_Combat_62
+  - first:
+      213: -2348480735931435664
+    second: Serek_Combat_63
+  - first:
+      213: 8125349730169369420
+    second: Serek_Combat_64
+  - first:
+      213: -7663586443337656680
+    second: Serek_Combat_65
+  - first:
+      213: -309732401763522712
+    second: Serek_Combat_66
+  - first:
+      213: -2348561386192525836
+    second: Serek_Combat_67
+  - first:
+      213: -8628757224066499742
+    second: Serek_Combat_68
+  - first:
+      213: -7348873481196621724
+    second: Serek_Combat_69
+  - first:
+      213: -7256311975518008851
+    second: Serek_Combat_70
+  - first:
+      213: -270576020521804128
+    second: Serek_Combat_71
+  - first:
+      213: -2033166171803739498
+    second: Serek_Combat_72
+  - first:
+      213: 7601820433880099884
+    second: Serek_Combat_73
+  - first:
+      213: -814477739652497080
+    second: Serek_Combat_74
+  - first:
+      213: 4906052341467278718
+    second: Serek_Combat_75
+  - first:
+      213: -4894032908031907409
+    second: Serek_Combat_76
+  - first:
+      213: 4038493401107482362
+    second: Serek_Combat_77
+  - first:
+      213: -271414848681078519
+    second: Serek_Combat_78
+  - first:
+      213: 7750921364425634734
+    second: Serek_Combat_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Serek_Combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee868f251aaaf450800000000000000
+      internalID: 6123393651331993315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65be4208df4c9d430800000000000000
+      internalID: 3808291552974138198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a877d403baa5a8e0800000000000000
+      internalID: -1682751199895914332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1ff6c6e6caec3f0800000000000000
+      internalID: -878575287025012310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9080e09d19b4c100800000000000000
+      internalID: 127430226109038749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97373d30ce457eed0800000000000000
+      internalID: -2384844105016183943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba635940398780b0800000000000000
+      internalID: -5726457560696657224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4954f6265a8ddf440800000000000000
+      internalID: 4971367768519558548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a052cead576b3650800000000000000
+      internalID: 6213673762949320869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c99c0ad0f3a6ce0800000000000000
+      internalID: -1411246205462537192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cb9ae170614da00800000000000000
+      internalID: 780272855276960836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963b474396caf7980800000000000000
+      internalID: -8538916800619564183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9262f2ed168bdd0e0800000000000000
+      internalID: -2243434308881668567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4902ca954d1ea5a0800000000000000
+      internalID: -6508232226717431478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe58bf2f763279ba0800000000000000
+      internalID: -6082353842375391761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9aba6aeb38cfed0800000000000000
+      internalID: -2378881648295171589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c89a7a2edf274960800000000000000
+      internalID: 7586084728570812611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ad2a61edc1af00800000000000000
+      internalID: 1126407749852046205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c993a0454a53fc420800000000000000
+      internalID: 2652397685445376412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d161ed8bdf32acc70800000000000000
+      internalID: 8992039178633877021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce211066c3e2a7800800000000000000
+      internalID: 610851536406385388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45996e7e9af925f0800000000000000
+      internalID: -780817501739444918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b366e424514a8cc20800000000000000
+      internalID: 3227009544224663099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524392a23a8d1be90800000000000000
+      internalID: -7011584949540539355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc36c258892c9e0800000000000000
+      internalID: -1602550819647664356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684531185346295c0800000000000000
+      internalID: -4210192520676420474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929acffbd2cde30d0800000000000000
+      internalID: -3441070976211834583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a4e3422c6a81060800000000000000
+      internalID: 6924467779844065945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214c373473df8d230800000000000000
+      internalID: 3663956710662587410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9e715888b3f3a20800000000000000
+      internalID: 3044217330660272572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01048438422420180800000000000000
+      internalID: -9150678768274620400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0d6a91f14c7da80800000000000000
+      internalID: -8442063338629312260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd4dc2d7b287b9c0800000000000000
+      internalID: -3911514025320690209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64a15a805389bf60800000000000000
+      internalID: 8050610190842700909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7bccce452959e20800000000000000
+      internalID: 3356749990722320351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8e4739d3bbde580800000000000000
+      internalID: -8796168624043398977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6637cfa0a7e75d490800000000000000
+      internalID: -7722126923421420698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891688ebbf8274d10800000000000000
+      internalID: 2109700012144877976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf1615458ad118b0800000000000000
+      internalID: -5183121430202146867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804f32d7196dfdf50800000000000000
+      internalID: 6908476273767740424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460136539b0bfd440800000000000000
+      internalID: 4962879623896698980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e63ad71570876490800000000000000
+      internalID: -7753086993095313688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69c13bafbbf938e0800000000000000
+      internalID: -1713061382608270998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_43
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028800cccdec5b0d0800000000000000
+      internalID: -3407590095325198304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b82bd8f74b1f1fa0800000000000000
+      internalID: -5827909396862392136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c91512c6af4711a0800000000000000
+      internalID: -6838909931499480636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71a652567a203a40800000000000000
+      internalID: 5345819445364695418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5491894001195f1a0800000000000000
+      internalID: -6776350566326462139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e62c60a8c78bb40800000000000000
+      internalID: 5456247880820092417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84fea47b013dd90800000000000000
+      internalID: -7074292210246661910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b74e784df8cebf20800000000000000
+      internalID: 3440408155526154167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7434e05c71c4b6230800000000000000
+      internalID: 3633081189378442055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb860bfced24c60800000000000000
+      internalID: 7801042488158370594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aeb5125b7ee62e0800000000000000
+      internalID: -2130510808564897266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c0c2c796273e570800000000000000
+      internalID: 8494759119531281408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d1c59fb2392c310800000000000000
+      internalID: 1423862249278938468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f08ed7497f06c60800000000000000
+      internalID: 7809513971000020788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14cf94948e408620800000000000000
+      internalID: 2774303701796373535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e012121e55df6e00800000000000000
+      internalID: 1040284638952689888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865afb5dcd942d3d0800000000000000
+      internalID: -3183400773769779864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac524d38b7a283850800000000000000
+      internalID: 6356877584014517706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728adbd6e29f728c0800000000000000
+      internalID: -4023973764227291097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80e967c0ec06c20800000000000000
+      internalID: 3197782288358049957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07575f4a635886fd0800000000000000
+      internalID: -2348480735931435664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43bf86978a03c070800000000000000
+      internalID: 8125349730169369420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8961c53bbb875a590800000000000000
+      internalID: -7663586443337656680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867e479850c93bbf0800000000000000
+      internalID: -309732401763522712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5abcaccdb386fd0800000000000000
+      internalID: -2348561386192525836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b3e66950f704880800000000000000
+      internalID: -8628757224066499742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460bcfd318e830a90800000000000000
+      internalID: -7348873481196621724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de906df24b66c4b90800000000000000
+      internalID: -7256311975518008851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae1f0cfa88be3cf0800000000000000
+      internalID: -270576020521804128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a1c40932eb8c3e0800000000000000
+      internalID: -2033166171803739498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2caabf88671f7960800000000000000
+      internalID: 7601820433880099884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841cc82afc462b4f0800000000000000
+      internalID: -814477739652497080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d61a67c9cc51440800000000000000
+      internalID: 4906052341467278718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9afa5fff6e41cb0800000000000000
+      internalID: -4894032908031907409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af645c8f95c9b0830800000000000000
+      internalID: 4038493401107482362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901199512adbb3cf0800000000000000
+      internalID: -271414848681078519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_Combat_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea373903aedc09b60800000000000000
+      internalID: 7750921364425634734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Serek_Combat_0: 6123393651331993315
+      Serek_Combat_1: 3808291552974138198
+      Serek_Combat_10: 780272855276960836
+      Serek_Combat_11: -8538916800619564183
+      Serek_Combat_12: -2243434308881668567
+      Serek_Combat_13: -6508232226717431478
+      Serek_Combat_14: -6082353842375391761
+      Serek_Combat_15: -2378881648295171589
+      Serek_Combat_16: 7586084728570812611
+      Serek_Combat_17: 1126407749852046205
+      Serek_Combat_18: 2652397685445376412
+      Serek_Combat_19: 8992039178633877021
+      Serek_Combat_2: -1682751199895914332
+      Serek_Combat_20: 610851536406385388
+      Serek_Combat_21: -780817501739444918
+      Serek_Combat_22: 3227009544224663099
+      Serek_Combat_23: -7011584949540539355
+      Serek_Combat_24: -1602550819647664356
+      Serek_Combat_25: -4210192520676420474
+      Serek_Combat_26: -3441070976211834583
+      Serek_Combat_27: 6924467779844065945
+      Serek_Combat_28: 3663956710662587410
+      Serek_Combat_29: 3044217330660272572
+      Serek_Combat_3: -878575287025012310
+      Serek_Combat_30: -9150678768274620400
+      Serek_Combat_31: -8442063338629312260
+      Serek_Combat_32: -3911514025320690209
+      Serek_Combat_33: 8050610190842700909
+      Serek_Combat_34: 3356749990722320351
+      Serek_Combat_35: -8796168624043398977
+      Serek_Combat_36: -7722126923421420698
+      Serek_Combat_37: 2109700012144877976
+      Serek_Combat_38: -5183121430202146867
+      Serek_Combat_39: 6908476273767740424
+      Serek_Combat_4: 127430226109038749
+      Serek_Combat_40: 4962879623896698980
+      Serek_Combat_41: -7753086993095313688
+      Serek_Combat_42: -1713061382608270998
+      Serek_Combat_43: -3407590095325198304
+      Serek_Combat_44: -5827909396862392136
+      Serek_Combat_45: -6838909931499480636
+      Serek_Combat_46: 5345819445364695418
+      Serek_Combat_47: -6776350566326462139
+      Serek_Combat_48: 5456247880820092417
+      Serek_Combat_49: -7074292210246661910
+      Serek_Combat_5: -2384844105016183943
+      Serek_Combat_50: 3440408155526154167
+      Serek_Combat_51: 3633081189378442055
+      Serek_Combat_52: 7801042488158370594
+      Serek_Combat_53: -2130510808564897266
+      Serek_Combat_54: 8494759119531281408
+      Serek_Combat_55: 1423862249278938468
+      Serek_Combat_56: 7809513971000020788
+      Serek_Combat_57: 2774303701796373535
+      Serek_Combat_58: 1040284638952689888
+      Serek_Combat_59: -3183400773769779864
+      Serek_Combat_6: -5726457560696657224
+      Serek_Combat_60: 6356877584014517706
+      Serek_Combat_61: -4023973764227291097
+      Serek_Combat_62: 3197782288358049957
+      Serek_Combat_63: -2348480735931435664
+      Serek_Combat_64: 8125349730169369420
+      Serek_Combat_65: -7663586443337656680
+      Serek_Combat_66: -309732401763522712
+      Serek_Combat_67: -2348561386192525836
+      Serek_Combat_68: -8628757224066499742
+      Serek_Combat_69: -7348873481196621724
+      Serek_Combat_7: 4971367768519558548
+      Serek_Combat_70: -7256311975518008851
+      Serek_Combat_71: -270576020521804128
+      Serek_Combat_72: -2033166171803739498
+      Serek_Combat_73: 7601820433880099884
+      Serek_Combat_74: -814477739652497080
+      Serek_Combat_75: 4906052341467278718
+      Serek_Combat_76: -4894032908031907409
+      Serek_Combat_77: 4038493401107482362
+      Serek_Combat_78: -271414848681078519
+      Serek_Combat_79: 7750921364425634734
+      Serek_Combat_8: 6213673762949320869
+      Serek_Combat_9: -1411246205462537192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

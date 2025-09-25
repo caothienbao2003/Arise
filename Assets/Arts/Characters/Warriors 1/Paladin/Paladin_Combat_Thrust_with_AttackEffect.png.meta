@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 99eb719fc49b82b4c99693f08e042a01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7831409036356875702
+    second: Paladin_Combat_Thrust_with_AttackEffect_0
+  - first:
+      213: -3910214549923078912
+    second: Paladin_Combat_Thrust_with_AttackEffect_1
+  - first:
+      213: 1152619893336777614
+    second: Paladin_Combat_Thrust_with_AttackEffect_2
+  - first:
+      213: 2709667413920977867
+    second: Paladin_Combat_Thrust_with_AttackEffect_3
+  - first:
+      213: -7135000689659780344
+    second: Paladin_Combat_Thrust_with_AttackEffect_4
+  - first:
+      213: 7811653994368810850
+    second: Paladin_Combat_Thrust_with_AttackEffect_5
+  - first:
+      213: -1904523536157918526
+    second: Paladin_Combat_Thrust_with_AttackEffect_6
+  - first:
+      213: 5140536582310546327
+    second: Paladin_Combat_Thrust_with_AttackEffect_7
+  - first:
+      213: -8941825934827662595
+    second: Paladin_Combat_Thrust_with_AttackEffect_8
+  - first:
+      213: 7153462418563501584
+    second: Paladin_Combat_Thrust_with_AttackEffect_9
+  - first:
+      213: 7094704665365726577
+    second: Paladin_Combat_Thrust_with_AttackEffect_10
+  - first:
+      213: -823165011559075441
+    second: Paladin_Combat_Thrust_with_AttackEffect_11
+  - first:
+      213: 1168658951360152667
+    second: Paladin_Combat_Thrust_with_AttackEffect_12
+  - first:
+      213: 8708688187136750405
+    second: Paladin_Combat_Thrust_with_AttackEffect_13
+  - first:
+      213: 199145414256457943
+    second: Paladin_Combat_Thrust_with_AttackEffect_14
+  - first:
+      213: -408985942690191705
+    second: Paladin_Combat_Thrust_with_AttackEffect_15
+  - first:
+      213: 1449276002480627620
+    second: Paladin_Combat_Thrust_with_AttackEffect_16
+  - first:
+      213: -7601219605400856060
+    second: Paladin_Combat_Thrust_with_AttackEffect_17
+  - first:
+      213: -9171334746094854084
+    second: Paladin_Combat_Thrust_with_AttackEffect_18
+  - first:
+      213: -8445974096747735905
+    second: Paladin_Combat_Thrust_with_AttackEffect_19
+  - first:
+      213: -6324633432275658826
+    second: Paladin_Combat_Thrust_with_AttackEffect_20
+  - first:
+      213: 6305990602198860250
+    second: Paladin_Combat_Thrust_with_AttackEffect_21
+  - first:
+      213: -6758873028986376072
+    second: Paladin_Combat_Thrust_with_AttackEffect_22
+  - first:
+      213: 2252882894211423208
+    second: Paladin_Combat_Thrust_with_AttackEffect_23
+  - first:
+      213: -6065428772015871998
+    second: Paladin_Combat_Thrust_with_AttackEffect_24
+  - first:
+      213: -2115627742816784518
+    second: Paladin_Combat_Thrust_with_AttackEffect_25
+  - first:
+      213: -5440932174377038360
+    second: Paladin_Combat_Thrust_with_AttackEffect_26
+  - first:
+      213: -8878266227322691726
+    second: Paladin_Combat_Thrust_with_AttackEffect_27
+  - first:
+      213: 5925381245021377816
+    second: Paladin_Combat_Thrust_with_AttackEffect_28
+  - first:
+      213: 8520511554334347602
+    second: Paladin_Combat_Thrust_with_AttackEffect_29
+  - first:
+      213: 2050928148200679734
+    second: Paladin_Combat_Thrust_with_AttackEffect_30
+  - first:
+      213: -3629393163290208150
+    second: Paladin_Combat_Thrust_with_AttackEffect_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5f5d6a601ceac60800000000000000
+      internalID: 7831409036356875702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d554485902cb9c0800000000000000
+      internalID: -3910214549923078912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e832367afadeeff00800000000000000
+      internalID: 1152619893336777614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc31632182caa9520800000000000000
+      internalID: 2709667413920977867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80369a4fca26bfc90800000000000000
+      internalID: -7135000689659780344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 75
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f3d928be1986c60800000000000000
+      internalID: 7811653994368810850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cabfe83fe5c195e0800000000000000
+      internalID: -1904523536157918526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 75
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b458f29cad65740800000000000000
+      internalID: 5140536582310546327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2d83720b048e380800000000000000
+      internalID: -8941825934827662595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e85944b24364360800000000000000
+      internalID: 7153462418563501584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 51
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1754e65cd44757260800000000000000
+      internalID: 7094704665365726577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 51
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81bd7688c78394f0800000000000000
+      internalID: -823165011559075441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54076bdf19e73010800000000000000
+      internalID: 1168658951360152667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433dedf3c97bd870800000000000000
+      internalID: 8708688187136750405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8776bf2b183c200800000000000000
+      internalID: 199145414256457943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a2d7b37df25af0800000000000000
+      internalID: -408985942690191705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 28
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af1b5d78dcdc1410800000000000000
+      internalID: 1449276002480627620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ad858ba0b038690800000000000000
+      internalID: -7601219605400856060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 28
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30a1d6e3afd8b080800000000000000
+      internalID: -9171334746094854084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 25
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f945335ce4fd9ca80800000000000000
+      internalID: -8445974096747735905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b756a617636a38a0800000000000000
+      internalID: -6324633432275658826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 25
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c309ca01638750800000000000000
+      internalID: 6305990602198860250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 25
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8707c494ac8a332a0800000000000000
+      internalID: -6758873028986376072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 26
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb96065e09d34f10800000000000000
+      internalID: 2252882894211423208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2086f89faa443dba0800000000000000
+      internalID: -6065428772015871998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fa178e6c7c3a2e0800000000000000
+      internalID: -2115627742816784518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed4343c30ded74b0800000000000000
+      internalID: -5440932174377038360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f5513c7ef0ac480800000000000000
+      internalID: -8878266227322691726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815d24c29de2b3250800000000000000
+      internalID: 5925381245021377816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251d5b47d10fe3670800000000000000
+      internalID: 8520511554334347602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639e955d84c567c10800000000000000
+      internalID: 2050928148200679734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust_with_AttackEffect_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a681bd7b52ec1adc0800000000000000
+      internalID: -3629393163290208150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Paladin_Combat_Thrust_with_AttackEffect_0: 7831409036356875702
+      Paladin_Combat_Thrust_with_AttackEffect_1: -3910214549923078912
+      Paladin_Combat_Thrust_with_AttackEffect_10: 7094704665365726577
+      Paladin_Combat_Thrust_with_AttackEffect_11: -823165011559075441
+      Paladin_Combat_Thrust_with_AttackEffect_12: 1168658951360152667
+      Paladin_Combat_Thrust_with_AttackEffect_13: 8708688187136750405
+      Paladin_Combat_Thrust_with_AttackEffect_14: 199145414256457943
+      Paladin_Combat_Thrust_with_AttackEffect_15: -408985942690191705
+      Paladin_Combat_Thrust_with_AttackEffect_16: 1449276002480627620
+      Paladin_Combat_Thrust_with_AttackEffect_17: -7601219605400856060
+      Paladin_Combat_Thrust_with_AttackEffect_18: -9171334746094854084
+      Paladin_Combat_Thrust_with_AttackEffect_19: -8445974096747735905
+      Paladin_Combat_Thrust_with_AttackEffect_2: 1152619893336777614
+      Paladin_Combat_Thrust_with_AttackEffect_20: -6324633432275658826
+      Paladin_Combat_Thrust_with_AttackEffect_21: 6305990602198860250
+      Paladin_Combat_Thrust_with_AttackEffect_22: -6758873028986376072
+      Paladin_Combat_Thrust_with_AttackEffect_23: 2252882894211423208
+      Paladin_Combat_Thrust_with_AttackEffect_24: -6065428772015871998
+      Paladin_Combat_Thrust_with_AttackEffect_25: -2115627742816784518
+      Paladin_Combat_Thrust_with_AttackEffect_26: -5440932174377038360
+      Paladin_Combat_Thrust_with_AttackEffect_27: -8878266227322691726
+      Paladin_Combat_Thrust_with_AttackEffect_28: 5925381245021377816
+      Paladin_Combat_Thrust_with_AttackEffect_29: 8520511554334347602
+      Paladin_Combat_Thrust_with_AttackEffect_3: 2709667413920977867
+      Paladin_Combat_Thrust_with_AttackEffect_30: 2050928148200679734
+      Paladin_Combat_Thrust_with_AttackEffect_31: -3629393163290208150
+      Paladin_Combat_Thrust_with_AttackEffect_4: -7135000689659780344
+      Paladin_Combat_Thrust_with_AttackEffect_5: 7811653994368810850
+      Paladin_Combat_Thrust_with_AttackEffect_6: -1904523536157918526
+      Paladin_Combat_Thrust_with_AttackEffect_7: 5140536582310546327
+      Paladin_Combat_Thrust_with_AttackEffect_8: -8941825934827662595
+      Paladin_Combat_Thrust_with_AttackEffect_9: 7153462418563501584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

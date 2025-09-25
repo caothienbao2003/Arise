@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: a63d3a8396fc86145b4087356876a1d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7468850902121093662
+    second: Serek_0
+  - first:
+      213: 2770094600976309731
+    second: Serek_1
+  - first:
+      213: -592412004382200560
+    second: Serek_2
+  - first:
+      213: -221520374760273863
+    second: Serek_3
+  - first:
+      213: 1361900730731995022
+    second: Serek_4
+  - first:
+      213: -3607423782729991159
+    second: Serek_5
+  - first:
+      213: 3051968360785181223
+    second: Serek_6
+  - first:
+      213: -5280971757176938940
+    second: Serek_7
+  - first:
+      213: 6989236819344522746
+    second: Serek_8
+  - first:
+      213: 1243546950332499642
+    second: Serek_9
+  - first:
+      213: 6777458332493026491
+    second: Serek_10
+  - first:
+      213: -1986282517555498791
+    second: Serek_11
+  - first:
+      213: -1315661732129768103
+    second: Serek_12
+  - first:
+      213: -990038094470692508
+    second: Serek_13
+  - first:
+      213: 5491488531192173509
+    second: Serek_14
+  - first:
+      213: 6085672302118338371
+    second: Serek_15
+  - first:
+      213: -1701672465677753566
+    second: Serek_16
+  - first:
+      213: -648729283917672265
+    second: Serek_17
+  - first:
+      213: 6036733109995342232
+    second: Serek_18
+  - first:
+      213: 7782081434137848588
+    second: Serek_19
+  - first:
+      213: -8189088967836307880
+    second: Serek_20
+  - first:
+      213: -2786756614394281060
+    second: Serek_21
+  - first:
+      213: -6361582072915286956
+    second: Serek_22
+  - first:
+      213: 7551796601136420804
+    second: Serek_23
+  - first:
+      213: 6387829303714317399
+    second: Serek_24
+  - first:
+      213: 636725320637068759
+    second: Serek_25
+  - first:
+      213: 4663267393823790420
+    second: Serek_26
+  - first:
+      213: 5890048568374998609
+    second: Serek_27
+  - first:
+      213: 7172786809023497802
+    second: Serek_28
+  - first:
+      213: -8961751121158214475
+    second: Serek_29
+  - first:
+      213: -1807718757582871660
+    second: Serek_30
+  - first:
+      213: -5245545379583382544
+    second: Serek_31
+  - first:
+      213: -2942502054530458375
+    second: Serek_32
+  - first:
+      213: 4078707353663735864
+    second: Serek_33
+  - first:
+      213: 3491000983649567741
+    second: Serek_34
+  - first:
+      213: -3075814926069348444
+    second: Serek_35
+  - first:
+      213: 982660019179907195
+    second: Serek_36
+  - first:
+      213: -5925374905896492525
+    second: Serek_37
+  - first:
+      213: -4528126762723579229
+    second: Serek_38
+  - first:
+      213: -3608536694150357790
+    second: Serek_39
+  - first:
+      213: 6100579086124812080
+    second: Serek_40
+  - first:
+      213: 3883895925301775573
+    second: Serek_41
+  - first:
+      213: -7538769622445656639
+    second: Serek_42
+  - first:
+      213: 4673168842215934480
+    second: Serek_43
+  - first:
+      213: 1695409177636939934
+    second: Serek_44
+  - first:
+      213: -3361100160814081224
+    second: Serek_45
+  - first:
+      213: -5401546693922715564
+    second: Serek_46
+  - first:
+      213: 8207732468905386396
+    second: Serek_47
+  - first:
+      213: 694966817244692272
+    second: Serek_48
+  - first:
+      213: 2385513522790464864
+    second: Serek_49
+  - first:
+      213: -1435596645097748306
+    second: Serek_50
+  - first:
+      213: 4446589839889182719
+    second: Serek_51
+  - first:
+      213: -461519843967392239
+    second: Serek_52
+  - first:
+      213: 956907549085849339
+    second: Serek_53
+  - first:
+      213: -4947194502561561128
+    second: Serek_54
+  - first:
+      213: -1889984808601339588
+    second: Serek_55
+  - first:
+      213: 7865196742255908260
+    second: Serek_56
+  - first:
+      213: -1115313516132126175
+    second: Serek_57
+  - first:
+      213: 3230650731088752436
+    second: Serek_58
+  - first:
+      213: 5175566826248173399
+    second: Serek_59
+  - first:
+      213: -9209990731502206885
+    second: Serek_60
+  - first:
+      213: 2259865530558695391
+    second: Serek_61
+  - first:
+      213: 7855412041317527106
+    second: Serek_62
+  - first:
+      213: 8020823662827374187
+    second: Serek_63
+  - first:
+      213: -7922045635340380622
+    second: Serek_64
+  - first:
+      213: -1636288944948451127
+    second: Serek_65
+  - first:
+      213: -5753293755985027296
+    second: Serek_66
+  - first:
+      213: 7851143218165214330
+    second: Serek_67
+  - first:
+      213: 7318565240686731551
+    second: Serek_68
+  - first:
+      213: 274137575255290444
+    second: Serek_69
+  - first:
+      213: 1122312395026984224
+    second: Serek_70
+  - first:
+      213: 1770173492296442650
+    second: Serek_71
+  - first:
+      213: -3258445663646000270
+    second: Serek_72
+  - first:
+      213: 195398511546899624
+    second: Serek_73
+  - first:
+      213: -6866356512332734194
+    second: Serek_74
+  - first:
+      213: -1458489846268895295
+    second: Serek_75
+  - first:
+      213: -5745750346011761820
+    second: Serek_76
+  - first:
+      213: 4013563966141997967
+    second: Serek_77
+  - first:
+      213: 2629786566602292846
+    second: Serek_78
+  - first:
+      213: -3320189956743584734
+    second: Serek_79
+  - first:
+      213: -3372120566020281098
+    second: Serek_80
+  - first:
+      213: -255796678183629722
+    second: Serek_81
+  - first:
+      213: 7047802867590411369
+    second: Serek_82
+  - first:
+      213: -1845954417601890384
+    second: Serek_83
+  - first:
+      213: 4070038221941489544
+    second: Serek_84
+  - first:
+      213: -4677212350879148918
+    second: Serek_85
+  - first:
+      213: -3044282615837406815
+    second: Serek_86
+  - first:
+      213: -7354384214442989016
+    second: Serek_87
+  - first:
+      213: 5951843555668397903
+    second: Serek_88
+  - first:
+      213: 1444669955707537239
+    second: Serek_89
+  - first:
+      213: 1121772566218417004
+    second: Serek_90
+  - first:
+      213: -7636060803245638659
+    second: Serek_91
+  - first:
+      213: 7666517209949117032
+    second: Serek_92
+  - first:
+      213: 1518438083420142704
+    second: Serek_93
+  - first:
+      213: -4650457946062032307
+    second: Serek_94
+  - first:
+      213: -6332768537895082981
+    second: Serek_95
+  - first:
+      213: -1911086140530697958
+    second: Serek_96
+  - first:
+      213: 4965622733459679475
+    second: Serek_97
+  - first:
+      213: 660716527465417483
+    second: Serek_98
+  - first:
+      213: -1129035651889140928
+    second: Serek_99
+  - first:
+      213: 6351685022574527819
+    second: Serek_100
+  - first:
+      213: -3600464298208659892
+    second: Serek_101
+  - first:
+      213: -2830958360872174966
+    second: Serek_102
+  - first:
+      213: 8455296710136363047
+    second: Serek_103
+  - first:
+      213: 1803151845934102267
+    second: Serek_104
+  - first:
+      213: -1709105920890860560
+    second: Serek_105
+  - first:
+      213: -6100435576314846042
+    second: Serek_106
+  - first:
+      213: 3151395294462380864
+    second: Serek_107
+  - first:
+      213: -8764973813700808273
+    second: Serek_108
+  - first:
+      213: -3858215078126159437
+    second: Serek_109
+  - first:
+      213: -2258317172569799812
+    second: Serek_110
+  - first:
+      213: -2658113736308055672
+    second: Serek_111
+  - first:
+      213: 8763575672922223369
+    second: Serek_112
+  - first:
+      213: 8510796129299128997
+    second: Serek_113
+  - first:
+      213: 8840011140151100729
+    second: Serek_114
+  - first:
+      213: -2488529636221775057
+    second: Serek_115
+  - first:
+      213: 6528287126083981652
+    second: Serek_116
+  - first:
+      213: 2731132197943788150
+    second: Serek_117
+  - first:
+      213: -747993269285715149
+    second: Serek_118
+  - first:
+      213: 799337555283988576
+    second: Serek_119
+  - first:
+      213: -7592538017669690990
+    second: Serek_120
+  - first:
+      213: 8354162249659447257
+    second: Serek_121
+  - first:
+      213: 8735158081109889261
+    second: Serek_122
+  - first:
+      213: -3065216410196569921
+    second: Serek_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Serek_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 479
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a9845e250b6a760800000000000000
+      internalID: 7468850902121093662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 479
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed9b6dec5a517620800000000000000
+      internalID: 2770094600976309731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 479
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d2f16bb6457c7f0800000000000000
+      internalID: -592412004382200560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 463
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93807ef84600decf0800000000000000
+      internalID: -221520374760273863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 479
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f10aabf7176e210800000000000000
+      internalID: 1361900730731995022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 463
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c351cbe2bdfedc0800000000000000
+      internalID: -3607423782729991159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 463
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af45add05ca5a20800000000000000
+      internalID: 3051968360785181223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 463
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e1998aa2836b6b0800000000000000
+      internalID: -5280971757176938940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd7c1c4bd1cef060800000000000000
+      internalID: 6989236819344522746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6c61cdc57f14110800000000000000
+      internalID: 1243546950332499642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb41244e17e5e0e50800000000000000
+      internalID: 6777458332493026491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03985f29e4f64e0800000000000000
+      internalID: -1986282517555498791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d74d310a4ddbde0800000000000000
+      internalID: -1315661732129768103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46148f8399da242f0800000000000000
+      internalID: -990038094470692508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c357d559bfa53c40800000000000000
+      internalID: 5491488531192173509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f723b27b6a47450800000000000000
+      internalID: 6085672302118338371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 415
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223e63788e17268e0800000000000000
+      internalID: -1701672465677753566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b091b447204ff6f0800000000000000
+      internalID: -648729283917672265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 399
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8998c1197c8c6c350800000000000000
+      internalID: 6036733109995342232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 415
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0be2f645d18ffb60800000000000000
+      internalID: 7782081434137848588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eeb0ea8f28a5e80800000000000000
+      internalID: -8189088967836307880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 399
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c930f83cf937359d0800000000000000
+      internalID: -2786756614394281060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 399
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454246e4fce17b7a0800000000000000
+      internalID: -6361582072915286956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 384
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c71db26ffe5dc860800000000000000
+      internalID: 7551796601136420804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 384
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75409b558e026a850800000000000000
+      internalID: 6387829303714317399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 399
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5b11c3e4a16d800800000000000000
+      internalID: 636725320637068759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4555785dcf047b040800000000000000
+      internalID: 4663267393823790420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1563ac357f7adb150800000000000000
+      internalID: 5890048568374998609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a460479899bda8360800000000000000
+      internalID: 7172786809023497802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bce7e136d671a380800000000000000
+      internalID: -8961751121158214475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49366702e51b9e6e0800000000000000
+      internalID: -1807718757582871660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 367
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbadb4f4441437b0800000000000000
+      internalID: -5245545379583382544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 352
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcdad0b8f12a27d0800000000000000
+      internalID: -2942502054530458375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 367
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83886ed6aba7a9830800000000000000
+      internalID: 4078707353663735864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 351
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3c8f406e6827030800000000000000
+      internalID: 3491000983649567741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 352
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7cac00f928055d0800000000000000
+      internalID: -3075814926069348444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b786232c41c13ad00800000000000000
+      internalID: 982660019179907195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 336
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312a605cae6d4cda0800000000000000
+      internalID: -5925374905896492525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaebe943bcd821c0800000000000000
+      internalID: -4528126762723579229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 335
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec943adef6ebedc0800000000000000
+      internalID: -3608536694150357790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03785a84b5c99a450800000000000000
+      internalID: 6100579086124812080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 321
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc033c24ce56e530800000000000000
+      internalID: 3883895925301775573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 319
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5fe9278f8e06790800000000000000
+      internalID: -7538769622445656639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a44bf6d4e6ad040800000000000000
+      internalID: 4673168842215934480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 305
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98acf51aad478710800000000000000
+      internalID: 1695409177636939934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 319
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b1b2c2639fa51d0800000000000000
+      internalID: -3361100160814081224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4580d0786e9d905b0800000000000000
+      internalID: -5401546693922715564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91ab8ca139b7e170800000000000000
+      internalID: 8207732468905386396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fbd8063a405a900800000000000000
+      internalID: 694966817244692272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06df0d4f8eb0b1120800000000000000
+      internalID: 2385513522790464864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8c438157cb31ce0800000000000000
+      internalID: -1435596645097748306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffa47c76e575bd30800000000000000
+      internalID: 4446589839889182719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a78ba52a5899f0800000000000000
+      internalID: -461519843967392239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6d622985e974d00800000000000000
+      internalID: 956907549085849339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d58d00bfc8085bb0800000000000000
+      internalID: -4947194502561561128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39be6484dc65c5e0800000000000000
+      internalID: -1889984808601339588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a519b6f3cac62d60800000000000000
+      internalID: 7865196742255908260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122b0c9244c9580f0800000000000000
+      internalID: -1115313516132126175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fa6e329b395dc20800000000000000
+      internalID: 3230650731088752436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75771dd6b9e43d740800000000000000
+      internalID: 5175566826248173399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50cb20f93a8f2080800000000000000
+      internalID: -9209990731502206885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7c91d0ab7ac5f10800000000000000
+      internalID: 2259865530558695391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eae0fb1a7040d60800000000000000
+      internalID: 7855412041317527106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b668fdc00a0bf4f60800000000000000
+      internalID: 8020823662827374187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2365a1ba77d3f0290800000000000000
+      internalID: -7922045635340380622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8e27ebfdbba49e0800000000000000
+      internalID: -1636288944948451127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 223
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f1a0aafc13820b0800000000000000
+      internalID: -5753293755985027296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c6477e82dd4fc60800000000000000
+      internalID: 7851143218165214330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1167ac9f44c09560800000000000000
+      internalID: 7318565240686731551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42bda81caeedc300800000000000000
+      internalID: 274137575255290444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02de9905d21439f00800000000000000
+      internalID: 1122312395026984224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a136427996be09810800000000000000
+      internalID: 1770173492296442650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bd772deeca7c2d0800000000000000
+      internalID: -3258445663646000270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac946639e136b200800000000000000
+      internalID: 195398511546899624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a73da12dc5b0a0800000000000000
+      internalID: -6866356512332734194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd0a4563762cbe0800000000000000
+      internalID: -1458489846268895295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46324e9a08ef240b0800000000000000
+      internalID: -5745750346011761820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a335992b03b730800000000000000
+      internalID: 4013563966141997967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 176
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e7c69f2f0ee7420800000000000000
+      internalID: 2629786566602292846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 176
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224aa7153d05ce1d0800000000000000
+      internalID: -3320189956743584734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc62922632d331d0800000000000000
+      internalID: -3372120566020281098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc326c64a337cf0800000000000000
+      internalID: -255796678183629722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964b4b10e53dec160800000000000000
+      internalID: 7047802867590411369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_83
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7b64bcc3ad166e0800000000000000
+      internalID: -1845954417601890384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb519e23eab7830800000000000000
+      internalID: 4070038221941489544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8457c6d524371fb0800000000000000
+      internalID: -4677212350879148918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a94d17171980c5d0800000000000000
+      internalID: -3044282615837406815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_87
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82aa26ca58affe990800000000000000
+      internalID: -7354384214442989016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f005efd22399250800000000000000
+      internalID: 5951843555668397903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75780a7abaf7c0410800000000000000
+      internalID: 1444669955707537239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c632a30a436519f00800000000000000
+      internalID: 1121772566218417004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb72433823470690800000000000000
+      internalID: -7636060803245638659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 113
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a9f6398c0f46a60800000000000000
+      internalID: 7666517209949117032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cbeaf4463921510800000000000000
+      internalID: 1518438083420142704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_94
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4274122321467fb0800000000000000
+      internalID: -4650457946062032307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b146ef5319c7d18a0800000000000000
+      internalID: -6332768537895082981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19de72d7457a75e0800000000000000
+      internalID: -1911086140530697958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e77c219f69e440800000000000000
+      internalID: 4965622733459679475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4ecc5e265b2900800000000000000
+      internalID: 660716527465417483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b65667e0cd450f0800000000000000
+      internalID: -1129035651889140928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4549b710e7b52850800000000000000
+      internalID: 6351685022574527819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46fbcefbc4980ec0800000000000000
+      internalID: -3600464298208659892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_102
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aba4eae5a66b8d0800000000000000
+      internalID: -2830958360872174966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728f43e4f8f375570800000000000000
+      internalID: 8455296710136363047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6fdf4ec05160910800000000000000
+      internalID: 1803151845934102267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb88cd58390848e0800000000000000
+      internalID: -1709105920890860560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_106
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a429923a26e65ba0800000000000000
+      internalID: -6100435576314846042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b8441d2510cbb20800000000000000
+      internalID: 3151395294462380864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa133c851ce8c5680800000000000000
+      internalID: -8764973813700808273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9fb3104ddd47ac0800000000000000
+      internalID: -3858215078126159437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 52
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7300d22f78d8a0e0800000000000000
+      internalID: -2258317172569799812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a5ced3ab7c1bd0800000000000000
+      internalID: -2658113736308055672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903b8c2a4a97e9970800000000000000
+      internalID: 8763575672922223369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2e4aaccfb6c1670800000000000000
+      internalID: 8510796129299128997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935c33bab470eaa70800000000000000
+      internalID: 8840011140151100729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2318fb0b77f67dd0800000000000000
+      internalID: -2488529636221775057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451ddf58d82299a50800000000000000
+      internalID: 6528287126083981652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_117
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672421d834ee6e520800000000000000
+      internalID: 2731132197943788150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_118
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33387d9a5189e95f0800000000000000
+      internalID: -747993269285715149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_119
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060d45e7541d71b00800000000000000
+      internalID: 799337555283988576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299462166e2e1a690800000000000000
+      internalID: -7592538017669690990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7fde6cd42ffe370800000000000000
+      internalID: 8354162249659447257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_122
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de010717ef3893970800000000000000
+      internalID: 8735158081109889261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serek_123
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb019864ae92675d0800000000000000
+      internalID: -3065216410196569921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Serek_0: 7468850902121093662
+      Serek_1: 2770094600976309731
+      Serek_10: 6777458332493026491
+      Serek_100: 6351685022574527819
+      Serek_101: -3600464298208659892
+      Serek_102: -2830958360872174966
+      Serek_103: 8455296710136363047
+      Serek_104: 1803151845934102267
+      Serek_105: -1709105920890860560
+      Serek_106: -6100435576314846042
+      Serek_107: 3151395294462380864
+      Serek_108: -8764973813700808273
+      Serek_109: -3858215078126159437
+      Serek_11: -1986282517555498791
+      Serek_110: -2258317172569799812
+      Serek_111: -2658113736308055672
+      Serek_112: 8763575672922223369
+      Serek_113: 8510796129299128997
+      Serek_114: 8840011140151100729
+      Serek_115: -2488529636221775057
+      Serek_116: 6528287126083981652
+      Serek_117: 2731132197943788150
+      Serek_118: -747993269285715149
+      Serek_119: 799337555283988576
+      Serek_12: -1315661732129768103
+      Serek_120: -7592538017669690990
+      Serek_121: 8354162249659447257
+      Serek_122: 8735158081109889261
+      Serek_123: -3065216410196569921
+      Serek_13: -990038094470692508
+      Serek_14: 5491488531192173509
+      Serek_15: 6085672302118338371
+      Serek_16: -1701672465677753566
+      Serek_17: -648729283917672265
+      Serek_18: 6036733109995342232
+      Serek_19: 7782081434137848588
+      Serek_2: -592412004382200560
+      Serek_20: -8189088967836307880
+      Serek_21: -2786756614394281060
+      Serek_22: -6361582072915286956
+      Serek_23: 7551796601136420804
+      Serek_24: 6387829303714317399
+      Serek_25: 636725320637068759
+      Serek_26: 4663267393823790420
+      Serek_27: 5890048568374998609
+      Serek_28: 7172786809023497802
+      Serek_29: -8961751121158214475
+      Serek_3: -221520374760273863
+      Serek_30: -1807718757582871660
+      Serek_31: -5245545379583382544
+      Serek_32: -2942502054530458375
+      Serek_33: 4078707353663735864
+      Serek_34: 3491000983649567741
+      Serek_35: -3075814926069348444
+      Serek_36: 982660019179907195
+      Serek_37: -5925374905896492525
+      Serek_38: -4528126762723579229
+      Serek_39: -3608536694150357790
+      Serek_4: 1361900730731995022
+      Serek_40: 6100579086124812080
+      Serek_41: 3883895925301775573
+      Serek_42: -7538769622445656639
+      Serek_43: 4673168842215934480
+      Serek_44: 1695409177636939934
+      Serek_45: -3361100160814081224
+      Serek_46: -5401546693922715564
+      Serek_47: 8207732468905386396
+      Serek_48: 694966817244692272
+      Serek_49: 2385513522790464864
+      Serek_5: -3607423782729991159
+      Serek_50: -1435596645097748306
+      Serek_51: 4446589839889182719
+      Serek_52: -461519843967392239
+      Serek_53: 956907549085849339
+      Serek_54: -4947194502561561128
+      Serek_55: -1889984808601339588
+      Serek_56: 7865196742255908260
+      Serek_57: -1115313516132126175
+      Serek_58: 3230650731088752436
+      Serek_59: 5175566826248173399
+      Serek_6: 3051968360785181223
+      Serek_60: -9209990731502206885
+      Serek_61: 2259865530558695391
+      Serek_62: 7855412041317527106
+      Serek_63: 8020823662827374187
+      Serek_64: -7922045635340380622
+      Serek_65: -1636288944948451127
+      Serek_66: -5753293755985027296
+      Serek_67: 7851143218165214330
+      Serek_68: 7318565240686731551
+      Serek_69: 274137575255290444
+      Serek_7: -5280971757176938940
+      Serek_70: 1122312395026984224
+      Serek_71: 1770173492296442650
+      Serek_72: -3258445663646000270
+      Serek_73: 195398511546899624
+      Serek_74: -6866356512332734194
+      Serek_75: -1458489846268895295
+      Serek_76: -5745750346011761820
+      Serek_77: 4013563966141997967
+      Serek_78: 2629786566602292846
+      Serek_79: -3320189956743584734
+      Serek_8: 6989236819344522746
+      Serek_80: -3372120566020281098
+      Serek_81: -255796678183629722
+      Serek_82: 7047802867590411369
+      Serek_83: -1845954417601890384
+      Serek_84: 4070038221941489544
+      Serek_85: -4677212350879148918
+      Serek_86: -3044282615837406815
+      Serek_87: -7354384214442989016
+      Serek_88: 5951843555668397903
+      Serek_89: 1444669955707537239
+      Serek_9: 1243546950332499642
+      Serek_90: 1121772566218417004
+      Serek_91: -7636060803245638659
+      Serek_92: 7666517209949117032
+      Serek_93: 1518438083420142704
+      Serek_94: -4650457946062032307
+      Serek_95: -6332768537895082981
+      Serek_96: -1911086140530697958
+      Serek_97: 4965622733459679475
+      Serek_98: 660716527465417483
+      Serek_99: -1129035651889140928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

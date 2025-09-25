@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 5e2b834bd418ca549a88b6c321ba5d1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7460720451640189618
+    second: Paladin_Combat_Thrust+Dash_0
+  - first:
+      213: -4118514402677999189
+    second: Paladin_Combat_Thrust+Dash_1
+  - first:
+      213: -2663719158727662105
+    second: Paladin_Combat_Thrust+Dash_2
+  - first:
+      213: -2540321131492502862
+    second: Paladin_Combat_Thrust+Dash_3
+  - first:
+      213: 4076820705380759101
+    second: Paladin_Combat_Thrust+Dash_4
+  - first:
+      213: 5209384307539078229
+    second: Paladin_Combat_Thrust+Dash_5
+  - first:
+      213: 1723984362623273742
+    second: Paladin_Combat_Thrust+Dash_6
+  - first:
+      213: 1254742655646069384
+    second: Paladin_Combat_Thrust+Dash_7
+  - first:
+      213: -6563041464684578743
+    second: Paladin_Combat_Thrust+Dash_8
+  - first:
+      213: 7519830957070450027
+    second: Paladin_Combat_Thrust+Dash_9
+  - first:
+      213: -1161788302374868765
+    second: Paladin_Combat_Thrust+Dash_10
+  - first:
+      213: 8456017445027150156
+    second: Paladin_Combat_Thrust+Dash_11
+  - first:
+      213: -5098624244943692240
+    second: Paladin_Combat_Thrust+Dash_12
+  - first:
+      213: -2014664726384483308
+    second: Paladin_Combat_Thrust+Dash_13
+  - first:
+      213: 3904964160996043680
+    second: Paladin_Combat_Thrust+Dash_14
+  - first:
+      213: -5255152355605096441
+    second: Paladin_Combat_Thrust+Dash_15
+  - first:
+      213: 8937088169068619533
+    second: Paladin_Combat_Thrust+Dash_16
+  - first:
+      213: -3717333717883382143
+    second: Paladin_Combat_Thrust+Dash_17
+  - first:
+      213: -2602798024835949447
+    second: Paladin_Combat_Thrust+Dash_18
+  - first:
+      213: -4076434660401685906
+    second: Paladin_Combat_Thrust+Dash_19
+  - first:
+      213: -8819907378325735878
+    second: Paladin_Combat_Thrust+Dash_20
+  - first:
+      213: 2374124080720721229
+    second: Paladin_Combat_Thrust+Dash_21
+  - first:
+      213: -6823696274783617695
+    second: Paladin_Combat_Thrust+Dash_22
+  - first:
+      213: -3833687123519153819
+    second: Paladin_Combat_Thrust+Dash_23
+  - first:
+      213: 3288948386134701561
+    second: Paladin_Combat_Thrust+Dash_24
+  - first:
+      213: 4584753894724445743
+    second: Paladin_Combat_Thrust+Dash_25
+  - first:
+      213: -4982359214380591094
+    second: Paladin_Combat_Thrust+Dash_26
+  - first:
+      213: 8858579099080959379
+    second: Paladin_Combat_Thrust+Dash_27
+  - first:
+      213: 5839630136767794365
+    second: Paladin_Combat_Thrust+Dash_28
+  - first:
+      213: 6776563897572998382
+    second: Paladin_Combat_Thrust+Dash_29
+  - first:
+      213: 1508839560593422105
+    second: Paladin_Combat_Thrust+Dash_30
+  - first:
+      213: 5009737476228613240
+    second: Paladin_Combat_Thrust+Dash_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b26180e8bdc98760800000000000000
+      internalID: 7460720451640189618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba93c0ab8f818d6c0800000000000000
+      internalID: -4118514402677999189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5a2a2c981980bd0800000000000000
+      internalID: -2663719158727662105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b298fdd367febcd0800000000000000
+      internalID: -2540321131492502862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 103
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d367d25e4d6c39830800000000000000
+      internalID: 4076820705380759101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6c5d5d637b4840800000000000000
+      internalID: 5209384307539078229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 103
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b0d7cc4a2dce710800000000000000
+      internalID: 1723984362623273742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88270522ccdb96110800000000000000
+      internalID: 1254742655646069384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948f0537f846be4a0800000000000000
+      internalID: -6563041464684578743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7b27e96ecb5860800000000000000
+      internalID: 7519830957070450027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8edb4c1bf70efe0800000000000000
+      internalID: -1161788302374868765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c497959701fc95570800000000000000
+      internalID: 8456017445027150156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 71
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03edfec434c0e39b0800000000000000
+      internalID: -5098624244943692240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414e7520b197a04e0800000000000000
+      internalID: -2014664726384483308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 71
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abeccc0738313630800000000000000
+      internalID: 3904964160996043680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708d99b86c2f117b0800000000000000
+      internalID: -5255152355605096441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076eabc65ae60c70800000000000000
+      internalID: 8937088169068619533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1869af9cda0696cc0800000000000000
+      internalID: -3717333717883382143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c90939cf001ebd0800000000000000
+      internalID: -2602798024835949447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 37
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6adaa436489d67c0800000000000000
+      internalID: -4076434660401685906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 37
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a363c0328f4699580800000000000000
+      internalID: -8819907378325735878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 37
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d453f04d54592f020800000000000000
+      internalID: 2374124080720721229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 37
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbd5e346c5d41a0800000000000000
+      internalID: -6823696274783617695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 38
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d6a67fd10ccac0800000000000000
+      internalID: -3833687123519153819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f53720b121b4ad20800000000000000
+      internalID: 3288948386134701561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a3ad406150af30800000000000000
+      internalID: 4584753894724445743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08537331ba1bdab0800000000000000
+      internalID: -4982359214380591094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395ab6f71ceffea70800000000000000
+      internalID: 8858579099080959379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc5b17ba88a0150800000000000000
+      internalID: 5839630136767794365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec339806f03b0e50800000000000000
+      internalID: 6776563897572998382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173a30169970f410800000000000000
+      internalID: 1508839560593422105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Combat_Thrust+Dash_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874819021b9268540800000000000000
+      internalID: 5009737476228613240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Paladin_Combat_Thrust+Dash_0: 7460720451640189618
+      Paladin_Combat_Thrust+Dash_1: -4118514402677999189
+      Paladin_Combat_Thrust+Dash_10: -1161788302374868765
+      Paladin_Combat_Thrust+Dash_11: 8456017445027150156
+      Paladin_Combat_Thrust+Dash_12: -5098624244943692240
+      Paladin_Combat_Thrust+Dash_13: -2014664726384483308
+      Paladin_Combat_Thrust+Dash_14: 3904964160996043680
+      Paladin_Combat_Thrust+Dash_15: -5255152355605096441
+      Paladin_Combat_Thrust+Dash_16: 8937088169068619533
+      Paladin_Combat_Thrust+Dash_17: -3717333717883382143
+      Paladin_Combat_Thrust+Dash_18: -2602798024835949447
+      Paladin_Combat_Thrust+Dash_19: -4076434660401685906
+      Paladin_Combat_Thrust+Dash_2: -2663719158727662105
+      Paladin_Combat_Thrust+Dash_20: -8819907378325735878
+      Paladin_Combat_Thrust+Dash_21: 2374124080720721229
+      Paladin_Combat_Thrust+Dash_22: -6823696274783617695
+      Paladin_Combat_Thrust+Dash_23: -3833687123519153819
+      Paladin_Combat_Thrust+Dash_24: 3288948386134701561
+      Paladin_Combat_Thrust+Dash_25: 4584753894724445743
+      Paladin_Combat_Thrust+Dash_26: -4982359214380591094
+      Paladin_Combat_Thrust+Dash_27: 8858579099080959379
+      Paladin_Combat_Thrust+Dash_28: 5839630136767794365
+      Paladin_Combat_Thrust+Dash_29: 6776563897572998382
+      Paladin_Combat_Thrust+Dash_3: -2540321131492502862
+      Paladin_Combat_Thrust+Dash_30: 1508839560593422105
+      Paladin_Combat_Thrust+Dash_31: 5009737476228613240
+      Paladin_Combat_Thrust+Dash_4: 4076820705380759101
+      Paladin_Combat_Thrust+Dash_5: 5209384307539078229
+      Paladin_Combat_Thrust+Dash_6: 1723984362623273742
+      Paladin_Combat_Thrust+Dash_7: 1254742655646069384
+      Paladin_Combat_Thrust+Dash_8: -6563041464684578743
+      Paladin_Combat_Thrust+Dash_9: 7519830957070450027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

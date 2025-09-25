@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 3432243c59c208344a40911b1faaec04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2296639501356035115
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_0
+  - first:
+      213: -2050259811351747097
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_1
+  - first:
+      213: -8493242137942925945
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_2
+  - first:
+      213: -3459693834478504633
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_3
+  - first:
+      213: 230465227051417010
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_4
+  - first:
+      213: -6601619761704926493
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_5
+  - first:
+      213: -8949814947109930655
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_6
+  - first:
+      213: 7774602226204676353
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_7
+  - first:
+      213: -7157745512983814676
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_8
+  - first:
+      213: 6636126452398795682
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_9
+  - first:
+      213: -8631416050584627675
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_10
+  - first:
+      213: -5840030477162194788
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_11
+  - first:
+      213: 7915504455083487833
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_12
+  - first:
+      213: 5613470879808124185
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_13
+  - first:
+      213: -7153649594185165560
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_14
+  - first:
+      213: 5286110804597501850
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_15
+  - first:
+      213: -4179938921763300935
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_16
+  - first:
+      213: -6566209641375938159
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_17
+  - first:
+      213: -3101626638478323048
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_18
+  - first:
+      213: -8013289096643615637
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_19
+  - first:
+      213: 1024260185592388375
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_20
+  - first:
+      213: 1517234198010410027
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_21
+  - first:
+      213: -3655869385585283939
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_22
+  - first:
+      213: -168824366734114106
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_23
+  - first:
+      213: -8117312779489067111
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_24
+  - first:
+      213: 8078394471833014373
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_25
+  - first:
+      213: -8651597969226579278
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_26
+  - first:
+      213: 7296338515532676462
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_27
+  - first:
+      213: -6901424314948523861
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_28
+  - first:
+      213: -7621544589318486896
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_29
+  - first:
+      213: 8742217659333224628
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_30
+  - first:
+      213: -5737987740732697095
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_31
+  - first:
+      213: -5795248524213230737
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_32
+  - first:
+      213: -3986876424245649335
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_33
+  - first:
+      213: 7140748577359690399
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_34
+  - first:
+      213: 8098722692250392090
+    second: Ice-Burst_crystal_48x48_Anti-Alias_glow_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice-Burst_crystal_48x48_Anti-Alias_glow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ce477557d4fdf10800000000000000
+      internalID: 2296639501356035115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_crystal_48x48_Anti-Alias_glow_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5ae1770930c83e0800000000000000
+      internalID: -2050259811351747097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_crystal_48x48_Anti-Alias_glow_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d58805641f12a80800000000000000
+      internalID: -8493242137942925945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_crystal_48x48_Anti-Alias_glow_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745bc4ca9c2bcffc0800000000000000
+      internalID: -3459693834478504633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_crystal_48x48_Anti-Alias_glow_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdba7727e6c23300800000000000000
+      internalID: 230465227051417010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_crystal_48x48_Anti-Alias_glow_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e20169bdc55264a0800000000000000
+      internalID: -6601619761704926493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_crystal_48x48_Anti-Alias_glow_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169f70849bedbc380800000000000000
+      internalID: -8949814947109930655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_crystal_48x48_Anti-Alias_glow_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10114ea788fe4eb60800000000000000
+      internalID: 7774602226204676353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6d3e0ed17fd9cd1499e77d280503893b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ice-Burst_crystal_48x48_Anti-Alias_glow_0: 2296639501356035115
+      Ice-Burst_crystal_48x48_Anti-Alias_glow_1: -2050259811351747097
+      Ice-Burst_crystal_48x48_Anti-Alias_glow_2: -8493242137942925945
+      Ice-Burst_crystal_48x48_Anti-Alias_glow_3: -3459693834478504633
+      Ice-Burst_crystal_48x48_Anti-Alias_glow_4: 230465227051417010
+      Ice-Burst_crystal_48x48_Anti-Alias_glow_5: -6601619761704926493
+      Ice-Burst_crystal_48x48_Anti-Alias_glow_6: -8949814947109930655
+      Ice-Burst_crystal_48x48_Anti-Alias_glow_7: 7774602226204676353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

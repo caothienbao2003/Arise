@@ -1,0 +1,3356 @@
+fileFormatVersion: 2
+guid: eb8f70e3aeffc6a439533b147025f487
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7529994542894605653
+    second: Rogue_Non-Combat_Bow_Equipped_0
+  - first:
+      213: 493676384339722842
+    second: Rogue_Non-Combat_Bow_Equipped_1
+  - first:
+      213: 8645815459947154478
+    second: Rogue_Non-Combat_Bow_Equipped_2
+  - first:
+      213: -1225208046330098145
+    second: Rogue_Non-Combat_Bow_Equipped_3
+  - first:
+      213: 1006444054897735512
+    second: Rogue_Non-Combat_Bow_Equipped_4
+  - first:
+      213: 7015163317185507363
+    second: Rogue_Non-Combat_Bow_Equipped_5
+  - first:
+      213: -157951644973779351
+    second: Rogue_Non-Combat_Bow_Equipped_6
+  - first:
+      213: 4865213093699071797
+    second: Rogue_Non-Combat_Bow_Equipped_7
+  - first:
+      213: 366324791319861742
+    second: Rogue_Non-Combat_Bow_Equipped_8
+  - first:
+      213: -769103331660910199
+    second: Rogue_Non-Combat_Bow_Equipped_9
+  - first:
+      213: -5944019790115089157
+    second: Rogue_Non-Combat_Bow_Equipped_10
+  - first:
+      213: 3492883363693741373
+    second: Rogue_Non-Combat_Bow_Equipped_11
+  - first:
+      213: 4180468476547080433
+    second: Rogue_Non-Combat_Bow_Equipped_12
+  - first:
+      213: -1202225337582534417
+    second: Rogue_Non-Combat_Bow_Equipped_13
+  - first:
+      213: -7602173337065201792
+    second: Rogue_Non-Combat_Bow_Equipped_14
+  - first:
+      213: 3972517210831194806
+    second: Rogue_Non-Combat_Bow_Equipped_15
+  - first:
+      213: -6093654538586896903
+    second: Rogue_Non-Combat_Bow_Equipped_16
+  - first:
+      213: 4142814492967225450
+    second: Rogue_Non-Combat_Bow_Equipped_17
+  - first:
+      213: 6693736569042785484
+    second: Rogue_Non-Combat_Bow_Equipped_18
+  - first:
+      213: 4911084793684249091
+    second: Rogue_Non-Combat_Bow_Equipped_19
+  - first:
+      213: 3245120929381919601
+    second: Rogue_Non-Combat_Bow_Equipped_20
+  - first:
+      213: -2189790454316754054
+    second: Rogue_Non-Combat_Bow_Equipped_21
+  - first:
+      213: -396710677731948391
+    second: Rogue_Non-Combat_Bow_Equipped_22
+  - first:
+      213: 4806021628407160070
+    second: Rogue_Non-Combat_Bow_Equipped_23
+  - first:
+      213: -4634847207611524104
+    second: Rogue_Non-Combat_Bow_Equipped_24
+  - first:
+      213: 2210240272190674138
+    second: Rogue_Non-Combat_Bow_Equipped_25
+  - first:
+      213: 8767467837507850325
+    second: Rogue_Non-Combat_Bow_Equipped_26
+  - first:
+      213: -621868302552167572
+    second: Rogue_Non-Combat_Bow_Equipped_27
+  - first:
+      213: 4266588658906903701
+    second: Rogue_Non-Combat_Bow_Equipped_28
+  - first:
+      213: -5419525707648026119
+    second: Rogue_Non-Combat_Bow_Equipped_29
+  - first:
+      213: -182862759107409241
+    second: Rogue_Non-Combat_Bow_Equipped_30
+  - first:
+      213: 836658711219854272
+    second: Rogue_Non-Combat_Bow_Equipped_31
+  - first:
+      213: 8978083123756884451
+    second: Rogue_Non-Combat_Bow_Equipped_32
+  - first:
+      213: -8818857663221857650
+    second: Rogue_Non-Combat_Bow_Equipped_33
+  - first:
+      213: -50184007551990438
+    second: Rogue_Non-Combat_Bow_Equipped_34
+  - first:
+      213: 2075605069294198994
+    second: Rogue_Non-Combat_Bow_Equipped_35
+  - first:
+      213: -1960211883548310551
+    second: Rogue_Non-Combat_Bow_Equipped_36
+  - first:
+      213: -7299776753691946271
+    second: Rogue_Non-Combat_Bow_Equipped_37
+  - first:
+      213: -3532654790631252422
+    second: Rogue_Non-Combat_Bow_Equipped_38
+  - first:
+      213: -8847100552680411866
+    second: Rogue_Non-Combat_Bow_Equipped_39
+  - first:
+      213: 491653656823459649
+    second: Rogue_Non-Combat_Bow_Equipped_40
+  - first:
+      213: -3281478832082685978
+    second: Rogue_Non-Combat_Bow_Equipped_41
+  - first:
+      213: -4302404692581522935
+    second: Rogue_Non-Combat_Bow_Equipped_42
+  - first:
+      213: 5297521524499713932
+    second: Rogue_Non-Combat_Bow_Equipped_43
+  - first:
+      213: -5807596356812700449
+    second: Rogue_Non-Combat_Bow_Equipped_44
+  - first:
+      213: -1897362003283482427
+    second: Rogue_Non-Combat_Bow_Equipped_45
+  - first:
+      213: -1957773745756573666
+    second: Rogue_Non-Combat_Bow_Equipped_46
+  - first:
+      213: 8066317438136244496
+    second: Rogue_Non-Combat_Bow_Equipped_47
+  - first:
+      213: 4203808527011345277
+    second: Rogue_Non-Combat_Bow_Equipped_48
+  - first:
+      213: -843944573835563521
+    second: Rogue_Non-Combat_Bow_Equipped_49
+  - first:
+      213: 5083945785274142257
+    second: Rogue_Non-Combat_Bow_Equipped_50
+  - first:
+      213: -9011004881908067973
+    second: Rogue_Non-Combat_Bow_Equipped_51
+  - first:
+      213: -3929006640841718884
+    second: Rogue_Non-Combat_Bow_Equipped_52
+  - first:
+      213: 6841992075638466996
+    second: Rogue_Non-Combat_Bow_Equipped_53
+  - first:
+      213: -8683931369311400614
+    second: Rogue_Non-Combat_Bow_Equipped_54
+  - first:
+      213: -1290409171872106142
+    second: Rogue_Non-Combat_Bow_Equipped_55
+  - first:
+      213: 534205037870480570
+    second: Rogue_Non-Combat_Bow_Equipped_56
+  - first:
+      213: 4834388503751683621
+    second: Rogue_Non-Combat_Bow_Equipped_57
+  - first:
+      213: -8579831351411982488
+    second: Rogue_Non-Combat_Bow_Equipped_58
+  - first:
+      213: -6166520358276179093
+    second: Rogue_Non-Combat_Bow_Equipped_59
+  - first:
+      213: 2533401166730451008
+    second: Rogue_Non-Combat_Bow_Equipped_60
+  - first:
+      213: -3264651639077158529
+    second: Rogue_Non-Combat_Bow_Equipped_61
+  - first:
+      213: -1231056142563047882
+    second: Rogue_Non-Combat_Bow_Equipped_62
+  - first:
+      213: -2439175410141194565
+    second: Rogue_Non-Combat_Bow_Equipped_63
+  - first:
+      213: 1846355961874039969
+    second: Rogue_Non-Combat_Bow_Equipped_64
+  - first:
+      213: 5123504001244071183
+    second: Rogue_Non-Combat_Bow_Equipped_65
+  - first:
+      213: 2940290037403741422
+    second: Rogue_Non-Combat_Bow_Equipped_66
+  - first:
+      213: -1422998046202117569
+    second: Rogue_Non-Combat_Bow_Equipped_67
+  - first:
+      213: 1452821805185900706
+    second: Rogue_Non-Combat_Bow_Equipped_68
+  - first:
+      213: -883063814021673507
+    second: Rogue_Non-Combat_Bow_Equipped_69
+  - first:
+      213: 9033596804062107955
+    second: Rogue_Non-Combat_Bow_Equipped_70
+  - first:
+      213: 8684113285173749057
+    second: Rogue_Non-Combat_Bow_Equipped_71
+  - first:
+      213: 5261107498982224804
+    second: Rogue_Non-Combat_Bow_Equipped_72
+  - first:
+      213: 8173648292832696005
+    second: Rogue_Non-Combat_Bow_Equipped_73
+  - first:
+      213: 8915411144917887510
+    second: Rogue_Non-Combat_Bow_Equipped_74
+  - first:
+      213: -5633586891357782726
+    second: Rogue_Non-Combat_Bow_Equipped_75
+  - first:
+      213: 4969167183605800329
+    second: Rogue_Non-Combat_Bow_Equipped_76
+  - first:
+      213: -6947053409350737969
+    second: Rogue_Non-Combat_Bow_Equipped_77
+  - first:
+      213: 2591700060884837498
+    second: Rogue_Non-Combat_Bow_Equipped_78
+  - first:
+      213: 4508416754261317587
+    second: Rogue_Non-Combat_Bow_Equipped_79
+  - first:
+      213: 1972976942059211069
+    second: Rogue_Non-Combat_Bow_Equipped_80
+  - first:
+      213: -4435788628603577307
+    second: Rogue_Non-Combat_Bow_Equipped_81
+  - first:
+      213: 6746291830450208003
+    second: Rogue_Non-Combat_Bow_Equipped_82
+  - first:
+      213: 3577431037633818437
+    second: Rogue_Non-Combat_Bow_Equipped_83
+  - first:
+      213: -6049711822349078373
+    second: Rogue_Non-Combat_Bow_Equipped_84
+  - first:
+      213: -4466876660353941084
+    second: Rogue_Non-Combat_Bow_Equipped_85
+  - first:
+      213: -3353373848164712144
+    second: Rogue_Non-Combat_Bow_Equipped_86
+  - first:
+      213: 6302866321890026181
+    second: Rogue_Non-Combat_Bow_Equipped_87
+  - first:
+      213: 5155302414235776900
+    second: Rogue_Non-Combat_Bow_Equipped_88
+  - first:
+      213: -2183558209298748943
+    second: Rogue_Non-Combat_Bow_Equipped_89
+  - first:
+      213: 2820298178537847763
+    second: Rogue_Non-Combat_Bow_Equipped_90
+  - first:
+      213: 1348546386425396523
+    second: Rogue_Non-Combat_Bow_Equipped_91
+  - first:
+      213: -6764718184527760970
+    second: Rogue_Non-Combat_Bow_Equipped_92
+  - first:
+      213: 417454134054078516
+    second: Rogue_Non-Combat_Bow_Equipped_93
+  - first:
+      213: -4786890524223681037
+    second: Rogue_Non-Combat_Bow_Equipped_94
+  - first:
+      213: 5256478029436272107
+    second: Rogue_Non-Combat_Bow_Equipped_95
+  - first:
+      213: 7846882553201593119
+    second: Rogue_Non-Combat_Bow_Equipped_96
+  - first:
+      213: -7244703803153096200
+    second: Rogue_Non-Combat_Bow_Equipped_97
+  - first:
+      213: -878611762052547916
+    second: Rogue_Non-Combat_Bow_Equipped_98
+  - first:
+      213: -3702572113680354708
+    second: Rogue_Non-Combat_Bow_Equipped_99
+  - first:
+      213: -6841201905511176368
+    second: Rogue_Non-Combat_Bow_Equipped_100
+  - first:
+      213: -5168919108394807412
+    second: Rogue_Non-Combat_Bow_Equipped_101
+  - first:
+      213: -8649494134842099155
+    second: Rogue_Non-Combat_Bow_Equipped_102
+  - first:
+      213: -8421471997816571034
+    second: Rogue_Non-Combat_Bow_Equipped_103
+  - first:
+      213: -584131513970295092
+    second: Rogue_Non-Combat_Bow_Equipped_104
+  - first:
+      213: 3153016251823807756
+    second: Rogue_Non-Combat_Bow_Equipped_105
+  - first:
+      213: -4576744307354623217
+    second: Rogue_Non-Combat_Bow_Equipped_106
+  - first:
+      213: 239545111322011900
+    second: Rogue_Non-Combat_Bow_Equipped_107
+  - first:
+      213: -5773457553767862517
+    second: Rogue_Non-Combat_Bow_Equipped_108
+  - first:
+      213: 2358039255344347556
+    second: Rogue_Non-Combat_Bow_Equipped_109
+  - first:
+      213: 6905796156931398419
+    second: Rogue_Non-Combat_Bow_Equipped_110
+  - first:
+      213: -2285759949522403937
+    second: Rogue_Non-Combat_Bow_Equipped_111
+  - first:
+      213: -3963775103984621669
+    second: Rogue_Non-Combat_Bow_Equipped_112
+  - first:
+      213: 2255555681248288766
+    second: Rogue_Non-Combat_Bow_Equipped_113
+  - first:
+      213: -693561587939284263
+    second: Rogue_Non-Combat_Bow_Equipped_114
+  - first:
+      213: -4236772957636585910
+    second: Rogue_Non-Combat_Bow_Equipped_115
+  - first:
+      213: 5269042838103904494
+    second: Rogue_Non-Combat_Bow_Equipped_116
+  - first:
+      213: -4545871472752469116
+    second: Rogue_Non-Combat_Bow_Equipped_117
+  - first:
+      213: 7269513712092263361
+    second: Rogue_Non-Combat_Bow_Equipped_118
+  - first:
+      213: -2177813253190164469
+    second: Rogue_Non-Combat_Bow_Equipped_119
+  - first:
+      213: 4767133000121957765
+    second: Rogue_Non-Combat_Bow_Equipped_120
+  - first:
+      213: 4875304162504822906
+    second: Rogue_Non-Combat_Bow_Equipped_121
+  - first:
+      213: 1311240103854728335
+    second: Rogue_Non-Combat_Bow_Equipped_122
+  - first:
+      213: 6872729011695701502
+    second: Rogue_Non-Combat_Bow_Equipped_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa132edbd5108790800000000000000
+      internalID: -7529994542894605653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5281925e04e9d600800000000000000
+      internalID: 493676384339722842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c0bb37a5b1cf770800000000000000
+      internalID: 8645815459947154478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4b86f5cf2ffee0800000000000000
+      internalID: -1225208046330098145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857bb7a198b97fd00800000000000000
+      internalID: 1006444054897735512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320713a7eddda5160800000000000000
+      internalID: 7015163317185507363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96636a5d0d7decdf0800000000000000
+      internalID: -157951644973779351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f238e1885b48340800000000000000
+      internalID: 4865213093699071797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee91a03f472751500800000000000000
+      internalID: 366324791319861742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98138c048989355f0800000000000000
+      internalID: -769103331660910199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf45c406e79928da0800000000000000
+      internalID: -5944019790115089157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3546d6c9e6397030800000000000000
+      internalID: 3492883363693741373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0ae4b2ee1040a30800000000000000
+      internalID: 4180468476547080433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe04b65dc66d05fe0800000000000000
+      internalID: -1202225337582534417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f5843c0a7af7690800000000000000
+      internalID: -7602173337065201792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba08bf1b57312730800000000000000
+      internalID: 3972517210831194806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c4939b7dfe6ba0800000000000000
+      internalID: -6093654538586896903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68c6afe4db3e7930800000000000000
+      internalID: 4142814492967225450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc456d1d1fde4ec50800000000000000
+      internalID: 6693736569042785484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a4f5d899da72440800000000000000
+      internalID: 4911084793684249091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17baef8ba4cf80d20800000000000000
+      internalID: 3245120929381919601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b98ed0f2d4c91e0800000000000000
+      internalID: -2189790454316754054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998ce2f8db99e7af0800000000000000
+      internalID: -396710677731948391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d9d08253b62b240800000000000000
+      internalID: 4806021628407160070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb9a1a6507bdafb0800000000000000
+      internalID: -4634847207611524104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4103431d95cae10800000000000000
+      internalID: 2210240272190674138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505152db8d4ca970800000000000000
+      internalID: 8767467837507850325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b8d49d21eae57f0800000000000000
+      internalID: -621868302552167572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5943bd8a7c7f53b30800000000000000
+      internalID: 4266588658906903701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9ba80351af9c4b0800000000000000
+      internalID: -5419525707648026119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa41c81a47567df0800000000000000
+      internalID: -182862759107409241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbde704aa86c9b00800000000000000
+      internalID: 836658711219854272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1657b780f889c70800000000000000
+      internalID: 8978083123756884451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e820eeafdaf1d9580800000000000000
+      internalID: -8818857663221857650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55457839e5bd4ff0800000000000000
+      internalID: -50184007551990438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0e74140d70ecc10800000000000000
+      internalID: 2075605069294198994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e38a947dadebc4e0800000000000000
+      internalID: -1960211883548310551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e29988e7bbf1ba90800000000000000
+      internalID: -7299776753691946271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e975a4f2d79fec0800000000000000
+      internalID: -3532654790631252422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d6259dbe8c83580800000000000000
+      internalID: -8847100552680411866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14feb7f5564b2d600800000000000000
+      internalID: 491653656823459649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef6fb36368d572d0800000000000000
+      internalID: -3281478832082685978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90264ba2ab9ca44c0800000000000000
+      internalID: -4302404692581522935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f8ac152c3948940800000000000000
+      internalID: 5297521524499713932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4835922e5476fa0800000000000000
+      internalID: -5807596356812700449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8e6f78f473ba5e0800000000000000
+      internalID: -1897362003283482427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10f795a62794d4e0800000000000000
+      internalID: -1957773745756573666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01956a909f051ff60800000000000000
+      internalID: 8066317438136244496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73f444259de65a30800000000000000
+      internalID: 4203808527011345277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffda96aa1e4b944f0800000000000000
+      internalID: -843944573835563521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0c9c71cdcd8640800000000000000
+      internalID: 5083945785274142257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b711f806dca72f280800000000000000
+      internalID: -9011004881908067973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c938a74e64d5979c0800000000000000
+      internalID: -3929006640841718884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9e778da83a3fe50800000000000000
+      internalID: 6841992075638466996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8256dd6a7c7780800000000000000
+      internalID: -8683931369311400614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26938afe1bb871ee0800000000000000
+      internalID: -1290409171872106142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc7e7fc6a0e96700800000000000000
+      internalID: 534205037870480570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ee9500bb2371340800000000000000
+      internalID: 4834388503751683621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f345208d05ee880800000000000000
+      internalID: -8579831351411982488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bdbb0e76e1c6aa0800000000000000
+      internalID: -6166520358276179093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048578840f2782320800000000000000
+      internalID: 2533401166730451008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71c86191a0a1b2d0800000000000000
+      internalID: -3264651639077158529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63687f3f5f86aeee0800000000000000
+      internalID: -1231056142563047882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb69aa543ee462ed0800000000000000
+      internalID: -2439175410141194565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a44d6407f29f9910800000000000000
+      internalID: 1846355961874039969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05027f5eb75a1740800000000000000
+      internalID: 5123504001244071183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eece110f5320ec820800000000000000
+      internalID: 2940290037403741422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324c0cf0de704ce0800000000000000
+      internalID: -1422998046202117569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02c040cb5792410800000000000000
+      internalID: 1452821805185900706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd8c3bc32abeb3f0800000000000000
+      internalID: -883063814021673507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339d9366e68cd5d70800000000000000
+      internalID: 9033596804062107955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1452800c50b248870800000000000000
+      internalID: 8684113285173749057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3baf15565330940800000000000000
+      internalID: 5261107498982224804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6554501d1ae6170800000000000000
+      internalID: 8173648292832696005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aa36f4337e9bb70800000000000000
+      internalID: 8915411144917887510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d7251029a71d1b0800000000000000
+      internalID: -5633586891357782726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1a58c93706f440800000000000000
+      internalID: 4969167183605800329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf9bf33bbb179f90800000000000000
+      internalID: -6947053409350737969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a742665597197f320800000000000000
+      internalID: 2591700060884837498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d75a21c62d119e30800000000000000
+      internalID: 4508416754261317587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39c975531c616b10800000000000000
+      internalID: 1972976942059211069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cdd5d7eb9e072c0800000000000000
+      internalID: -4435788628603577307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dba192da4af9d50800000000000000
+      internalID: 6746291830450208003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fee9e139695a130800000000000000
+      internalID: 3577431037633818437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90f66b762b1b0ca0800000000000000
+      internalID: -6049711822349078373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1ce1c08577202c0800000000000000
+      internalID: -4466876660353941084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ce05804c6671d0800000000000000
+      internalID: -3353373848164712144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c227079687487750800000000000000
+      internalID: 6302866321890026181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487bc365b305b8740800000000000000
+      internalID: 5155302414235776900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92c5ca06172b1e0800000000000000
+      internalID: -2183558209298748943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbfd643046b32720800000000000000
+      internalID: 2820298178537847763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2db5062bcff6b210800000000000000
+      internalID: 1348546386425396523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1f895f6a4ee12a0800000000000000
+      internalID: -6764718184527760970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438cf4ab2581bc500800000000000000
+      internalID: 417454134054078516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdc6f42e6c819db0800000000000000
+      internalID: -4786890524223681037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedb132fae2c2f840800000000000000
+      internalID: 5256478029436272107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b8ac98b1ab5ec60800000000000000
+      internalID: 7846882553201593119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1632e6644a57b90800000000000000
+      internalID: -7244703803153096200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bab06be14b8ec3f0800000000000000
+      internalID: -878611762052547916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b0d89742dd9cc0800000000000000
+      internalID: -3702572113680354708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057e749fc1b2f01a0800000000000000
+      internalID: -6841201905511176368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f066ff47f4448b0800000000000000
+      internalID: -5168919108394807412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a79ed49e2d6f780800000000000000
+      internalID: -8649494134842099155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b7e3c36dbe02b80800000000000000
+      internalID: -8421471997816571034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce70bf9b7fb4e7f0800000000000000
+      internalID: -584131513970295092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dddfc5393c1cb20800000000000000
+      internalID: 3153016251823807756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0326541d432c70c0800000000000000
+      internalID: -4576744307354623217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8a7047209035300800000000000000
+      internalID: 239545111322011900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0feed5a1fe80efa0800000000000000
+      internalID: -5773457553767862517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f935953079b020800000000000000
+      internalID: 2358039255344347556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b5729240156df50800000000000000
+      internalID: 6905796156931398419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9df6e6bf695740e0800000000000000
+      internalID: -2285759949522403937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97a57d3b87ddf8c0800000000000000
+      internalID: -3963775103984621669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff1bef01f75d4f10800000000000000
+      internalID: 2255555681248288766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae5011969ff56f0800000000000000
+      internalID: -693561587939284263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4617124175f335c0800000000000000
+      internalID: -4236772957636585910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0df7f6b866f1940800000000000000
+      internalID: 5269042838103904494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bd1080bf1d9e0c0800000000000000
+      internalID: -4545871472752469116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33713a43082e460800000000000000
+      internalID: 7269513712092263361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b006670826ad6c1e0800000000000000
+      internalID: -2177813253190164469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dbf4dc432482240800000000000000
+      internalID: 4767133000121957765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70551a2e4f88a340800000000000000
+      internalID: 4875304162504822906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84e18d5de5723210800000000000000
+      internalID: 1311240103854728335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Bow_Equipped_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdc4a37f96d06f50800000000000000
+      internalID: 6872729011695701502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9671770934f2f934bb4bcb5b60cfd6d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":30.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Rogue_Non-Combat_Bow_Equipped_0: -7529994542894605653
+      Rogue_Non-Combat_Bow_Equipped_1: 493676384339722842
+      Rogue_Non-Combat_Bow_Equipped_10: -5944019790115089157
+      Rogue_Non-Combat_Bow_Equipped_100: -6841201905511176368
+      Rogue_Non-Combat_Bow_Equipped_101: -5168919108394807412
+      Rogue_Non-Combat_Bow_Equipped_102: -8649494134842099155
+      Rogue_Non-Combat_Bow_Equipped_103: -8421471997816571034
+      Rogue_Non-Combat_Bow_Equipped_104: -584131513970295092
+      Rogue_Non-Combat_Bow_Equipped_105: 3153016251823807756
+      Rogue_Non-Combat_Bow_Equipped_106: -4576744307354623217
+      Rogue_Non-Combat_Bow_Equipped_107: 239545111322011900
+      Rogue_Non-Combat_Bow_Equipped_108: -5773457553767862517
+      Rogue_Non-Combat_Bow_Equipped_109: 2358039255344347556
+      Rogue_Non-Combat_Bow_Equipped_11: 3492883363693741373
+      Rogue_Non-Combat_Bow_Equipped_110: 6905796156931398419
+      Rogue_Non-Combat_Bow_Equipped_111: -2285759949522403937
+      Rogue_Non-Combat_Bow_Equipped_112: -3963775103984621669
+      Rogue_Non-Combat_Bow_Equipped_113: 2255555681248288766
+      Rogue_Non-Combat_Bow_Equipped_114: -693561587939284263
+      Rogue_Non-Combat_Bow_Equipped_115: -4236772957636585910
+      Rogue_Non-Combat_Bow_Equipped_116: 5269042838103904494
+      Rogue_Non-Combat_Bow_Equipped_117: -4545871472752469116
+      Rogue_Non-Combat_Bow_Equipped_118: 7269513712092263361
+      Rogue_Non-Combat_Bow_Equipped_119: -2177813253190164469
+      Rogue_Non-Combat_Bow_Equipped_12: 4180468476547080433
+      Rogue_Non-Combat_Bow_Equipped_120: 4767133000121957765
+      Rogue_Non-Combat_Bow_Equipped_121: 4875304162504822906
+      Rogue_Non-Combat_Bow_Equipped_122: 1311240103854728335
+      Rogue_Non-Combat_Bow_Equipped_123: 6872729011695701502
+      Rogue_Non-Combat_Bow_Equipped_13: -1202225337582534417
+      Rogue_Non-Combat_Bow_Equipped_14: -7602173337065201792
+      Rogue_Non-Combat_Bow_Equipped_15: 3972517210831194806
+      Rogue_Non-Combat_Bow_Equipped_16: -6093654538586896903
+      Rogue_Non-Combat_Bow_Equipped_17: 4142814492967225450
+      Rogue_Non-Combat_Bow_Equipped_18: 6693736569042785484
+      Rogue_Non-Combat_Bow_Equipped_19: 4911084793684249091
+      Rogue_Non-Combat_Bow_Equipped_2: 8645815459947154478
+      Rogue_Non-Combat_Bow_Equipped_20: 3245120929381919601
+      Rogue_Non-Combat_Bow_Equipped_21: -2189790454316754054
+      Rogue_Non-Combat_Bow_Equipped_22: -396710677731948391
+      Rogue_Non-Combat_Bow_Equipped_23: 4806021628407160070
+      Rogue_Non-Combat_Bow_Equipped_24: -4634847207611524104
+      Rogue_Non-Combat_Bow_Equipped_25: 2210240272190674138
+      Rogue_Non-Combat_Bow_Equipped_26: 8767467837507850325
+      Rogue_Non-Combat_Bow_Equipped_27: -621868302552167572
+      Rogue_Non-Combat_Bow_Equipped_28: 4266588658906903701
+      Rogue_Non-Combat_Bow_Equipped_29: -5419525707648026119
+      Rogue_Non-Combat_Bow_Equipped_3: -1225208046330098145
+      Rogue_Non-Combat_Bow_Equipped_30: -182862759107409241
+      Rogue_Non-Combat_Bow_Equipped_31: 836658711219854272
+      Rogue_Non-Combat_Bow_Equipped_32: 8978083123756884451
+      Rogue_Non-Combat_Bow_Equipped_33: -8818857663221857650
+      Rogue_Non-Combat_Bow_Equipped_34: -50184007551990438
+      Rogue_Non-Combat_Bow_Equipped_35: 2075605069294198994
+      Rogue_Non-Combat_Bow_Equipped_36: -1960211883548310551
+      Rogue_Non-Combat_Bow_Equipped_37: -7299776753691946271
+      Rogue_Non-Combat_Bow_Equipped_38: -3532654790631252422
+      Rogue_Non-Combat_Bow_Equipped_39: -8847100552680411866
+      Rogue_Non-Combat_Bow_Equipped_4: 1006444054897735512
+      Rogue_Non-Combat_Bow_Equipped_40: 491653656823459649
+      Rogue_Non-Combat_Bow_Equipped_41: -3281478832082685978
+      Rogue_Non-Combat_Bow_Equipped_42: -4302404692581522935
+      Rogue_Non-Combat_Bow_Equipped_43: 5297521524499713932
+      Rogue_Non-Combat_Bow_Equipped_44: -5807596356812700449
+      Rogue_Non-Combat_Bow_Equipped_45: -1897362003283482427
+      Rogue_Non-Combat_Bow_Equipped_46: -1957773745756573666
+      Rogue_Non-Combat_Bow_Equipped_47: 8066317438136244496
+      Rogue_Non-Combat_Bow_Equipped_48: 4203808527011345277
+      Rogue_Non-Combat_Bow_Equipped_49: -843944573835563521
+      Rogue_Non-Combat_Bow_Equipped_5: 7015163317185507363
+      Rogue_Non-Combat_Bow_Equipped_50: 5083945785274142257
+      Rogue_Non-Combat_Bow_Equipped_51: -9011004881908067973
+      Rogue_Non-Combat_Bow_Equipped_52: -3929006640841718884
+      Rogue_Non-Combat_Bow_Equipped_53: 6841992075638466996
+      Rogue_Non-Combat_Bow_Equipped_54: -8683931369311400614
+      Rogue_Non-Combat_Bow_Equipped_55: -1290409171872106142
+      Rogue_Non-Combat_Bow_Equipped_56: 534205037870480570
+      Rogue_Non-Combat_Bow_Equipped_57: 4834388503751683621
+      Rogue_Non-Combat_Bow_Equipped_58: -8579831351411982488
+      Rogue_Non-Combat_Bow_Equipped_59: -6166520358276179093
+      Rogue_Non-Combat_Bow_Equipped_6: -157951644973779351
+      Rogue_Non-Combat_Bow_Equipped_60: 2533401166730451008
+      Rogue_Non-Combat_Bow_Equipped_61: -3264651639077158529
+      Rogue_Non-Combat_Bow_Equipped_62: -1231056142563047882
+      Rogue_Non-Combat_Bow_Equipped_63: -2439175410141194565
+      Rogue_Non-Combat_Bow_Equipped_64: 1846355961874039969
+      Rogue_Non-Combat_Bow_Equipped_65: 5123504001244071183
+      Rogue_Non-Combat_Bow_Equipped_66: 2940290037403741422
+      Rogue_Non-Combat_Bow_Equipped_67: -1422998046202117569
+      Rogue_Non-Combat_Bow_Equipped_68: 1452821805185900706
+      Rogue_Non-Combat_Bow_Equipped_69: -883063814021673507
+      Rogue_Non-Combat_Bow_Equipped_7: 4865213093699071797
+      Rogue_Non-Combat_Bow_Equipped_70: 9033596804062107955
+      Rogue_Non-Combat_Bow_Equipped_71: 8684113285173749057
+      Rogue_Non-Combat_Bow_Equipped_72: 5261107498982224804
+      Rogue_Non-Combat_Bow_Equipped_73: 8173648292832696005
+      Rogue_Non-Combat_Bow_Equipped_74: 8915411144917887510
+      Rogue_Non-Combat_Bow_Equipped_75: -5633586891357782726
+      Rogue_Non-Combat_Bow_Equipped_76: 4969167183605800329
+      Rogue_Non-Combat_Bow_Equipped_77: -6947053409350737969
+      Rogue_Non-Combat_Bow_Equipped_78: 2591700060884837498
+      Rogue_Non-Combat_Bow_Equipped_79: 4508416754261317587
+      Rogue_Non-Combat_Bow_Equipped_8: 366324791319861742
+      Rogue_Non-Combat_Bow_Equipped_80: 1972976942059211069
+      Rogue_Non-Combat_Bow_Equipped_81: -4435788628603577307
+      Rogue_Non-Combat_Bow_Equipped_82: 6746291830450208003
+      Rogue_Non-Combat_Bow_Equipped_83: 3577431037633818437
+      Rogue_Non-Combat_Bow_Equipped_84: -6049711822349078373
+      Rogue_Non-Combat_Bow_Equipped_85: -4466876660353941084
+      Rogue_Non-Combat_Bow_Equipped_86: -3353373848164712144
+      Rogue_Non-Combat_Bow_Equipped_87: 6302866321890026181
+      Rogue_Non-Combat_Bow_Equipped_88: 5155302414235776900
+      Rogue_Non-Combat_Bow_Equipped_89: -2183558209298748943
+      Rogue_Non-Combat_Bow_Equipped_9: -769103331660910199
+      Rogue_Non-Combat_Bow_Equipped_90: 2820298178537847763
+      Rogue_Non-Combat_Bow_Equipped_91: 1348546386425396523
+      Rogue_Non-Combat_Bow_Equipped_92: -6764718184527760970
+      Rogue_Non-Combat_Bow_Equipped_93: 417454134054078516
+      Rogue_Non-Combat_Bow_Equipped_94: -4786890524223681037
+      Rogue_Non-Combat_Bow_Equipped_95: 5256478029436272107
+      Rogue_Non-Combat_Bow_Equipped_96: 7846882553201593119
+      Rogue_Non-Combat_Bow_Equipped_97: -7244703803153096200
+      Rogue_Non-Combat_Bow_Equipped_98: -878611762052547916
+      Rogue_Non-Combat_Bow_Equipped_99: -3702572113680354708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

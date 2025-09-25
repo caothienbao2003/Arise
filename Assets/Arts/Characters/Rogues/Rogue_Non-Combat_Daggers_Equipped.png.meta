@@ -1,0 +1,3356 @@
+fileFormatVersion: 2
+guid: 609665141e2455c4bba1b9e9831cb4b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2820254844767953451
+    second: Rogue_Non-Combat_Daggers_Equipped_0
+  - first:
+      213: 8166319950025011171
+    second: Rogue_Non-Combat_Daggers_Equipped_1
+  - first:
+      213: 1470138416795940614
+    second: Rogue_Non-Combat_Daggers_Equipped_2
+  - first:
+      213: 4958372467633558207
+    second: Rogue_Non-Combat_Daggers_Equipped_3
+  - first:
+      213: -6738571397654577501
+    second: Rogue_Non-Combat_Daggers_Equipped_4
+  - first:
+      213: -4795126449701962990
+    second: Rogue_Non-Combat_Daggers_Equipped_5
+  - first:
+      213: -393612697965813820
+    second: Rogue_Non-Combat_Daggers_Equipped_6
+  - first:
+      213: 5236520931794326411
+    second: Rogue_Non-Combat_Daggers_Equipped_7
+  - first:
+      213: -2242579395082581651
+    second: Rogue_Non-Combat_Daggers_Equipped_8
+  - first:
+      213: 716515382689846401
+    second: Rogue_Non-Combat_Daggers_Equipped_9
+  - first:
+      213: -410292489797997025
+    second: Rogue_Non-Combat_Daggers_Equipped_10
+  - first:
+      213: 8447635262141036772
+    second: Rogue_Non-Combat_Daggers_Equipped_11
+  - first:
+      213: 5500607004904432706
+    second: Rogue_Non-Combat_Daggers_Equipped_12
+  - first:
+      213: -7946361879593631454
+    second: Rogue_Non-Combat_Daggers_Equipped_13
+  - first:
+      213: -2573795407516863434
+    second: Rogue_Non-Combat_Daggers_Equipped_14
+  - first:
+      213: -765946051231936325
+    second: Rogue_Non-Combat_Daggers_Equipped_15
+  - first:
+      213: -7588387068665323642
+    second: Rogue_Non-Combat_Daggers_Equipped_16
+  - first:
+      213: -1257223943066184443
+    second: Rogue_Non-Combat_Daggers_Equipped_17
+  - first:
+      213: -7241368732137509855
+    second: Rogue_Non-Combat_Daggers_Equipped_18
+  - first:
+      213: 7674985963956160881
+    second: Rogue_Non-Combat_Daggers_Equipped_19
+  - first:
+      213: -6790348461041669479
+    second: Rogue_Non-Combat_Daggers_Equipped_20
+  - first:
+      213: -2788813516034298280
+    second: Rogue_Non-Combat_Daggers_Equipped_21
+  - first:
+      213: 2968676129392156511
+    second: Rogue_Non-Combat_Daggers_Equipped_22
+  - first:
+      213: -8317664970009454648
+    second: Rogue_Non-Combat_Daggers_Equipped_23
+  - first:
+      213: 4364039760825752228
+    second: Rogue_Non-Combat_Daggers_Equipped_24
+  - first:
+      213: 8734960911560860761
+    second: Rogue_Non-Combat_Daggers_Equipped_25
+  - first:
+      213: 5770598594764412277
+    second: Rogue_Non-Combat_Daggers_Equipped_26
+  - first:
+      213: 5236735018234169941
+    second: Rogue_Non-Combat_Daggers_Equipped_27
+  - first:
+      213: -2899852209291367550
+    second: Rogue_Non-Combat_Daggers_Equipped_28
+  - first:
+      213: 3794342551356013932
+    second: Rogue_Non-Combat_Daggers_Equipped_29
+  - first:
+      213: 2286144462276337947
+    second: Rogue_Non-Combat_Daggers_Equipped_30
+  - first:
+      213: -7537794603473603979
+    second: Rogue_Non-Combat_Daggers_Equipped_31
+  - first:
+      213: -2530014172162607262
+    second: Rogue_Non-Combat_Daggers_Equipped_32
+  - first:
+      213: -6830406364029607866
+    second: Rogue_Non-Combat_Daggers_Equipped_33
+  - first:
+      213: 4424304060580405264
+    second: Rogue_Non-Combat_Daggers_Equipped_34
+  - first:
+      213: -2334741973554157844
+    second: Rogue_Non-Combat_Daggers_Equipped_35
+  - first:
+      213: 3161654255282285514
+    second: Rogue_Non-Combat_Daggers_Equipped_36
+  - first:
+      213: 5981253180720289099
+    second: Rogue_Non-Combat_Daggers_Equipped_37
+  - first:
+      213: -8495771110452044263
+    second: Rogue_Non-Combat_Daggers_Equipped_38
+  - first:
+      213: 5044404494805297869
+    second: Rogue_Non-Combat_Daggers_Equipped_39
+  - first:
+      213: -6690149387296110374
+    second: Rogue_Non-Combat_Daggers_Equipped_40
+  - first:
+      213: -8531377517682462164
+    second: Rogue_Non-Combat_Daggers_Equipped_41
+  - first:
+      213: -6668164925929015618
+    second: Rogue_Non-Combat_Daggers_Equipped_42
+  - first:
+      213: -6840987980843087623
+    second: Rogue_Non-Combat_Daggers_Equipped_43
+  - first:
+      213: -1925317767984959637
+    second: Rogue_Non-Combat_Daggers_Equipped_44
+  - first:
+      213: -6491048245224274221
+    second: Rogue_Non-Combat_Daggers_Equipped_45
+  - first:
+      213: -3627894583681870090
+    second: Rogue_Non-Combat_Daggers_Equipped_46
+  - first:
+      213: 3424440879207813335
+    second: Rogue_Non-Combat_Daggers_Equipped_47
+  - first:
+      213: -5685214175610534518
+    second: Rogue_Non-Combat_Daggers_Equipped_48
+  - first:
+      213: 5149901904587971264
+    second: Rogue_Non-Combat_Daggers_Equipped_49
+  - first:
+      213: 6518947298599815110
+    second: Rogue_Non-Combat_Daggers_Equipped_50
+  - first:
+      213: 7447103812040445499
+    second: Rogue_Non-Combat_Daggers_Equipped_51
+  - first:
+      213: -8780512104457365761
+    second: Rogue_Non-Combat_Daggers_Equipped_52
+  - first:
+      213: 1206340786993787225
+    second: Rogue_Non-Combat_Daggers_Equipped_53
+  - first:
+      213: -1872698070511078377
+    second: Rogue_Non-Combat_Daggers_Equipped_54
+  - first:
+      213: 7057650773544572811
+    second: Rogue_Non-Combat_Daggers_Equipped_55
+  - first:
+      213: 457138212905066357
+    second: Rogue_Non-Combat_Daggers_Equipped_56
+  - first:
+      213: 718212180772688734
+    second: Rogue_Non-Combat_Daggers_Equipped_57
+  - first:
+      213: 3846851880042422057
+    second: Rogue_Non-Combat_Daggers_Equipped_58
+  - first:
+      213: 3793081113639724719
+    second: Rogue_Non-Combat_Daggers_Equipped_59
+  - first:
+      213: -7526893124211552146
+    second: Rogue_Non-Combat_Daggers_Equipped_60
+  - first:
+      213: 2716300548056354743
+    second: Rogue_Non-Combat_Daggers_Equipped_61
+  - first:
+      213: -4279499773746065302
+    second: Rogue_Non-Combat_Daggers_Equipped_62
+  - first:
+      213: 4529645442589876573
+    second: Rogue_Non-Combat_Daggers_Equipped_63
+  - first:
+      213: -5471202896133891106
+    second: Rogue_Non-Combat_Daggers_Equipped_64
+  - first:
+      213: -4826972494920021607
+    second: Rogue_Non-Combat_Daggers_Equipped_65
+  - first:
+      213: 3611617882536707155
+    second: Rogue_Non-Combat_Daggers_Equipped_66
+  - first:
+      213: -3632447716733334429
+    second: Rogue_Non-Combat_Daggers_Equipped_67
+  - first:
+      213: 456043023183600167
+    second: Rogue_Non-Combat_Daggers_Equipped_68
+  - first:
+      213: 1922425116157789707
+    second: Rogue_Non-Combat_Daggers_Equipped_69
+  - first:
+      213: -1811092908354364795
+    second: Rogue_Non-Combat_Daggers_Equipped_70
+  - first:
+      213: 4865513816373544400
+    second: Rogue_Non-Combat_Daggers_Equipped_71
+  - first:
+      213: 4342164277750649039
+    second: Rogue_Non-Combat_Daggers_Equipped_72
+  - first:
+      213: 8687037114888501749
+    second: Rogue_Non-Combat_Daggers_Equipped_73
+  - first:
+      213: 8078183756279872115
+    second: Rogue_Non-Combat_Daggers_Equipped_74
+  - first:
+      213: -52517706881902431
+    second: Rogue_Non-Combat_Daggers_Equipped_75
+  - first:
+      213: 5140894835169938198
+    second: Rogue_Non-Combat_Daggers_Equipped_76
+  - first:
+      213: 2657073996518316900
+    second: Rogue_Non-Combat_Daggers_Equipped_77
+  - first:
+      213: 2472077867492365675
+    second: Rogue_Non-Combat_Daggers_Equipped_78
+  - first:
+      213: 2634372193512924104
+    second: Rogue_Non-Combat_Daggers_Equipped_79
+  - first:
+      213: -3483117789917920521
+    second: Rogue_Non-Combat_Daggers_Equipped_80
+  - first:
+      213: -3893400555513948936
+    second: Rogue_Non-Combat_Daggers_Equipped_81
+  - first:
+      213: 3333159954494654286
+    second: Rogue_Non-Combat_Daggers_Equipped_82
+  - first:
+      213: 2080449287902059297
+    second: Rogue_Non-Combat_Daggers_Equipped_83
+  - first:
+      213: -5094002564544500192
+    second: Rogue_Non-Combat_Daggers_Equipped_84
+  - first:
+      213: -476490208563853058
+    second: Rogue_Non-Combat_Daggers_Equipped_85
+  - first:
+      213: -5286432768110153912
+    second: Rogue_Non-Combat_Daggers_Equipped_86
+  - first:
+      213: 6740407989141482711
+    second: Rogue_Non-Combat_Daggers_Equipped_87
+  - first:
+      213: 3472603063495458167
+    second: Rogue_Non-Combat_Daggers_Equipped_88
+  - first:
+      213: -7360057103621101297
+    second: Rogue_Non-Combat_Daggers_Equipped_89
+  - first:
+      213: -8962014447255590449
+    second: Rogue_Non-Combat_Daggers_Equipped_90
+  - first:
+      213: 8654034718388882586
+    second: Rogue_Non-Combat_Daggers_Equipped_91
+  - first:
+      213: -5658643203380476488
+    second: Rogue_Non-Combat_Daggers_Equipped_92
+  - first:
+      213: -1443387106832957351
+    second: Rogue_Non-Combat_Daggers_Equipped_93
+  - first:
+      213: -8056052816198521851
+    second: Rogue_Non-Combat_Daggers_Equipped_94
+  - first:
+      213: -3941325487337403957
+    second: Rogue_Non-Combat_Daggers_Equipped_95
+  - first:
+      213: -6486739044575827364
+    second: Rogue_Non-Combat_Daggers_Equipped_96
+  - first:
+      213: 8085752564155939406
+    second: Rogue_Non-Combat_Daggers_Equipped_97
+  - first:
+      213: 5431764667997094828
+    second: Rogue_Non-Combat_Daggers_Equipped_98
+  - first:
+      213: -6688364651545009401
+    second: Rogue_Non-Combat_Daggers_Equipped_99
+  - first:
+      213: -2000785740952547518
+    second: Rogue_Non-Combat_Daggers_Equipped_100
+  - first:
+      213: -4442051065299703749
+    second: Rogue_Non-Combat_Daggers_Equipped_101
+  - first:
+      213: -3049081823091684128
+    second: Rogue_Non-Combat_Daggers_Equipped_102
+  - first:
+      213: -147408355481036906
+    second: Rogue_Non-Combat_Daggers_Equipped_103
+  - first:
+      213: -7826178896861224683
+    second: Rogue_Non-Combat_Daggers_Equipped_104
+  - first:
+      213: -1202165583486011453
+    second: Rogue_Non-Combat_Daggers_Equipped_105
+  - first:
+      213: 5461769208706200769
+    second: Rogue_Non-Combat_Daggers_Equipped_106
+  - first:
+      213: -3391861156803504200
+    second: Rogue_Non-Combat_Daggers_Equipped_107
+  - first:
+      213: -4141006736853364718
+    second: Rogue_Non-Combat_Daggers_Equipped_108
+  - first:
+      213: 2564247007571590749
+    second: Rogue_Non-Combat_Daggers_Equipped_109
+  - first:
+      213: 4189802244828002340
+    second: Rogue_Non-Combat_Daggers_Equipped_110
+  - first:
+      213: 1054229223707791202
+    second: Rogue_Non-Combat_Daggers_Equipped_111
+  - first:
+      213: 5655705722692695469
+    second: Rogue_Non-Combat_Daggers_Equipped_112
+  - first:
+      213: 5937199802376716571
+    second: Rogue_Non-Combat_Daggers_Equipped_113
+  - first:
+      213: 1985587913498307497
+    second: Rogue_Non-Combat_Daggers_Equipped_114
+  - first:
+      213: 3154346493598876359
+    second: Rogue_Non-Combat_Daggers_Equipped_115
+  - first:
+      213: 3283296997560102906
+    second: Rogue_Non-Combat_Daggers_Equipped_116
+  - first:
+      213: 276987202240574473
+    second: Rogue_Non-Combat_Daggers_Equipped_117
+  - first:
+      213: 8479496667091424894
+    second: Rogue_Non-Combat_Daggers_Equipped_118
+  - first:
+      213: -1430032157103205041
+    second: Rogue_Non-Combat_Daggers_Equipped_119
+  - first:
+      213: 1404923464031373908
+    second: Rogue_Non-Combat_Daggers_Equipped_120
+  - first:
+      213: 6175726236487149592
+    second: Rogue_Non-Combat_Daggers_Equipped_121
+  - first:
+      213: -578844154880707680
+    second: Rogue_Non-Combat_Daggers_Equipped_122
+  - first:
+      213: -6745195353474458771
+    second: Rogue_Non-Combat_Daggers_Equipped_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd188939217cd8d0800000000000000
+      internalID: -2820254844767953451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef2d6f3ab8945170800000000000000
+      internalID: 8166319950025011171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607f6c7d91bf66410800000000000000
+      internalID: 1470138416795940614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2106d1d7dafc440800000000000000
+      internalID: 4958372467633558207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aef03d2409cb72a0800000000000000
+      internalID: -6738571397654577501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b3f6056e9447db0800000000000000
+      internalID: -4795126449701962990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1aae265b998af0800000000000000
+      internalID: -393612697965813820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b839f7e0b0cdba840800000000000000
+      internalID: 5236520931794326411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d690e7ffbe1c0e0e0800000000000000
+      internalID: -2242579395082581651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d45db1f291f900800000000000000
+      internalID: 716515382689846401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e649387295e4af0800000000000000
+      internalID: -410292489797997025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8faff63870c3570800000000000000
+      internalID: 8447635262141036772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244aa507de4165c40800000000000000
+      internalID: 5500607004904432706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221cd1ed8f9d8b190800000000000000
+      internalID: -7946361879593631454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634fc62a6ba084cd0800000000000000
+      internalID: -2573795407516863434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb01533ef10de55f0800000000000000
+      internalID: -765946051231936325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f19028a22a0b690800000000000000
+      internalID: -7588387068665323642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5059c6e1c717d8ee0800000000000000
+      internalID: -1257223943066184443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ca259218d718b90800000000000000
+      internalID: -7241368732137509855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17947b50217038a60800000000000000
+      internalID: 7674985963956160881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aad7e2d06d3c1a0800000000000000
+      internalID: -6790348461041669479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ea7f702e42c49d0800000000000000
+      internalID: -2788813516034298280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fd991063bd23920800000000000000
+      internalID: 2968676129392156511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c750e557c7b19c80800000000000000
+      internalID: -8317664970009454648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa13b17a0f209c30800000000000000
+      internalID: 4364039760825752228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954e1845ba0d83970800000000000000
+      internalID: 8734960911560860761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5751d4619d8451050800000000000000
+      internalID: 5770598594764412277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a42b0f0ce9ca840800000000000000
+      internalID: 5236735018234169941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b6e0c97c7a1c7d0800000000000000
+      internalID: -2899852209291367550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d79b9727638a430800000000000000
+      internalID: 3794342551356013932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112533a6440abf10800000000000000
+      internalID: 2286144462276337947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572791ebebf546790800000000000000
+      internalID: -7537794603473603979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2673b87d38593ecd0800000000000000
+      internalID: -2530014172162607262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640a278d9958531a0800000000000000
+      internalID: -6830406364029607866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a6352a19466d30800000000000000
+      internalID: 4424304060580405264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce62c188b84599fd0800000000000000
+      internalID: -2334741973554157844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbe3b44bc370eb20800000000000000
+      internalID: 3161654255282285514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45128ce31ea10350800000000000000
+      internalID: 5981253180720289099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eda740035f81a80800000000000000
+      internalID: -8495771110452044263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcae0406923510640800000000000000
+      internalID: 5044404494805297869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad80be30490d723a0800000000000000
+      internalID: -6690149387296110374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2278cd49557a9980800000000000000
+      internalID: -8531377517682462164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6384e445be573a0800000000000000
+      internalID: -6668164925929015618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f881213dadef01a0800000000000000
+      internalID: -6840987980843087623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f2287d0b5e745e0800000000000000
+      internalID: -1925317767984959637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d60c73130a2be5a0800000000000000
+      internalID: -6491048245224274221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61419f81127adc0800000000000000
+      internalID: -3627894583681870090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0128f06de068f20800000000000000
+      internalID: 3424440879207813335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8508be24df0a11b0800000000000000
+      internalID: -5685214175610534518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad2133f70287740800000000000000
+      internalID: 5149901904587971264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7c88a7704f77a50800000000000000
+      internalID: 6518947298599815110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ec02ae57d695760800000000000000
+      internalID: 7447103812040445499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff61dcb13ca552680800000000000000
+      internalID: -8780512104457365761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95174d6ed88cdb010800000000000000
+      internalID: 1206340786993787225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714b0afd607d206e0800000000000000
+      internalID: -1872698070511078377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8792e94cffc1f160800000000000000
+      internalID: 7057650773544572811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f967958c4185600800000000000000
+      internalID: 457138212905066357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5390545c2a97f900800000000000000
+      internalID: 718212180772688734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd8754763c26530800000000000000
+      internalID: 3846851880042422057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa62dbe1d2bb3a430800000000000000
+      internalID: 3793081113639724719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e605a0d259a1b8790800000000000000
+      internalID: -7526893124211552146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf0916f4fc32b520800000000000000
+      internalID: 2716300548056354743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60508921a92c94c0800000000000000
+      internalID: -4279499773746065302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51690ce7888cde30800000000000000
+      internalID: 4529645442589876573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbd9d124f16214b0800000000000000
+      internalID: -5471202896133891106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99906bb1716230db0800000000000000
+      internalID: -4826972494920021607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3548c09345b0f1230800000000000000
+      internalID: 3611617882536707155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4ee21c04f69dc0800000000000000
+      internalID: -3632447716733334429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a572f96b0345600800000000000000
+      internalID: 456043023183600167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06cfdb2573ddaa10800000000000000
+      internalID: 1922425116157789707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a1f4e6894bdd6e0800000000000000
+      internalID: -1811092908354364795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d543b29907c58340800000000000000
+      internalID: 4865513816373544400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0d7b3a767724c30800000000000000
+      internalID: 4342164277750649039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f93097ea3e8e8870800000000000000
+      internalID: 8687037114888501749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a746783597b1070800000000000000
+      internalID: 8078183756279872115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d2e08c6b654ff0800000000000000
+      internalID: -52517706881902431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc1fd6d90285740800000000000000
+      internalID: 5140894835169938198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bd668d8b2dfd420800000000000000
+      internalID: 2657073996518316900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65dcfc09b59e4220800000000000000
+      internalID: 2472077867492365675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c321807d8b2f8420800000000000000
+      internalID: 2634372193512924104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2491d03da79afc0800000000000000
+      internalID: -3483117789917920521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f45848a2dcd7f9c0800000000000000
+      internalID: -3893400555513948936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47063b9153c14e20800000000000000
+      internalID: 3333159954494654286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bdd9aca9d3fdc10800000000000000
+      internalID: 2080449287902059297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e656f18a77e49b0800000000000000
+      internalID: -5094002564544500192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8899b0eaa2369f0800000000000000
+      internalID: -476490208563853058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2fc7f761d2a6b0800000000000000
+      internalID: -5286432768110153912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcabf99a5dba8d50800000000000000
+      internalID: 6740407989141482711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d749d661a213030800000000000000
+      internalID: 3472603063495458167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09e21c3f03dbd990800000000000000
+      internalID: -7360057103621101297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9696fc75780a380800000000000000
+      internalID: -8962014447255590449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c877fa9be491870800000000000000
+      internalID: 8654034718388882586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b504dfbcf57871b0800000000000000
+      internalID: -5658643203380476488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950c7dfd21f08fbe0800000000000000
+      internalID: -1443387106832957351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ca3be75a6233090800000000000000
+      internalID: -8056052816198521851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc98f0fe9599d49c0800000000000000
+      internalID: -3941325487337403957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aa66905397af5a0800000000000000
+      internalID: -6486739044575827364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af730fd1d563070800000000000000
+      internalID: 8085752564155939406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca30c73df21816b40800000000000000
+      internalID: 5431764667997094828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703616039c72e23a0800000000000000
+      internalID: -6688364651545009401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f4bde18f7cb34e0800000000000000
+      internalID: -2000785740952547518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b386aa2571aaa52c0800000000000000
+      internalID: -4442051065299703749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec05839c3c7fa5d0800000000000000
+      internalID: -3049081823091684128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697d0a6b1ec44fdf0800000000000000
+      internalID: -147408355481036906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511ade712c3d36390800000000000000
+      internalID: -7826178896861224683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7bd1b65cc015fe0800000000000000
+      internalID: -1202165583486011453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4791a582a1ccb40800000000000000
+      internalID: 5461769208706200769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7184daf30bde0d0800000000000000
+      internalID: -3391861156803504200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2101b5510503886c0800000000000000
+      internalID: -4141006736853364718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eb9a24119069320800000000000000
+      internalID: 2564247007571590749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4287b1271fa252a30800000000000000
+      internalID: 4189802244828002340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f40f6b4ef51ae00800000000000000
+      internalID: 1054229223707791202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5fd3bb36a1d7e40800000000000000
+      internalID: 5655705722692695469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b110f2d73cb256250800000000000000
+      internalID: 5937199802376716571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab206eefa93e8b10800000000000000
+      internalID: 1985587913498307497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2c5796c6d76cb20800000000000000
+      internalID: 3154346493598876359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff2daf393d909d20800000000000000
+      internalID: 3283296997560102906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904f0e4946e08d300800000000000000
+      internalID: 276987202240574473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76d71cda493da570800000000000000
+      internalID: 8479496667091424894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f455a7a6451872ce0800000000000000
+      internalID: -1430032157103205041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a833a627a4f7310800000000000000
+      internalID: 1404923464031373908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81860ebaa4694b550800000000000000
+      internalID: 6175726236487149592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a33608de4887f7f0800000000000000
+      internalID: -578844154880707680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue_Non-Combat_Daggers_Equipped_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b1a8740904462a0800000000000000
+      internalID: -6745195353474458771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 49ccc9df3ebf60948a1e5282bd707095
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":30.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Rogue_Non-Combat_Daggers_Equipped_0: -2820254844767953451
+      Rogue_Non-Combat_Daggers_Equipped_1: 8166319950025011171
+      Rogue_Non-Combat_Daggers_Equipped_10: -410292489797997025
+      Rogue_Non-Combat_Daggers_Equipped_100: -2000785740952547518
+      Rogue_Non-Combat_Daggers_Equipped_101: -4442051065299703749
+      Rogue_Non-Combat_Daggers_Equipped_102: -3049081823091684128
+      Rogue_Non-Combat_Daggers_Equipped_103: -147408355481036906
+      Rogue_Non-Combat_Daggers_Equipped_104: -7826178896861224683
+      Rogue_Non-Combat_Daggers_Equipped_105: -1202165583486011453
+      Rogue_Non-Combat_Daggers_Equipped_106: 5461769208706200769
+      Rogue_Non-Combat_Daggers_Equipped_107: -3391861156803504200
+      Rogue_Non-Combat_Daggers_Equipped_108: -4141006736853364718
+      Rogue_Non-Combat_Daggers_Equipped_109: 2564247007571590749
+      Rogue_Non-Combat_Daggers_Equipped_11: 8447635262141036772
+      Rogue_Non-Combat_Daggers_Equipped_110: 4189802244828002340
+      Rogue_Non-Combat_Daggers_Equipped_111: 1054229223707791202
+      Rogue_Non-Combat_Daggers_Equipped_112: 5655705722692695469
+      Rogue_Non-Combat_Daggers_Equipped_113: 5937199802376716571
+      Rogue_Non-Combat_Daggers_Equipped_114: 1985587913498307497
+      Rogue_Non-Combat_Daggers_Equipped_115: 3154346493598876359
+      Rogue_Non-Combat_Daggers_Equipped_116: 3283296997560102906
+      Rogue_Non-Combat_Daggers_Equipped_117: 276987202240574473
+      Rogue_Non-Combat_Daggers_Equipped_118: 8479496667091424894
+      Rogue_Non-Combat_Daggers_Equipped_119: -1430032157103205041
+      Rogue_Non-Combat_Daggers_Equipped_12: 5500607004904432706
+      Rogue_Non-Combat_Daggers_Equipped_120: 1404923464031373908
+      Rogue_Non-Combat_Daggers_Equipped_121: 6175726236487149592
+      Rogue_Non-Combat_Daggers_Equipped_122: -578844154880707680
+      Rogue_Non-Combat_Daggers_Equipped_123: -6745195353474458771
+      Rogue_Non-Combat_Daggers_Equipped_13: -7946361879593631454
+      Rogue_Non-Combat_Daggers_Equipped_14: -2573795407516863434
+      Rogue_Non-Combat_Daggers_Equipped_15: -765946051231936325
+      Rogue_Non-Combat_Daggers_Equipped_16: -7588387068665323642
+      Rogue_Non-Combat_Daggers_Equipped_17: -1257223943066184443
+      Rogue_Non-Combat_Daggers_Equipped_18: -7241368732137509855
+      Rogue_Non-Combat_Daggers_Equipped_19: 7674985963956160881
+      Rogue_Non-Combat_Daggers_Equipped_2: 1470138416795940614
+      Rogue_Non-Combat_Daggers_Equipped_20: -6790348461041669479
+      Rogue_Non-Combat_Daggers_Equipped_21: -2788813516034298280
+      Rogue_Non-Combat_Daggers_Equipped_22: 2968676129392156511
+      Rogue_Non-Combat_Daggers_Equipped_23: -8317664970009454648
+      Rogue_Non-Combat_Daggers_Equipped_24: 4364039760825752228
+      Rogue_Non-Combat_Daggers_Equipped_25: 8734960911560860761
+      Rogue_Non-Combat_Daggers_Equipped_26: 5770598594764412277
+      Rogue_Non-Combat_Daggers_Equipped_27: 5236735018234169941
+      Rogue_Non-Combat_Daggers_Equipped_28: -2899852209291367550
+      Rogue_Non-Combat_Daggers_Equipped_29: 3794342551356013932
+      Rogue_Non-Combat_Daggers_Equipped_3: 4958372467633558207
+      Rogue_Non-Combat_Daggers_Equipped_30: 2286144462276337947
+      Rogue_Non-Combat_Daggers_Equipped_31: -7537794603473603979
+      Rogue_Non-Combat_Daggers_Equipped_32: -2530014172162607262
+      Rogue_Non-Combat_Daggers_Equipped_33: -6830406364029607866
+      Rogue_Non-Combat_Daggers_Equipped_34: 4424304060580405264
+      Rogue_Non-Combat_Daggers_Equipped_35: -2334741973554157844
+      Rogue_Non-Combat_Daggers_Equipped_36: 3161654255282285514
+      Rogue_Non-Combat_Daggers_Equipped_37: 5981253180720289099
+      Rogue_Non-Combat_Daggers_Equipped_38: -8495771110452044263
+      Rogue_Non-Combat_Daggers_Equipped_39: 5044404494805297869
+      Rogue_Non-Combat_Daggers_Equipped_4: -6738571397654577501
+      Rogue_Non-Combat_Daggers_Equipped_40: -6690149387296110374
+      Rogue_Non-Combat_Daggers_Equipped_41: -8531377517682462164
+      Rogue_Non-Combat_Daggers_Equipped_42: -6668164925929015618
+      Rogue_Non-Combat_Daggers_Equipped_43: -6840987980843087623
+      Rogue_Non-Combat_Daggers_Equipped_44: -1925317767984959637
+      Rogue_Non-Combat_Daggers_Equipped_45: -6491048245224274221
+      Rogue_Non-Combat_Daggers_Equipped_46: -3627894583681870090
+      Rogue_Non-Combat_Daggers_Equipped_47: 3424440879207813335
+      Rogue_Non-Combat_Daggers_Equipped_48: -5685214175610534518
+      Rogue_Non-Combat_Daggers_Equipped_49: 5149901904587971264
+      Rogue_Non-Combat_Daggers_Equipped_5: -4795126449701962990
+      Rogue_Non-Combat_Daggers_Equipped_50: 6518947298599815110
+      Rogue_Non-Combat_Daggers_Equipped_51: 7447103812040445499
+      Rogue_Non-Combat_Daggers_Equipped_52: -8780512104457365761
+      Rogue_Non-Combat_Daggers_Equipped_53: 1206340786993787225
+      Rogue_Non-Combat_Daggers_Equipped_54: -1872698070511078377
+      Rogue_Non-Combat_Daggers_Equipped_55: 7057650773544572811
+      Rogue_Non-Combat_Daggers_Equipped_56: 457138212905066357
+      Rogue_Non-Combat_Daggers_Equipped_57: 718212180772688734
+      Rogue_Non-Combat_Daggers_Equipped_58: 3846851880042422057
+      Rogue_Non-Combat_Daggers_Equipped_59: 3793081113639724719
+      Rogue_Non-Combat_Daggers_Equipped_6: -393612697965813820
+      Rogue_Non-Combat_Daggers_Equipped_60: -7526893124211552146
+      Rogue_Non-Combat_Daggers_Equipped_61: 2716300548056354743
+      Rogue_Non-Combat_Daggers_Equipped_62: -4279499773746065302
+      Rogue_Non-Combat_Daggers_Equipped_63: 4529645442589876573
+      Rogue_Non-Combat_Daggers_Equipped_64: -5471202896133891106
+      Rogue_Non-Combat_Daggers_Equipped_65: -4826972494920021607
+      Rogue_Non-Combat_Daggers_Equipped_66: 3611617882536707155
+      Rogue_Non-Combat_Daggers_Equipped_67: -3632447716733334429
+      Rogue_Non-Combat_Daggers_Equipped_68: 456043023183600167
+      Rogue_Non-Combat_Daggers_Equipped_69: 1922425116157789707
+      Rogue_Non-Combat_Daggers_Equipped_7: 5236520931794326411
+      Rogue_Non-Combat_Daggers_Equipped_70: -1811092908354364795
+      Rogue_Non-Combat_Daggers_Equipped_71: 4865513816373544400
+      Rogue_Non-Combat_Daggers_Equipped_72: 4342164277750649039
+      Rogue_Non-Combat_Daggers_Equipped_73: 8687037114888501749
+      Rogue_Non-Combat_Daggers_Equipped_74: 8078183756279872115
+      Rogue_Non-Combat_Daggers_Equipped_75: -52517706881902431
+      Rogue_Non-Combat_Daggers_Equipped_76: 5140894835169938198
+      Rogue_Non-Combat_Daggers_Equipped_77: 2657073996518316900
+      Rogue_Non-Combat_Daggers_Equipped_78: 2472077867492365675
+      Rogue_Non-Combat_Daggers_Equipped_79: 2634372193512924104
+      Rogue_Non-Combat_Daggers_Equipped_8: -2242579395082581651
+      Rogue_Non-Combat_Daggers_Equipped_80: -3483117789917920521
+      Rogue_Non-Combat_Daggers_Equipped_81: -3893400555513948936
+      Rogue_Non-Combat_Daggers_Equipped_82: 3333159954494654286
+      Rogue_Non-Combat_Daggers_Equipped_83: 2080449287902059297
+      Rogue_Non-Combat_Daggers_Equipped_84: -5094002564544500192
+      Rogue_Non-Combat_Daggers_Equipped_85: -476490208563853058
+      Rogue_Non-Combat_Daggers_Equipped_86: -5286432768110153912
+      Rogue_Non-Combat_Daggers_Equipped_87: 6740407989141482711
+      Rogue_Non-Combat_Daggers_Equipped_88: 3472603063495458167
+      Rogue_Non-Combat_Daggers_Equipped_89: -7360057103621101297
+      Rogue_Non-Combat_Daggers_Equipped_9: 716515382689846401
+      Rogue_Non-Combat_Daggers_Equipped_90: -8962014447255590449
+      Rogue_Non-Combat_Daggers_Equipped_91: 8654034718388882586
+      Rogue_Non-Combat_Daggers_Equipped_92: -5658643203380476488
+      Rogue_Non-Combat_Daggers_Equipped_93: -1443387106832957351
+      Rogue_Non-Combat_Daggers_Equipped_94: -8056052816198521851
+      Rogue_Non-Combat_Daggers_Equipped_95: -3941325487337403957
+      Rogue_Non-Combat_Daggers_Equipped_96: -6486739044575827364
+      Rogue_Non-Combat_Daggers_Equipped_97: 8085752564155939406
+      Rogue_Non-Combat_Daggers_Equipped_98: 5431764667997094828
+      Rogue_Non-Combat_Daggers_Equipped_99: -6688364651545009401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

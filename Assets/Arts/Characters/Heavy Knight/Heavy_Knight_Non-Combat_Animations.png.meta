@@ -1,0 +1,3356 @@
+fileFormatVersion: 2
+guid: ff685b09ef1d64c439b81cf868f9fefc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2330252521765050305
+    second: Heavy_Knight_Non-Combat_Animations_0
+  - first:
+      213: 3931182183166189924
+    second: Heavy_Knight_Non-Combat_Animations_1
+  - first:
+      213: -5744197539634042395
+    second: Heavy_Knight_Non-Combat_Animations_2
+  - first:
+      213: 888108600911372890
+    second: Heavy_Knight_Non-Combat_Animations_3
+  - first:
+      213: 6975040425064420214
+    second: Heavy_Knight_Non-Combat_Animations_4
+  - first:
+      213: -3861330991419049726
+    second: Heavy_Knight_Non-Combat_Animations_5
+  - first:
+      213: -287848985311230826
+    second: Heavy_Knight_Non-Combat_Animations_6
+  - first:
+      213: -378681570806435168
+    second: Heavy_Knight_Non-Combat_Animations_7
+  - first:
+      213: 2093278130922697367
+    second: Heavy_Knight_Non-Combat_Animations_8
+  - first:
+      213: -8793634053151375524
+    second: Heavy_Knight_Non-Combat_Animations_9
+  - first:
+      213: -3885105363221699595
+    second: Heavy_Knight_Non-Combat_Animations_10
+  - first:
+      213: -6560771010824244526
+    second: Heavy_Knight_Non-Combat_Animations_11
+  - first:
+      213: -3572279497756407284
+    second: Heavy_Knight_Non-Combat_Animations_12
+  - first:
+      213: -8058811081637118256
+    second: Heavy_Knight_Non-Combat_Animations_13
+  - first:
+      213: -6131646866135490891
+    second: Heavy_Knight_Non-Combat_Animations_14
+  - first:
+      213: 2722318914078117437
+    second: Heavy_Knight_Non-Combat_Animations_15
+  - first:
+      213: -5219405874473939000
+    second: Heavy_Knight_Non-Combat_Animations_16
+  - first:
+      213: -6142589525567757565
+    second: Heavy_Knight_Non-Combat_Animations_17
+  - first:
+      213: 3630691356045269117
+    second: Heavy_Knight_Non-Combat_Animations_18
+  - first:
+      213: -9060627919314988165
+    second: Heavy_Knight_Non-Combat_Animations_19
+  - first:
+      213: -1469135781181867844
+    second: Heavy_Knight_Non-Combat_Animations_20
+  - first:
+      213: -3860435134462055522
+    second: Heavy_Knight_Non-Combat_Animations_21
+  - first:
+      213: -1111294922588123719
+    second: Heavy_Knight_Non-Combat_Animations_22
+  - first:
+      213: 4238931926663018788
+    second: Heavy_Knight_Non-Combat_Animations_23
+  - first:
+      213: -987777220514826103
+    second: Heavy_Knight_Non-Combat_Animations_24
+  - first:
+      213: -4409430205440977973
+    second: Heavy_Knight_Non-Combat_Animations_25
+  - first:
+      213: -1322035333156025516
+    second: Heavy_Knight_Non-Combat_Animations_26
+  - first:
+      213: 4478296744686940768
+    second: Heavy_Knight_Non-Combat_Animations_27
+  - first:
+      213: 1370607641487464813
+    second: Heavy_Knight_Non-Combat_Animations_28
+  - first:
+      213: 4866364258039565844
+    second: Heavy_Knight_Non-Combat_Animations_29
+  - first:
+      213: 7752822523886331145
+    second: Heavy_Knight_Non-Combat_Animations_30
+  - first:
+      213: 6014346013693037343
+    second: Heavy_Knight_Non-Combat_Animations_31
+  - first:
+      213: -6238433737128715517
+    second: Heavy_Knight_Non-Combat_Animations_32
+  - first:
+      213: 1437542510148233407
+    second: Heavy_Knight_Non-Combat_Animations_33
+  - first:
+      213: 8897246253359887382
+    second: Heavy_Knight_Non-Combat_Animations_34
+  - first:
+      213: -2493283617710676947
+    second: Heavy_Knight_Non-Combat_Animations_35
+  - first:
+      213: -2769230729531521425
+    second: Heavy_Knight_Non-Combat_Animations_36
+  - first:
+      213: -5328805026173851112
+    second: Heavy_Knight_Non-Combat_Animations_37
+  - first:
+      213: -8721373728597963318
+    second: Heavy_Knight_Non-Combat_Animations_38
+  - first:
+      213: 7239740179075452236
+    second: Heavy_Knight_Non-Combat_Animations_39
+  - first:
+      213: -3192345900993904890
+    second: Heavy_Knight_Non-Combat_Animations_40
+  - first:
+      213: -1600021303374942911
+    second: Heavy_Knight_Non-Combat_Animations_41
+  - first:
+      213: -8184960644288031101
+    second: Heavy_Knight_Non-Combat_Animations_42
+  - first:
+      213: 7827641966371052390
+    second: Heavy_Knight_Non-Combat_Animations_43
+  - first:
+      213: -1961184092472283773
+    second: Heavy_Knight_Non-Combat_Animations_44
+  - first:
+      213: 2199134665273801238
+    second: Heavy_Knight_Non-Combat_Animations_45
+  - first:
+      213: -719664986543342200
+    second: Heavy_Knight_Non-Combat_Animations_46
+  - first:
+      213: -6521746204535732096
+    second: Heavy_Knight_Non-Combat_Animations_47
+  - first:
+      213: 5215804213657029690
+    second: Heavy_Knight_Non-Combat_Animations_48
+  - first:
+      213: -7338824757842129072
+    second: Heavy_Knight_Non-Combat_Animations_49
+  - first:
+      213: -9029360929989976010
+    second: Heavy_Knight_Non-Combat_Animations_50
+  - first:
+      213: 4430839514692147400
+    second: Heavy_Knight_Non-Combat_Animations_51
+  - first:
+      213: 6870216844308415175
+    second: Heavy_Knight_Non-Combat_Animations_52
+  - first:
+      213: -1149440051443818384
+    second: Heavy_Knight_Non-Combat_Animations_53
+  - first:
+      213: 7924091251059281678
+    second: Heavy_Knight_Non-Combat_Animations_54
+  - first:
+      213: -6404565427218125622
+    second: Heavy_Knight_Non-Combat_Animations_55
+  - first:
+      213: -7510335978744684859
+    second: Heavy_Knight_Non-Combat_Animations_56
+  - first:
+      213: -1355673596760284912
+    second: Heavy_Knight_Non-Combat_Animations_57
+  - first:
+      213: -3545326321293020611
+    second: Heavy_Knight_Non-Combat_Animations_58
+  - first:
+      213: 8641967199527671149
+    second: Heavy_Knight_Non-Combat_Animations_59
+  - first:
+      213: 1067044162580085659
+    second: Heavy_Knight_Non-Combat_Animations_60
+  - first:
+      213: -832788620746861690
+    second: Heavy_Knight_Non-Combat_Animations_61
+  - first:
+      213: 8959314758616744111
+    second: Heavy_Knight_Non-Combat_Animations_62
+  - first:
+      213: 991413460025742808
+    second: Heavy_Knight_Non-Combat_Animations_63
+  - first:
+      213: -5347632772923285219
+    second: Heavy_Knight_Non-Combat_Animations_64
+  - first:
+      213: -8144846435440227678
+    second: Heavy_Knight_Non-Combat_Animations_65
+  - first:
+      213: 8950968442448462649
+    second: Heavy_Knight_Non-Combat_Animations_66
+  - first:
+      213: 1827187188060910048
+    second: Heavy_Knight_Non-Combat_Animations_67
+  - first:
+      213: 7213501554431950023
+    second: Heavy_Knight_Non-Combat_Animations_68
+  - first:
+      213: 2538297235990658536
+    second: Heavy_Knight_Non-Combat_Animations_69
+  - first:
+      213: 5757391481701964558
+    second: Heavy_Knight_Non-Combat_Animations_70
+  - first:
+      213: -4595854266426878780
+    second: Heavy_Knight_Non-Combat_Animations_71
+  - first:
+      213: 6558918950768137185
+    second: Heavy_Knight_Non-Combat_Animations_72
+  - first:
+      213: -6554825362441715717
+    second: Heavy_Knight_Non-Combat_Animations_73
+  - first:
+      213: -5499270478353089061
+    second: Heavy_Knight_Non-Combat_Animations_74
+  - first:
+      213: -4999278064264359061
+    second: Heavy_Knight_Non-Combat_Animations_75
+  - first:
+      213: 2325296736086928379
+    second: Heavy_Knight_Non-Combat_Animations_76
+  - first:
+      213: -4124946042867552707
+    second: Heavy_Knight_Non-Combat_Animations_77
+  - first:
+      213: -6289026007603237442
+    second: Heavy_Knight_Non-Combat_Animations_78
+  - first:
+      213: 7319898091043568998
+    second: Heavy_Knight_Non-Combat_Animations_79
+  - first:
+      213: -2296978722365358985
+    second: Heavy_Knight_Non-Combat_Animations_80
+  - first:
+      213: -3297129628959303967
+    second: Heavy_Knight_Non-Combat_Animations_81
+  - first:
+      213: -5557217594857340115
+    second: Heavy_Knight_Non-Combat_Animations_82
+  - first:
+      213: -5181660800743678831
+    second: Heavy_Knight_Non-Combat_Animations_83
+  - first:
+      213: -1779853692203471537
+    second: Heavy_Knight_Non-Combat_Animations_84
+  - first:
+      213: -4161012542412101752
+    second: Heavy_Knight_Non-Combat_Animations_85
+  - first:
+      213: 4393500292579051860
+    second: Heavy_Knight_Non-Combat_Animations_86
+  - first:
+      213: -4002534739883412638
+    second: Heavy_Knight_Non-Combat_Animations_87
+  - first:
+      213: -4102591257756224466
+    second: Heavy_Knight_Non-Combat_Animations_88
+  - first:
+      213: -5945239910057593631
+    second: Heavy_Knight_Non-Combat_Animations_89
+  - first:
+      213: 7243831714642031715
+    second: Heavy_Knight_Non-Combat_Animations_90
+  - first:
+      213: 3447654024180241243
+    second: Heavy_Knight_Non-Combat_Animations_91
+  - first:
+      213: -3674017771729515323
+    second: Heavy_Knight_Non-Combat_Animations_92
+  - first:
+      213: 3299341113484649783
+    second: Heavy_Knight_Non-Combat_Animations_93
+  - first:
+      213: 8019830474645831770
+    second: Heavy_Knight_Non-Combat_Animations_94
+  - first:
+      213: 1099454965722595608
+    second: Heavy_Knight_Non-Combat_Animations_95
+  - first:
+      213: 2317600693293918038
+    second: Heavy_Knight_Non-Combat_Animations_96
+  - first:
+      213: -1513206065220689755
+    second: Heavy_Knight_Non-Combat_Animations_97
+  - first:
+      213: 7770240610154926231
+    second: Heavy_Knight_Non-Combat_Animations_98
+  - first:
+      213: -7691105890648721059
+    second: Heavy_Knight_Non-Combat_Animations_99
+  - first:
+      213: 1591983753258242984
+    second: Heavy_Knight_Non-Combat_Animations_100
+  - first:
+      213: 1576834108650525029
+    second: Heavy_Knight_Non-Combat_Animations_101
+  - first:
+      213: 6594043908493174317
+    second: Heavy_Knight_Non-Combat_Animations_102
+  - first:
+      213: -4799706744973001044
+    second: Heavy_Knight_Non-Combat_Animations_103
+  - first:
+      213: -8384834940478507219
+    second: Heavy_Knight_Non-Combat_Animations_104
+  - first:
+      213: 9143665154758196931
+    second: Heavy_Knight_Non-Combat_Animations_105
+  - first:
+      213: 2482410008949606937
+    second: Heavy_Knight_Non-Combat_Animations_106
+  - first:
+      213: -1917560487878499497
+    second: Heavy_Knight_Non-Combat_Animations_107
+  - first:
+      213: 6455053032407971272
+    second: Heavy_Knight_Non-Combat_Animations_108
+  - first:
+      213: 5989271431586149024
+    second: Heavy_Knight_Non-Combat_Animations_109
+  - first:
+      213: -6674394830407137283
+    second: Heavy_Knight_Non-Combat_Animations_110
+  - first:
+      213: 8220438851545096213
+    second: Heavy_Knight_Non-Combat_Animations_111
+  - first:
+      213: -6087418446001681985
+    second: Heavy_Knight_Non-Combat_Animations_112
+  - first:
+      213: -3849620877289089733
+    second: Heavy_Knight_Non-Combat_Animations_113
+  - first:
+      213: 106639940965210014
+    second: Heavy_Knight_Non-Combat_Animations_114
+  - first:
+      213: 4473775130317808582
+    second: Heavy_Knight_Non-Combat_Animations_115
+  - first:
+      213: -5613551100744518144
+    second: Heavy_Knight_Non-Combat_Animations_116
+  - first:
+      213: -8850127792060840572
+    second: Heavy_Knight_Non-Combat_Animations_117
+  - first:
+      213: -5628807841555879196
+    second: Heavy_Knight_Non-Combat_Animations_118
+  - first:
+      213: 7727810918440408954
+    second: Heavy_Knight_Non-Combat_Animations_119
+  - first:
+      213: -5676932420649814269
+    second: Heavy_Knight_Non-Combat_Animations_120
+  - first:
+      213: 8029250557550225985
+    second: Heavy_Knight_Non-Combat_Animations_121
+  - first:
+      213: -1382469404412003470
+    second: Heavy_Knight_Non-Combat_Animations_122
+  - first:
+      213: -5592283193551866048
+    second: Heavy_Knight_Non-Combat_Animations_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c793c48258b65020800000000000000
+      internalID: 2330252521765050305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46127f60e5d5e8630800000000000000
+      internalID: 3931182183166189924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9a07295c28840b0800000000000000
+      internalID: -5744197539634042395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 720
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52aa4f2112335c00800000000000000
+      internalID: 888108600911372890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67354fdaf425cc060800000000000000
+      internalID: 6975040425064420214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b248ebebc96ac0800000000000000
+      internalID: -3861330991419049726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69441997fda510cf0800000000000000
+      internalID: -287848985311230826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 696
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a278112e17aebaf0800000000000000
+      internalID: -378681570806435168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792bdb19e51dc0d10800000000000000
+      internalID: 2093278130922697367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 672
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f32295b6cb6f580800000000000000
+      internalID: -8793634053151375524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3a43e9145551ac0800000000000000
+      internalID: -3885105363221699595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 672
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2f32fa68573f4a0800000000000000
+      internalID: -6560771010824244526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a81d939b6bc6ec0800000000000000
+      internalID: -3572279497756407284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deb907c40a592090800000000000000
+      internalID: -8058811081637118256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5bdf79a308eaa0800000000000000
+      internalID: -6131646866135490891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e04fef0ae97c520800000000000000
+      internalID: 2722318914078117437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfc461c202f097b0800000000000000
+      internalID: -5219405874473939000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303af7f0f5321caa0800000000000000
+      internalID: -6142589525567757565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78d8265d8ec26230800000000000000
+      internalID: 3630691356045269117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 624
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b735e33a9ee224280800000000000000
+      internalID: -9060627919314988165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8b6d37ac49c9be0800000000000000
+      internalID: -1469135781181867844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ba3fbd2bafc6ac0800000000000000
+      internalID: -3860435134462055522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd8072e723e390f0800000000000000
+      internalID: -1111294922588123719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 600
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429bfc3e026b3da30800000000000000
+      internalID: 4238931926663018788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988bdf5f9d5ba42f0800000000000000
+      internalID: -987777220514826103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc310de179e8ec2c0800000000000000
+      internalID: -4409430205440977973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b48b27edf27ade0800000000000000
+      internalID: -1322035333156025516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 576
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0627ad9892b162e30800000000000000
+      internalID: 4478296744686940768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69db4d5360650310800000000000000
+      internalID: 1370607641487464813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e0b14728cc88340800000000000000
+      internalID: 4866364258039565844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90564ee520f879b60800000000000000
+      internalID: 7752822523886331145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 552
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc57685df377350800000000000000
+      internalID: 6014346013693037343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b51a79191ac69a0800000000000000
+      internalID: -6238433737128715517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8a8eaeb4d23f310800000000000000
+      internalID: 1437542510148233407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614f0bae35e597b70800000000000000
+      internalID: 8897246253359887382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 528
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24ed0a72c3166dd0800000000000000
+      internalID: -2493283617710676947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f668d21d257b199d0800000000000000
+      internalID: -2769230729531521425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a6799df084c06b0800000000000000
+      internalID: -5328805026173851112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd8e793dc477f680800000000000000
+      internalID: -8721373728597963318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4ae7c559b87460800000000000000
+      internalID: 7239740179075452236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f751b115282b3d0800000000000000
+      internalID: -3192345900993904890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d67431a159bc9e0800000000000000
+      internalID: -1600021303374942911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386d8a8e8ad296e80800000000000000
+      internalID: -8184960644288031101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b9c7255ee51ac60800000000000000
+      internalID: 7827641966371052390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dea0d657978c4e0800000000000000
+      internalID: -1961184092472283773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a74e89355e48e10800000000000000
+      internalID: 2199134665273801238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d3cc7f18c3306f0800000000000000
+      internalID: -719664986543342200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0884563716a1e75a0800000000000000
+      internalID: -6521746204535732096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c430d3c42426840800000000000000
+      internalID: 5215804213657029690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f4af7f3c1472a90800000000000000
+      internalID: -7338824757842129072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302823e21441b280800000000000000
+      internalID: -9029360929989976010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c85df120118d7d30800000000000000
+      internalID: 4430839514692147400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c288e6e1d9e75f50800000000000000
+      internalID: 6870216844308415175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a51bfc5e5c00f0800000000000000
+      internalID: -1149440051443818384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f4b2b520708fd60800000000000000
+      internalID: 7924091251059281678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc6ae14da96e17a0800000000000000
+      internalID: -6404565427218125622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce5613083de5c790800000000000000
+      internalID: -7510335978744684859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0112ab1eb0eaf2de0800000000000000
+      internalID: -1355673596760284912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32bc76ae787ccec0800000000000000
+      internalID: -3545326321293020611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d659c60816f6ee770800000000000000
+      internalID: 8641967199527671149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b7d3e2307eece00800000000000000
+      internalID: 1067044162580085659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683556769275174f0800000000000000
+      internalID: -832788620746861690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa00442fd41e55c70800000000000000
+      internalID: 8959314758616744111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d510660a4532cd00800000000000000
+      internalID: 991413460025742808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11aba4735469c5b0800000000000000
+      internalID: -5347632772923285219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8a79f151b7fe80800000000000000
+      internalID: -8144846435440227678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9334fd7cf5a383c70800000000000000
+      internalID: 8950968442448462649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f38211197b5910800000000000000
+      internalID: 1827187188060910048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf4aae1718b1460800000000000000
+      internalID: 7213501554431950023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_69
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed349d33e7d93320800000000000000
+      internalID: 2538297235990658536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b94b37c0d56ef40800000000000000
+      internalID: 5757391481701964558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4992205ee3830c0800000000000000
+      internalID: -4595854266426878780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3dc1bf806f50b50800000000000000
+      internalID: 6558918950768137185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffb0f2df059805a0800000000000000
+      internalID: -6554825362441715717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb8f5e2aaaea3b0800000000000000
+      internalID: -5499270478353089061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63de1e761ffe9ab0800000000000000
+      internalID: -4999278064264359061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb26dfbf0d154020800000000000000
+      internalID: 2325296736086928379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee93dcd6f31c6c0800000000000000
+      internalID: -4124946042867552707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdad91ba24e8b8a0800000000000000
+      internalID: -6289026007603237442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d36b40880859560800000000000000
+      internalID: 7319898091043568998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c38cc950e7f10e0800000000000000
+      internalID: -2296978722365358985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e61777421e3e32d0800000000000000
+      internalID: -3297129628959303967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d234af67a0cc0e2b0800000000000000
+      internalID: -5557217594857340115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5b1194fa0718b0800000000000000
+      internalID: -5181660800743678831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d6b0c3f70bc47e0800000000000000
+      internalID: -1779853692203471537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e49f732d1146c0800000000000000
+      internalID: -4161012542412101752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459cfb30d39d8fc30800000000000000
+      internalID: 4393500292579051860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263b6144cd32478c0800000000000000
+      internalID: -4002534739883412638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2431deccfaa017c0800000000000000
+      internalID: -4102591257756224466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_89
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4ba801dc34e7da0800000000000000
+      internalID: -5945239910057593631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36472f3a092478460800000000000000
+      internalID: 7243831714642031715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5395bb811788df20800000000000000
+      internalID: 3447654024180241243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc07996d44430dc0800000000000000
+      internalID: -3674017771729515323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_93
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352816134d99cd20800000000000000
+      internalID: 3299341113484649783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500e1863592c4f60800000000000000
+      internalID: 8019830474645831770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_95
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8114f66577c024f00800000000000000
+      internalID: 1099454965722595608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657abf62d85c92020800000000000000
+      internalID: 2317600693293918038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0ed8ad913000be0800000000000000
+      internalID: -1513206065220689755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790599b9aa075db60800000000000000
+      internalID: 7770240610154926231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f7f111f3b34590800000000000000
+      internalID: -7691105890648721059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a39625f9ccd71610800000000000000
+      internalID: 1591983753258242984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56195d3744a02e510800000000000000
+      internalID: 1576834108650525029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26601f7fffb28b50800000000000000
+      internalID: 6594043908493174317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae76d73524046db0800000000000000
+      internalID: -4799706744973001044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27be70eb0513ab80800000000000000
+      internalID: -8384834940478507219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceba765303d4ee70800000000000000
+      internalID: 9143665154758196931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ac05230ca437220800000000000000
+      internalID: 2482410008949606937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_107
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536dac55e47365e0800000000000000
+      internalID: -1917560487878499497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c53cfa5884f49950800000000000000
+      internalID: 6455053032407971272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2761f62aa2e1350800000000000000
+      internalID: 5989271431586149024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df701e2a349cf53a0800000000000000
+      internalID: -6674394830407137283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_111
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106a2ce49dd41270800000000000000
+      internalID: 8220438851545096213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9c8e60d25258ba0800000000000000
+      internalID: -6087418446001681985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_113
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3591415536639ac0800000000000000
+      internalID: -3849620877289089733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e979918167cda7100800000000000000
+      internalID: 106639940965210014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_115
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3e19727ca061e30800000000000000
+      internalID: 4473775130317808582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006be970409a812b0800000000000000
+      internalID: -5613551100744518144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_117
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c661c9a70e2580800000000000000
+      internalID: -8850127792060840572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eae02f371572e1b0800000000000000
+      internalID: -5628807841555879196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_119
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77960d2613be3b60800000000000000
+      internalID: 7727810918440408954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307f4458a0c7731b0800000000000000
+      internalID: -5676932420649814269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a636f57d0ad6f60800000000000000
+      internalID: 8029250557550225985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b3d2db66b70dce0800000000000000
+      internalID: -1382469404412003470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Non-Combat_Animations_123
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04734fc80183462b0800000000000000
+      internalID: -5592283193551866048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0fd51864b94ebb48a1d52a0e24aa5b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":30.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Heavy_Knight_Non-Combat_Animations_0: 2330252521765050305
+      Heavy_Knight_Non-Combat_Animations_1: 3931182183166189924
+      Heavy_Knight_Non-Combat_Animations_10: -3885105363221699595
+      Heavy_Knight_Non-Combat_Animations_100: 1591983753258242984
+      Heavy_Knight_Non-Combat_Animations_101: 1576834108650525029
+      Heavy_Knight_Non-Combat_Animations_102: 6594043908493174317
+      Heavy_Knight_Non-Combat_Animations_103: -4799706744973001044
+      Heavy_Knight_Non-Combat_Animations_104: -8384834940478507219
+      Heavy_Knight_Non-Combat_Animations_105: 9143665154758196931
+      Heavy_Knight_Non-Combat_Animations_106: 2482410008949606937
+      Heavy_Knight_Non-Combat_Animations_107: -1917560487878499497
+      Heavy_Knight_Non-Combat_Animations_108: 6455053032407971272
+      Heavy_Knight_Non-Combat_Animations_109: 5989271431586149024
+      Heavy_Knight_Non-Combat_Animations_11: -6560771010824244526
+      Heavy_Knight_Non-Combat_Animations_110: -6674394830407137283
+      Heavy_Knight_Non-Combat_Animations_111: 8220438851545096213
+      Heavy_Knight_Non-Combat_Animations_112: -6087418446001681985
+      Heavy_Knight_Non-Combat_Animations_113: -3849620877289089733
+      Heavy_Knight_Non-Combat_Animations_114: 106639940965210014
+      Heavy_Knight_Non-Combat_Animations_115: 4473775130317808582
+      Heavy_Knight_Non-Combat_Animations_116: -5613551100744518144
+      Heavy_Knight_Non-Combat_Animations_117: -8850127792060840572
+      Heavy_Knight_Non-Combat_Animations_118: -5628807841555879196
+      Heavy_Knight_Non-Combat_Animations_119: 7727810918440408954
+      Heavy_Knight_Non-Combat_Animations_12: -3572279497756407284
+      Heavy_Knight_Non-Combat_Animations_120: -5676932420649814269
+      Heavy_Knight_Non-Combat_Animations_121: 8029250557550225985
+      Heavy_Knight_Non-Combat_Animations_122: -1382469404412003470
+      Heavy_Knight_Non-Combat_Animations_123: -5592283193551866048
+      Heavy_Knight_Non-Combat_Animations_13: -8058811081637118256
+      Heavy_Knight_Non-Combat_Animations_14: -6131646866135490891
+      Heavy_Knight_Non-Combat_Animations_15: 2722318914078117437
+      Heavy_Knight_Non-Combat_Animations_16: -5219405874473939000
+      Heavy_Knight_Non-Combat_Animations_17: -6142589525567757565
+      Heavy_Knight_Non-Combat_Animations_18: 3630691356045269117
+      Heavy_Knight_Non-Combat_Animations_19: -9060627919314988165
+      Heavy_Knight_Non-Combat_Animations_2: -5744197539634042395
+      Heavy_Knight_Non-Combat_Animations_20: -1469135781181867844
+      Heavy_Knight_Non-Combat_Animations_21: -3860435134462055522
+      Heavy_Knight_Non-Combat_Animations_22: -1111294922588123719
+      Heavy_Knight_Non-Combat_Animations_23: 4238931926663018788
+      Heavy_Knight_Non-Combat_Animations_24: -987777220514826103
+      Heavy_Knight_Non-Combat_Animations_25: -4409430205440977973
+      Heavy_Knight_Non-Combat_Animations_26: -1322035333156025516
+      Heavy_Knight_Non-Combat_Animations_27: 4478296744686940768
+      Heavy_Knight_Non-Combat_Animations_28: 1370607641487464813
+      Heavy_Knight_Non-Combat_Animations_29: 4866364258039565844
+      Heavy_Knight_Non-Combat_Animations_3: 888108600911372890
+      Heavy_Knight_Non-Combat_Animations_30: 7752822523886331145
+      Heavy_Knight_Non-Combat_Animations_31: 6014346013693037343
+      Heavy_Knight_Non-Combat_Animations_32: -6238433737128715517
+      Heavy_Knight_Non-Combat_Animations_33: 1437542510148233407
+      Heavy_Knight_Non-Combat_Animations_34: 8897246253359887382
+      Heavy_Knight_Non-Combat_Animations_35: -2493283617710676947
+      Heavy_Knight_Non-Combat_Animations_36: -2769230729531521425
+      Heavy_Knight_Non-Combat_Animations_37: -5328805026173851112
+      Heavy_Knight_Non-Combat_Animations_38: -8721373728597963318
+      Heavy_Knight_Non-Combat_Animations_39: 7239740179075452236
+      Heavy_Knight_Non-Combat_Animations_4: 6975040425064420214
+      Heavy_Knight_Non-Combat_Animations_40: -3192345900993904890
+      Heavy_Knight_Non-Combat_Animations_41: -1600021303374942911
+      Heavy_Knight_Non-Combat_Animations_42: -8184960644288031101
+      Heavy_Knight_Non-Combat_Animations_43: 7827641966371052390
+      Heavy_Knight_Non-Combat_Animations_44: -1961184092472283773
+      Heavy_Knight_Non-Combat_Animations_45: 2199134665273801238
+      Heavy_Knight_Non-Combat_Animations_46: -719664986543342200
+      Heavy_Knight_Non-Combat_Animations_47: -6521746204535732096
+      Heavy_Knight_Non-Combat_Animations_48: 5215804213657029690
+      Heavy_Knight_Non-Combat_Animations_49: -7338824757842129072
+      Heavy_Knight_Non-Combat_Animations_5: -3861330991419049726
+      Heavy_Knight_Non-Combat_Animations_50: -9029360929989976010
+      Heavy_Knight_Non-Combat_Animations_51: 4430839514692147400
+      Heavy_Knight_Non-Combat_Animations_52: 6870216844308415175
+      Heavy_Knight_Non-Combat_Animations_53: -1149440051443818384
+      Heavy_Knight_Non-Combat_Animations_54: 7924091251059281678
+      Heavy_Knight_Non-Combat_Animations_55: -6404565427218125622
+      Heavy_Knight_Non-Combat_Animations_56: -7510335978744684859
+      Heavy_Knight_Non-Combat_Animations_57: -1355673596760284912
+      Heavy_Knight_Non-Combat_Animations_58: -3545326321293020611
+      Heavy_Knight_Non-Combat_Animations_59: 8641967199527671149
+      Heavy_Knight_Non-Combat_Animations_6: -287848985311230826
+      Heavy_Knight_Non-Combat_Animations_60: 1067044162580085659
+      Heavy_Knight_Non-Combat_Animations_61: -832788620746861690
+      Heavy_Knight_Non-Combat_Animations_62: 8959314758616744111
+      Heavy_Knight_Non-Combat_Animations_63: 991413460025742808
+      Heavy_Knight_Non-Combat_Animations_64: -5347632772923285219
+      Heavy_Knight_Non-Combat_Animations_65: -8144846435440227678
+      Heavy_Knight_Non-Combat_Animations_66: 8950968442448462649
+      Heavy_Knight_Non-Combat_Animations_67: 1827187188060910048
+      Heavy_Knight_Non-Combat_Animations_68: 7213501554431950023
+      Heavy_Knight_Non-Combat_Animations_69: 2538297235990658536
+      Heavy_Knight_Non-Combat_Animations_7: -378681570806435168
+      Heavy_Knight_Non-Combat_Animations_70: 5757391481701964558
+      Heavy_Knight_Non-Combat_Animations_71: -4595854266426878780
+      Heavy_Knight_Non-Combat_Animations_72: 6558918950768137185
+      Heavy_Knight_Non-Combat_Animations_73: -6554825362441715717
+      Heavy_Knight_Non-Combat_Animations_74: -5499270478353089061
+      Heavy_Knight_Non-Combat_Animations_75: -4999278064264359061
+      Heavy_Knight_Non-Combat_Animations_76: 2325296736086928379
+      Heavy_Knight_Non-Combat_Animations_77: -4124946042867552707
+      Heavy_Knight_Non-Combat_Animations_78: -6289026007603237442
+      Heavy_Knight_Non-Combat_Animations_79: 7319898091043568998
+      Heavy_Knight_Non-Combat_Animations_8: 2093278130922697367
+      Heavy_Knight_Non-Combat_Animations_80: -2296978722365358985
+      Heavy_Knight_Non-Combat_Animations_81: -3297129628959303967
+      Heavy_Knight_Non-Combat_Animations_82: -5557217594857340115
+      Heavy_Knight_Non-Combat_Animations_83: -5181660800743678831
+      Heavy_Knight_Non-Combat_Animations_84: -1779853692203471537
+      Heavy_Knight_Non-Combat_Animations_85: -4161012542412101752
+      Heavy_Knight_Non-Combat_Animations_86: 4393500292579051860
+      Heavy_Knight_Non-Combat_Animations_87: -4002534739883412638
+      Heavy_Knight_Non-Combat_Animations_88: -4102591257756224466
+      Heavy_Knight_Non-Combat_Animations_89: -5945239910057593631
+      Heavy_Knight_Non-Combat_Animations_9: -8793634053151375524
+      Heavy_Knight_Non-Combat_Animations_90: 7243831714642031715
+      Heavy_Knight_Non-Combat_Animations_91: 3447654024180241243
+      Heavy_Knight_Non-Combat_Animations_92: -3674017771729515323
+      Heavy_Knight_Non-Combat_Animations_93: 3299341113484649783
+      Heavy_Knight_Non-Combat_Animations_94: 8019830474645831770
+      Heavy_Knight_Non-Combat_Animations_95: 1099454965722595608
+      Heavy_Knight_Non-Combat_Animations_96: 2317600693293918038
+      Heavy_Knight_Non-Combat_Animations_97: -1513206065220689755
+      Heavy_Knight_Non-Combat_Animations_98: 7770240610154926231
+      Heavy_Knight_Non-Combat_Animations_99: -7691105890648721059
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

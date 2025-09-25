@@ -1,0 +1,3332 @@
+fileFormatVersion: 2
+guid: 4eb639d32bb650d4b81a011eefb5c888
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6606842064117604083
+    second: 2-Handed_Swordsman_Non-Combat_0
+  - first:
+      213: -8380200292802553393
+    second: 2-Handed_Swordsman_Non-Combat_1
+  - first:
+      213: -6288490037711544597
+    second: 2-Handed_Swordsman_Non-Combat_2
+  - first:
+      213: -8942523496626419163
+    second: 2-Handed_Swordsman_Non-Combat_3
+  - first:
+      213: -5863622772326144307
+    second: 2-Handed_Swordsman_Non-Combat_4
+  - first:
+      213: 4426206497627546077
+    second: 2-Handed_Swordsman_Non-Combat_5
+  - first:
+      213: -3818200509745609419
+    second: 2-Handed_Swordsman_Non-Combat_6
+  - first:
+      213: 5405941301875604503
+    second: 2-Handed_Swordsman_Non-Combat_7
+  - first:
+      213: 5643281848836571552
+    second: 2-Handed_Swordsman_Non-Combat_8
+  - first:
+      213: 95127309239295725
+    second: 2-Handed_Swordsman_Non-Combat_9
+  - first:
+      213: -1744289905289318897
+    second: 2-Handed_Swordsman_Non-Combat_10
+  - first:
+      213: -9086749563763756065
+    second: 2-Handed_Swordsman_Non-Combat_11
+  - first:
+      213: 8554277899835107432
+    second: 2-Handed_Swordsman_Non-Combat_12
+  - first:
+      213: 5036610004839028450
+    second: 2-Handed_Swordsman_Non-Combat_13
+  - first:
+      213: 2179717748818808633
+    second: 2-Handed_Swordsman_Non-Combat_14
+  - first:
+      213: -8219500531995751911
+    second: 2-Handed_Swordsman_Non-Combat_15
+  - first:
+      213: -9092826712337729730
+    second: 2-Handed_Swordsman_Non-Combat_16
+  - first:
+      213: 1247464701435119949
+    second: 2-Handed_Swordsman_Non-Combat_17
+  - first:
+      213: -2400997000025487965
+    second: 2-Handed_Swordsman_Non-Combat_18
+  - first:
+      213: -5231658354986187133
+    second: 2-Handed_Swordsman_Non-Combat_19
+  - first:
+      213: -175816990556791126
+    second: 2-Handed_Swordsman_Non-Combat_20
+  - first:
+      213: -8388738449216635174
+    second: 2-Handed_Swordsman_Non-Combat_21
+  - first:
+      213: 3826250739495439234
+    second: 2-Handed_Swordsman_Non-Combat_22
+  - first:
+      213: -6834813837278136253
+    second: 2-Handed_Swordsman_Non-Combat_23
+  - first:
+      213: 5080559491845638807
+    second: 2-Handed_Swordsman_Non-Combat_24
+  - first:
+      213: 8639615916206577814
+    second: 2-Handed_Swordsman_Non-Combat_25
+  - first:
+      213: 9172243510341065113
+    second: 2-Handed_Swordsman_Non-Combat_26
+  - first:
+      213: -3204071754490428116
+    second: 2-Handed_Swordsman_Non-Combat_27
+  - first:
+      213: 6783569486180057427
+    second: 2-Handed_Swordsman_Non-Combat_28
+  - first:
+      213: 4693810885669733035
+    second: 2-Handed_Swordsman_Non-Combat_29
+  - first:
+      213: -3782499030087807583
+    second: 2-Handed_Swordsman_Non-Combat_30
+  - first:
+      213: -4933623252835217283
+    second: 2-Handed_Swordsman_Non-Combat_31
+  - first:
+      213: -6111994892696248790
+    second: 2-Handed_Swordsman_Non-Combat_32
+  - first:
+      213: -7059436267869673025
+    second: 2-Handed_Swordsman_Non-Combat_33
+  - first:
+      213: 3043099765271616585
+    second: 2-Handed_Swordsman_Non-Combat_34
+  - first:
+      213: 4709074147664053477
+    second: 2-Handed_Swordsman_Non-Combat_35
+  - first:
+      213: -3597362677945421357
+    second: 2-Handed_Swordsman_Non-Combat_36
+  - first:
+      213: 4470055989090054741
+    second: 2-Handed_Swordsman_Non-Combat_37
+  - first:
+      213: -4001889238980021201
+    second: 2-Handed_Swordsman_Non-Combat_38
+  - first:
+      213: 2830488200308770774
+    second: 2-Handed_Swordsman_Non-Combat_39
+  - first:
+      213: 8530641268082865562
+    second: 2-Handed_Swordsman_Non-Combat_40
+  - first:
+      213: 4146037520643287120
+    second: 2-Handed_Swordsman_Non-Combat_41
+  - first:
+      213: -8216614602679651753
+    second: 2-Handed_Swordsman_Non-Combat_42
+  - first:
+      213: 135499697680374985
+    second: 2-Handed_Swordsman_Non-Combat_43
+  - first:
+      213: -8189131825931497588
+    second: 2-Handed_Swordsman_Non-Combat_44
+  - first:
+      213: 3052281759232587011
+    second: 2-Handed_Swordsman_Non-Combat_45
+  - first:
+      213: -1653806624209609506
+    second: 2-Handed_Swordsman_Non-Combat_46
+  - first:
+      213: 895084735007336334
+    second: 2-Handed_Swordsman_Non-Combat_47
+  - first:
+      213: 2327634314429031668
+    second: 2-Handed_Swordsman_Non-Combat_48
+  - first:
+      213: 4722364086467044561
+    second: 2-Handed_Swordsman_Non-Combat_49
+  - first:
+      213: 8197519877316004845
+    second: 2-Handed_Swordsman_Non-Combat_50
+  - first:
+      213: -854983391565317070
+    second: 2-Handed_Swordsman_Non-Combat_51
+  - first:
+      213: 3432241496288892028
+    second: 2-Handed_Swordsman_Non-Combat_52
+  - first:
+      213: 9176755250330097093
+    second: 2-Handed_Swordsman_Non-Combat_53
+  - first:
+      213: -4456321871943017415
+    second: 2-Handed_Swordsman_Non-Combat_54
+  - first:
+      213: -8839703581310342524
+    second: 2-Handed_Swordsman_Non-Combat_55
+  - first:
+      213: -6932366620918715796
+    second: 2-Handed_Swordsman_Non-Combat_56
+  - first:
+      213: -3500233064787637629
+    second: 2-Handed_Swordsman_Non-Combat_57
+  - first:
+      213: -18129067442631689
+    second: 2-Handed_Swordsman_Non-Combat_58
+  - first:
+      213: 5068899272317680932
+    second: 2-Handed_Swordsman_Non-Combat_59
+  - first:
+      213: -5443444513750925663
+    second: 2-Handed_Swordsman_Non-Combat_60
+  - first:
+      213: 2049035424473143585
+    second: 2-Handed_Swordsman_Non-Combat_61
+  - first:
+      213: 2282711083794037029
+    second: 2-Handed_Swordsman_Non-Combat_62
+  - first:
+      213: -8885201682500012163
+    second: 2-Handed_Swordsman_Non-Combat_63
+  - first:
+      213: 141702751487809071
+    second: 2-Handed_Swordsman_Non-Combat_64
+  - first:
+      213: -6236892462379449325
+    second: 2-Handed_Swordsman_Non-Combat_65
+  - first:
+      213: -6895730758623153556
+    second: 2-Handed_Swordsman_Non-Combat_66
+  - first:
+      213: -7769698793238702344
+    second: 2-Handed_Swordsman_Non-Combat_67
+  - first:
+      213: 7645311997703215325
+    second: 2-Handed_Swordsman_Non-Combat_68
+  - first:
+      213: 3456709962500529640
+    second: 2-Handed_Swordsman_Non-Combat_69
+  - first:
+      213: -8620035478029063208
+    second: 2-Handed_Swordsman_Non-Combat_70
+  - first:
+      213: -1950869633602783663
+    second: 2-Handed_Swordsman_Non-Combat_71
+  - first:
+      213: -3908306215028614667
+    second: 2-Handed_Swordsman_Non-Combat_72
+  - first:
+      213: 3493052304346172538
+    second: 2-Handed_Swordsman_Non-Combat_73
+  - first:
+      213: 50913314307901517
+    second: 2-Handed_Swordsman_Non-Combat_74
+  - first:
+      213: 2411470899516319982
+    second: 2-Handed_Swordsman_Non-Combat_75
+  - first:
+      213: 140422767095437470
+    second: 2-Handed_Swordsman_Non-Combat_76
+  - first:
+      213: 1125348161071601579
+    second: 2-Handed_Swordsman_Non-Combat_77
+  - first:
+      213: 2759656370972101210
+    second: 2-Handed_Swordsman_Non-Combat_78
+  - first:
+      213: -2017132601917605627
+    second: 2-Handed_Swordsman_Non-Combat_79
+  - first:
+      213: 8840773121194011061
+    second: 2-Handed_Swordsman_Non-Combat_80
+  - first:
+      213: 4119159702910459705
+    second: 2-Handed_Swordsman_Non-Combat_81
+  - first:
+      213: 1294419385152705302
+    second: 2-Handed_Swordsman_Non-Combat_82
+  - first:
+      213: -4802584965278915818
+    second: 2-Handed_Swordsman_Non-Combat_83
+  - first:
+      213: 8164101876389682106
+    second: 2-Handed_Swordsman_Non-Combat_84
+  - first:
+      213: 5126613801006651620
+    second: 2-Handed_Swordsman_Non-Combat_85
+  - first:
+      213: 6884669311403766189
+    second: 2-Handed_Swordsman_Non-Combat_86
+  - first:
+      213: -2980579304241237565
+    second: 2-Handed_Swordsman_Non-Combat_87
+  - first:
+      213: -4928122368155568134
+    second: 2-Handed_Swordsman_Non-Combat_88
+  - first:
+      213: -4102468957167739902
+    second: 2-Handed_Swordsman_Non-Combat_89
+  - first:
+      213: -7285572808919744788
+    second: 2-Handed_Swordsman_Non-Combat_90
+  - first:
+      213: 9038974416691877327
+    second: 2-Handed_Swordsman_Non-Combat_91
+  - first:
+      213: -2696094281566268650
+    second: 2-Handed_Swordsman_Non-Combat_92
+  - first:
+      213: 4848839886400049626
+    second: 2-Handed_Swordsman_Non-Combat_93
+  - first:
+      213: 3830139976354758416
+    second: 2-Handed_Swordsman_Non-Combat_94
+  - first:
+      213: -8844384022794528075
+    second: 2-Handed_Swordsman_Non-Combat_95
+  - first:
+      213: 5221582874830466337
+    second: 2-Handed_Swordsman_Non-Combat_96
+  - first:
+      213: -3916080782002670496
+    second: 2-Handed_Swordsman_Non-Combat_97
+  - first:
+      213: -7022692981287837876
+    second: 2-Handed_Swordsman_Non-Combat_98
+  - first:
+      213: -8401460603455796925
+    second: 2-Handed_Swordsman_Non-Combat_99
+  - first:
+      213: -4116190878356299342
+    second: 2-Handed_Swordsman_Non-Combat_100
+  - first:
+      213: 3107293457642319293
+    second: 2-Handed_Swordsman_Non-Combat_101
+  - first:
+      213: -7145932427138752006
+    second: 2-Handed_Swordsman_Non-Combat_102
+  - first:
+      213: -1792049437156203898
+    second: 2-Handed_Swordsman_Non-Combat_103
+  - first:
+      213: 4840804160907048003
+    second: 2-Handed_Swordsman_Non-Combat_104
+  - first:
+      213: 5206882427768979662
+    second: 2-Handed_Swordsman_Non-Combat_105
+  - first:
+      213: 8798169461059493420
+    second: 2-Handed_Swordsman_Non-Combat_106
+  - first:
+      213: 5859355147841763429
+    second: 2-Handed_Swordsman_Non-Combat_107
+  - first:
+      213: 3580026886145038381
+    second: 2-Handed_Swordsman_Non-Combat_108
+  - first:
+      213: 4194429145376979986
+    second: 2-Handed_Swordsman_Non-Combat_109
+  - first:
+      213: -4843850633547629644
+    second: 2-Handed_Swordsman_Non-Combat_110
+  - first:
+      213: -587228562035520717
+    second: 2-Handed_Swordsman_Non-Combat_111
+  - first:
+      213: -1986734813585888023
+    second: 2-Handed_Swordsman_Non-Combat_112
+  - first:
+      213: 783238187540570129
+    second: 2-Handed_Swordsman_Non-Combat_113
+  - first:
+      213: -798163967904894789
+    second: 2-Handed_Swordsman_Non-Combat_114
+  - first:
+      213: 9212490282794416971
+    second: 2-Handed_Swordsman_Non-Combat_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d016921b528cf44a0800000000000000
+      internalID: -6606842064117604083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc911e0eb3c83bb80800000000000000
+      internalID: -8380200292802553393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beede98e0abcab8a0800000000000000
+      internalID: -6288490037711544597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a8ff36246c5e380800000000000000
+      internalID: -8942523496626419163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6eb96c72a30aea0800000000000000
+      internalID: -5863622772326144307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1ad99cb5b0d6d30800000000000000
+      internalID: 4426206497627546077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c567bdd6030bc0800000000000000
+      internalID: -3818200509745609419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c78eed8f2c50b40800000000000000
+      internalID: 5405941301875604503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1405f21f6f05e40800000000000000
+      internalID: 5643281848836571552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee95a3a8c5f15100800000000000000
+      internalID: 95127309239295725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e2ee1a2990bc7e0800000000000000
+      internalID: -1744289905289318897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3fce85a6165e180800000000000000
+      internalID: -9086749563763756065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86865a96d66e6b670800000000000000
+      internalID: 8554277899835107432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6db924d12a5e540800000000000000
+      internalID: 5036610004839028450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f85f07eb9ef3e10800000000000000
+      internalID: 2179717748818808633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a424f90d77eed80800000000000000
+      internalID: -8219500531995751911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e373deee74acfc180800000000000000
+      internalID: -9092826712337729730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4901ee5982ef4110800000000000000
+      internalID: 1247464701435119949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5c3b213f1fdaed0800000000000000
+      internalID: -2400997000025487965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38608d4d17a6567b0800000000000000
+      internalID: -5231658354986187133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae526ce06f5f8df0800000000000000
+      internalID: -175816990556791126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adef7cc63d6359b80800000000000000
+      internalID: -8388738449216635174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b833576c2991530800000000000000
+      internalID: 3826250739495439234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348bc13070dd521a0800000000000000
+      internalID: -6834813837278136253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ac2bb90f5c18640800000000000000
+      internalID: 5080559491845638807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698dd41b6e416e770800000000000000
+      internalID: 8639615916206577814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d24340ea5a4f70800000000000000
+      internalID: 9172243510341065113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c254cb617b9d883d0800000000000000
+      internalID: -3204071754490428116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35101fcb184142e50800000000000000
+      internalID: 6783569486180057427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2c433b124c32140800000000000000
+      internalID: 4693810885669733035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad4b543c2dd18bc0800000000000000
+      internalID: -3782499030087807583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70562f7acf388bb0800000000000000
+      internalID: -4933623252835217283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e96df1705dd2ba0800000000000000
+      internalID: -6111994892696248790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96e1bed18d70e90800000000000000
+      internalID: -7059436267869673025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cd61d0d134b3a20800000000000000
+      internalID: 3043099765271616585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4cd70dcfdf95140800000000000000
+      internalID: 4709074147664053477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b0dc34b9931ec0800000000000000
+      internalID: -3597362677945421357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f1db1d34d80e30800000000000000
+      internalID: 4470055989090054741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f243328a0fe6678c0800000000000000
+      internalID: -4001889238980021201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7c658850ae74720800000000000000
+      internalID: 2830488200308770774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95fd5a390de26670800000000000000
+      internalID: 8530641268082865562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058626b882fa98930800000000000000
+      internalID: 4146037520643287120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752fdf66d88b8fd80800000000000000
+      internalID: -8216614602679651753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc5963d14461e100800000000000000
+      internalID: 135499697680374985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fc1800efb5a5e80800000000000000
+      internalID: -8189131825931497588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305767d9612eb5a20800000000000000
+      internalID: 3052281759232587011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc5cc433af7c09e0800000000000000
+      internalID: -1653806624209609506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87acf9f2dafb6c00800000000000000
+      internalID: 895084735007336334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370a47979ea0b448ab2cf807f25d039
+      internalID: -1786394518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd201c5e75af8046b4a4702ca7cf389
+      internalID: -1620308268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc483b70038194facf7ee71ec3b522
+      internalID: 686790617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73d6990277b86b42acc738de6b5653a
+      internalID: 2095675156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b76bd46836bb040bb1d0949c671f3c
+      internalID: 1409239675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30118266285beeb43a73dd489040a2b8
+      internalID: 1140157139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53326f24a69057438dd33e8c31ae32d
+      internalID: -376620391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c1c87766be174fb435611373f5a3e
+      internalID: 1579882019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2d7c29e1cab324fbe930eb54846747
+      internalID: -1605991240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852da53532d90c84f8ac1912818ca234
+      internalID: 319953224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19bdb0fd044d440a90c6567928cddf
+      internalID: -805629071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5756ee9f4f6eae74db91ce7e266b38be
+      internalID: -332056658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b26d92bd64f484cb16444352629d5e
+      internalID: 737824732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744e1aa26e6d73543812be05a20bc59d
+      internalID: 1627646776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc82a74807517c48927a65cefd1e0d6
+      internalID: 1202601386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b78484170a2a8479022e82f39dc8d0
+      internalID: 215184875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24414d06d5ff4394787b3cf971d2b526
+      internalID: -676108357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5f189f20f0954ca2f92b1d0c56fdf
+      internalID: -2136252426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66192647db991e74ba03d8a893b612b3
+      internalID: 1593113749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55013645f88d5b4db177ed8e051af42
+      internalID: -837052864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51318ce8b168d504fb07d183a5a02795
+      internalID: 657262147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a8e44e9fa817547a4b0bd663977911
+      internalID: -291862131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e7eb61e040dc479fbe3df1525b012
+      internalID: -730871370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9337c2e7f649944a57beebf6dc41a3
+      internalID: 79219717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129057f130bf96f49bfd6da87592d5fe
+      internalID: -1781582092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaccc012c29de84bbd6651365aa37e0
+      internalID: 680260856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf21b3110340574d80f127469134d6c
+      internalID: 1540553293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a863fe1c12633d458397b650cf1cfb7
+      internalID: -406004392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db988599c690f4d4d810eba74f7b4077
+      internalID: 55146552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5ef9647f11f7c459b75a67fea47b08
+      internalID: -772761906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61239d362a6102744bf1c27d955830c4
+      internalID: -839721599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aa3409782acf54382270ad563af092
+      internalID: 1889866576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff1d42acaa65bf43a6a9fa564cf8cc2
+      internalID: 2068534963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da070233d1d31ea499541e22b26532ce
+      internalID: -1486893422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df044095a84e7f54abc79a5b31550542
+      internalID: -209119046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325571518537c8b47abddfd7b1568d7d
+      internalID: 13139775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c595561a7c0f64a904d298938ba383
+      internalID: -2116695525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ec2d000024c5848bb780496f958658
+      internalID: 1929579251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dae6bc0bcf1ca40abd7ef221155054
+      internalID: 1382147391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46411db9e84c8e649a10279a193932c5
+      internalID: -997144274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5111381e3e7badd4484b22b976bde611
+      internalID: -726540911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77cf029a1168794e97e0e00d00b9cab
+      internalID: -1850764760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6ea48f99c4a9428089e734b1b594c
+      internalID: 1525184471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca124c78c4715ba4aa305a838d17214d
+      internalID: -234100726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d426c6d4d0e424b80167cd42259fc6
+      internalID: -2129326957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36643b03c5a821049adb527f0d69599d
+      internalID: -92531090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200737243dc26b344899bfda003fade8
+      internalID: 2095706621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d6b3e277fc7424ca43ab427baae04b
+      internalID: 1118801655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c4679796c2f540a00badd74951061
+      internalID: -1620797938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ee80350486164583288a5d956591c
+      internalID: -1897746483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41992ea6ad5f645bf15b5ef54653de
+      internalID: -1841212663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ae11f85d80f44bb6361c3926ba5c1
+      internalID: -2133832105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba502bc1d470a4b947db272302a703
+      internalID: -363015481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d7cb82fe2fdf94fa28aca0469a38d5
+      internalID: 119780182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403438052af8684aa9636a51b17580b
+      internalID: -1997840618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7cc543a4d411e4d8b2e605ca18e5fa
+      internalID: 1572813642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac83445e9c623489ea692ff193132f
+      internalID: -743378368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae116f541b417749981e1ddf2176741
+      internalID: -6178619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a058ae7ebe53c4b9f093e8bb87bf8a
+      internalID: -1045313457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1461b76f05d3e4596bb47c9051c1b6
+      internalID: 977658441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588bae1172ad88c4dba4acc84e011481
+      internalID: 1565692691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e66c180cfa14f4dae95bc91543cbfd
+      internalID: 1179986032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a07a58402868438397bb5b240eed3
+      internalID: -1718686115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776b7a00e6b6f4641b1012ee4fb4f004
+      internalID: 744346532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3836de660b784e54689ab3faf9f922cc
+      internalID: -625022506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77c802d8577e6847bef61f95a7bf597
+      internalID: 321790679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133f97f121b71e447929a5d1b4904dae
+      internalID: 56850671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9336c43b73e5fe47881c2add882641b
+      internalID: -1714545676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77afeddbe6aaf5948a84e3da9401ca2f
+      internalID: -1217604804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa567eeff313f4eb700e2141419026
+      internalID: -356565284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02955538fd05ae648bec47049253a782
+      internalID: -252005018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a4d6aca3d42dc4eb2ae07a54a6efc8
+      internalID: 218642396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e620bd828ec43e4da29ce420f9e950b
+      internalID: -1589739432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f9562967f0a5f4d8e754c6be4f4686
+      internalID: 1501229553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29ecd83d90c0364babc15b30ac5bfde
+      internalID: 1736980660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Handed_Swordsman_Non-Combat_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0522485c6af1642b484d82516e5ab0
+      internalID: -2125938167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c1551971fa425d458c6ec9c49876b45
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":30.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      2-Handed_Swordsman_Non-Combat_0: -6606842064117604083
+      2-Handed_Swordsman_Non-Combat_1: -8380200292802553393
+      2-Handed_Swordsman_Non-Combat_10: -1744289905289318897
+      2-Handed_Swordsman_Non-Combat_100: -363015481
+      2-Handed_Swordsman_Non-Combat_101: 119780182
+      2-Handed_Swordsman_Non-Combat_102: -1997840618
+      2-Handed_Swordsman_Non-Combat_103: 1572813642
+      2-Handed_Swordsman_Non-Combat_104: -743378368
+      2-Handed_Swordsman_Non-Combat_105: -6178619
+      2-Handed_Swordsman_Non-Combat_106: -1045313457
+      2-Handed_Swordsman_Non-Combat_107: 977658441
+      2-Handed_Swordsman_Non-Combat_108: 1565692691
+      2-Handed_Swordsman_Non-Combat_109: 1179986032
+      2-Handed_Swordsman_Non-Combat_11: -9086749563763756065
+      2-Handed_Swordsman_Non-Combat_110: -1718686115
+      2-Handed_Swordsman_Non-Combat_111: 744346532
+      2-Handed_Swordsman_Non-Combat_112: -625022506
+      2-Handed_Swordsman_Non-Combat_113: 321790679
+      2-Handed_Swordsman_Non-Combat_114: 56850671
+      2-Handed_Swordsman_Non-Combat_115: -1714545676
+      2-Handed_Swordsman_Non-Combat_116: -1217604804
+      2-Handed_Swordsman_Non-Combat_117: -356565284
+      2-Handed_Swordsman_Non-Combat_118: -252005018
+      2-Handed_Swordsman_Non-Combat_119: 218642396
+      2-Handed_Swordsman_Non-Combat_12: 8554277899835107432
+      2-Handed_Swordsman_Non-Combat_120: -1589739432
+      2-Handed_Swordsman_Non-Combat_121: 1501229553
+      2-Handed_Swordsman_Non-Combat_122: 1736980660
+      2-Handed_Swordsman_Non-Combat_123: -2125938167
+      2-Handed_Swordsman_Non-Combat_13: 5036610004839028450
+      2-Handed_Swordsman_Non-Combat_14: 2179717748818808633
+      2-Handed_Swordsman_Non-Combat_15: -8219500531995751911
+      2-Handed_Swordsman_Non-Combat_16: -9092826712337729730
+      2-Handed_Swordsman_Non-Combat_17: 1247464701435119949
+      2-Handed_Swordsman_Non-Combat_18: -2400997000025487965
+      2-Handed_Swordsman_Non-Combat_19: -5231658354986187133
+      2-Handed_Swordsman_Non-Combat_2: -6288490037711544597
+      2-Handed_Swordsman_Non-Combat_20: -175816990556791126
+      2-Handed_Swordsman_Non-Combat_21: -8388738449216635174
+      2-Handed_Swordsman_Non-Combat_22: 3826250739495439234
+      2-Handed_Swordsman_Non-Combat_23: -6834813837278136253
+      2-Handed_Swordsman_Non-Combat_24: 5080559491845638807
+      2-Handed_Swordsman_Non-Combat_25: 8639615916206577814
+      2-Handed_Swordsman_Non-Combat_26: 9172243510341065113
+      2-Handed_Swordsman_Non-Combat_27: -3204071754490428116
+      2-Handed_Swordsman_Non-Combat_28: 6783569486180057427
+      2-Handed_Swordsman_Non-Combat_29: 4693810885669733035
+      2-Handed_Swordsman_Non-Combat_3: -8942523496626419163
+      2-Handed_Swordsman_Non-Combat_30: -3782499030087807583
+      2-Handed_Swordsman_Non-Combat_31: -4933623252835217283
+      2-Handed_Swordsman_Non-Combat_32: -6111994892696248790
+      2-Handed_Swordsman_Non-Combat_33: -7059436267869673025
+      2-Handed_Swordsman_Non-Combat_34: 3043099765271616585
+      2-Handed_Swordsman_Non-Combat_35: 4709074147664053477
+      2-Handed_Swordsman_Non-Combat_36: -3597362677945421357
+      2-Handed_Swordsman_Non-Combat_37: 4470055989090054741
+      2-Handed_Swordsman_Non-Combat_38: -4001889238980021201
+      2-Handed_Swordsman_Non-Combat_39: 2830488200308770774
+      2-Handed_Swordsman_Non-Combat_4: -5863622772326144307
+      2-Handed_Swordsman_Non-Combat_40: 8530641268082865562
+      2-Handed_Swordsman_Non-Combat_41: 4146037520643287120
+      2-Handed_Swordsman_Non-Combat_42: -8216614602679651753
+      2-Handed_Swordsman_Non-Combat_43: 135499697680374985
+      2-Handed_Swordsman_Non-Combat_44: -8189131825931497588
+      2-Handed_Swordsman_Non-Combat_45: 3052281759232587011
+      2-Handed_Swordsman_Non-Combat_46: -1653806624209609506
+      2-Handed_Swordsman_Non-Combat_47: 895084735007336334
+      2-Handed_Swordsman_Non-Combat_48: -1786394518
+      2-Handed_Swordsman_Non-Combat_49: -1620308268
+      2-Handed_Swordsman_Non-Combat_5: 4426206497627546077
+      2-Handed_Swordsman_Non-Combat_50: 686790617
+      2-Handed_Swordsman_Non-Combat_51: 2095675156
+      2-Handed_Swordsman_Non-Combat_52: 1409239675
+      2-Handed_Swordsman_Non-Combat_53: 1140157139
+      2-Handed_Swordsman_Non-Combat_54: -376620391
+      2-Handed_Swordsman_Non-Combat_55: 1579882019
+      2-Handed_Swordsman_Non-Combat_56: -1605991240
+      2-Handed_Swordsman_Non-Combat_57: 319953224
+      2-Handed_Swordsman_Non-Combat_58: -805629071
+      2-Handed_Swordsman_Non-Combat_59: -332056658
+      2-Handed_Swordsman_Non-Combat_6: -3818200509745609419
+      2-Handed_Swordsman_Non-Combat_60: 737824732
+      2-Handed_Swordsman_Non-Combat_61: 1627646776
+      2-Handed_Swordsman_Non-Combat_62: 1202601386
+      2-Handed_Swordsman_Non-Combat_63: 215184875
+      2-Handed_Swordsman_Non-Combat_64: -676108357
+      2-Handed_Swordsman_Non-Combat_65: -2136252426
+      2-Handed_Swordsman_Non-Combat_66: 1593113749
+      2-Handed_Swordsman_Non-Combat_67: -837052864
+      2-Handed_Swordsman_Non-Combat_68: 657262147
+      2-Handed_Swordsman_Non-Combat_69: -291862131
+      2-Handed_Swordsman_Non-Combat_7: 5405941301875604503
+      2-Handed_Swordsman_Non-Combat_70: -730871370
+      2-Handed_Swordsman_Non-Combat_71: 79219717
+      2-Handed_Swordsman_Non-Combat_72: -1781582092
+      2-Handed_Swordsman_Non-Combat_73: 680260856
+      2-Handed_Swordsman_Non-Combat_74: 1540553293
+      2-Handed_Swordsman_Non-Combat_75: -406004392
+      2-Handed_Swordsman_Non-Combat_76: 55146552
+      2-Handed_Swordsman_Non-Combat_77: -772761906
+      2-Handed_Swordsman_Non-Combat_78: -839721599
+      2-Handed_Swordsman_Non-Combat_79: 1889866576
+      2-Handed_Swordsman_Non-Combat_8: 5643281848836571552
+      2-Handed_Swordsman_Non-Combat_80: 2068534963
+      2-Handed_Swordsman_Non-Combat_81: -1486893422
+      2-Handed_Swordsman_Non-Combat_82: -209119046
+      2-Handed_Swordsman_Non-Combat_83: 13139775
+      2-Handed_Swordsman_Non-Combat_84: -2116695525
+      2-Handed_Swordsman_Non-Combat_85: 1929579251
+      2-Handed_Swordsman_Non-Combat_86: 1382147391
+      2-Handed_Swordsman_Non-Combat_87: -997144274
+      2-Handed_Swordsman_Non-Combat_88: -726540911
+      2-Handed_Swordsman_Non-Combat_89: -1850764760
+      2-Handed_Swordsman_Non-Combat_9: 95127309239295725
+      2-Handed_Swordsman_Non-Combat_90: 1525184471
+      2-Handed_Swordsman_Non-Combat_91: -234100726
+      2-Handed_Swordsman_Non-Combat_92: -2129326957
+      2-Handed_Swordsman_Non-Combat_93: -92531090
+      2-Handed_Swordsman_Non-Combat_94: 2095706621
+      2-Handed_Swordsman_Non-Combat_95: 1118801655
+      2-Handed_Swordsman_Non-Combat_96: -1620797938
+      2-Handed_Swordsman_Non-Combat_97: -1897746483
+      2-Handed_Swordsman_Non-Combat_98: -1841212663
+      2-Handed_Swordsman_Non-Combat_99: -2133832105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

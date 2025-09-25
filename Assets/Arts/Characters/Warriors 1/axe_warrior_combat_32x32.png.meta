@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: efbdb393e3557de4d989a2dd845e8d8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2686293009794835189
+    second: axe_warrior_combat_32x32_0
+  - first:
+      213: 7577415748346760011
+    second: axe_warrior_combat_32x32_1
+  - first:
+      213: -4141740361891613533
+    second: axe_warrior_combat_32x32_2
+  - first:
+      213: -2550776412191003533
+    second: axe_warrior_combat_32x32_3
+  - first:
+      213: 980153171347266469
+    second: axe_warrior_combat_32x32_4
+  - first:
+      213: -125963150935650552
+    second: axe_warrior_combat_32x32_5
+  - first:
+      213: 6289716578199644585
+    second: axe_warrior_combat_32x32_6
+  - first:
+      213: 8038460588681303406
+    second: axe_warrior_combat_32x32_7
+  - first:
+      213: -84741368027591171
+    second: axe_warrior_combat_32x32_8
+  - first:
+      213: 1664294382657079559
+    second: axe_warrior_combat_32x32_9
+  - first:
+      213: 5588259536771644860
+    second: axe_warrior_combat_32x32_10
+  - first:
+      213: -8418948489161899332
+    second: axe_warrior_combat_32x32_11
+  - first:
+      213: 5524407182680856347
+    second: axe_warrior_combat_32x32_12
+  - first:
+      213: 196282034471793648
+    second: axe_warrior_combat_32x32_13
+  - first:
+      213: 3788704062157115778
+    second: axe_warrior_combat_32x32_14
+  - first:
+      213: -7391913008923936888
+    second: axe_warrior_combat_32x32_15
+  - first:
+      213: 8799469727497100954
+    second: axe_warrior_combat_32x32_16
+  - first:
+      213: -1181351566912562188
+    second: axe_warrior_combat_32x32_17
+  - first:
+      213: 4949184020208440003
+    second: axe_warrior_combat_32x32_18
+  - first:
+      213: 5945005213268538364
+    second: axe_warrior_combat_32x32_19
+  - first:
+      213: -2020550419881170182
+    second: axe_warrior_combat_32x32_20
+  - first:
+      213: 6907849537465534585
+    second: axe_warrior_combat_32x32_21
+  - first:
+      213: -2029159370061860467
+    second: axe_warrior_combat_32x32_22
+  - first:
+      213: 3184358359145898120
+    second: axe_warrior_combat_32x32_23
+  - first:
+      213: 4545067652244822226
+    second: axe_warrior_combat_32x32_24
+  - first:
+      213: 1669869430800445921
+    second: axe_warrior_combat_32x32_25
+  - first:
+      213: 2651650491696132572
+    second: axe_warrior_combat_32x32_26
+  - first:
+      213: -2310236011975370227
+    second: axe_warrior_combat_32x32_27
+  - first:
+      213: -2767383833478514770
+    second: axe_warrior_combat_32x32_28
+  - first:
+      213: -5588594938384753520
+    second: axe_warrior_combat_32x32_29
+  - first:
+      213: 7661025867667847003
+    second: axe_warrior_combat_32x32_30
+  - first:
+      213: -6644113653742649322
+    second: axe_warrior_combat_32x32_31
+  - first:
+      213: 7815160424578387513
+    second: axe_warrior_combat_32x32_32
+  - first:
+      213: -3740142987976240890
+    second: axe_warrior_combat_32x32_33
+  - first:
+      213: 2669470878785815835
+    second: axe_warrior_combat_32x32_34
+  - first:
+      213: -1154371415486923188
+    second: axe_warrior_combat_32x32_35
+  - first:
+      213: -2323929859958050198
+    second: axe_warrior_combat_32x32_36
+  - first:
+      213: -4272873822545619001
+    second: axe_warrior_combat_32x32_37
+  - first:
+      213: -843987779276225198
+    second: axe_warrior_combat_32x32_38
+  - first:
+      213: 2964071029053177991
+    second: axe_warrior_combat_32x32_39
+  - first:
+      213: -5552624680295512305
+    second: axe_warrior_combat_32x32_40
+  - first:
+      213: 2604824895701125220
+    second: axe_warrior_combat_32x32_41
+  - first:
+      213: -9208392761354334151
+    second: axe_warrior_combat_32x32_42
+  - first:
+      213: 9156808463398039724
+    second: axe_warrior_combat_32x32_43
+  - first:
+      213: -9128299392351800764
+    second: axe_warrior_combat_32x32_44
+  - first:
+      213: 903701757893947014
+    second: axe_warrior_combat_32x32_45
+  - first:
+      213: 5210464220857113712
+    second: axe_warrior_combat_32x32_46
+  - first:
+      213: 4627918594930529313
+    second: axe_warrior_combat_32x32_47
+  - first:
+      213: -1143057659806573046
+    second: axe_warrior_combat_32x32_48
+  - first:
+      213: -7451241353058470637
+    second: axe_warrior_combat_32x32_49
+  - first:
+      213: 873877197274191894
+    second: axe_warrior_combat_32x32_50
+  - first:
+      213: -4083124625368316229
+    second: axe_warrior_combat_32x32_51
+  - first:
+      213: 4015965085841127475
+    second: axe_warrior_combat_32x32_52
+  - first:
+      213: -1689624987057913589
+    second: axe_warrior_combat_32x32_53
+  - first:
+      213: -1142529607702564538
+    second: axe_warrior_combat_32x32_54
+  - first:
+      213: -4128788945354519451
+    second: axe_warrior_combat_32x32_55
+  - first:
+      213: -3892118643793488889
+    second: axe_warrior_combat_32x32_56
+  - first:
+      213: -7547940470142934631
+    second: axe_warrior_combat_32x32_57
+  - first:
+      213: 2170841520307964032
+    second: axe_warrior_combat_32x32_58
+  - first:
+      213: 4629105216987867934
+    second: axe_warrior_combat_32x32_59
+  - first:
+      213: -3176533711657576376
+    second: axe_warrior_combat_32x32_60
+  - first:
+      213: -917533435514702356
+    second: axe_warrior_combat_32x32_61
+  - first:
+      213: 2395008916588102588
+    second: axe_warrior_combat_32x32_62
+  - first:
+      213: 9124712081705621394
+    second: axe_warrior_combat_32x32_63
+  - first:
+      213: 1985240968807493818
+    second: axe_warrior_combat_32x32_64
+  - first:
+      213: -9013141694389112705
+    second: axe_warrior_combat_32x32_65
+  - first:
+      213: -7947203110560984792
+    second: axe_warrior_combat_32x32_66
+  - first:
+      213: 6644935494866637599
+    second: axe_warrior_combat_32x32_67
+  - first:
+      213: 7315282607481543940
+    second: axe_warrior_combat_32x32_68
+  - first:
+      213: -5355358974876886768
+    second: axe_warrior_combat_32x32_69
+  - first:
+      213: -2267466890045238616
+    second: axe_warrior_combat_32x32_70
+  - first:
+      213: 1315720491312960722
+    second: axe_warrior_combat_32x32_71
+  - first:
+      213: 3621515664663702726
+    second: axe_warrior_combat_32x32_72
+  - first:
+      213: 4292835920921719366
+    second: axe_warrior_combat_32x32_73
+  - first:
+      213: 1543562851926490330
+    second: axe_warrior_combat_32x32_74
+  - first:
+      213: -8769253738053069515
+    second: axe_warrior_combat_32x32_75
+  - first:
+      213: -4633211859444017857
+    second: axe_warrior_combat_32x32_76
+  - first:
+      213: 7770495671581452210
+    second: axe_warrior_combat_32x32_77
+  - first:
+      213: 943285308866625002
+    second: axe_warrior_combat_32x32_78
+  - first:
+      213: 2369618780750012141
+    second: axe_warrior_combat_32x32_79
+  - first:
+      213: -4657784354578296324
+    second: axe_warrior_combat_32x32_80
+  - first:
+      213: 5874584960571454713
+    second: axe_warrior_combat_32x32_81
+  - first:
+      213: 4037816912520216537
+    second: axe_warrior_combat_32x32_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 615
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2af638241a74520800000000000000
+      internalID: 2686293009794835189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 615
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bc8abe973682960800000000000000
+      internalID: 7577415748346760011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a47d81b5159586c0800000000000000
+      internalID: -4141740361891613533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 615
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ce8e12e52d99cd0800000000000000
+      internalID: -2550776412191003533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 583
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab50a3cd143a9d00800000000000000
+      internalID: 980153171347266469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 583
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f01bd7e2d704ef0800000000000000
+      internalID: -125963150935650552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 581
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a97d47ef894750800000000000000
+      internalID: 6289716578199644585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 581
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e659359d0595e8f60800000000000000
+      internalID: 8038460588681303406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 581
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd4fecbc20f2def0800000000000000
+      internalID: -84741368027591171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 551
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70904f75ce2c81710800000000000000
+      internalID: 1664294382657079559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 551
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd76f9d07c7d8d40800000000000000
+      internalID: 5588259536771644860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 551
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2813164f2e92b80800000000000000
+      internalID: -8418948489161899332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 551
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171f462013aaac40800000000000000
+      internalID: 5524407182680856347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 519
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f37b7c687559b200800000000000000
+      internalID: 196282034471793648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 519
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28154f7654e249430800000000000000
+      internalID: 3788704062157115778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 517
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887ff7c4846aa6990800000000000000
+      internalID: -7391913008923936888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 517
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e9447781ffd1a70800000000000000
+      internalID: 8799469727497100954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 517
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb535b420ffa9fe0800000000000000
+      internalID: -1181351566912562188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 487
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2509cf4a80fa440800000000000000
+      internalID: 4949184020208440003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 487
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf377b45eb6e08250800000000000000
+      internalID: 5945005213268538364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6734391095f3e0800000000000000
+      internalID: -2020550419881170182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 479
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978ca721e8c9ddf50800000000000000
+      internalID: 6907849537465534585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 484
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81becacd4af6d3e0800000000000000
+      internalID: -2029159370061860467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 454
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880ef626e0d113c20800000000000000
+      internalID: 3184358359145898120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 454
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8db2ce2f2531f30800000000000000
+      internalID: 4545067652244822226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 448
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1f42466619c2710800000000000000
+      internalID: 1669869430800445921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 447
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1b90ab21e8cc420800000000000000
+      internalID: 2651650491696132572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 422
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a94e6569460ffd0800000000000000
+      internalID: -2310236011975370227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 422
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7ba50d0174899d0800000000000000
+      internalID: -2767383833478514770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 423
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cd70063825172b0800000000000000
+      internalID: -5588594938384753520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 423
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57bb61df6e615a60800000000000000
+      internalID: 7661025867667847003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 391
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c85d75dd5bc3a0800000000000000
+      internalID: -6644113653742649322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 391
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8fa9eff6057c60800000000000000
+      internalID: 7815160424578387513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 390
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6011280c4c7581cc0800000000000000
+      internalID: -3740142987976240890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 390
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15474cee9ddb0520800000000000000
+      internalID: 2669470878785815835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e79015059daffe0800000000000000
+      internalID: -1154371415486923188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 359
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62f646ea1ebfbfd0800000000000000
+      internalID: -2323929859958050198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 359
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c75a15a5e3b3b4c0800000000000000
+      internalID: -4272873822545619001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255487d169d8944f0800000000000000
+      internalID: -843987779276225198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780cdb785ee722920800000000000000
+      internalID: 2964071029053177991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f074be7b54d11f2b0800000000000000
+      internalID: -5552624680295512305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 327
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4680c521172362420800000000000000
+      internalID: 2604824895701125220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930523b5297353080800000000000000
+      internalID: -9208392761354334151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0712958c4831f70800000000000000
+      internalID: 9156808463398039724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f4730114c15180800000000000000
+      internalID: -9128299392351800764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 296
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2a26f5f79a8c00800000000000000
+      internalID: 903701757893947014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c12174a994f4840800000000000000
+      internalID: 5210464220857113712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124524c317ba93040800000000000000
+      internalID: 4627918594930529313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e90755d1b0320f0800000000000000
+      internalID: -1143057659806573046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 263
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315bf3fb77fd79890800000000000000
+      internalID: -7451241353058470637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 263
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61897d05ea2a02c00800000000000000
+      internalID: 873877197274191894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 231
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6854b59c3d557c0800000000000000
+      internalID: -4083124625368316229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387ee3d7f29bb730800000000000000
+      internalID: 4015965085841127475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 231
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010acab60f3d88e0800000000000000
+      internalID: -1689624987057913589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641b58b006be420f0800000000000000
+      internalID: -1142529607702564538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 199
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c8597545893b6c0800000000000000
+      internalID: -4128788945354519451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704930df6ba6cf9c0800000000000000
+      internalID: -3892118643793488889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991e5531224504790800000000000000
+      internalID: -7547940470142934631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 199
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08800a17cd0602e10800000000000000
+      internalID: 2170841520307964032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b28763ba2ed3040800000000000000
+      internalID: 4629105216987867934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848d8935b6faae3d0800000000000000
+      internalID: -3176533711657576376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce53a92a3344443f0800000000000000
+      internalID: -917533435514702356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3802b9be7cc3120800000000000000
+      internalID: 2395008916588102588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29757c32b4d71ae70800000000000000
+      internalID: 9124712081705621394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 135
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b253942efc8b10800000000000000
+      internalID: 1985240968807493818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 135
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70bca3f163eae280800000000000000
+      internalID: -9013141694389112705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821122580ecd5b190800000000000000
+      internalID: -7947203110560984792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1319ee40ad873c50800000000000000
+      internalID: 6644935494866637599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dd78206ca158560800000000000000
+      internalID: 7315282607481543940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01953c1e261fda5b0800000000000000
+      internalID: -5355358974876886768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d4e680e65880e0800000000000000
+      internalID: -2267466890045238616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4596cd0d0624210800000000000000
+      internalID: 1315720491312960722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cceac43f45324230800000000000000
+      internalID: 3621515664663702726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64273919687339b30800000000000000
+      internalID: 4292835920921719366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc31955c36db6510800000000000000
+      internalID: 1543562851926490330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535941ecf2a5d4680800000000000000
+      internalID: -8769253738053069515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3556b49c5683bfb0800000000000000
+      internalID: -4633211859444017857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7a259b4a856db60800000000000000
+      internalID: 7770495671581452210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedf6dc9df8371d00800000000000000
+      internalID: 943285308866625002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deed2bfe9b392e020800000000000000
+      internalID: 2369618780750012141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf11df8bec93c5fb0800000000000000
+      internalID: -4657784354578296324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4b6b195e7b68150800000000000000
+      internalID: 5874584960571454713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_warrior_combat_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dff4d2b615390830800000000000000
+      internalID: 4037816912520216537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      axe_warrior_combat_32x32_0: 2686293009794835189
+      axe_warrior_combat_32x32_1: 7577415748346760011
+      axe_warrior_combat_32x32_10: 5588259536771644860
+      axe_warrior_combat_32x32_11: -8418948489161899332
+      axe_warrior_combat_32x32_12: 5524407182680856347
+      axe_warrior_combat_32x32_13: 196282034471793648
+      axe_warrior_combat_32x32_14: 3788704062157115778
+      axe_warrior_combat_32x32_15: -7391913008923936888
+      axe_warrior_combat_32x32_16: 8799469727497100954
+      axe_warrior_combat_32x32_17: -1181351566912562188
+      axe_warrior_combat_32x32_18: 4949184020208440003
+      axe_warrior_combat_32x32_19: 5945005213268538364
+      axe_warrior_combat_32x32_2: -4141740361891613533
+      axe_warrior_combat_32x32_20: -2020550419881170182
+      axe_warrior_combat_32x32_21: 6907849537465534585
+      axe_warrior_combat_32x32_22: -2029159370061860467
+      axe_warrior_combat_32x32_23: 3184358359145898120
+      axe_warrior_combat_32x32_24: 4545067652244822226
+      axe_warrior_combat_32x32_25: 1669869430800445921
+      axe_warrior_combat_32x32_26: 2651650491696132572
+      axe_warrior_combat_32x32_27: -2310236011975370227
+      axe_warrior_combat_32x32_28: -2767383833478514770
+      axe_warrior_combat_32x32_29: -5588594938384753520
+      axe_warrior_combat_32x32_3: -2550776412191003533
+      axe_warrior_combat_32x32_30: 7661025867667847003
+      axe_warrior_combat_32x32_31: -6644113653742649322
+      axe_warrior_combat_32x32_32: 7815160424578387513
+      axe_warrior_combat_32x32_33: -3740142987976240890
+      axe_warrior_combat_32x32_34: 2669470878785815835
+      axe_warrior_combat_32x32_35: -1154371415486923188
+      axe_warrior_combat_32x32_36: -2323929859958050198
+      axe_warrior_combat_32x32_37: -4272873822545619001
+      axe_warrior_combat_32x32_38: -843987779276225198
+      axe_warrior_combat_32x32_39: 2964071029053177991
+      axe_warrior_combat_32x32_4: 980153171347266469
+      axe_warrior_combat_32x32_40: -5552624680295512305
+      axe_warrior_combat_32x32_41: 2604824895701125220
+      axe_warrior_combat_32x32_42: -9208392761354334151
+      axe_warrior_combat_32x32_43: 9156808463398039724
+      axe_warrior_combat_32x32_44: -9128299392351800764
+      axe_warrior_combat_32x32_45: 903701757893947014
+      axe_warrior_combat_32x32_46: 5210464220857113712
+      axe_warrior_combat_32x32_47: 4627918594930529313
+      axe_warrior_combat_32x32_48: -1143057659806573046
+      axe_warrior_combat_32x32_49: -7451241353058470637
+      axe_warrior_combat_32x32_5: -125963150935650552
+      axe_warrior_combat_32x32_50: 873877197274191894
+      axe_warrior_combat_32x32_51: -4083124625368316229
+      axe_warrior_combat_32x32_52: 4015965085841127475
+      axe_warrior_combat_32x32_53: -1689624987057913589
+      axe_warrior_combat_32x32_54: -1142529607702564538
+      axe_warrior_combat_32x32_55: -4128788945354519451
+      axe_warrior_combat_32x32_56: -3892118643793488889
+      axe_warrior_combat_32x32_57: -7547940470142934631
+      axe_warrior_combat_32x32_58: 2170841520307964032
+      axe_warrior_combat_32x32_59: 4629105216987867934
+      axe_warrior_combat_32x32_6: 6289716578199644585
+      axe_warrior_combat_32x32_60: -3176533711657576376
+      axe_warrior_combat_32x32_61: -917533435514702356
+      axe_warrior_combat_32x32_62: 2395008916588102588
+      axe_warrior_combat_32x32_63: 9124712081705621394
+      axe_warrior_combat_32x32_64: 1985240968807493818
+      axe_warrior_combat_32x32_65: -9013141694389112705
+      axe_warrior_combat_32x32_66: -7947203110560984792
+      axe_warrior_combat_32x32_67: 6644935494866637599
+      axe_warrior_combat_32x32_68: 7315282607481543940
+      axe_warrior_combat_32x32_69: -5355358974876886768
+      axe_warrior_combat_32x32_7: 8038460588681303406
+      axe_warrior_combat_32x32_70: -2267466890045238616
+      axe_warrior_combat_32x32_71: 1315720491312960722
+      axe_warrior_combat_32x32_72: 3621515664663702726
+      axe_warrior_combat_32x32_73: 4292835920921719366
+      axe_warrior_combat_32x32_74: 1543562851926490330
+      axe_warrior_combat_32x32_75: -8769253738053069515
+      axe_warrior_combat_32x32_76: -4633211859444017857
+      axe_warrior_combat_32x32_77: 7770495671581452210
+      axe_warrior_combat_32x32_78: 943285308866625002
+      axe_warrior_combat_32x32_79: 2369618780750012141
+      axe_warrior_combat_32x32_8: -84741368027591171
+      axe_warrior_combat_32x32_80: -4657784354578296324
+      axe_warrior_combat_32x32_81: 5874584960571454713
+      axe_warrior_combat_32x32_82: 4037816912520216537
+      axe_warrior_combat_32x32_9: 1664294382657079559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

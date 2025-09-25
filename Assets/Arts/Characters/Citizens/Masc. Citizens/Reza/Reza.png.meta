@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: 52b09f8e007178945a17bbc614acb2e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1304883496195768143
+    second: Reza_0
+  - first:
+      213: 4894165978767359890
+    second: Reza_1
+  - first:
+      213: 4614099500912827609
+    second: Reza_2
+  - first:
+      213: 1908209575575551108
+    second: Reza_3
+  - first:
+      213: 1894894815585679880
+    second: Reza_4
+  - first:
+      213: 6563684228323307076
+    second: Reza_5
+  - first:
+      213: -9095071519885357639
+    second: Reza_6
+  - first:
+      213: 5919426334459836321
+    second: Reza_7
+  - first:
+      213: -1058588387881934442
+    second: Reza_8
+  - first:
+      213: 8147617336666412484
+    second: Reza_9
+  - first:
+      213: -8340528849746484911
+    second: Reza_10
+  - first:
+      213: -5131429002206007030
+    second: Reza_11
+  - first:
+      213: 6846936783392192600
+    second: Reza_12
+  - first:
+      213: -7762109573052124933
+    second: Reza_13
+  - first:
+      213: 2665986288886194134
+    second: Reza_14
+  - first:
+      213: 595586462998279200
+    second: Reza_15
+  - first:
+      213: 8960076027587784783
+    second: Reza_16
+  - first:
+      213: -8923488651868929822
+    second: Reza_17
+  - first:
+      213: 5646504113977635205
+    second: Reza_18
+  - first:
+      213: 3401374408462081395
+    second: Reza_19
+  - first:
+      213: -7446267549619455581
+    second: Reza_20
+  - first:
+      213: 5400136682340012062
+    second: Reza_21
+  - first:
+      213: -8028284011596899991
+    second: Reza_22
+  - first:
+      213: -719561517618949780
+    second: Reza_23
+  - first:
+      213: 2532747332494752838
+    second: Reza_24
+  - first:
+      213: 4910679552153622774
+    second: Reza_25
+  - first:
+      213: -8800442566526847458
+    second: Reza_26
+  - first:
+      213: 2297189838468722906
+    second: Reza_27
+  - first:
+      213: -6860545913881429312
+    second: Reza_28
+  - first:
+      213: 9005911448282705145
+    second: Reza_29
+  - first:
+      213: 6141481547920689409
+    second: Reza_30
+  - first:
+      213: 6368095088760240826
+    second: Reza_31
+  - first:
+      213: 2773761517392402254
+    second: Reza_32
+  - first:
+      213: -4272717827705051049
+    second: Reza_33
+  - first:
+      213: 6887433394287205360
+    second: Reza_34
+  - first:
+      213: 5426144322622611975
+    second: Reza_35
+  - first:
+      213: 3143825322172629678
+    second: Reza_36
+  - first:
+      213: 8571418456284468661
+    second: Reza_37
+  - first:
+      213: -5905551304898107289
+    second: Reza_38
+  - first:
+      213: -8179531454537463223
+    second: Reza_39
+  - first:
+      213: 8702384727583179552
+    second: Reza_40
+  - first:
+      213: -2606542935414423629
+    second: Reza_41
+  - first:
+      213: -7581069693413079471
+    second: Reza_42
+  - first:
+      213: -6062061918128331755
+    second: Reza_43
+  - first:
+      213: -7809517081246410630
+    second: Reza_44
+  - first:
+      213: -5932425264682320894
+    second: Reza_45
+  - first:
+      213: -8258681267877774532
+    second: Reza_46
+  - first:
+      213: 660477092626951711
+    second: Reza_47
+  - first:
+      213: 1521041034440535104
+    second: Reza_48
+  - first:
+      213: 3712378391133192099
+    second: Reza_49
+  - first:
+      213: 8390143521270053195
+    second: Reza_50
+  - first:
+      213: 7824050133724455601
+    second: Reza_51
+  - first:
+      213: 1897551002809617452
+    second: Reza_52
+  - first:
+      213: -402199953806940193
+    second: Reza_53
+  - first:
+      213: -3310170947014162819
+    second: Reza_54
+  - first:
+      213: 9187932559336441677
+    second: Reza_55
+  - first:
+      213: 8255767580749878782
+    second: Reza_56
+  - first:
+      213: 3723946557931990161
+    second: Reza_57
+  - first:
+      213: 4092822529568276976
+    second: Reza_58
+  - first:
+      213: 6845666067496219842
+    second: Reza_59
+  - first:
+      213: -5210670178933690153
+    second: Reza_60
+  - first:
+      213: 2311378993075998072
+    second: Reza_61
+  - first:
+      213: 3692814614265436314
+    second: Reza_62
+  - first:
+      213: -8898734213445363071
+    second: Reza_63
+  - first:
+      213: 4841597895347526576
+    second: Reza_64
+  - first:
+      213: 8403799431540301601
+    second: Reza_65
+  - first:
+      213: 4654522334996551055
+    second: Reza_66
+  - first:
+      213: 4037147701022493541
+    second: Reza_67
+  - first:
+      213: -8560274913831339234
+    second: Reza_68
+  - first:
+      213: -4846025052650696002
+    second: Reza_69
+  - first:
+      213: -6997816001002891198
+    second: Reza_70
+  - first:
+      213: 6281088989878678140
+    second: Reza_71
+  - first:
+      213: 5731534524256953388
+    second: Reza_72
+  - first:
+      213: 2410682169966252414
+    second: Reza_73
+  - first:
+      213: 3071081514311415654
+    second: Reza_74
+  - first:
+      213: 6026151530271643565
+    second: Reza_75
+  - first:
+      213: -5743055806276447271
+    second: Reza_76
+  - first:
+      213: 4521721600078175863
+    second: Reza_77
+  - first:
+      213: 4949053106486959131
+    second: Reza_78
+  - first:
+      213: -8223893586110236791
+    second: Reza_79
+  - first:
+      213: 7741190457983658614
+    second: Reza_80
+  - first:
+      213: -2703720300627050244
+    second: Reza_81
+  - first:
+      213: 8869498360789942549
+    second: Reza_82
+  - first:
+      213: -1144481583491999194
+    second: Reza_83
+  - first:
+      213: 3986600982749378354
+    second: Reza_84
+  - first:
+      213: 5505045248309969221
+    second: Reza_85
+  - first:
+      213: 4217241686535418728
+    second: Reza_86
+  - first:
+      213: 3287541559338543500
+    second: Reza_87
+  - first:
+      213: -949878455301649860
+    second: Reza_88
+  - first:
+      213: 4085942937598668722
+    second: Reza_89
+  - first:
+      213: 6103522783917355842
+    second: Reza_90
+  - first:
+      213: -4563947910728700120
+    second: Reza_91
+  - first:
+      213: 6780070018938079408
+    second: Reza_92
+  - first:
+      213: -4920157429854543098
+    second: Reza_93
+  - first:
+      213: 5668928197790038722
+    second: Reza_94
+  - first:
+      213: 7857443320845076936
+    second: Reza_95
+  - first:
+      213: 5739291173614952642
+    second: Reza_96
+  - first:
+      213: 5972301696831848738
+    second: Reza_97
+  - first:
+      213: -20571125341463164
+    second: Reza_98
+  - first:
+      213: -4066183190271624049
+    second: Reza_99
+  - first:
+      213: 948388666079072975
+    second: Reza_100
+  - first:
+      213: -2400713778829783221
+    second: Reza_101
+  - first:
+      213: -2949934437374747199
+    second: Reza_102
+  - first:
+      213: -2841825260410657720
+    second: Reza_103
+  - first:
+      213: -7629848643272294996
+    second: Reza_104
+  - first:
+      213: -6550903845493819382
+    second: Reza_105
+  - first:
+      213: -8268215190290149274
+    second: Reza_106
+  - first:
+      213: 5598940187925305821
+    second: Reza_107
+  - first:
+      213: -1527392376062747614
+    second: Reza_108
+  - first:
+      213: -9103867828549773077
+    second: Reza_109
+  - first:
+      213: -1664983338932044216
+    second: Reza_110
+  - first:
+      213: -6576621519056799246
+    second: Reza_111
+  - first:
+      213: -6099785400491293205
+    second: Reza_112
+  - first:
+      213: 8481071073738050517
+    second: Reza_113
+  - first:
+      213: 5456730309514670567
+    second: Reza_114
+  - first:
+      213: -4929728583454335918
+    second: Reza_115
+  - first:
+      213: 3819347339332614255
+    second: Reza_116
+  - first:
+      213: -4953247846009110797
+    second: Reza_117
+  - first:
+      213: -6330930802002984567
+    second: Reza_118
+  - first:
+      213: -4847983355903732817
+    second: Reza_119
+  - first:
+      213: -25650827189025865
+    second: Reza_120
+  - first:
+      213: -5983274924914933497
+    second: Reza_121
+  - first:
+      213: 5728711725838025901
+    second: Reza_122
+  - first:
+      213: 2622862106665100270
+    second: Reza_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reza_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 479
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04bffaf5f14ede0800000000000000
+      internalID: -1304883496195768143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 479
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ffa3cf6029be340800000000000000
+      internalID: 4894165978767359890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 479
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc573eac03980040800000000000000
+      internalID: 4614099500912827609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 463
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cfd25bf725b7a10800000000000000
+      internalID: 1908209575575551108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 479
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ab6b19bc40c4a10800000000000000
+      internalID: 1894894815585679880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 463
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e6b0f9704e61b50800000000000000
+      internalID: 6563684228323307076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 463
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd0672f3a0d7c180800000000000000
+      internalID: -9095071519885357639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 463
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7329383e6062250800000000000000
+      internalID: 5919426334459836321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691a1f848732f41f0800000000000000
+      internalID: -1058588387881934442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d0ddbcc6221170800000000000000
+      internalID: 8147617336666412484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a6ff733d704c80800000000000000
+      internalID: -8340528849746484911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01bf5d828089c8b0800000000000000
+      internalID: -5131429002206007030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858b5a55ab4350f50800000000000000
+      internalID: 6846936783392192600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0b19ef772774490800000000000000
+      internalID: -7762109573052124933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df9f1d976c7ff420800000000000000
+      internalID: 2665986288886194134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0243b088bb2f34800800000000000000
+      internalID: 595586462998279200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 415
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40fcd0bca5985c70800000000000000
+      internalID: 8960076027587784783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e08f1c8956692480800000000000000
+      internalID: -8923488651868929822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 399
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5813b6043996c5e40800000000000000
+      internalID: 5646504113977635205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 415
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d9c74d00c143f20800000000000000
+      internalID: 3401374408462081395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9f96a9d1b89a890800000000000000
+      internalID: -7446267549619455581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 399
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10de6193b321fa40800000000000000
+      internalID: 5400136682340012062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 399
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96991d42a3ec59090800000000000000
+      internalID: -8028284011596899991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 384
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c611844bc9a9306f0800000000000000
+      internalID: -719561517618949780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 384
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cfa23a740262320800000000000000
+      internalID: 2532747332494752838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 399
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f814e7e80d362440800000000000000
+      internalID: 4910679552153622774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b0fbcc1c8ed580800000000000000
+      internalID: -8800442566526847458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b09facf141ef10800000000000000
+      internalID: 2297189838468722906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caf6dd07d17ac0a0800000000000000
+      internalID: -6860545913881429312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fca3813fbc6bfc70800000000000000
+      internalID: 9005911448282705145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109cd6acdecea3550800000000000000
+      internalID: 6141481547920689409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 367
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abab67d5eb4006850800000000000000
+      internalID: 6368095088760240826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 352
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4792df67616e7620800000000000000
+      internalID: 2773761517392402254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 367
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758692606c144b4c0800000000000000
+      internalID: -4272717827705051049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 351
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbd6a05e24159f50800000000000000
+      internalID: 6887433394287205360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 352
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7026ce133898d4b40800000000000000
+      internalID: 5426144322622611975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea24afb497c11ab20800000000000000
+      internalID: 3143825322172629678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 336
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b510143cabc3f670800000000000000
+      internalID: 8571418456284468661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76824bc80644b0ea0800000000000000
+      internalID: -5905551304898107289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 335
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a0927aa777c7e80800000000000000
+      internalID: -8179531454537463223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02341627dc415c870800000000000000
+      internalID: 8702384727583179552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 321
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfb1d2a203b3dbd0800000000000000
+      internalID: -2606542935414423629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 319
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15642a2b741aac690800000000000000
+      internalID: -7581069693413079471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514a98bbdca3fdba0800000000000000
+      internalID: -6062061918128331755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 305
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7856f857950f9390800000000000000
+      internalID: -7809517081246410630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 319
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cbe0237aacbada0800000000000000
+      internalID: -5932425264682320894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bf8faa425436d80800000000000000
+      internalID: -8258681267877774532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eef489a6c7a2900800000000000000
+      internalID: 660477092626951711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cee9213c2db1510800000000000000
+      internalID: 1521041034440535104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af745b4a74058330800000000000000
+      internalID: 3712378391133192099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49b8d76417cf6470800000000000000
+      internalID: 8390143521270053195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b26e7d942c949c60800000000000000
+      internalID: 7824050133724455601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c47a95594755a10800000000000000
+      internalID: 1897551002809617452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a8a0e5491b6af0800000000000000
+      internalID: -402199953806940193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76076dcf09ef02d0800000000000000
+      internalID: -3310170947014162819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d478e73abf7128f70800000000000000
+      internalID: 9187932559336441677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef558ceafd0629270800000000000000
+      internalID: 8255767580749878782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c23140aad1ea330800000000000000
+      internalID: 3723946557931990161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f102abe760acc830800000000000000
+      internalID: 4092822529568276976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4be0cb401b00f50800000000000000
+      internalID: 6845666067496219842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0bfee541bffa7b0800000000000000
+      internalID: -5210670178933690153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d489fa2faa31020800000000000000
+      internalID: 2311378993075998072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9899a883538f3330800000000000000
+      internalID: 3692814614265436314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a59f06168518480800000000000000
+      internalID: -8898734213445363071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd77942afc03340800000000000000
+      internalID: 4841597895347526576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fd698ce0b40a470800000000000000
+      internalID: 8403799431540301601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 223
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f855798276f289040800000000000000
+      internalID: 4654522334996551055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b0b31c174d60830800000000000000
+      internalID: 4037147701022493541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b3565f15bc33980800000000000000
+      internalID: -8560274913831339234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb29c14d3e57fbcb0800000000000000
+      internalID: -4846025052650696002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2489da05c63c2ee90800000000000000
+      internalID: -6997816001002891198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f55c5829ea2750800000000000000
+      internalID: 6281088989878678140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24293868408a8f40800000000000000
+      internalID: 5731534524256953388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71d43749a6747120800000000000000
+      internalID: 2410682169966252414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667fcc0bd5cae9a20800000000000000
+      internalID: 3071081514311415654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7948c83e031a350800000000000000
+      internalID: 6026151530271643565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3d5a51c219c40b0800000000000000
+      internalID: -5743055806276447271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eded196d160ce30800000000000000
+      internalID: 4521721600078175863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 176
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cd2b244919ea440800000000000000
+      internalID: 4949053106486959131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 176
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98739410b5cdedd80800000000000000
+      internalID: -8223893586110236791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a62caf4bb3e6b60800000000000000
+      internalID: 7741190457983658614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0cc1526b47a7ad0800000000000000
+      internalID: -2703720300627050244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5114bca34c9c61b70800000000000000
+      internalID: 8869498360789942549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_83
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a9bf3401cfd10f0800000000000000
+      internalID: -1144481583491999194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237fffdc870435730800000000000000
+      internalID: 3986600982749378354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541c7f18c79d56c40800000000000000
+      internalID: 5505045248309969221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863b9e158f6a68a30800000000000000
+      internalID: 4217241686535418728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_87
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8925bc41a1bf9d20800000000000000
+      internalID: 3287541559338543500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ac2fbd39a51d2f0800000000000000
+      internalID: -949878455301649860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfa518147f24b830800000000000000
+      internalID: 4085942937598668722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243b5e552a114b450800000000000000
+      internalID: 6103522783917355842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f21a75e8999a0c0800000000000000
+      internalID: -4563947910728700120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 113
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8841782c5a71e50800000000000000
+      internalID: 6780070018938079408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603658ab2e618bbb0800000000000000
+      internalID: -4920157429854543098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_94
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca787e19241cae40800000000000000
+      internalID: 5668928197790038722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c98cbdd11f3b0d60800000000000000
+      internalID: 7857443320845076936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0aad11aee06af40800000000000000
+      internalID: 5739291173614952642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221002b20c0e1e250800000000000000
+      internalID: 5972301696831848738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d5465abaae6bff0800000000000000
+      internalID: -20571125341463164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf1389ee30297c0800000000000000
+      internalID: -4066183190271624049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc256ae877a592d00800000000000000
+      internalID: 948388666079072975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f0775a983feaed0800000000000000
+      internalID: -2400713778829783221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_102
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd1695324abf07d0800000000000000
+      internalID: -2949934437374747199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844ad777bfecf88d0800000000000000
+      internalID: -2841825260410657720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad32c765155d1690800000000000000
+      internalID: -7629848643272294996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b99329a38615a0800000000000000
+      internalID: -6550903845493819382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_106
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66054406716614d80800000000000000
+      internalID: -8268215190290149274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd952fbbf6e63bd40800000000000000
+      internalID: 5598940187925305821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd328f9bc9dcae0800000000000000
+      internalID: -1527392376062747614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be81f2db17098a180800000000000000
+      internalID: -9103867828549773077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 52
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ef206897ac4e8e0800000000000000
+      internalID: -1664983338932044216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9fd66a2952bb4a0800000000000000
+      internalID: -6576621519056799246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be54a9d0f75395ba0800000000000000
+      internalID: -6099785400491293205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db4ff8f431d2b570800000000000000
+      internalID: 8481071073738050517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1bab53e433abb40800000000000000
+      internalID: 5456730309514670567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c5d10e8f5169bb0800000000000000
+      internalID: -4929728583454335918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68f0ca5b2c010530800000000000000
+      internalID: 3819347339332614255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_117
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe7826d357824bb0800000000000000
+      internalID: -4953247846009110797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_118
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98188017af30428a0800000000000000
+      internalID: -6330930802002984567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_119
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa31a52d2d088bcb0800000000000000
+      internalID: -4847983355903732817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3043565bed4aff0800000000000000
+      internalID: -25650827189025865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70181f2182327fca0800000000000000
+      internalID: -5983274924914933497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_122
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4c03f66f8708f40800000000000000
+      internalID: 5728711725838025901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reza_123
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32b928037466420800000000000000
+      internalID: 2622862106665100270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Reza_0: -1304883496195768143
+      Reza_1: 4894165978767359890
+      Reza_10: -8340528849746484911
+      Reza_100: 948388666079072975
+      Reza_101: -2400713778829783221
+      Reza_102: -2949934437374747199
+      Reza_103: -2841825260410657720
+      Reza_104: -7629848643272294996
+      Reza_105: -6550903845493819382
+      Reza_106: -8268215190290149274
+      Reza_107: 5598940187925305821
+      Reza_108: -1527392376062747614
+      Reza_109: -9103867828549773077
+      Reza_11: -5131429002206007030
+      Reza_110: -1664983338932044216
+      Reza_111: -6576621519056799246
+      Reza_112: -6099785400491293205
+      Reza_113: 8481071073738050517
+      Reza_114: 5456730309514670567
+      Reza_115: -4929728583454335918
+      Reza_116: 3819347339332614255
+      Reza_117: -4953247846009110797
+      Reza_118: -6330930802002984567
+      Reza_119: -4847983355903732817
+      Reza_12: 6846936783392192600
+      Reza_120: -25650827189025865
+      Reza_121: -5983274924914933497
+      Reza_122: 5728711725838025901
+      Reza_123: 2622862106665100270
+      Reza_13: -7762109573052124933
+      Reza_14: 2665986288886194134
+      Reza_15: 595586462998279200
+      Reza_16: 8960076027587784783
+      Reza_17: -8923488651868929822
+      Reza_18: 5646504113977635205
+      Reza_19: 3401374408462081395
+      Reza_2: 4614099500912827609
+      Reza_20: -7446267549619455581
+      Reza_21: 5400136682340012062
+      Reza_22: -8028284011596899991
+      Reza_23: -719561517618949780
+      Reza_24: 2532747332494752838
+      Reza_25: 4910679552153622774
+      Reza_26: -8800442566526847458
+      Reza_27: 2297189838468722906
+      Reza_28: -6860545913881429312
+      Reza_29: 9005911448282705145
+      Reza_3: 1908209575575551108
+      Reza_30: 6141481547920689409
+      Reza_31: 6368095088760240826
+      Reza_32: 2773761517392402254
+      Reza_33: -4272717827705051049
+      Reza_34: 6887433394287205360
+      Reza_35: 5426144322622611975
+      Reza_36: 3143825322172629678
+      Reza_37: 8571418456284468661
+      Reza_38: -5905551304898107289
+      Reza_39: -8179531454537463223
+      Reza_4: 1894894815585679880
+      Reza_40: 8702384727583179552
+      Reza_41: -2606542935414423629
+      Reza_42: -7581069693413079471
+      Reza_43: -6062061918128331755
+      Reza_44: -7809517081246410630
+      Reza_45: -5932425264682320894
+      Reza_46: -8258681267877774532
+      Reza_47: 660477092626951711
+      Reza_48: 1521041034440535104
+      Reza_49: 3712378391133192099
+      Reza_5: 6563684228323307076
+      Reza_50: 8390143521270053195
+      Reza_51: 7824050133724455601
+      Reza_52: 1897551002809617452
+      Reza_53: -402199953806940193
+      Reza_54: -3310170947014162819
+      Reza_55: 9187932559336441677
+      Reza_56: 8255767580749878782
+      Reza_57: 3723946557931990161
+      Reza_58: 4092822529568276976
+      Reza_59: 6845666067496219842
+      Reza_6: -9095071519885357639
+      Reza_60: -5210670178933690153
+      Reza_61: 2311378993075998072
+      Reza_62: 3692814614265436314
+      Reza_63: -8898734213445363071
+      Reza_64: 4841597895347526576
+      Reza_65: 8403799431540301601
+      Reza_66: 4654522334996551055
+      Reza_67: 4037147701022493541
+      Reza_68: -8560274913831339234
+      Reza_69: -4846025052650696002
+      Reza_7: 5919426334459836321
+      Reza_70: -6997816001002891198
+      Reza_71: 6281088989878678140
+      Reza_72: 5731534524256953388
+      Reza_73: 2410682169966252414
+      Reza_74: 3071081514311415654
+      Reza_75: 6026151530271643565
+      Reza_76: -5743055806276447271
+      Reza_77: 4521721600078175863
+      Reza_78: 4949053106486959131
+      Reza_79: -8223893586110236791
+      Reza_8: -1058588387881934442
+      Reza_80: 7741190457983658614
+      Reza_81: -2703720300627050244
+      Reza_82: 8869498360789942549
+      Reza_83: -1144481583491999194
+      Reza_84: 3986600982749378354
+      Reza_85: 5505045248309969221
+      Reza_86: 4217241686535418728
+      Reza_87: 3287541559338543500
+      Reza_88: -949878455301649860
+      Reza_89: 4085942937598668722
+      Reza_9: 8147617336666412484
+      Reza_90: 6103522783917355842
+      Reza_91: -4563947910728700120
+      Reza_92: 6780070018938079408
+      Reza_93: -4920157429854543098
+      Reza_94: 5668928197790038722
+      Reza_95: 7857443320845076936
+      Reza_96: 5739291173614952642
+      Reza_97: 5972301696831848738
+      Reza_98: -20571125341463164
+      Reza_99: -4066183190271624049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

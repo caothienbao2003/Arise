@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: 9c9d4fa391182d44e84bb3e160c5bf42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3952829241739430655
+    second: skullcap_warrior_combat_32x32_0
+  - first:
+      213: 7805288305805596854
+    second: skullcap_warrior_combat_32x32_1
+  - first:
+      213: -3655873084716314728
+    second: skullcap_warrior_combat_32x32_2
+  - first:
+      213: -6749364851794619352
+    second: skullcap_warrior_combat_32x32_3
+  - first:
+      213: 7021081336303041844
+    second: skullcap_warrior_combat_32x32_4
+  - first:
+      213: 7964389266015907282
+    second: skullcap_warrior_combat_32x32_5
+  - first:
+      213: 7384143816023184163
+    second: skullcap_warrior_combat_32x32_6
+  - first:
+      213: -8591414367369551078
+    second: skullcap_warrior_combat_32x32_7
+  - first:
+      213: 6526266384970899693
+    second: skullcap_warrior_combat_32x32_8
+  - first:
+      213: 6148153482762711327
+    second: skullcap_warrior_combat_32x32_9
+  - first:
+      213: 1855744446528156739
+    second: skullcap_warrior_combat_32x32_10
+  - first:
+      213: -4443737069153594170
+    second: skullcap_warrior_combat_32x32_11
+  - first:
+      213: -4381323218098080911
+    second: skullcap_warrior_combat_32x32_12
+  - first:
+      213: -7131764022563556374
+    second: skullcap_warrior_combat_32x32_13
+  - first:
+      213: 8599117634747597270
+    second: skullcap_warrior_combat_32x32_14
+  - first:
+      213: -7633873675772855906
+    second: skullcap_warrior_combat_32x32_15
+  - first:
+      213: 5513067621190523666
+    second: skullcap_warrior_combat_32x32_16
+  - first:
+      213: 5057907021598916552
+    second: skullcap_warrior_combat_32x32_17
+  - first:
+      213: -7193454338184662126
+    second: skullcap_warrior_combat_32x32_18
+  - first:
+      213: -7420523600498528850
+    second: skullcap_warrior_combat_32x32_19
+  - first:
+      213: -8460017144889767660
+    second: skullcap_warrior_combat_32x32_20
+  - first:
+      213: -4617184230326348112
+    second: skullcap_warrior_combat_32x32_21
+  - first:
+      213: -3779266550191760666
+    second: skullcap_warrior_combat_32x32_22
+  - first:
+      213: -5005247654245263208
+    second: skullcap_warrior_combat_32x32_23
+  - first:
+      213: 8277971430087328625
+    second: skullcap_warrior_combat_32x32_24
+  - first:
+      213: 1630370468988332010
+    second: skullcap_warrior_combat_32x32_25
+  - first:
+      213: 1237364556650940681
+    second: skullcap_warrior_combat_32x32_26
+  - first:
+      213: 5578152759504130838
+    second: skullcap_warrior_combat_32x32_27
+  - first:
+      213: -432522122973408767
+    second: skullcap_warrior_combat_32x32_28
+  - first:
+      213: 4516735229556802051
+    second: skullcap_warrior_combat_32x32_29
+  - first:
+      213: 3690219729424741204
+    second: skullcap_warrior_combat_32x32_30
+  - first:
+      213: 387649695521632206
+    second: skullcap_warrior_combat_32x32_31
+  - first:
+      213: -4901352558312890590
+    second: skullcap_warrior_combat_32x32_32
+  - first:
+      213: -4417471171444722550
+    second: skullcap_warrior_combat_32x32_33
+  - first:
+      213: 4803405912309523165
+    second: skullcap_warrior_combat_32x32_34
+  - first:
+      213: 1571809832256800599
+    second: skullcap_warrior_combat_32x32_35
+  - first:
+      213: -224494863142732017
+    second: skullcap_warrior_combat_32x32_36
+  - first:
+      213: -7280486768718638286
+    second: skullcap_warrior_combat_32x32_37
+  - first:
+      213: 3062146417985087408
+    second: skullcap_warrior_combat_32x32_38
+  - first:
+      213: 6507981923681315835
+    second: skullcap_warrior_combat_32x32_39
+  - first:
+      213: -8959576420868861015
+    second: skullcap_warrior_combat_32x32_40
+  - first:
+      213: 7441804845812588889
+    second: skullcap_warrior_combat_32x32_41
+  - first:
+      213: 2085761483255609209
+    second: skullcap_warrior_combat_32x32_42
+  - first:
+      213: -2385463117082334864
+    second: skullcap_warrior_combat_32x32_43
+  - first:
+      213: -6139288053903563091
+    second: skullcap_warrior_combat_32x32_44
+  - first:
+      213: 7526775950536858321
+    second: skullcap_warrior_combat_32x32_45
+  - first:
+      213: -5218046733781401833
+    second: skullcap_warrior_combat_32x32_46
+  - first:
+      213: -4846575958031994177
+    second: skullcap_warrior_combat_32x32_47
+  - first:
+      213: 1994780213127756551
+    second: skullcap_warrior_combat_32x32_48
+  - first:
+      213: 1538148848735991612
+    second: skullcap_warrior_combat_32x32_49
+  - first:
+      213: -3440226389711260948
+    second: skullcap_warrior_combat_32x32_50
+  - first:
+      213: -8892583057786665386
+    second: skullcap_warrior_combat_32x32_51
+  - first:
+      213: 4781743892368597381
+    second: skullcap_warrior_combat_32x32_52
+  - first:
+      213: 2851717194913825853
+    second: skullcap_warrior_combat_32x32_53
+  - first:
+      213: 2681782607677585195
+    second: skullcap_warrior_combat_32x32_54
+  - first:
+      213: 8339759895232786803
+    second: skullcap_warrior_combat_32x32_55
+  - first:
+      213: 1269335488763896192
+    second: skullcap_warrior_combat_32x32_56
+  - first:
+      213: -1237256516008420039
+    second: skullcap_warrior_combat_32x32_57
+  - first:
+      213: 8089686543902668215
+    second: skullcap_warrior_combat_32x32_58
+  - first:
+      213: 3478840973012889356
+    second: skullcap_warrior_combat_32x32_59
+  - first:
+      213: 8926777240755388426
+    second: skullcap_warrior_combat_32x32_60
+  - first:
+      213: 8091300275971382182
+    second: skullcap_warrior_combat_32x32_61
+  - first:
+      213: 2239667895575874448
+    second: skullcap_warrior_combat_32x32_62
+  - first:
+      213: -2467764780492080950
+    second: skullcap_warrior_combat_32x32_63
+  - first:
+      213: -5338505670336412186
+    second: skullcap_warrior_combat_32x32_64
+  - first:
+      213: 2867523167485010544
+    second: skullcap_warrior_combat_32x32_65
+  - first:
+      213: -212635612998456014
+    second: skullcap_warrior_combat_32x32_66
+  - first:
+      213: 363408883094517149
+    second: skullcap_warrior_combat_32x32_67
+  - first:
+      213: 8704884204118324667
+    second: skullcap_warrior_combat_32x32_68
+  - first:
+      213: -6388814410657044803
+    second: skullcap_warrior_combat_32x32_69
+  - first:
+      213: 8035501756352034343
+    second: skullcap_warrior_combat_32x32_70
+  - first:
+      213: 6232539969200738932
+    second: skullcap_warrior_combat_32x32_71
+  - first:
+      213: -1648565316255540414
+    second: skullcap_warrior_combat_32x32_72
+  - first:
+      213: 192327458763887616
+    second: skullcap_warrior_combat_32x32_73
+  - first:
+      213: 5099089246883630931
+    second: skullcap_warrior_combat_32x32_74
+  - first:
+      213: 2236409193651216711
+    second: skullcap_warrior_combat_32x32_75
+  - first:
+      213: 3555055309018263148
+    second: skullcap_warrior_combat_32x32_76
+  - first:
+      213: -7518373099216491053
+    second: skullcap_warrior_combat_32x32_77
+  - first:
+      213: -3259246641109804647
+    second: skullcap_warrior_combat_32x32_78
+  - first:
+      213: 8680465830876187341
+    second: skullcap_warrior_combat_32x32_79
+  - first:
+      213: 5961948838716386917
+    second: skullcap_warrior_combat_32x32_80
+  - first:
+      213: 6508146554943380511
+    second: skullcap_warrior_combat_32x32_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 615
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac7ab90454bd630800000000000000
+      internalID: 3952829241739430655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 615
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89d052c54f15c60800000000000000
+      internalID: 7805288305805596854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f82919ccab34dc0800000000000000
+      internalID: -3655873084716314728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 615
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824564d4d607552a0800000000000000
+      internalID: -6749364851794619352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 583
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43db77da644ef6160800000000000000
+      internalID: 7021081336303041844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 583
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddefcd17d1378e60800000000000000
+      internalID: 7964389266015907282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 581
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32395748dafb97660800000000000000
+      internalID: 7384143816023184163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 581
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1320c2f62a25c880800000000000000
+      internalID: -8591414367369551078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 581
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de063c113b4f19a50800000000000000
+      internalID: 6526266384970899693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 551
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11f6aca401a25550800000000000000
+      internalID: 6148153482762711327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 551
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344f631fdbde0c910800000000000000
+      internalID: 1855744446528156739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 551
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c45dd5fdaca452c0800000000000000
+      internalID: -4443737069153594170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 551
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173b7131fb96233c0800000000000000
+      internalID: -4381323218098080911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 519
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3303d3862e60d90800000000000000
+      internalID: -7131764022563556374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 519
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d18de0cde3365770800000000000000
+      internalID: 8599117634747597270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 517
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e997a5f76580f0690800000000000000
+      internalID: -7633873675772855906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 517
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bd4cfbac9528c40800000000000000
+      internalID: 5513067621190523666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 517
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf7b5163ab413640800000000000000
+      internalID: 5057907021598916552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 488
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b2885467bb2c90800000000000000
+      internalID: -7193454338184662126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 488
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eade1e8d911050990800000000000000
+      internalID: -7420523600498528850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 481
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4198125da3bf79a80800000000000000
+      internalID: -8460017144889767660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 480
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6dcd8c7677cefb0800000000000000
+      internalID: -4617184230326348112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 455
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eadd4498195d8bc0800000000000000
+      internalID: -3779266550191760666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 456
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8989ad307c9c98ab0800000000000000
+      internalID: -5005247654245263208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 449
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730037382341e270800000000000000
+      internalID: 8277971430087328625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae72650bd4d30a610800000000000000
+      internalID: 1630370468988332010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90986d822800c2110800000000000000
+      internalID: 1237364556650940681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613db156164996d40800000000000000
+      internalID: 5578152759504130838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 424
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1021ca6bb6f5ff9f0800000000000000
+      internalID: -432522122973408767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 424
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c936b2caaeae30800000000000000
+      internalID: 4516735229556802051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 392
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ff73da4b463330800000000000000
+      internalID: 3690219729424741204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 392
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfeade1855316500800000000000000
+      internalID: 387649695521632206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 391
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fdec211d5eafbb0800000000000000
+      internalID: -4901352558312890590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 391
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a843284df5df1b2c0800000000000000
+      internalID: -4417471171444722550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 359
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2683b4a3029a240800000000000000
+      internalID: 4803405912309523165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7570222f6b030d510800000000000000
+      internalID: 1571809832256800599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f3a748c1f62ecf0800000000000000
+      internalID: -224494863142732017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 359
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23318968bd386fa90800000000000000
+      internalID: -7280486768718638286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b76c3671fdee7a20800000000000000
+      internalID: 3062146417985087408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb20bd241ff05a50800000000000000
+      internalID: 6507981923681315835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3552017b039a380800000000000000
+      internalID: -8959576420868861015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 327
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951a072341a964760800000000000000
+      internalID: 7441804845812588889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97774a7a40d12fc10800000000000000
+      internalID: 2085761483255609209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 295
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e2890fe125eed0800000000000000
+      internalID: -2385463117082334864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 295
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da66745da0edccaa0800000000000000
+      internalID: -6139288053903563091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 295
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dad3b339da747860800000000000000
+      internalID: 7526775950536858321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f729b5426c597b0800000000000000
+      internalID: -5218046733781401833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2fd8c28d08dbcb0800000000000000
+      internalID: -4846575958031994177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 263
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b3578f802eeab10800000000000000
+      internalID: 1994780213127756551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 263
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b59c7a3a985510800000000000000
+      internalID: 1538148848735991612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 231
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2f55e535cd140d0800000000000000
+      internalID: -3440226389711260948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65608f8e2d2379480800000000000000
+      internalID: -8892583057786665386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 231
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581268f3cba2c5240800000000000000
+      internalID: 4781743892368597381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3446b20ea5539720800000000000000
+      internalID: 2851717194913825853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27717fa21b973520800000000000000
+      internalID: 2681782607677585195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37136635077ccb370800000000000000
+      internalID: 8339759895232786803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081a19cd6e59d9110800000000000000
+      internalID: 1269335488763896192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 199
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dd74301c164dee0800000000000000
+      internalID: -1237256516008420039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b57399fc07544070800000000000000
+      internalID: 8089686543902668215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fe18aee63574030800000000000000
+      internalID: 3478840973012889356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a004448ba9842eb70800000000000000
+      internalID: 8926777240755388426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 168
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab5b404bb21a4070800000000000000
+      internalID: 8091300275971382182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b85a2b516e41f10800000000000000
+      internalID: 2239667895575874448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 135
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8bc85c10db0cdd0800000000000000
+      internalID: -2467764780492080950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 135
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e58030a061d9e5b0800000000000000
+      internalID: -5338505670336412186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072a527c02d7bc720800000000000000
+      internalID: 2867523167485010544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d21ac59019c0df0800000000000000
+      internalID: -212635612998456014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95f11924761b0500800000000000000
+      internalID: 363408883094517149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5b16d2016fdc870800000000000000
+      internalID: 8704884204118324667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6e3e4942f5657a0800000000000000
+      internalID: -6388814410657044803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726f3630646d38f60800000000000000
+      internalID: 8035501756352034343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47252a0a41e6e7650800000000000000
+      internalID: 6232539969200738932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b1f8f449e1f19e0800000000000000
+      internalID: -1648565316255540414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004dc240ec84ba200800000000000000
+      internalID: 192327458763887616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f438667aa93c640800000000000000
+      internalID: 5099089246883630931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741aff70052590f10800000000000000
+      internalID: 2236409193651216711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e66e2d7f7165130800000000000000
+      internalID: 3555055309018263148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd2954108f59a790800000000000000
+      internalID: -7518373099216491053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d349b274d4c2d0800000000000000
+      internalID: -3259246641109804647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca8a4e9ea5377870800000000000000
+      internalID: 8680465830876187341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e2ebc81e81db250800000000000000
+      internalID: 5961948838716386917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c15916fc4915a50800000000000000
+      internalID: 6508146554943380511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skullcap_warrior_combat_32x32_0: 3952829241739430655
+      skullcap_warrior_combat_32x32_1: 7805288305805596854
+      skullcap_warrior_combat_32x32_10: 1855744446528156739
+      skullcap_warrior_combat_32x32_11: -4443737069153594170
+      skullcap_warrior_combat_32x32_12: -4381323218098080911
+      skullcap_warrior_combat_32x32_13: -7131764022563556374
+      skullcap_warrior_combat_32x32_14: 8599117634747597270
+      skullcap_warrior_combat_32x32_15: -7633873675772855906
+      skullcap_warrior_combat_32x32_16: 5513067621190523666
+      skullcap_warrior_combat_32x32_17: 5057907021598916552
+      skullcap_warrior_combat_32x32_18: -7193454338184662126
+      skullcap_warrior_combat_32x32_19: -7420523600498528850
+      skullcap_warrior_combat_32x32_2: -3655873084716314728
+      skullcap_warrior_combat_32x32_20: -8460017144889767660
+      skullcap_warrior_combat_32x32_21: -4617184230326348112
+      skullcap_warrior_combat_32x32_22: -3779266550191760666
+      skullcap_warrior_combat_32x32_23: -5005247654245263208
+      skullcap_warrior_combat_32x32_24: 8277971430087328625
+      skullcap_warrior_combat_32x32_25: 1630370468988332010
+      skullcap_warrior_combat_32x32_26: 1237364556650940681
+      skullcap_warrior_combat_32x32_27: 5578152759504130838
+      skullcap_warrior_combat_32x32_28: -432522122973408767
+      skullcap_warrior_combat_32x32_29: 4516735229556802051
+      skullcap_warrior_combat_32x32_3: -6749364851794619352
+      skullcap_warrior_combat_32x32_30: 3690219729424741204
+      skullcap_warrior_combat_32x32_31: 387649695521632206
+      skullcap_warrior_combat_32x32_32: -4901352558312890590
+      skullcap_warrior_combat_32x32_33: -4417471171444722550
+      skullcap_warrior_combat_32x32_34: 4803405912309523165
+      skullcap_warrior_combat_32x32_35: 1571809832256800599
+      skullcap_warrior_combat_32x32_36: -224494863142732017
+      skullcap_warrior_combat_32x32_37: -7280486768718638286
+      skullcap_warrior_combat_32x32_38: 3062146417985087408
+      skullcap_warrior_combat_32x32_39: 6507981923681315835
+      skullcap_warrior_combat_32x32_4: 7021081336303041844
+      skullcap_warrior_combat_32x32_40: -8959576420868861015
+      skullcap_warrior_combat_32x32_41: 7441804845812588889
+      skullcap_warrior_combat_32x32_42: 2085761483255609209
+      skullcap_warrior_combat_32x32_43: -2385463117082334864
+      skullcap_warrior_combat_32x32_44: -6139288053903563091
+      skullcap_warrior_combat_32x32_45: 7526775950536858321
+      skullcap_warrior_combat_32x32_46: -5218046733781401833
+      skullcap_warrior_combat_32x32_47: -4846575958031994177
+      skullcap_warrior_combat_32x32_48: 1994780213127756551
+      skullcap_warrior_combat_32x32_49: 1538148848735991612
+      skullcap_warrior_combat_32x32_5: 7964389266015907282
+      skullcap_warrior_combat_32x32_50: -3440226389711260948
+      skullcap_warrior_combat_32x32_51: -8892583057786665386
+      skullcap_warrior_combat_32x32_52: 4781743892368597381
+      skullcap_warrior_combat_32x32_53: 2851717194913825853
+      skullcap_warrior_combat_32x32_54: 2681782607677585195
+      skullcap_warrior_combat_32x32_55: 8339759895232786803
+      skullcap_warrior_combat_32x32_56: 1269335488763896192
+      skullcap_warrior_combat_32x32_57: -1237256516008420039
+      skullcap_warrior_combat_32x32_58: 8089686543902668215
+      skullcap_warrior_combat_32x32_59: 3478840973012889356
+      skullcap_warrior_combat_32x32_6: 7384143816023184163
+      skullcap_warrior_combat_32x32_60: 8926777240755388426
+      skullcap_warrior_combat_32x32_61: 8091300275971382182
+      skullcap_warrior_combat_32x32_62: 2239667895575874448
+      skullcap_warrior_combat_32x32_63: -2467764780492080950
+      skullcap_warrior_combat_32x32_64: -5338505670336412186
+      skullcap_warrior_combat_32x32_65: 2867523167485010544
+      skullcap_warrior_combat_32x32_66: -212635612998456014
+      skullcap_warrior_combat_32x32_67: 363408883094517149
+      skullcap_warrior_combat_32x32_68: 8704884204118324667
+      skullcap_warrior_combat_32x32_69: -6388814410657044803
+      skullcap_warrior_combat_32x32_7: -8591414367369551078
+      skullcap_warrior_combat_32x32_70: 8035501756352034343
+      skullcap_warrior_combat_32x32_71: 6232539969200738932
+      skullcap_warrior_combat_32x32_72: -1648565316255540414
+      skullcap_warrior_combat_32x32_73: 192327458763887616
+      skullcap_warrior_combat_32x32_74: 5099089246883630931
+      skullcap_warrior_combat_32x32_75: 2236409193651216711
+      skullcap_warrior_combat_32x32_76: 3555055309018263148
+      skullcap_warrior_combat_32x32_77: -7518373099216491053
+      skullcap_warrior_combat_32x32_78: -3259246641109804647
+      skullcap_warrior_combat_32x32_79: 8680465830876187341
+      skullcap_warrior_combat_32x32_8: 6526266384970899693
+      skullcap_warrior_combat_32x32_80: 5961948838716386917
+      skullcap_warrior_combat_32x32_81: 6508146554943380511
+      skullcap_warrior_combat_32x32_9: 6148153482762711327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

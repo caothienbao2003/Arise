@@ -1,0 +1,3338 @@
+fileFormatVersion: 2
+guid: b9c129cfe2fcaab4daab6e4ab5d53300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5140699240682473722
+    second: Mage_Masc_DKGREY-sheet_0
+  - first:
+      213: 5682982142240455708
+    second: Mage_Masc_DKGREY-sheet_1
+  - first:
+      213: -558296400050121850
+    second: Mage_Masc_DKGREY-sheet_2
+  - first:
+      213: -6457084987547610291
+    second: Mage_Masc_DKGREY-sheet_3
+  - first:
+      213: -895039670210281489
+    second: Mage_Masc_DKGREY-sheet_4
+  - first:
+      213: -738457550753453764
+    second: Mage_Masc_DKGREY-sheet_5
+  - first:
+      213: -8943028480988380800
+    second: Mage_Masc_DKGREY-sheet_6
+  - first:
+      213: 5704924363783638566
+    second: Mage_Masc_DKGREY-sheet_7
+  - first:
+      213: -5210087658381710359
+    second: Mage_Masc_DKGREY-sheet_8
+  - first:
+      213: 3001306940565855694
+    second: Mage_Masc_DKGREY-sheet_9
+  - first:
+      213: -3116668152940316276
+    second: Mage_Masc_DKGREY-sheet_10
+  - first:
+      213: -6461341302119276056
+    second: Mage_Masc_DKGREY-sheet_11
+  - first:
+      213: -8178396129462358981
+    second: Mage_Masc_DKGREY-sheet_12
+  - first:
+      213: 2426792163820855251
+    second: Mage_Masc_DKGREY-sheet_13
+  - first:
+      213: -5243178087254812434
+    second: Mage_Masc_DKGREY-sheet_14
+  - first:
+      213: 2325967765293981096
+    second: Mage_Masc_DKGREY-sheet_15
+  - first:
+      213: 5309836262551262934
+    second: Mage_Masc_DKGREY-sheet_16
+  - first:
+      213: -123545998982262126
+    second: Mage_Masc_DKGREY-sheet_17
+  - first:
+      213: -8188561185198579739
+    second: Mage_Masc_DKGREY-sheet_18
+  - first:
+      213: 1718241849237169480
+    second: Mage_Masc_DKGREY-sheet_19
+  - first:
+      213: 2408501369923437073
+    second: Mage_Masc_DKGREY-sheet_20
+  - first:
+      213: -8149735522592059706
+    second: Mage_Masc_DKGREY-sheet_21
+  - first:
+      213: 4215588276508057905
+    second: Mage_Masc_DKGREY-sheet_22
+  - first:
+      213: -5415807244362019816
+    second: Mage_Masc_DKGREY-sheet_23
+  - first:
+      213: -45884570583306339
+    second: Mage_Masc_DKGREY-sheet_24
+  - first:
+      213: -6289493312325935680
+    second: Mage_Masc_DKGREY-sheet_25
+  - first:
+      213: 2844678976075356497
+    second: Mage_Masc_DKGREY-sheet_26
+  - first:
+      213: -1817178065491605324
+    second: Mage_Masc_DKGREY-sheet_27
+  - first:
+      213: 7609371809145300734
+    second: Mage_Masc_DKGREY-sheet_28
+  - first:
+      213: 1575559004666864511
+    second: Mage_Masc_DKGREY-sheet_29
+  - first:
+      213: 2713796283195524725
+    second: Mage_Masc_DKGREY-sheet_30
+  - first:
+      213: 2469436650919446556
+    second: Mage_Masc_DKGREY-sheet_31
+  - first:
+      213: 7831164754286499825
+    second: Mage_Masc_DKGREY-sheet_32
+  - first:
+      213: -7066739642882911471
+    second: Mage_Masc_DKGREY-sheet_33
+  - first:
+      213: -5822781896985666909
+    second: Mage_Masc_DKGREY-sheet_34
+  - first:
+      213: -5786569256740639205
+    second: Mage_Masc_DKGREY-sheet_35
+  - first:
+      213: 22540346183903358
+    second: Mage_Masc_DKGREY-sheet_36
+  - first:
+      213: 8383184620925675412
+    second: Mage_Masc_DKGREY-sheet_37
+  - first:
+      213: -3774789056258111391
+    second: Mage_Masc_DKGREY-sheet_38
+  - first:
+      213: -2377772041338240096
+    second: Mage_Masc_DKGREY-sheet_39
+  - first:
+      213: 5652098992707264152
+    second: Mage_Masc_DKGREY-sheet_40
+  - first:
+      213: -8573012323486489412
+    second: Mage_Masc_DKGREY-sheet_41
+  - first:
+      213: -8165421083496979792
+    second: Mage_Masc_DKGREY-sheet_42
+  - first:
+      213: -5891026168818884134
+    second: Mage_Masc_DKGREY-sheet_43
+  - first:
+      213: 6446319098008688147
+    second: Mage_Masc_DKGREY-sheet_44
+  - first:
+      213: 5729436905941376161
+    second: Mage_Masc_DKGREY-sheet_45
+  - first:
+      213: 6907428659930676500
+    second: Mage_Masc_DKGREY-sheet_46
+  - first:
+      213: 7179112061836698495
+    second: Mage_Masc_DKGREY-sheet_47
+  - first:
+      213: 6098582852143048578
+    second: Mage_Masc_DKGREY-sheet_48
+  - first:
+      213: -1939439772006084957
+    second: Mage_Masc_DKGREY-sheet_49
+  - first:
+      213: -9154680273540630767
+    second: Mage_Masc_DKGREY-sheet_50
+  - first:
+      213: 7474331008420657384
+    second: Mage_Masc_DKGREY-sheet_51
+  - first:
+      213: -4127803254171774454
+    second: Mage_Masc_DKGREY-sheet_52
+  - first:
+      213: -253921381685620806
+    second: Mage_Masc_DKGREY-sheet_53
+  - first:
+      213: -6352091503547041699
+    second: Mage_Masc_DKGREY-sheet_54
+  - first:
+      213: 8781846009334895115
+    second: Mage_Masc_DKGREY-sheet_55
+  - first:
+      213: 4016487574887701243
+    second: Mage_Masc_DKGREY-sheet_56
+  - first:
+      213: 3174086610100676105
+    second: Mage_Masc_DKGREY-sheet_57
+  - first:
+      213: 3893826555134966130
+    second: Mage_Masc_DKGREY-sheet_58
+  - first:
+      213: -3876798801891761029
+    second: Mage_Masc_DKGREY-sheet_59
+  - first:
+      213: 4439200177728323041
+    second: Mage_Masc_DKGREY-sheet_60
+  - first:
+      213: -1865726439026031374
+    second: Mage_Masc_DKGREY-sheet_61
+  - first:
+      213: 8597325027903632578
+    second: Mage_Masc_DKGREY-sheet_62
+  - first:
+      213: 8502595314071011367
+    second: Mage_Masc_DKGREY-sheet_63
+  - first:
+      213: -8360464996825948944
+    second: Mage_Masc_DKGREY-sheet_64
+  - first:
+      213: -8702261630960012269
+    second: Mage_Masc_DKGREY-sheet_65
+  - first:
+      213: 2554715165723507298
+    second: Mage_Masc_DKGREY-sheet_66
+  - first:
+      213: -8140851294803570907
+    second: Mage_Masc_DKGREY-sheet_67
+  - first:
+      213: -3062497327160313087
+    second: Mage_Masc_DKGREY-sheet_68
+  - first:
+      213: 640723318028757131
+    second: Mage_Masc_DKGREY-sheet_69
+  - first:
+      213: -4226588659170354095
+    second: Mage_Masc_DKGREY-sheet_70
+  - first:
+      213: 6737991494956534106
+    second: Mage_Masc_DKGREY-sheet_71
+  - first:
+      213: -8696412919541015702
+    second: Mage_Masc_DKGREY-sheet_72
+  - first:
+      213: -4905032805177207836
+    second: Mage_Masc_DKGREY-sheet_73
+  - first:
+      213: -4737305227698231127
+    second: Mage_Masc_DKGREY-sheet_74
+  - first:
+      213: 8529036378408428666
+    second: Mage_Masc_DKGREY-sheet_75
+  - first:
+      213: -8364311279952957656
+    second: Mage_Masc_DKGREY-sheet_76
+  - first:
+      213: -1997465595913331163
+    second: Mage_Masc_DKGREY-sheet_77
+  - first:
+      213: 4705157558303849826
+    second: Mage_Masc_DKGREY-sheet_78
+  - first:
+      213: 8036846476033978428
+    second: Mage_Masc_DKGREY-sheet_79
+  - first:
+      213: 1432777231876273477
+    second: Mage_Masc_DKGREY-sheet_80
+  - first:
+      213: 5466870605035488947
+    second: Mage_Masc_DKGREY-sheet_81
+  - first:
+      213: -5607835236083868688
+    second: Mage_Masc_DKGREY-sheet_82
+  - first:
+      213: -2575924085864872801
+    second: Mage_Masc_DKGREY-sheet_83
+  - first:
+      213: -3576983347151917844
+    second: Mage_Masc_DKGREY-sheet_84
+  - first:
+      213: -2105095612661837618
+    second: Mage_Masc_DKGREY-sheet_85
+  - first:
+      213: 6576403927515084654
+    second: Mage_Masc_DKGREY-sheet_86
+  - first:
+      213: -6859422642949397093
+    second: Mage_Masc_DKGREY-sheet_87
+  - first:
+      213: -8771301215618696044
+    second: Mage_Masc_DKGREY-sheet_88
+  - first:
+      213: -7709092584241791256
+    second: Mage_Masc_DKGREY-sheet_89
+  - first:
+      213: -8178539911304981668
+    second: Mage_Masc_DKGREY-sheet_90
+  - first:
+      213: -4789976992897479473
+    second: Mage_Masc_DKGREY-sheet_91
+  - first:
+      213: 8708590415128629093
+    second: Mage_Masc_DKGREY-sheet_92
+  - first:
+      213: -512298246505961691
+    second: Mage_Masc_DKGREY-sheet_93
+  - first:
+      213: 8823927021942255718
+    second: Mage_Masc_DKGREY-sheet_94
+  - first:
+      213: 5382742341366416329
+    second: Mage_Masc_DKGREY-sheet_95
+  - first:
+      213: -5241670518935455560
+    second: Mage_Masc_DKGREY-sheet_96
+  - first:
+      213: 9109076939484161303
+    second: Mage_Masc_DKGREY-sheet_97
+  - first:
+      213: -4738792395775159414
+    second: Mage_Masc_DKGREY-sheet_98
+  - first:
+      213: -3098298752061104488
+    second: Mage_Masc_DKGREY-sheet_99
+  - first:
+      213: -4080141517150781838
+    second: Mage_Masc_DKGREY-sheet_100
+  - first:
+      213: -8207146882510830648
+    second: Mage_Masc_DKGREY-sheet_101
+  - first:
+      213: -1881860907147367280
+    second: Mage_Masc_DKGREY-sheet_102
+  - first:
+      213: -1168050820161149668
+    second: Mage_Masc_DKGREY-sheet_103
+  - first:
+      213: 6230612496308225409
+    second: Mage_Masc_DKGREY-sheet_104
+  - first:
+      213: 8977541180874597135
+    second: Mage_Masc_DKGREY-sheet_105
+  - first:
+      213: 1079794585415397828
+    second: Mage_Masc_DKGREY-sheet_106
+  - first:
+      213: -5605179776684913453
+    second: Mage_Masc_DKGREY-sheet_107
+  - first:
+      213: -7179718736056063745
+    second: Mage_Masc_DKGREY-sheet_108
+  - first:
+      213: -4531156923355168572
+    second: Mage_Masc_DKGREY-sheet_109
+  - first:
+      213: 5655758408117210051
+    second: Mage_Masc_DKGREY-sheet_110
+  - first:
+      213: 338901277147674706
+    second: Mage_Masc_DKGREY-sheet_111
+  - first:
+      213: 1729005119379935202
+    second: Mage_Masc_DKGREY-sheet_112
+  - first:
+      213: -5942463804815730370
+    second: Mage_Masc_DKGREY-sheet_113
+  - first:
+      213: 2865874951182454766
+    second: Mage_Masc_DKGREY-sheet_114
+  - first:
+      213: 2839436902018495785
+    second: Mage_Masc_DKGREY-sheet_115
+  - first:
+      213: 3486867657768958734
+    second: Mage_Masc_DKGREY-sheet_116
+  - first:
+      213: 153230524950544794
+    second: Mage_Masc_DKGREY-sheet_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6073006f64198a8b0800000000000000
+      internalID: -5140699240682473722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c712d06220ede40800000000000000
+      internalID: 5682982142240455708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68312a3d1688048f0800000000000000
+      internalID: -558296400050121850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4397b83a63d366a0800000000000000
+      internalID: -6457084987547610291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefbb3d792e2493f0800000000000000
+      internalID: -895039670210281489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39a2a525c870c5f0800000000000000
+      internalID: -738457550753453764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0818c7e8afaf3e380800000000000000
+      internalID: -8943028480988380800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e8bcd9b76fb2f40800000000000000
+      internalID: 5704924363783638566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebe28101ec02b7b0800000000000000
+      internalID: -5210087658381710359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9756c2c8c6a920800000000000000
+      internalID: 3001306940565855694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c893835e3de5fb4d0800000000000000
+      internalID: -3116668152940316276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1ee92c154b456a0800000000000000
+      internalID: -6461341302119276056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c67fe1d00808e80800000000000000
+      internalID: -8178396129462358981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df5e348d92bda120800000000000000
+      internalID: 2426792163820855251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee890172f4d7c37b0800000000000000
+      internalID: -5243178087254812434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad5b59eb5f774020800000000000000
+      internalID: 2325967765293981096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61bd4b2f350b940800000000000000
+      internalID: 5309836262551262934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292dd398193194ef0800000000000000
+      internalID: -123545998982262126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efdfa6acf26c5e80800000000000000
+      internalID: -8188561185198579739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845edf5bbdb68d710800000000000000
+      internalID: 1718241849237169480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11204533c37bc6120800000000000000
+      internalID: 2408501369923437073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce848aa8b256ee80800000000000000
+      internalID: -8149735522592059706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131609cc337c08a30800000000000000
+      internalID: 4215588276508057905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c80d3610037d4b0800000000000000
+      internalID: -5415807244362019816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fe5b5e93cfc5ff0800000000000000
+      internalID: -45884570583306339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd1e95d72b37b8a0800000000000000
+      internalID: -6289493312325935680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1595efcf4745a7720800000000000000
+      internalID: 2844678976075356497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8cdb06d2618c6e0800000000000000
+      internalID: -1817178065491605324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef62aff185be99960800000000000000
+      internalID: 7609371809145300734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7326db21928dd510800000000000000
+      internalID: 1575559004666864511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57605ac575759a520800000000000000
+      internalID: 2713796283195524725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c184265ec83354220800000000000000
+      internalID: 2469436650919446556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f75ecc4ad2edac60800000000000000
+      internalID: 7831164754286499825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1131bc96cb5eded90800000000000000
+      internalID: -7066739642882911471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa189117b2513fa0800000000000000
+      internalID: -5822781896985666909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e27c76be9f1bfa0800000000000000
+      internalID: -5786569256740639205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78e76f4354105000800000000000000
+      internalID: 22540346183903358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497eac82ffd075470800000000000000
+      internalID: 8383184620925675412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16804bf5a514d9bc0800000000000000
+      internalID: -3774789056258111391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3cd272de4700fd0800000000000000
+      internalID: -2377772041338240096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ed8a7761a407e40800000000000000
+      internalID: 5652098992707264152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4aa8ba6ba860980800000000000000
+      internalID: -8573012323486489412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b26dac69c89eae80800000000000000
+      internalID: -8165421083496979792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1250559eede3ea0800000000000000
+      internalID: -5891026168818884134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316df99c01de57950800000000000000
+      internalID: 6446319098008688147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac16a5928c038f40800000000000000
+      internalID: 5729436905941376161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d3582e4cd1cdf50800000000000000
+      internalID: 6907428659930676500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73af78326451a360800000000000000
+      internalID: 7179112061836698495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876647dac482a450800000000000000
+      internalID: 6098582852143048578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae005e8dc9b515e0800000000000000
+      internalID: -1939439772006084957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117b5577bca04f080800000000000000
+      internalID: -9154680273540630767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b99293782ab760800000000000000
+      internalID: 7474331008420657384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02d3647fc817b6c0800000000000000
+      internalID: -4127803254171774454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf80c349d3e97cf0800000000000000
+      internalID: -253921381685620806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d583d4eae66d8d7a0800000000000000
+      internalID: -6352091503547041699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b029692da626fd970800000000000000
+      internalID: 8781846009334895115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa93f94b2e6db730800000000000000
+      internalID: 4016487574887701243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ef5174fe9c0c20800000000000000
+      internalID: 3174086610100676105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797dcb1f96a90630800000000000000
+      internalID: 3893826555134966130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74e493a708d23ac0800000000000000
+      internalID: -3876798801891761029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edf850ba053b9d30800000000000000
+      internalID: 4439200177728323041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f48cc150bb9b16e0800000000000000
+      internalID: -1865726439026031374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c475c2ff85df4770800000000000000
+      internalID: 8597325027903632578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7208a14b3694ff570800000000000000
+      internalID: 8502595314071011367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc1a1b8169a9fb80800000000000000
+      internalID: -8360464996825948944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fd18372b5b3780800000000000000
+      internalID: -8702261630960012269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ab04368eb247320800000000000000
+      internalID: 2554715165723507298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f44f321e2e50f80800000000000000
+      internalID: -8140851294803570907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bb60128e2df75d0800000000000000
+      internalID: -3062497327160313087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e96a867e44e800800000000000000
+      internalID: 640723318028757131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd47602042855c0800000000000000
+      internalID: -4226588659170354095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59cc74b097228d50800000000000000
+      internalID: 6737991494956534106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bd3a67682205780800000000000000
+      internalID: -8696412919541015702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e356c3d6a2ddebb0800000000000000
+      internalID: -4905032805177207836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a82276aef5b14eb0800000000000000
+      internalID: -4737305227698231127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a742b6bb5693d5670800000000000000
+      internalID: 8529036378408428666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f6c97f43ffbeb80800000000000000
+      internalID: -8364311279952957656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e9580af939744e0800000000000000
+      internalID: -1997465595913331163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26df1faced31c4140800000000000000
+      internalID: 4705157558303849826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30fa56f94d988f60800000000000000
+      internalID: 8036846476033978428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b04c1d4f32e310800000000000000
+      internalID: 1432777231876273477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b64a2eb9d93edb40800000000000000
+      internalID: 5466870605035488947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb5d4a7097fc22b0800000000000000
+      internalID: -5607835236083868688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94c6a511ba704cd0800000000000000
+      internalID: -2575924085864872801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca581f8900c5ec0800000000000000
+      internalID: -3576983347151917844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0de0d81b239c2e0800000000000000
+      internalID: -2105095612661837618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67350f5784144b50800000000000000
+      internalID: 6576403927515084654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95eab2f27f6ec0a0800000000000000
+      internalID: -6859422642949397093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c78194404164680800000000000000
+      internalID: -8771301215618696044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee7baf932dc30590800000000000000
+      internalID: -7709092584241791256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53df4d484dff7e80800000000000000
+      internalID: -8178539911304981668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc4d08ad45968db0800000000000000
+      internalID: -4789976992897479473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f0d1ca7d02bd870800000000000000
+      internalID: 8708590415128629093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527e4f58573f3e8f0800000000000000
+      internalID: -512298246505961691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660b6d210e2e47a70800000000000000
+      internalID: 8823927021942255718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c38996f3a753ba40800000000000000
+      internalID: 5382742341366416329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8f6314f68d147b0800000000000000
+      internalID: -5241670518935455560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e7a9e631f96e70800000000000000
+      internalID: 9109076939484161303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83df795c6d6c3eb0800000000000000
+      internalID: -4738792395775159414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e9c5353b1a005d0800000000000000
+      internalID: -3098298752061104488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e77ec58ec6067c0800000000000000
+      internalID: -4080141517150781838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3cc78c46b5a1e80800000000000000
+      internalID: -8207146882510830648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c69c8b97942e5e0800000000000000
+      internalID: -1881860907147367280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15e0b8b7ff3acfe0800000000000000
+      internalID: -1168050820161149668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185cf8fdd05977650800000000000000
+      internalID: 6230612496308225409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a8729322a69c70800000000000000
+      internalID: 8977541180874597135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1331654733cfe00800000000000000
+      internalID: 1079794585415397828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0e7cc0b66632b0800000000000000
+      internalID: -5605179776684913453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8692e69d38c5c90800000000000000
+      internalID: -7179718736056063745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c00dd909c81e11c0800000000000000
+      internalID: -4531156923355168572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb41438e4a4d7e40800000000000000
+      internalID: 5655758408117210051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258305e7ae404b400800000000000000
+      internalID: 338901277147674706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef0973def8aef710800000000000000
+      internalID: 1729005119379935202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39975f67a0288da0800000000000000
+      internalID: -5942463804815730370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef8be38512a5c720800000000000000
+      internalID: 2865874951182454766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b2f281d4b76720800000000000000
+      internalID: 2839436902018495785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bfd1819a7d36030800000000000000
+      internalID: 3486867657768958734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a918c60c952602200800000000000000
+      internalID: 153230524950544794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33301531ad48244f9b1b8b59e2889eb
+      internalID: -1942150504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80058fb8c6da574bafa902d19ff599e
+      internalID: -1031045198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111cd87887c21b49ba47bd66e26d085
+      internalID: 1491143168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdafb3211e865b4987aa4e8c1f43255
+      internalID: 720815996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faf5265316dca74aba5f562370aa56b
+      internalID: 564083172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_Masc_DKGREY-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1400b37a1f2904e4bb35d5f81f11b237
+      internalID: -554298822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 09ccc8a4eae8cdf40af515cb50ae65b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":30.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage_Masc_DKGREY-sheet_0: -5140699240682473722
+      Mage_Masc_DKGREY-sheet_1: 5682982142240455708
+      Mage_Masc_DKGREY-sheet_10: -3116668152940316276
+      Mage_Masc_DKGREY-sheet_100: -4080141517150781838
+      Mage_Masc_DKGREY-sheet_101: -8207146882510830648
+      Mage_Masc_DKGREY-sheet_102: -1881860907147367280
+      Mage_Masc_DKGREY-sheet_103: -1168050820161149668
+      Mage_Masc_DKGREY-sheet_104: 6230612496308225409
+      Mage_Masc_DKGREY-sheet_105: 8977541180874597135
+      Mage_Masc_DKGREY-sheet_106: 1079794585415397828
+      Mage_Masc_DKGREY-sheet_107: -5605179776684913453
+      Mage_Masc_DKGREY-sheet_108: -7179718736056063745
+      Mage_Masc_DKGREY-sheet_109: -4531156923355168572
+      Mage_Masc_DKGREY-sheet_11: -6461341302119276056
+      Mage_Masc_DKGREY-sheet_110: 5655758408117210051
+      Mage_Masc_DKGREY-sheet_111: 338901277147674706
+      Mage_Masc_DKGREY-sheet_112: 1729005119379935202
+      Mage_Masc_DKGREY-sheet_113: -5942463804815730370
+      Mage_Masc_DKGREY-sheet_114: 2865874951182454766
+      Mage_Masc_DKGREY-sheet_115: 2839436902018495785
+      Mage_Masc_DKGREY-sheet_116: 3486867657768958734
+      Mage_Masc_DKGREY-sheet_117: 153230524950544794
+      Mage_Masc_DKGREY-sheet_118: -1942150504
+      Mage_Masc_DKGREY-sheet_119: -1031045198
+      Mage_Masc_DKGREY-sheet_12: -8178396129462358981
+      Mage_Masc_DKGREY-sheet_120: 1491143168
+      Mage_Masc_DKGREY-sheet_121: 720815996
+      Mage_Masc_DKGREY-sheet_122: 564083172
+      Mage_Masc_DKGREY-sheet_123: -554298822
+      Mage_Masc_DKGREY-sheet_13: 2426792163820855251
+      Mage_Masc_DKGREY-sheet_14: -5243178087254812434
+      Mage_Masc_DKGREY-sheet_15: 2325967765293981096
+      Mage_Masc_DKGREY-sheet_16: 5309836262551262934
+      Mage_Masc_DKGREY-sheet_17: -123545998982262126
+      Mage_Masc_DKGREY-sheet_18: -8188561185198579739
+      Mage_Masc_DKGREY-sheet_19: 1718241849237169480
+      Mage_Masc_DKGREY-sheet_2: -558296400050121850
+      Mage_Masc_DKGREY-sheet_20: 2408501369923437073
+      Mage_Masc_DKGREY-sheet_21: -8149735522592059706
+      Mage_Masc_DKGREY-sheet_22: 4215588276508057905
+      Mage_Masc_DKGREY-sheet_23: -5415807244362019816
+      Mage_Masc_DKGREY-sheet_24: -45884570583306339
+      Mage_Masc_DKGREY-sheet_25: -6289493312325935680
+      Mage_Masc_DKGREY-sheet_26: 2844678976075356497
+      Mage_Masc_DKGREY-sheet_27: -1817178065491605324
+      Mage_Masc_DKGREY-sheet_28: 7609371809145300734
+      Mage_Masc_DKGREY-sheet_29: 1575559004666864511
+      Mage_Masc_DKGREY-sheet_3: -6457084987547610291
+      Mage_Masc_DKGREY-sheet_30: 2713796283195524725
+      Mage_Masc_DKGREY-sheet_31: 2469436650919446556
+      Mage_Masc_DKGREY-sheet_32: 7831164754286499825
+      Mage_Masc_DKGREY-sheet_33: -7066739642882911471
+      Mage_Masc_DKGREY-sheet_34: -5822781896985666909
+      Mage_Masc_DKGREY-sheet_35: -5786569256740639205
+      Mage_Masc_DKGREY-sheet_36: 22540346183903358
+      Mage_Masc_DKGREY-sheet_37: 8383184620925675412
+      Mage_Masc_DKGREY-sheet_38: -3774789056258111391
+      Mage_Masc_DKGREY-sheet_39: -2377772041338240096
+      Mage_Masc_DKGREY-sheet_4: -895039670210281489
+      Mage_Masc_DKGREY-sheet_40: 5652098992707264152
+      Mage_Masc_DKGREY-sheet_41: -8573012323486489412
+      Mage_Masc_DKGREY-sheet_42: -8165421083496979792
+      Mage_Masc_DKGREY-sheet_43: -5891026168818884134
+      Mage_Masc_DKGREY-sheet_44: 6446319098008688147
+      Mage_Masc_DKGREY-sheet_45: 5729436905941376161
+      Mage_Masc_DKGREY-sheet_46: 6907428659930676500
+      Mage_Masc_DKGREY-sheet_47: 7179112061836698495
+      Mage_Masc_DKGREY-sheet_48: 6098582852143048578
+      Mage_Masc_DKGREY-sheet_49: -1939439772006084957
+      Mage_Masc_DKGREY-sheet_5: -738457550753453764
+      Mage_Masc_DKGREY-sheet_50: -9154680273540630767
+      Mage_Masc_DKGREY-sheet_51: 7474331008420657384
+      Mage_Masc_DKGREY-sheet_52: -4127803254171774454
+      Mage_Masc_DKGREY-sheet_53: -253921381685620806
+      Mage_Masc_DKGREY-sheet_54: -6352091503547041699
+      Mage_Masc_DKGREY-sheet_55: 8781846009334895115
+      Mage_Masc_DKGREY-sheet_56: 4016487574887701243
+      Mage_Masc_DKGREY-sheet_57: 3174086610100676105
+      Mage_Masc_DKGREY-sheet_58: 3893826555134966130
+      Mage_Masc_DKGREY-sheet_59: -3876798801891761029
+      Mage_Masc_DKGREY-sheet_6: -8943028480988380800
+      Mage_Masc_DKGREY-sheet_60: 4439200177728323041
+      Mage_Masc_DKGREY-sheet_61: -1865726439026031374
+      Mage_Masc_DKGREY-sheet_62: 8597325027903632578
+      Mage_Masc_DKGREY-sheet_63: 8502595314071011367
+      Mage_Masc_DKGREY-sheet_64: -8360464996825948944
+      Mage_Masc_DKGREY-sheet_65: -8702261630960012269
+      Mage_Masc_DKGREY-sheet_66: 2554715165723507298
+      Mage_Masc_DKGREY-sheet_67: -8140851294803570907
+      Mage_Masc_DKGREY-sheet_68: -3062497327160313087
+      Mage_Masc_DKGREY-sheet_69: 640723318028757131
+      Mage_Masc_DKGREY-sheet_7: 5704924363783638566
+      Mage_Masc_DKGREY-sheet_70: -4226588659170354095
+      Mage_Masc_DKGREY-sheet_71: 6737991494956534106
+      Mage_Masc_DKGREY-sheet_72: -8696412919541015702
+      Mage_Masc_DKGREY-sheet_73: -4905032805177207836
+      Mage_Masc_DKGREY-sheet_74: -4737305227698231127
+      Mage_Masc_DKGREY-sheet_75: 8529036378408428666
+      Mage_Masc_DKGREY-sheet_76: -8364311279952957656
+      Mage_Masc_DKGREY-sheet_77: -1997465595913331163
+      Mage_Masc_DKGREY-sheet_78: 4705157558303849826
+      Mage_Masc_DKGREY-sheet_79: 8036846476033978428
+      Mage_Masc_DKGREY-sheet_8: -5210087658381710359
+      Mage_Masc_DKGREY-sheet_80: 1432777231876273477
+      Mage_Masc_DKGREY-sheet_81: 5466870605035488947
+      Mage_Masc_DKGREY-sheet_82: -5607835236083868688
+      Mage_Masc_DKGREY-sheet_83: -2575924085864872801
+      Mage_Masc_DKGREY-sheet_84: -3576983347151917844
+      Mage_Masc_DKGREY-sheet_85: -2105095612661837618
+      Mage_Masc_DKGREY-sheet_86: 6576403927515084654
+      Mage_Masc_DKGREY-sheet_87: -6859422642949397093
+      Mage_Masc_DKGREY-sheet_88: -8771301215618696044
+      Mage_Masc_DKGREY-sheet_89: -7709092584241791256
+      Mage_Masc_DKGREY-sheet_9: 3001306940565855694
+      Mage_Masc_DKGREY-sheet_90: -8178539911304981668
+      Mage_Masc_DKGREY-sheet_91: -4789976992897479473
+      Mage_Masc_DKGREY-sheet_92: 8708590415128629093
+      Mage_Masc_DKGREY-sheet_93: -512298246505961691
+      Mage_Masc_DKGREY-sheet_94: 8823927021942255718
+      Mage_Masc_DKGREY-sheet_95: 5382742341366416329
+      Mage_Masc_DKGREY-sheet_96: -5241670518935455560
+      Mage_Masc_DKGREY-sheet_97: 9109076939484161303
+      Mage_Masc_DKGREY-sheet_98: -4738792395775159414
+      Mage_Masc_DKGREY-sheet_99: -3098298752061104488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

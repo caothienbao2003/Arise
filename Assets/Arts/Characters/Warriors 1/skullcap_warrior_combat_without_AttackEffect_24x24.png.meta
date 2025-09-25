@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 3615a7a9b01e53c44a14bdd33a5658a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4243944226355133572
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_0
+  - first:
+      213: -2821386416150840273
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_1
+  - first:
+      213: 2722499490241397484
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_2
+  - first:
+      213: -2072265466194681601
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_3
+  - first:
+      213: -4491984266157094411
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_4
+  - first:
+      213: 3663318117192778764
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_5
+  - first:
+      213: -3062880016133147779
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_6
+  - first:
+      213: 5151736120109154959
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_7
+  - first:
+      213: 8109644467299807104
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_8
+  - first:
+      213: -1946539268893109703
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_9
+  - first:
+      213: 9087011489421722984
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_10
+  - first:
+      213: -168266697022101051
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_11
+  - first:
+      213: -8785251124066717146
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_12
+  - first:
+      213: 7538173008601387954
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_13
+  - first:
+      213: 2681635484211848018
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_14
+  - first:
+      213: -3107916403397691125
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_15
+  - first:
+      213: -8910062564491491305
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_16
+  - first:
+      213: -1687247953183278034
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_17
+  - first:
+      213: 8917104521694646610
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_18
+  - first:
+      213: 1441535039328877394
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_19
+  - first:
+      213: 8697023411105300079
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_20
+  - first:
+      213: 7337443021706287293
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_21
+  - first:
+      213: -3237752157315410103
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_22
+  - first:
+      213: 6748962575776740280
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_23
+  - first:
+      213: 4553170192250254673
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_24
+  - first:
+      213: 1181601833265815170
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_25
+  - first:
+      213: 1402464363597089532
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_26
+  - first:
+      213: -5176896857649349605
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_27
+  - first:
+      213: -7162129875212300970
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_28
+  - first:
+      213: 3267588817374442311
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_29
+  - first:
+      213: -9023347732578535842
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_30
+  - first:
+      213: 8121310325636889024
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_31
+  - first:
+      213: 2957057894442635139
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_32
+  - first:
+      213: -8038212743377713272
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_33
+  - first:
+      213: 719405898542631229
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_34
+  - first:
+      213: -643648464863826538
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_35
+  - first:
+      213: -2635680743000151124
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_36
+  - first:
+      213: 3949058272311824252
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_37
+  - first:
+      213: 4254635961703494905
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_38
+  - first:
+      213: -7810195110114388686
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_39
+  - first:
+      213: -998001417712502965
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_40
+  - first:
+      213: 4077482772033957526
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_41
+  - first:
+      213: -9165144596847298943
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_42
+  - first:
+      213: -1469489504646593333
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_43
+  - first:
+      213: -7015206320704878494
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_44
+  - first:
+      213: 3801360891376024643
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_45
+  - first:
+      213: 1962205089235686741
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_46
+  - first:
+      213: -4953733334788296864
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_47
+  - first:
+      213: -6022267724855674026
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_48
+  - first:
+      213: -4235207006615966228
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_49
+  - first:
+      213: -4986045586962877697
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_50
+  - first:
+      213: 5422920234745463450
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_51
+  - first:
+      213: -3656373264286420977
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_52
+  - first:
+      213: -2370969632722333119
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_53
+  - first:
+      213: -4141800369582166794
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_54
+  - first:
+      213: 692811697131226049
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_55
+  - first:
+      213: -439992990308883275
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_56
+  - first:
+      213: 4651446007178781532
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_57
+  - first:
+      213: 4986918792624686718
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_58
+  - first:
+      213: -2630704172887554685
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_59
+  - first:
+      213: -4705112985193751547
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_60
+  - first:
+      213: 6704311708369166215
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_61
+  - first:
+      213: 5324752859884318344
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_62
+  - first:
+      213: -6000654916941928980
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_63
+  - first:
+      213: -1216491154021566245
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_64
+  - first:
+      213: 2647731567305103773
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_65
+  - first:
+      213: -2868182587497782919
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_66
+  - first:
+      213: 7614985751325395450
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_67
+  - first:
+      213: -3303529667613740382
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_68
+  - first:
+      213: -2024209928619810399
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_69
+  - first:
+      213: -6426628659491531282
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_70
+  - first:
+      213: -1273391295875305585
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_71
+  - first:
+      213: -2902242412500078207
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_72
+  - first:
+      213: -7845770779796875328
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_73
+  - first:
+      213: 6002087336627401371
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_74
+  - first:
+      213: -4613453868993873244
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_75
+  - first:
+      213: -6585252721671277793
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_76
+  - first:
+      213: 7491798360582443559
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_77
+  - first:
+      213: -4864578505882714160
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_78
+  - first:
+      213: 1609626961704383338
+    second: skullcap_warrior_combat_without_AttackEffect_24x24_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cb77ad9c485ea30800000000000000
+      internalID: 4243944226355133572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 459
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c773bb00c68d8d0800000000000000
+      internalID: -2821386416150840273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 459
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce24509acd248c520800000000000000
+      internalID: 2722499490241397484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 459
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0282fa985dd33e0800000000000000
+      internalID: -2072265466194681601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f900170c1449a1c0800000000000000
+      internalID: -4491984266157094411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 435
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0447822b68b6d230800000000000000
+      internalID: 3663318117192778764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 435
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73bdb86ad67e75d0800000000000000
+      internalID: -3062880016133147779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 435
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82c7a7c4b4ae7740800000000000000
+      internalID: 5151736120109154959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 411
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fed102dae3b8070800000000000000
+      internalID: 8109644467299807104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 411
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932174029d08cf4e0800000000000000
+      internalID: -1946539268893109703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 411
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86500e8fdcc8b1e70800000000000000
+      internalID: 9087011489421722984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 411
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c92870a4523aadf0800000000000000
+      internalID: -168266697022101051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622f66f16a4841680800000000000000
+      internalID: -8785251124066717146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 387
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b39f119968fc9860800000000000000
+      internalID: 7538173008601387954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 387
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253a785d345173520800000000000000
+      internalID: 2681635484211848018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 387
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09fedf5f767ed4d0800000000000000
+      internalID: -3107916403397691125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 364
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7188afc1e49195480800000000000000
+      internalID: -8910062564491491305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 364
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c718e0de0b598e0800000000000000
+      internalID: -1687247953183278034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 363
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25193a0515befbb70800000000000000
+      internalID: 8917104521694646610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 363
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bf97e0b7c510410800000000000000
+      internalID: 1441535039328877394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 339
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eff2ea6b802b870800000000000000
+      internalID: 8697023411105300079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8d8748d85d3d560800000000000000
+      internalID: 7337443021706287293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 340
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947d57831913113d0800000000000000
+      internalID: -3237752157315410103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 340
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3f39384b129ad50800000000000000
+      internalID: 6748962575776740280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 315
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15539f68a2c103f30800000000000000
+      internalID: 4553170192250254673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e52c16b94e56010800000000000000
+      internalID: 1181601833265815170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 316
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa495a78ed867310800000000000000
+      internalID: 1402464363597089532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 316
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c79f08cb7f728b0800000000000000
+      internalID: -5176896857649349605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d02c833d00b9c90800000000000000
+      internalID: -7162129875212300970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 292
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74374ab87bec85d20800000000000000
+      internalID: 3267588817374442311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 291
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5674d28b01a6c280800000000000000
+      internalID: -9023347732578535842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 291
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c97c4e66b0b4b070800000000000000
+      internalID: 8121310325636889024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 267
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f8482ec74990920800000000000000
+      internalID: 2957057894442635139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88704f12918827090800000000000000
+      internalID: -8038212743377713272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3944f76ad7dbf900800000000000000
+      internalID: 719405898542631229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 267
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69de093a12d4117f0800000000000000
+      internalID: -643648464863826538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab6324245e2c6bd0800000000000000
+      internalID: -2635680743000151124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc67e539fddc630800000000000000
+      internalID: 3949058272311824252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f470f97dd08b0b30800000000000000
+      internalID: 4254635961703494905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 243
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23593237dec9c9390800000000000000
+      internalID: -7810195110114388686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 219
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47f8eb8ff26622f0800000000000000
+      internalID: -998001417712502965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 219
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eebdc4af0269830800000000000000
+      internalID: 4077482772033957526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 219
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18673d55c8ddec080800000000000000
+      internalID: -9165144596847298943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 219
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4006ac4135b9be0800000000000000
+      internalID: -1469489504646593333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2688f4cf40bf4ae90800000000000000
+      internalID: -7015206320704878494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cb789179521c430800000000000000
+      internalID: 3801360891376024643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 195
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5555b58e1272b3b10800000000000000
+      internalID: 1962205089235686741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 195
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06faeeb27cdc04bb0800000000000000
+      internalID: -4953733334788296864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 171
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b7dad596b9c6ca0800000000000000
+      internalID: -6022267724855674026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 171
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede864aaa58935c0800000000000000
+      internalID: -4235207006615966228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 171
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff27c23b4f10ecab0800000000000000
+      internalID: -4986045586962877697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 171
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92084db835124b40800000000000000
+      internalID: 5422920234745463450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f8ff63e3f14dc0800000000000000
+      internalID: -3656373264286420977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 147
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142d8545eaf981fd0800000000000000
+      internalID: -2370969632722333119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc2970128e5586c0800000000000000
+      internalID: -4141800369582166794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c30ebf519c5d9900800000000000000
+      internalID: 692811697131226049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 123
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b42afcd4b4d4e9f0800000000000000
+      internalID: -439992990308883275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ecc5cf714d8040800000000000000
+      internalID: 4651446007178781532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_58
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e764d165838153540800000000000000
+      internalID: 4986918792624686718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_59
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38546e92e7cdd7bd0800000000000000
+      internalID: -2630704172887554685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 99
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cd2713ba414beb0800000000000000
+      internalID: -4705112985193751547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f16d05aff7a0d50800000000000000
+      internalID: 6704311708369166215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e662aa38255e940800000000000000
+      internalID: 5324752859884318344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5a9f7552469bca0800000000000000
+      internalID: -6000654916941928980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b32c9db72e1fe0800000000000000
+      internalID: -1216491154021566245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_65
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d991fc905d1aeb420800000000000000
+      internalID: 2647731567305103773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_66
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971eb39022b2238d0800000000000000
+      internalID: -2868182587497782919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_67
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94965e13ddda960800000000000000
+      internalID: 7614985751325395450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a23be825418722d0800000000000000
+      internalID: -3303529667613740382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a12ccd6bcf88e3e0800000000000000
+      internalID: -2024209928619810399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_70
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee599afa84700d6a0800000000000000
+      internalID: -6426628659491531282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f2745fc51045ee0800000000000000
+      internalID: -1273391295875305585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1813cde07e929b7d0800000000000000
+      internalID: -2902242412500078207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_73
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c751116b093e1390800000000000000
+      internalID: -7845770779796875328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92fb8ad1a2bb4350800000000000000
+      internalID: 6002087336627401371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_75
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaf7f63628b9ffb0800000000000000
+      internalID: -4613453868993873244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13fb903a8b7c94a0800000000000000
+      internalID: -6585252721671277793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722de5b6ae638f760800000000000000
+      internalID: 7491798360582443559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df3cde5f9b8d7cb0800000000000000
+      internalID: -4864578505882714160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullcap_warrior_combat_without_AttackEffect_24x24_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63f749813b865610800000000000000
+      internalID: 1609626961704383338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skullcap_warrior_combat_without_AttackEffect_24x24_0: 4243944226355133572
+      skullcap_warrior_combat_without_AttackEffect_24x24_1: -2821386416150840273
+      skullcap_warrior_combat_without_AttackEffect_24x24_10: 9087011489421722984
+      skullcap_warrior_combat_without_AttackEffect_24x24_11: -168266697022101051
+      skullcap_warrior_combat_without_AttackEffect_24x24_12: -8785251124066717146
+      skullcap_warrior_combat_without_AttackEffect_24x24_13: 7538173008601387954
+      skullcap_warrior_combat_without_AttackEffect_24x24_14: 2681635484211848018
+      skullcap_warrior_combat_without_AttackEffect_24x24_15: -3107916403397691125
+      skullcap_warrior_combat_without_AttackEffect_24x24_16: -8910062564491491305
+      skullcap_warrior_combat_without_AttackEffect_24x24_17: -1687247953183278034
+      skullcap_warrior_combat_without_AttackEffect_24x24_18: 8917104521694646610
+      skullcap_warrior_combat_without_AttackEffect_24x24_19: 1441535039328877394
+      skullcap_warrior_combat_without_AttackEffect_24x24_2: 2722499490241397484
+      skullcap_warrior_combat_without_AttackEffect_24x24_20: 8697023411105300079
+      skullcap_warrior_combat_without_AttackEffect_24x24_21: 7337443021706287293
+      skullcap_warrior_combat_without_AttackEffect_24x24_22: -3237752157315410103
+      skullcap_warrior_combat_without_AttackEffect_24x24_23: 6748962575776740280
+      skullcap_warrior_combat_without_AttackEffect_24x24_24: 4553170192250254673
+      skullcap_warrior_combat_without_AttackEffect_24x24_25: 1181601833265815170
+      skullcap_warrior_combat_without_AttackEffect_24x24_26: 1402464363597089532
+      skullcap_warrior_combat_without_AttackEffect_24x24_27: -5176896857649349605
+      skullcap_warrior_combat_without_AttackEffect_24x24_28: -7162129875212300970
+      skullcap_warrior_combat_without_AttackEffect_24x24_29: 3267588817374442311
+      skullcap_warrior_combat_without_AttackEffect_24x24_3: -2072265466194681601
+      skullcap_warrior_combat_without_AttackEffect_24x24_30: -9023347732578535842
+      skullcap_warrior_combat_without_AttackEffect_24x24_31: 8121310325636889024
+      skullcap_warrior_combat_without_AttackEffect_24x24_32: 2957057894442635139
+      skullcap_warrior_combat_without_AttackEffect_24x24_33: -8038212743377713272
+      skullcap_warrior_combat_without_AttackEffect_24x24_34: 719405898542631229
+      skullcap_warrior_combat_without_AttackEffect_24x24_35: -643648464863826538
+      skullcap_warrior_combat_without_AttackEffect_24x24_36: -2635680743000151124
+      skullcap_warrior_combat_without_AttackEffect_24x24_37: 3949058272311824252
+      skullcap_warrior_combat_without_AttackEffect_24x24_38: 4254635961703494905
+      skullcap_warrior_combat_without_AttackEffect_24x24_39: -7810195110114388686
+      skullcap_warrior_combat_without_AttackEffect_24x24_4: -4491984266157094411
+      skullcap_warrior_combat_without_AttackEffect_24x24_40: -998001417712502965
+      skullcap_warrior_combat_without_AttackEffect_24x24_41: 4077482772033957526
+      skullcap_warrior_combat_without_AttackEffect_24x24_42: -9165144596847298943
+      skullcap_warrior_combat_without_AttackEffect_24x24_43: -1469489504646593333
+      skullcap_warrior_combat_without_AttackEffect_24x24_44: -7015206320704878494
+      skullcap_warrior_combat_without_AttackEffect_24x24_45: 3801360891376024643
+      skullcap_warrior_combat_without_AttackEffect_24x24_46: 1962205089235686741
+      skullcap_warrior_combat_without_AttackEffect_24x24_47: -4953733334788296864
+      skullcap_warrior_combat_without_AttackEffect_24x24_48: -6022267724855674026
+      skullcap_warrior_combat_without_AttackEffect_24x24_49: -4235207006615966228
+      skullcap_warrior_combat_without_AttackEffect_24x24_5: 3663318117192778764
+      skullcap_warrior_combat_without_AttackEffect_24x24_50: -4986045586962877697
+      skullcap_warrior_combat_without_AttackEffect_24x24_51: 5422920234745463450
+      skullcap_warrior_combat_without_AttackEffect_24x24_52: -3656373264286420977
+      skullcap_warrior_combat_without_AttackEffect_24x24_53: -2370969632722333119
+      skullcap_warrior_combat_without_AttackEffect_24x24_54: -4141800369582166794
+      skullcap_warrior_combat_without_AttackEffect_24x24_55: 692811697131226049
+      skullcap_warrior_combat_without_AttackEffect_24x24_56: -439992990308883275
+      skullcap_warrior_combat_without_AttackEffect_24x24_57: 4651446007178781532
+      skullcap_warrior_combat_without_AttackEffect_24x24_58: 4986918792624686718
+      skullcap_warrior_combat_without_AttackEffect_24x24_59: -2630704172887554685
+      skullcap_warrior_combat_without_AttackEffect_24x24_6: -3062880016133147779
+      skullcap_warrior_combat_without_AttackEffect_24x24_60: -4705112985193751547
+      skullcap_warrior_combat_without_AttackEffect_24x24_61: 6704311708369166215
+      skullcap_warrior_combat_without_AttackEffect_24x24_62: 5324752859884318344
+      skullcap_warrior_combat_without_AttackEffect_24x24_63: -6000654916941928980
+      skullcap_warrior_combat_without_AttackEffect_24x24_64: -1216491154021566245
+      skullcap_warrior_combat_without_AttackEffect_24x24_65: 2647731567305103773
+      skullcap_warrior_combat_without_AttackEffect_24x24_66: -2868182587497782919
+      skullcap_warrior_combat_without_AttackEffect_24x24_67: 7614985751325395450
+      skullcap_warrior_combat_without_AttackEffect_24x24_68: -3303529667613740382
+      skullcap_warrior_combat_without_AttackEffect_24x24_69: -2024209928619810399
+      skullcap_warrior_combat_without_AttackEffect_24x24_7: 5151736120109154959
+      skullcap_warrior_combat_without_AttackEffect_24x24_70: -6426628659491531282
+      skullcap_warrior_combat_without_AttackEffect_24x24_71: -1273391295875305585
+      skullcap_warrior_combat_without_AttackEffect_24x24_72: -2902242412500078207
+      skullcap_warrior_combat_without_AttackEffect_24x24_73: -7845770779796875328
+      skullcap_warrior_combat_without_AttackEffect_24x24_74: 6002087336627401371
+      skullcap_warrior_combat_without_AttackEffect_24x24_75: -4613453868993873244
+      skullcap_warrior_combat_without_AttackEffect_24x24_76: -6585252721671277793
+      skullcap_warrior_combat_without_AttackEffect_24x24_77: 7491798360582443559
+      skullcap_warrior_combat_without_AttackEffect_24x24_78: -4864578505882714160
+      skullcap_warrior_combat_without_AttackEffect_24x24_79: 1609626961704383338
+      skullcap_warrior_combat_without_AttackEffect_24x24_8: 8109644467299807104
+      skullcap_warrior_combat_without_AttackEffect_24x24_9: -1946539268893109703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

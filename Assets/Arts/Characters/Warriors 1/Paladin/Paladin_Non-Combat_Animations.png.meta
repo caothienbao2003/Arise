@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: 36bb8ab41ce9e4e4b80e29ee7e9097e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1574026377796741273
+    second: Paladin_Non-Combat_Animations_0
+  - first:
+      213: 3145756623018901038
+    second: Paladin_Non-Combat_Animations_1
+  - first:
+      213: 5765924968590071225
+    second: Paladin_Non-Combat_Animations_2
+  - first:
+      213: 610401961744156876
+    second: Paladin_Non-Combat_Animations_3
+  - first:
+      213: -2527612551292256866
+    second: Paladin_Non-Combat_Animations_4
+  - first:
+      213: -3653784094285144284
+    second: Paladin_Non-Combat_Animations_5
+  - first:
+      213: 1486054828138935996
+    second: Paladin_Non-Combat_Animations_6
+  - first:
+      213: 2446117940619155413
+    second: Paladin_Non-Combat_Animations_7
+  - first:
+      213: 6502508769092671663
+    second: Paladin_Non-Combat_Animations_8
+  - first:
+      213: 9063953995415471643
+    second: Paladin_Non-Combat_Animations_9
+  - first:
+      213: -4487246954658954001
+    second: Paladin_Non-Combat_Animations_10
+  - first:
+      213: -4624219484527656772
+    second: Paladin_Non-Combat_Animations_11
+  - first:
+      213: -8261294972000026589
+    second: Paladin_Non-Combat_Animations_12
+  - first:
+      213: -7117101282484314867
+    second: Paladin_Non-Combat_Animations_13
+  - first:
+      213: 2521053283548167018
+    second: Paladin_Non-Combat_Animations_14
+  - first:
+      213: -3404445371000147188
+    second: Paladin_Non-Combat_Animations_15
+  - first:
+      213: 622634173256070801
+    second: Paladin_Non-Combat_Animations_16
+  - first:
+      213: 8074790051118506295
+    second: Paladin_Non-Combat_Animations_17
+  - first:
+      213: 8341558116609009472
+    second: Paladin_Non-Combat_Animations_18
+  - first:
+      213: -2738738956119626234
+    second: Paladin_Non-Combat_Animations_19
+  - first:
+      213: -5487057765295141200
+    second: Paladin_Non-Combat_Animations_20
+  - first:
+      213: 293404287310049568
+    second: Paladin_Non-Combat_Animations_21
+  - first:
+      213: -5506881162532467456
+    second: Paladin_Non-Combat_Animations_22
+  - first:
+      213: 2370691939460956993
+    second: Paladin_Non-Combat_Animations_23
+  - first:
+      213: 8693411064395789952
+    second: Paladin_Non-Combat_Animations_24
+  - first:
+      213: -861444840243417949
+    second: Paladin_Non-Combat_Animations_25
+  - first:
+      213: 2887865376944901801
+    second: Paladin_Non-Combat_Animations_26
+  - first:
+      213: 3623803695863485260
+    second: Paladin_Non-Combat_Animations_27
+  - first:
+      213: -5402905775261745016
+    second: Paladin_Non-Combat_Animations_28
+  - first:
+      213: -7890024017508763930
+    second: Paladin_Non-Combat_Animations_29
+  - first:
+      213: 6370854796193098819
+    second: Paladin_Non-Combat_Animations_30
+  - first:
+      213: 7414851128260776373
+    second: Paladin_Non-Combat_Animations_31
+  - first:
+      213: -8226631527170761043
+    second: Paladin_Non-Combat_Animations_32
+  - first:
+      213: -155499152257037417
+    second: Paladin_Non-Combat_Animations_33
+  - first:
+      213: 2912431310244554859
+    second: Paladin_Non-Combat_Animations_34
+  - first:
+      213: -4600430334683283111
+    second: Paladin_Non-Combat_Animations_35
+  - first:
+      213: -5834921568696545253
+    second: Paladin_Non-Combat_Animations_36
+  - first:
+      213: -3627916185140397405
+    second: Paladin_Non-Combat_Animations_37
+  - first:
+      213: 3700970789450707550
+    second: Paladin_Non-Combat_Animations_38
+  - first:
+      213: 8973881042231041047
+    second: Paladin_Non-Combat_Animations_39
+  - first:
+      213: 2765919192382169597
+    second: Paladin_Non-Combat_Animations_40
+  - first:
+      213: -5826644418933871556
+    second: Paladin_Non-Combat_Animations_41
+  - first:
+      213: -8823836918214101949
+    second: Paladin_Non-Combat_Animations_42
+  - first:
+      213: -4112462891595142907
+    second: Paladin_Non-Combat_Animations_43
+  - first:
+      213: -6597734228164284943
+    second: Paladin_Non-Combat_Animations_44
+  - first:
+      213: -5238912991959985179
+    second: Paladin_Non-Combat_Animations_45
+  - first:
+      213: 1591011787487720112
+    second: Paladin_Non-Combat_Animations_46
+  - first:
+      213: -8654659244268644736
+    second: Paladin_Non-Combat_Animations_47
+  - first:
+      213: -8555021580497700755
+    second: Paladin_Non-Combat_Animations_48
+  - first:
+      213: 3146316623948122480
+    second: Paladin_Non-Combat_Animations_49
+  - first:
+      213: 4429971802094776143
+    second: Paladin_Non-Combat_Animations_50
+  - first:
+      213: 5017579138666896969
+    second: Paladin_Non-Combat_Animations_51
+  - first:
+      213: 4175914411627138325
+    second: Paladin_Non-Combat_Animations_52
+  - first:
+      213: 396806993528294922
+    second: Paladin_Non-Combat_Animations_53
+  - first:
+      213: 6502209273200450909
+    second: Paladin_Non-Combat_Animations_54
+  - first:
+      213: -6276531296497479042
+    second: Paladin_Non-Combat_Animations_55
+  - first:
+      213: -4443751912628090838
+    second: Paladin_Non-Combat_Animations_56
+  - first:
+      213: -2699285600719373845
+    second: Paladin_Non-Combat_Animations_57
+  - first:
+      213: -2028303679315438381
+    second: Paladin_Non-Combat_Animations_58
+  - first:
+      213: -4674905245399971760
+    second: Paladin_Non-Combat_Animations_59
+  - first:
+      213: -3528659293770968621
+    second: Paladin_Non-Combat_Animations_60
+  - first:
+      213: -1233448711280841574
+    second: Paladin_Non-Combat_Animations_61
+  - first:
+      213: 6290249449650008538
+    second: Paladin_Non-Combat_Animations_62
+  - first:
+      213: -329061564946577509
+    second: Paladin_Non-Combat_Animations_63
+  - first:
+      213: -8961447194587477158
+    second: Paladin_Non-Combat_Animations_64
+  - first:
+      213: 7586277728400252274
+    second: Paladin_Non-Combat_Animations_65
+  - first:
+      213: -843965006270645955
+    second: Paladin_Non-Combat_Animations_66
+  - first:
+      213: -5633002065019771607
+    second: Paladin_Non-Combat_Animations_67
+  - first:
+      213: 1034488890074366533
+    second: Paladin_Non-Combat_Animations_68
+  - first:
+      213: -7971068430273526607
+    second: Paladin_Non-Combat_Animations_69
+  - first:
+      213: 8294347665560177219
+    second: Paladin_Non-Combat_Animations_70
+  - first:
+      213: -4487145479370598716
+    second: Paladin_Non-Combat_Animations_71
+  - first:
+      213: 6150973100064788985
+    second: Paladin_Non-Combat_Animations_72
+  - first:
+      213: -8773764820962451863
+    second: Paladin_Non-Combat_Animations_73
+  - first:
+      213: 5180289200747399278
+    second: Paladin_Non-Combat_Animations_74
+  - first:
+      213: -4366541043844285639
+    second: Paladin_Non-Combat_Animations_75
+  - first:
+      213: 6303200262414455847
+    second: Paladin_Non-Combat_Animations_76
+  - first:
+      213: -6331005812330365405
+    second: Paladin_Non-Combat_Animations_77
+  - first:
+      213: -6354159205794311087
+    second: Paladin_Non-Combat_Animations_78
+  - first:
+      213: 1371419016748006521
+    second: Paladin_Non-Combat_Animations_79
+  - first:
+      213: 1984076844546670931
+    second: Paladin_Non-Combat_Animations_80
+  - first:
+      213: -5974220065226949107
+    second: Paladin_Non-Combat_Animations_81
+  - first:
+      213: -1284105119724164778
+    second: Paladin_Non-Combat_Animations_82
+  - first:
+      213: 7027068536607330425
+    second: Paladin_Non-Combat_Animations_83
+  - first:
+      213: 1064085374944711014
+    second: Paladin_Non-Combat_Animations_84
+  - first:
+      213: -5407860903105615844
+    second: Paladin_Non-Combat_Animations_85
+  - first:
+      213: 7580807580647144056
+    second: Paladin_Non-Combat_Animations_86
+  - first:
+      213: 1085512712299826155
+    second: Paladin_Non-Combat_Animations_87
+  - first:
+      213: -2350481601275578175
+    second: Paladin_Non-Combat_Animations_88
+  - first:
+      213: -5663612548962984314
+    second: Paladin_Non-Combat_Animations_89
+  - first:
+      213: 3762140041439335086
+    second: Paladin_Non-Combat_Animations_90
+  - first:
+      213: -2992580101576359375
+    second: Paladin_Non-Combat_Animations_91
+  - first:
+      213: -351585952417015442
+    second: Paladin_Non-Combat_Animations_92
+  - first:
+      213: -2864849142093842667
+    second: Paladin_Non-Combat_Animations_93
+  - first:
+      213: 9150328890561445835
+    second: Paladin_Non-Combat_Animations_94
+  - first:
+      213: 738378508066238986
+    second: Paladin_Non-Combat_Animations_95
+  - first:
+      213: -8608589708522105539
+    second: Paladin_Non-Combat_Animations_96
+  - first:
+      213: 1243097105468699363
+    second: Paladin_Non-Combat_Animations_97
+  - first:
+      213: -1848652039267130424
+    second: Paladin_Non-Combat_Animations_98
+  - first:
+      213: 3124788814761642824
+    second: Paladin_Non-Combat_Animations_99
+  - first:
+      213: 703955134991682871
+    second: Paladin_Non-Combat_Animations_100
+  - first:
+      213: 4836221721971753365
+    second: Paladin_Non-Combat_Animations_101
+  - first:
+      213: -692185443108755782
+    second: Paladin_Non-Combat_Animations_102
+  - first:
+      213: -7341125594916958469
+    second: Paladin_Non-Combat_Animations_103
+  - first:
+      213: 1610619406555297439
+    second: Paladin_Non-Combat_Animations_104
+  - first:
+      213: 4793922417647352160
+    second: Paladin_Non-Combat_Animations_105
+  - first:
+      213: 4435136644816269527
+    second: Paladin_Non-Combat_Animations_106
+  - first:
+      213: -433424401349017273
+    second: Paladin_Non-Combat_Animations_107
+  - first:
+      213: 3716752275896062104
+    second: Paladin_Non-Combat_Animations_108
+  - first:
+      213: -2418965640205094221
+    second: Paladin_Non-Combat_Animations_109
+  - first:
+      213: 5157477761688834348
+    second: Paladin_Non-Combat_Animations_110
+  - first:
+      213: 8775993575526089629
+    second: Paladin_Non-Combat_Animations_111
+  - first:
+      213: -758220985489144266
+    second: Paladin_Non-Combat_Animations_112
+  - first:
+      213: 2029207562433107696
+    second: Paladin_Non-Combat_Animations_113
+  - first:
+      213: 4615899233427048320
+    second: Paladin_Non-Combat_Animations_114
+  - first:
+      213: 5315661858892163827
+    second: Paladin_Non-Combat_Animations_115
+  - first:
+      213: 7303788133409161208
+    second: Paladin_Non-Combat_Animations_116
+  - first:
+      213: -3564228325686592807
+    second: Paladin_Non-Combat_Animations_117
+  - first:
+      213: 7594516813622048742
+    second: Paladin_Non-Combat_Animations_118
+  - first:
+      213: -9047611675196603872
+    second: Paladin_Non-Combat_Animations_119
+  - first:
+      213: -3025648313030130719
+    second: Paladin_Non-Combat_Animations_120
+  - first:
+      213: 5526994799512803043
+    second: Paladin_Non-Combat_Animations_121
+  - first:
+      213: -6488168232912657286
+    second: Paladin_Non-Combat_Animations_122
+  - first:
+      213: 2788297786823496594
+    second: Paladin_Non-Combat_Animations_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 722
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9986baba6a018d510800000000000000
+      internalID: 1574026377796741273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 722
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebfd05bf8f7ab20800000000000000
+      internalID: 3145756623018901038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 723
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5dd52b53ea40050800000000000000
+      internalID: 5765924968590071225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 722
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc846f3a955987800800000000000000
+      internalID: 610401961744156876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 698
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df766c6cd1cecd0800000000000000
+      internalID: -2527612551292256866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 698
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f592e89b62b4dc0800000000000000
+      internalID: -3653784094285144284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 699
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6b9f32ef68f9410800000000000000
+      internalID: 1486054828138935996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 698
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d790519e4b52f120800000000000000
+      internalID: 2446117940619155413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 674
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa891a2164d8d3a50800000000000000
+      internalID: 6502508769092671663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 674
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16c83dc222a9cd70800000000000000
+      internalID: 9063953995415471643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 675
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe489105ba81ab1c0800000000000000
+      internalID: -4487246954658954001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 674
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00a4501e873dfb0800000000000000
+      internalID: -4624219484527656772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 652
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320c7314efbf95d80800000000000000
+      internalID: -8261294972000026589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 652
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d9b03771afa3d90800000000000000
+      internalID: -7117101282484314867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 652
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b78b1ba949cf220800000000000000
+      internalID: 2521053283548167018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 652
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03305cf8faf0c0d0800000000000000
+      internalID: -3404445371000147188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 625
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19672f15b7a04a800800000000000000
+      internalID: 622634173256070801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 627
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e6c8f4ca6f0070800000000000000
+      internalID: 8074790051118506295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 627
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047a1cd59ea23c370800000000000000
+      internalID: 8341558116609009472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 627
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e27fb0e6b0ef9d0800000000000000
+      internalID: -2738738956119626234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 601
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec88db80e0ad3b0800000000000000
+      internalID: -5487057765295141200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 603
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02131b015a1621400800000000000000
+      internalID: 293404287310049568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 603
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d46f662c0a393b0800000000000000
+      internalID: -5506881162532467456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 603
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143c37b22c366e020800000000000000
+      internalID: 2370691939460956993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 578
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086f2cbad4335a870800000000000000
+      internalID: 8693411064395789952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 579
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aca2bf5b788b04f0800000000000000
+      internalID: -861444840243417949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 578
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae43ff7242c31820800000000000000
+      internalID: 2887865376944901801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 577
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43d0bbf2465a4230800000000000000
+      internalID: 3623803695863485260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 555
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8800e9eb2d50505b0800000000000000
+      internalID: -5402905775261745016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 555
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6f61f85f0018290800000000000000
+      internalID: -7890024017508763930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 555
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ceea2dea2d96850800000000000000
+      internalID: 6370854796193098819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 555
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1536ac0d7d6e660800000000000000
+      internalID: 7414851128260776373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 531
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae15fc663225dd80800000000000000
+      internalID: -8226631527170761043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 532
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b48da485e87ddf0800000000000000
+      internalID: -155499152257037417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 531
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b682adf88d80b6820800000000000000
+      internalID: 2912431310244554859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 532
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95185471cfcf720c0800000000000000
+      internalID: -4600430334683283111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 507
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10d39d7fb1360fa0800000000000000
+      internalID: -5834921568696545253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 508
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaf0dd737d07adc0800000000000000
+      internalID: -3627916185140397405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 507
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e527e4d035d7c5330800000000000000
+      internalID: 3700970789450707550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 508
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c1bc22341a98c70800000000000000
+      internalID: 8973881042231041047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 483
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1ef5bd9d4826620800000000000000
+      internalID: 2765919192382169597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 485
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c2fe895c9932fa0800000000000000
+      internalID: -5826644418933871556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 483
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344fed5d21f6b8580800000000000000
+      internalID: -8823836918214101949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 485
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ee72f9c89de6c0800000000000000
+      internalID: -4112462891595142907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 459
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde4dffca32074a0800000000000000
+      internalID: -6597734228164284943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 461
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3db090464ab47b0800000000000000
+      internalID: -5238912991959985179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 459
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b23aaa8ac8641610800000000000000
+      internalID: 1591011787487720112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 461
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086115d854974e780800000000000000
+      internalID: -8654659244268644736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6832a0f235764980800000000000000
+      internalID: -8555021580497700755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 435
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0798551bc46f9ab20800000000000000
+      internalID: 3146316623948122480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 435
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f2bdc02eb6a7d30800000000000000
+      internalID: 4429971802094776143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 435
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e96a074a502a540800000000000000
+      internalID: 5017579138666896969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 411
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d487d4804d3f930800000000000000
+      internalID: 4175914411627138325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 411
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e05a5bbddb18500800000000000000
+      internalID: 396806993528294922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 411
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d1d5042ec7c3a50800000000000000
+      internalID: 6502209273200450909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 411
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7255a25a0845e8a0800000000000000
+      internalID: -6276531296497479042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 388
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2807d1fd2f9452c0800000000000000
+      internalID: -4443751912628090838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 387
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be97bcd2c063a8ad0800000000000000
+      internalID: -2699285600719373845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 388
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d419c1dc840ad3e0800000000000000
+      internalID: -2028303679315438381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_59
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 387
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0580351b2766f1fb0800000000000000
+      internalID: -4674905245399971760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 363
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d19665611fa70fc0800000000000000
+      internalID: -3528659293770968621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 363
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c2173aee8e1eee0800000000000000
+      internalID: -1233448711280841574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 363
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13cfa1c847b4750800000000000000
+      internalID: 6290249449650008538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 363
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9700280040fe6bf0800000000000000
+      internalID: -329061564946577509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 339
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b413d914b82a380800000000000000
+      internalID: -8961447194587477158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_65
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 339
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d11c0766fd74960800000000000000
+      internalID: 7586277728400252274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 339
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39b06e5c42a944f0800000000000000
+      internalID: -843965006270645955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_67
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 339
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925647f777e83d1b0800000000000000
+      internalID: -5633002065019771607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 315
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54288f02a2e3b5e00800000000000000
+      internalID: 1034488890074366533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_69
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 315
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b44735ce73116190800000000000000
+      internalID: -7971068430273526607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 315
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a0e49a1417b1370800000000000000
+      internalID: 8294347665560177219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 315
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c69d9ed5f47ab1c0800000000000000
+      internalID: -4487145479370598716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 292
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1585cf175ac5550800000000000000
+      internalID: 6150973100064788985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 291
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed6b771635d3680800000000000000
+      internalID: -8773764820962451863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_74
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 291
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68475ce49514e740800000000000000
+      internalID: 5180289200747399278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_75
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 291
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7f783e0ee663c0800000000000000
+      internalID: -4366541043844285639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 268
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724dc5d2e37797750800000000000000
+      internalID: 6303200262414455847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 268
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e7d1db1cfb328a0800000000000000
+      internalID: -6331005812330365405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_78
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 268
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1541a5c3edd71d7a0800000000000000
+      internalID: -6354159205794311087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 268
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cfa736452480310800000000000000
+      internalID: 1371419016748006521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 243
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3514846c06bd88b10800000000000000
+      internalID: 1984076844546670931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 243
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ef222e08e471da0800000000000000
+      internalID: -5974220065226949107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 243
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659a4947231fd2ee0800000000000000
+      internalID: -1284105119724164778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 243
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970ddc06a99258160800000000000000
+      internalID: 7027068536607330425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6619440c20464ce00800000000000000
+      internalID: 1064085374944711014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_85
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 219
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18aaa3292b63f4b0800000000000000
+      internalID: -5407860903105615844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_86
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 219
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87abf0b6450743960800000000000000
+      internalID: 7580807580647144056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_87
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 219
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb4dcf7f04801f00800000000000000
+      internalID: 1085512712299826155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b0e0ef69616fd0800000000000000
+      internalID: -2350481601275578175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 195
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68edd91d46ec661b0800000000000000
+      internalID: -5663612548962984314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 195
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2d34d5f6ec53430800000000000000
+      internalID: 3762140041439335086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_91
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 195
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13283a3c0483876d0800000000000000
+      internalID: -2992580101576359375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 172
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e699a26607aee1bf0800000000000000
+      internalID: -351585952417015442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_93
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 172
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f96642e20e38d0800000000000000
+      internalID: -2864849142093842667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 173
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb8eb35af7cfe70800000000000000
+      internalID: 9150328890561445835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_95
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 172
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02321b475f3f3a00800000000000000
+      internalID: 738378508066238986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_96
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 146
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35d4763545288880800000000000000
+      internalID: -8608589708522105539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_97
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 149
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e237c03b3e504110800000000000000
+      internalID: 1243097105468699363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_98
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 149
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36e2ec3c44856e0800000000000000
+      internalID: -1848652039267130424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 147
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b4bf50fda7d5b20800000000000000
+      internalID: 3124788814761642824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dcdfe2773f4c900800000000000000
+      internalID: 703955134991682871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_101
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 125
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59187216806bd1340800000000000000
+      internalID: 4836221721971753365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_102
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 125
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab66ec0c10dd466f0800000000000000
+      internalID: -692185443108755782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 123
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe42779a251f1a90800000000000000
+      internalID: -7341125594916958469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96341c11d11a5610800000000000000
+      internalID: 1610619406555297439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 101
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f6a02a0f678240800000000000000
+      internalID: 4793922417647352160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_106
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d07794b745cc8d30800000000000000
+      internalID: 4435136644816269527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_107
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7410b98adca2cf9f0800000000000000
+      internalID: -433424401349017273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890d8e2b08e849330800000000000000
+      internalID: 3716752275896062104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_109
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b233b3019b1e6ed0800000000000000
+      internalID: -2418965640205094221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_110
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 79
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c219072e2ba039740800000000000000
+      internalID: 5157477761688834348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c754e8a79ac970800000000000000
+      internalID: 8775993575526089629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_112
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 52
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6364caae7024a75f0800000000000000
+      internalID: -758220985489144266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_113
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f69c5ed681392c10800000000000000
+      internalID: 2029207562433107696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_114
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087ca6f85e7fe0040800000000000000
+      internalID: 4615899233427048320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 51
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa2c5d0c4605c940800000000000000
+      internalID: 5315661858892163827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_116
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff0963c944c5560800000000000000
+      internalID: 7303788133409161208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_117
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab01dc831598ec0800000000000000
+      internalID: -3564228325686592807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_118
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 26
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e77ca4fdc4256960800000000000000
+      internalID: 7594516813622048742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_119
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 26
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022ca322e1d607280800000000000000
+      internalID: -9047611675196603872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3449ec3ecb206d0800000000000000
+      internalID: -3025648313030130719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_121
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e65464ac74d3bc40800000000000000
+      internalID: 5526994799512803043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_122
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7464423e5565f5a0800000000000000
+      internalID: -6488168232912657286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Non-Combat_Animations_123
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2935f97601602b620800000000000000
+      internalID: 2788297786823496594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Paladin_Non-Combat_Animations_0: 1574026377796741273
+      Paladin_Non-Combat_Animations_1: 3145756623018901038
+      Paladin_Non-Combat_Animations_10: -4487246954658954001
+      Paladin_Non-Combat_Animations_100: 703955134991682871
+      Paladin_Non-Combat_Animations_101: 4836221721971753365
+      Paladin_Non-Combat_Animations_102: -692185443108755782
+      Paladin_Non-Combat_Animations_103: -7341125594916958469
+      Paladin_Non-Combat_Animations_104: 1610619406555297439
+      Paladin_Non-Combat_Animations_105: 4793922417647352160
+      Paladin_Non-Combat_Animations_106: 4435136644816269527
+      Paladin_Non-Combat_Animations_107: -433424401349017273
+      Paladin_Non-Combat_Animations_108: 3716752275896062104
+      Paladin_Non-Combat_Animations_109: -2418965640205094221
+      Paladin_Non-Combat_Animations_11: -4624219484527656772
+      Paladin_Non-Combat_Animations_110: 5157477761688834348
+      Paladin_Non-Combat_Animations_111: 8775993575526089629
+      Paladin_Non-Combat_Animations_112: -758220985489144266
+      Paladin_Non-Combat_Animations_113: 2029207562433107696
+      Paladin_Non-Combat_Animations_114: 4615899233427048320
+      Paladin_Non-Combat_Animations_115: 5315661858892163827
+      Paladin_Non-Combat_Animations_116: 7303788133409161208
+      Paladin_Non-Combat_Animations_117: -3564228325686592807
+      Paladin_Non-Combat_Animations_118: 7594516813622048742
+      Paladin_Non-Combat_Animations_119: -9047611675196603872
+      Paladin_Non-Combat_Animations_12: -8261294972000026589
+      Paladin_Non-Combat_Animations_120: -3025648313030130719
+      Paladin_Non-Combat_Animations_121: 5526994799512803043
+      Paladin_Non-Combat_Animations_122: -6488168232912657286
+      Paladin_Non-Combat_Animations_123: 2788297786823496594
+      Paladin_Non-Combat_Animations_13: -7117101282484314867
+      Paladin_Non-Combat_Animations_14: 2521053283548167018
+      Paladin_Non-Combat_Animations_15: -3404445371000147188
+      Paladin_Non-Combat_Animations_16: 622634173256070801
+      Paladin_Non-Combat_Animations_17: 8074790051118506295
+      Paladin_Non-Combat_Animations_18: 8341558116609009472
+      Paladin_Non-Combat_Animations_19: -2738738956119626234
+      Paladin_Non-Combat_Animations_2: 5765924968590071225
+      Paladin_Non-Combat_Animations_20: -5487057765295141200
+      Paladin_Non-Combat_Animations_21: 293404287310049568
+      Paladin_Non-Combat_Animations_22: -5506881162532467456
+      Paladin_Non-Combat_Animations_23: 2370691939460956993
+      Paladin_Non-Combat_Animations_24: 8693411064395789952
+      Paladin_Non-Combat_Animations_25: -861444840243417949
+      Paladin_Non-Combat_Animations_26: 2887865376944901801
+      Paladin_Non-Combat_Animations_27: 3623803695863485260
+      Paladin_Non-Combat_Animations_28: -5402905775261745016
+      Paladin_Non-Combat_Animations_29: -7890024017508763930
+      Paladin_Non-Combat_Animations_3: 610401961744156876
+      Paladin_Non-Combat_Animations_30: 6370854796193098819
+      Paladin_Non-Combat_Animations_31: 7414851128260776373
+      Paladin_Non-Combat_Animations_32: -8226631527170761043
+      Paladin_Non-Combat_Animations_33: -155499152257037417
+      Paladin_Non-Combat_Animations_34: 2912431310244554859
+      Paladin_Non-Combat_Animations_35: -4600430334683283111
+      Paladin_Non-Combat_Animations_36: -5834921568696545253
+      Paladin_Non-Combat_Animations_37: -3627916185140397405
+      Paladin_Non-Combat_Animations_38: 3700970789450707550
+      Paladin_Non-Combat_Animations_39: 8973881042231041047
+      Paladin_Non-Combat_Animations_4: -2527612551292256866
+      Paladin_Non-Combat_Animations_40: 2765919192382169597
+      Paladin_Non-Combat_Animations_41: -5826644418933871556
+      Paladin_Non-Combat_Animations_42: -8823836918214101949
+      Paladin_Non-Combat_Animations_43: -4112462891595142907
+      Paladin_Non-Combat_Animations_44: -6597734228164284943
+      Paladin_Non-Combat_Animations_45: -5238912991959985179
+      Paladin_Non-Combat_Animations_46: 1591011787487720112
+      Paladin_Non-Combat_Animations_47: -8654659244268644736
+      Paladin_Non-Combat_Animations_48: -8555021580497700755
+      Paladin_Non-Combat_Animations_49: 3146316623948122480
+      Paladin_Non-Combat_Animations_5: -3653784094285144284
+      Paladin_Non-Combat_Animations_50: 4429971802094776143
+      Paladin_Non-Combat_Animations_51: 5017579138666896969
+      Paladin_Non-Combat_Animations_52: 4175914411627138325
+      Paladin_Non-Combat_Animations_53: 396806993528294922
+      Paladin_Non-Combat_Animations_54: 6502209273200450909
+      Paladin_Non-Combat_Animations_55: -6276531296497479042
+      Paladin_Non-Combat_Animations_56: -4443751912628090838
+      Paladin_Non-Combat_Animations_57: -2699285600719373845
+      Paladin_Non-Combat_Animations_58: -2028303679315438381
+      Paladin_Non-Combat_Animations_59: -4674905245399971760
+      Paladin_Non-Combat_Animations_6: 1486054828138935996
+      Paladin_Non-Combat_Animations_60: -3528659293770968621
+      Paladin_Non-Combat_Animations_61: -1233448711280841574
+      Paladin_Non-Combat_Animations_62: 6290249449650008538
+      Paladin_Non-Combat_Animations_63: -329061564946577509
+      Paladin_Non-Combat_Animations_64: -8961447194587477158
+      Paladin_Non-Combat_Animations_65: 7586277728400252274
+      Paladin_Non-Combat_Animations_66: -843965006270645955
+      Paladin_Non-Combat_Animations_67: -5633002065019771607
+      Paladin_Non-Combat_Animations_68: 1034488890074366533
+      Paladin_Non-Combat_Animations_69: -7971068430273526607
+      Paladin_Non-Combat_Animations_7: 2446117940619155413
+      Paladin_Non-Combat_Animations_70: 8294347665560177219
+      Paladin_Non-Combat_Animations_71: -4487145479370598716
+      Paladin_Non-Combat_Animations_72: 6150973100064788985
+      Paladin_Non-Combat_Animations_73: -8773764820962451863
+      Paladin_Non-Combat_Animations_74: 5180289200747399278
+      Paladin_Non-Combat_Animations_75: -4366541043844285639
+      Paladin_Non-Combat_Animations_76: 6303200262414455847
+      Paladin_Non-Combat_Animations_77: -6331005812330365405
+      Paladin_Non-Combat_Animations_78: -6354159205794311087
+      Paladin_Non-Combat_Animations_79: 1371419016748006521
+      Paladin_Non-Combat_Animations_8: 6502508769092671663
+      Paladin_Non-Combat_Animations_80: 1984076844546670931
+      Paladin_Non-Combat_Animations_81: -5974220065226949107
+      Paladin_Non-Combat_Animations_82: -1284105119724164778
+      Paladin_Non-Combat_Animations_83: 7027068536607330425
+      Paladin_Non-Combat_Animations_84: 1064085374944711014
+      Paladin_Non-Combat_Animations_85: -5407860903105615844
+      Paladin_Non-Combat_Animations_86: 7580807580647144056
+      Paladin_Non-Combat_Animations_87: 1085512712299826155
+      Paladin_Non-Combat_Animations_88: -2350481601275578175
+      Paladin_Non-Combat_Animations_89: -5663612548962984314
+      Paladin_Non-Combat_Animations_9: 9063953995415471643
+      Paladin_Non-Combat_Animations_90: 3762140041439335086
+      Paladin_Non-Combat_Animations_91: -2992580101576359375
+      Paladin_Non-Combat_Animations_92: -351585952417015442
+      Paladin_Non-Combat_Animations_93: -2864849142093842667
+      Paladin_Non-Combat_Animations_94: 9150328890561445835
+      Paladin_Non-Combat_Animations_95: 738378508066238986
+      Paladin_Non-Combat_Animations_96: -8608589708522105539
+      Paladin_Non-Combat_Animations_97: 1243097105468699363
+      Paladin_Non-Combat_Animations_98: -1848652039267130424
+      Paladin_Non-Combat_Animations_99: 3124788814761642824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

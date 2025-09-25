@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: 46612f9451efdb94587bb3567d7e06aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4024214008805348597
+    second: Artun_0
+  - first:
+      213: -5748952093917084791
+    second: Artun_1
+  - first:
+      213: 8646031491521900388
+    second: Artun_2
+  - first:
+      213: -3098142504400948752
+    second: Artun_3
+  - first:
+      213: 8949929857212945968
+    second: Artun_4
+  - first:
+      213: 8217224421325408245
+    second: Artun_5
+  - first:
+      213: -5671610552457657492
+    second: Artun_6
+  - first:
+      213: 5710850164253343708
+    second: Artun_7
+  - first:
+      213: -891910083462305474
+    second: Artun_8
+  - first:
+      213: -5040734001326154764
+    second: Artun_9
+  - first:
+      213: -4519265978387590215
+    second: Artun_10
+  - first:
+      213: -7092180814141742441
+    second: Artun_11
+  - first:
+      213: 1599298094212098730
+    second: Artun_12
+  - first:
+      213: -684125169795741141
+    second: Artun_13
+  - first:
+      213: -5617303985198314439
+    second: Artun_14
+  - first:
+      213: -5244079453281666226
+    second: Artun_15
+  - first:
+      213: -5745951528652694662
+    second: Artun_16
+  - first:
+      213: 1572325319708199941
+    second: Artun_17
+  - first:
+      213: 6640186876674809211
+    second: Artun_18
+  - first:
+      213: -5981478987338402386
+    second: Artun_19
+  - first:
+      213: -6346152227090679533
+    second: Artun_20
+  - first:
+      213: 3883867623273537586
+    second: Artun_21
+  - first:
+      213: -1863688159085516820
+    second: Artun_22
+  - first:
+      213: 2529530190389764980
+    second: Artun_23
+  - first:
+      213: -6944890607428379268
+    second: Artun_24
+  - first:
+      213: -2535358093943550593
+    second: Artun_25
+  - first:
+      213: -1247634829939067886
+    second: Artun_26
+  - first:
+      213: -761499457286406856
+    second: Artun_27
+  - first:
+      213: -2885361950013599634
+    second: Artun_28
+  - first:
+      213: 769291088035168513
+    second: Artun_29
+  - first:
+      213: -2185957902270550649
+    second: Artun_30
+  - first:
+      213: -4116294478159081571
+    second: Artun_31
+  - first:
+      213: -2157609012006031519
+    second: Artun_32
+  - first:
+      213: -302965866583850619
+    second: Artun_33
+  - first:
+      213: -7691527819229447291
+    second: Artun_34
+  - first:
+      213: -3910942183369521583
+    second: Artun_35
+  - first:
+      213: -2975637937496663714
+    second: Artun_36
+  - first:
+      213: 3634213408225919350
+    second: Artun_37
+  - first:
+      213: -386215065959601992
+    second: Artun_38
+  - first:
+      213: 4557197080142373729
+    second: Artun_39
+  - first:
+      213: 7573002187106153520
+    second: Artun_40
+  - first:
+      213: -6915045856751877055
+    second: Artun_41
+  - first:
+      213: 1637676167976150866
+    second: Artun_42
+  - first:
+      213: 1591329497983017023
+    second: Artun_43
+  - first:
+      213: -4494347136842044907
+    second: Artun_44
+  - first:
+      213: -3939740563138685074
+    second: Artun_45
+  - first:
+      213: 1576174649567953720
+    second: Artun_46
+  - first:
+      213: 3709756693928300503
+    second: Artun_47
+  - first:
+      213: 4360695678624342190
+    second: Artun_48
+  - first:
+      213: -167911786089750312
+    second: Artun_49
+  - first:
+      213: -8953428284057844718
+    second: Artun_50
+  - first:
+      213: -682476022319001125
+    second: Artun_51
+  - first:
+      213: 5328881261393726111
+    second: Artun_52
+  - first:
+      213: 3450497959198209490
+    second: Artun_53
+  - first:
+      213: -5546092915687753953
+    second: Artun_54
+  - first:
+      213: -824550554628393579
+    second: Artun_55
+  - first:
+      213: -1016004700957120241
+    second: Artun_56
+  - first:
+      213: 8030549509487570544
+    second: Artun_57
+  - first:
+      213: -1888096879239865366
+    second: Artun_58
+  - first:
+      213: 6878520453686064007
+    second: Artun_59
+  - first:
+      213: -1702900737932865010
+    second: Artun_60
+  - first:
+      213: -1939898262873578132
+    second: Artun_61
+  - first:
+      213: 6233350647810096449
+    second: Artun_62
+  - first:
+      213: -7959979216103380826
+    second: Artun_63
+  - first:
+      213: -2755736353939682199
+    second: Artun_64
+  - first:
+      213: 3251043200396492370
+    second: Artun_65
+  - first:
+      213: 5926600125383706536
+    second: Artun_66
+  - first:
+      213: -309170272102611452
+    second: Artun_67
+  - first:
+      213: -8098968874894243418
+    second: Artun_68
+  - first:
+      213: 1690558707567465655
+    second: Artun_69
+  - first:
+      213: 7581421859722554875
+    second: Artun_70
+  - first:
+      213: -7563091478967124557
+    second: Artun_71
+  - first:
+      213: 8185793830881895285
+    second: Artun_72
+  - first:
+      213: -2514654633503901000
+    second: Artun_73
+  - first:
+      213: 5351175731723644587
+    second: Artun_74
+  - first:
+      213: -3263397561838588342
+    second: Artun_75
+  - first:
+      213: 3263311705752844112
+    second: Artun_76
+  - first:
+      213: 8585431370206918126
+    second: Artun_77
+  - first:
+      213: 3937538782668767192
+    second: Artun_78
+  - first:
+      213: 3153390817337584552
+    second: Artun_79
+  - first:
+      213: -6213373175709946082
+    second: Artun_80
+  - first:
+      213: -5630489352474091694
+    second: Artun_81
+  - first:
+      213: 8296070889346198390
+    second: Artun_82
+  - first:
+      213: 7738374846900446268
+    second: Artun_83
+  - first:
+      213: -2230856086248350147
+    second: Artun_84
+  - first:
+      213: 7632469126589365299
+    second: Artun_85
+  - first:
+      213: -7222696878852154215
+    second: Artun_86
+  - first:
+      213: 7225122773028143359
+    second: Artun_87
+  - first:
+      213: -7507078982744827684
+    second: Artun_88
+  - first:
+      213: 1764730997353136011
+    second: Artun_89
+  - first:
+      213: 7009765336299621254
+    second: Artun_90
+  - first:
+      213: 784334289399051797
+    second: Artun_91
+  - first:
+      213: 5602391967860912723
+    second: Artun_92
+  - first:
+      213: -7785565142434406511
+    second: Artun_93
+  - first:
+      213: 984140052488304493
+    second: Artun_94
+  - first:
+      213: -5415159084302895131
+    second: Artun_95
+  - first:
+      213: -3254405295923881681
+    second: Artun_96
+  - first:
+      213: 4001384545824180194
+    second: Artun_97
+  - first:
+      213: -6863011001603008459
+    second: Artun_98
+  - first:
+      213: -4942807828298182222
+    second: Artun_99
+  - first:
+      213: 3033459165894445365
+    second: Artun_100
+  - first:
+      213: 3106332557748718867
+    second: Artun_101
+  - first:
+      213: 774671096355398052
+    second: Artun_102
+  - first:
+      213: -6355194880129079915
+    second: Artun_103
+  - first:
+      213: -8858896278355858312
+    second: Artun_104
+  - first:
+      213: 4919183534148886384
+    second: Artun_105
+  - first:
+      213: -8663966182277241247
+    second: Artun_106
+  - first:
+      213: 8405428266506756823
+    second: Artun_107
+  - first:
+      213: -7363564292162002847
+    second: Artun_108
+  - first:
+      213: 7547267977993524055
+    second: Artun_109
+  - first:
+      213: 9201126375630653927
+    second: Artun_110
+  - first:
+      213: 9107317124524820793
+    second: Artun_111
+  - first:
+      213: 6365770958741546982
+    second: Artun_112
+  - first:
+      213: 162539940844229524
+    second: Artun_113
+  - first:
+      213: -5808941723250187225
+    second: Artun_114
+  - first:
+      213: -234975170346636934
+    second: Artun_115
+  - first:
+      213: -571649192457277535
+    second: Artun_116
+  - first:
+      213: -1439884792705711859
+    second: Artun_117
+  - first:
+      213: -9065100571354637473
+    second: Artun_118
+  - first:
+      213: 3882748710944987028
+    second: Artun_119
+  - first:
+      213: -7356980407800712613
+    second: Artun_120
+  - first:
+      213: -2995613047144004605
+    second: Artun_121
+  - first:
+      213: -505418991130177173
+    second: Artun_122
+  - first:
+      213: 1787904570342947653
+    second: Artun_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Artun_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 479
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f45efed151e8d730800000000000000
+      internalID: 4024214008805348597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 479
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838553a78e9730b0800000000000000
+      internalID: -5748952093917084791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 479
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fe00935dfdcf770800000000000000
+      internalID: 8646031491521900388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 463
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f174a19ecf2105d0800000000000000
+      internalID: -3098142504400948752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 479
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03617df49c9843c70800000000000000
+      internalID: 8949929857212945968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 463
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f704c01312790270800000000000000
+      internalID: 8217224421325408245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 463
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63876480446a41b0800000000000000
+      internalID: -5671610552457657492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 463
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf3dcd87f3014f40800000000000000
+      internalID: 5710850164253343708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39e3af218c4f93f0800000000000000
+      internalID: -891910083462305474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb98bbf127bb0ab0800000000000000
+      internalID: -5040734001326154764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b313b869875841c0800000000000000
+      internalID: -4519265978387590215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792ad322023839d90800000000000000
+      internalID: -7092180814141742441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaa87ba429d13610800000000000000
+      internalID: 1599298094212098730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2acb6068cf7186f0800000000000000
+      internalID: -684125169795741141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c4ed689c35b02b0800000000000000
+      internalID: -5617303985198314439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 432
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bb83585894937b0800000000000000
+      internalID: -5244079453281666226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 415
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b1b0e27874240b0800000000000000
+      internalID: -5745951528652694662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c4f883c8502d510800000000000000
+      internalID: 1572325319708199941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 399
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d996a78cea62c50800000000000000
+      internalID: 6640186876674809211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 415
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea53b306d848dfca0800000000000000
+      internalID: -5981478987338402386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319b4bd3c20fde7a0800000000000000
+      internalID: -6346152227090679533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 399
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2302cd7960546e530800000000000000
+      internalID: 3883867623273537586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 399
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce72b995e79d226e0800000000000000
+      internalID: -1863688159085516820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 384
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473eece5e42ba1320800000000000000
+      internalID: 2529530190389764980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 384
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dd844c9cace9f90800000000000000
+      internalID: -6944890607428379268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 399
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d45181f3990dcd0800000000000000
+      internalID: -2535358093943550593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214b3108bb28faee0800000000000000
+      internalID: -1247634829939067886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d7ac7374c9e65f0800000000000000
+      internalID: -761499457286406856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d201089225f7d0800000000000000
+      internalID: -2885361950013599634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c53f2b221daa00800000000000000
+      internalID: 769291088035168513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78da43d9edae9a1e0800000000000000
+      internalID: -2185957902270550649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 367
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f0d6e2bfbffd6c0800000000000000
+      internalID: -4116294478159081571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 352
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fe23bf802ae02e0800000000000000
+      internalID: -2157609012006031519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 367
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58183374626abcbf0800000000000000
+      internalID: -302965866583850619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 351
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b3bca2334324590800000000000000
+      internalID: -7691527819229447291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 352
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1564b272eca89b9c0800000000000000
+      internalID: -3910942183369521583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59d55bbf0964b6d0800000000000000
+      internalID: -2975637937496663714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 336
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671844307d15f6230800000000000000
+      internalID: 3634213408225919350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8e29a9173e3aaf0800000000000000
+      internalID: -386215065959601992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 335
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163655d699a6e3f30800000000000000
+      internalID: 4557197080142373729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034f7bd9d55b81960800000000000000
+      internalID: 7573002187106153520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 321
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14484c64e62d800a0800000000000000
+      internalID: -6915045856751877055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 319
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25767594cc13ab610800000000000000
+      internalID: 1637676167976150866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30e0e74fb9851610800000000000000
+      internalID: 1591329497983017023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 305
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a6c33571fd0a1c0800000000000000
+      internalID: -4494347136842044907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 319
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67dbead4da3359c0800000000000000
+      internalID: -3939740563138685074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833497b2e72bfd510800000000000000
+      internalID: 1576174649567953720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df49b8de04bb7330800000000000000
+      internalID: 3709756693928300503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea02cf1ad9d448c30800000000000000
+      internalID: 4360695678624342190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0e484ce157badf0800000000000000
+      internalID: -167911786089750312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2140cc6b9680fb380800000000000000
+      internalID: -8953428284057844718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd154f17cab5786f0800000000000000
+      internalID: -682476022319001125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9acb9b064df3f940800000000000000
+      internalID: 5328881261393726111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53834cc91a2ef20800000000000000
+      internalID: 3450497959198209490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17fe1da0e15803b0800000000000000
+      internalID: -5546092915687753953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595f504a3ab9e84f0800000000000000
+      internalID: -824550554628393579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09e2558b1d66e1f0800000000000000
+      internalID: -1016004700957120241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ea1303b3e327f60800000000000000
+      internalID: 8030549509487570544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb526354e12cc5e0800000000000000
+      internalID: -1888096879239865366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783773e98e9657f50800000000000000
+      internalID: 6878520453686064007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02d2cb1dc41e58e0800000000000000
+      internalID: -1702900737932865010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e505dec81415e0800000000000000
+      internalID: -1939898262873578132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dfb23736f418650800000000000000
+      internalID: 6233350647810096449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a86aa4a319788190800000000000000
+      internalID: -7959979216103380826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8bc8f268a1c9d0800000000000000
+      internalID: -2755736353939682199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ef415e0960e1d20800000000000000
+      internalID: 3251043200396492370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 223
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7084fd9638f3250800000000000000
+      internalID: 5926600125383706536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406863c864b95bbf0800000000000000
+      internalID: -309170272102611452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 223
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9cbfce7beaa9f80800000000000000
+      internalID: -8098968874894243418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b490840032167710800000000000000
+      internalID: 1690558707567465655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfde429630f963960800000000000000
+      internalID: 7581421859722554875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd7160fe508a0790800000000000000
+      internalID: -7563091478967124557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ac467e18c99170800000000000000
+      internalID: 8185793830881895285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bab53d1fe62a1dd0800000000000000
+      internalID: -2514654633503901000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae241ce9f1334a40800000000000000
+      internalID: 5351175731723644587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e2cbd253516b2d0800000000000000
+      internalID: -3263397561838588342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b5c4e4bc994d20800000000000000
+      internalID: 3263311705752844112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5bda8f754952770800000000000000
+      internalID: 8585431370206918126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 176
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfbb4e29a2f4a630800000000000000
+      internalID: 3937538782668767192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 176
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba261bd3813cb20800000000000000
+      internalID: 3153390817337584552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f2edc340aa5c9a0800000000000000
+      internalID: -6213373175709946082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f992af3cb7cd1b0800000000000000
+      internalID: -5630489352474091694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b60f6f480912370800000000000000
+      internalID: 8296070889346198390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_83
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34a1507cea346b60800000000000000
+      internalID: 7738374846900446268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e162a85386a01e0800000000000000
+      internalID: -2230856086248350147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cbe796b3afbe960800000000000000
+      internalID: 7632469126589365299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cd1b7c473d3cb90800000000000000
+      internalID: -7222696878852154215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_87
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 159
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff08de8b1eac44460800000000000000
+      internalID: 7225122773028143359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd891bc707f71d790800000000000000
+      internalID: -7507078982744827684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fba5dfd759d7810800000000000000
+      internalID: 1764730997353136011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4cfc1f60b74160800000000000000
+      internalID: 7009765336299621254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516f9c071e382ea00800000000000000
+      internalID: 784334289399051797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 113
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f9d0efc1bfbd40800000000000000
+      internalID: 5602391967860912723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f988da0cd14f390800000000000000
+      internalID: -7785565142434406511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_94
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67bccdd92e58ad00800000000000000
+      internalID: 984140052488304493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e775e9e08d79d4b0800000000000000
+      internalID: -5415159084302895131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f299e4d30a706d2d0800000000000000
+      internalID: -3254405295923881681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7869f4b06c78730800000000000000
+      internalID: 4001384545824180194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538dad71bdfa1c0a0800000000000000
+      internalID: -6863011001603008459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b15441e77e976bb0800000000000000
+      internalID: -4942807828298182222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5398ac71a03091a20800000000000000
+      internalID: 3033459165894445365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc7d2d009eb1b20800000000000000
+      internalID: 3106332557748718867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_102
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1a60cf14f20ca00800000000000000
+      internalID: 774671096355398052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59566838defcdc7a0800000000000000
+      internalID: -6355194880129079915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ca19275c0ee0580800000000000000
+      internalID: -8858896278355858312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f15e18c53744440800000000000000
+      internalID: 4919183534148886384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_106
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1662e5f29a863c780800000000000000
+      internalID: -8663966182277241247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2a92a797416a470800000000000000
+      internalID: 8405428266506756823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160eee44a4d5fc990800000000000000
+      internalID: -7363564292162002847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531cf42d384db860800000000000000
+      internalID: 7547267977993524055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 52
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e941f060b7f0bf70800000000000000
+      internalID: 9201126375630653927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93942201ca0b36e70800000000000000
+      internalID: 9107317124524820793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7a94da5f2c75850800000000000000
+      internalID: 6365770958741546982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49355db0735714200800000000000000
+      internalID: 162539940844229524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242ab0a74e726fa0800000000000000
+      internalID: -5808941723250187225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79a378d3533dbcf0800000000000000
+      internalID: -234975170346636934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe17396181118f0800000000000000
+      internalID: -571649192457277535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_117
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010a4de860840ce0800000000000000
+      internalID: -1439884792705711859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_118
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b573f2f0b423280800000000000000
+      internalID: -9065100571354637473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_119
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4975bf3816b42e530800000000000000
+      internalID: 3882748710944987028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b78d4c41c6e990800000000000000
+      internalID: -7356980407800712613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c4781ec17d66d0800000000000000
+      internalID: -2995613047144004605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_122
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6113fafa146cf8f0800000000000000
+      internalID: -505418991130177173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_123
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb697ebb9efc810800000000000000
+      internalID: 1787904570342947653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Artun_0: 4024214008805348597
+      Artun_1: -5748952093917084791
+      Artun_10: -4519265978387590215
+      Artun_100: 3033459165894445365
+      Artun_101: 3106332557748718867
+      Artun_102: 774671096355398052
+      Artun_103: -6355194880129079915
+      Artun_104: -8858896278355858312
+      Artun_105: 4919183534148886384
+      Artun_106: -8663966182277241247
+      Artun_107: 8405428266506756823
+      Artun_108: -7363564292162002847
+      Artun_109: 7547267977993524055
+      Artun_11: -7092180814141742441
+      Artun_110: 9201126375630653927
+      Artun_111: 9107317124524820793
+      Artun_112: 6365770958741546982
+      Artun_113: 162539940844229524
+      Artun_114: -5808941723250187225
+      Artun_115: -234975170346636934
+      Artun_116: -571649192457277535
+      Artun_117: -1439884792705711859
+      Artun_118: -9065100571354637473
+      Artun_119: 3882748710944987028
+      Artun_12: 1599298094212098730
+      Artun_120: -7356980407800712613
+      Artun_121: -2995613047144004605
+      Artun_122: -505418991130177173
+      Artun_123: 1787904570342947653
+      Artun_13: -684125169795741141
+      Artun_14: -5617303985198314439
+      Artun_15: -5244079453281666226
+      Artun_16: -5745951528652694662
+      Artun_17: 1572325319708199941
+      Artun_18: 6640186876674809211
+      Artun_19: -5981478987338402386
+      Artun_2: 8646031491521900388
+      Artun_20: -6346152227090679533
+      Artun_21: 3883867623273537586
+      Artun_22: -1863688159085516820
+      Artun_23: 2529530190389764980
+      Artun_24: -6944890607428379268
+      Artun_25: -2535358093943550593
+      Artun_26: -1247634829939067886
+      Artun_27: -761499457286406856
+      Artun_28: -2885361950013599634
+      Artun_29: 769291088035168513
+      Artun_3: -3098142504400948752
+      Artun_30: -2185957902270550649
+      Artun_31: -4116294478159081571
+      Artun_32: -2157609012006031519
+      Artun_33: -302965866583850619
+      Artun_34: -7691527819229447291
+      Artun_35: -3910942183369521583
+      Artun_36: -2975637937496663714
+      Artun_37: 3634213408225919350
+      Artun_38: -386215065959601992
+      Artun_39: 4557197080142373729
+      Artun_4: 8949929857212945968
+      Artun_40: 7573002187106153520
+      Artun_41: -6915045856751877055
+      Artun_42: 1637676167976150866
+      Artun_43: 1591329497983017023
+      Artun_44: -4494347136842044907
+      Artun_45: -3939740563138685074
+      Artun_46: 1576174649567953720
+      Artun_47: 3709756693928300503
+      Artun_48: 4360695678624342190
+      Artun_49: -167911786089750312
+      Artun_5: 8217224421325408245
+      Artun_50: -8953428284057844718
+      Artun_51: -682476022319001125
+      Artun_52: 5328881261393726111
+      Artun_53: 3450497959198209490
+      Artun_54: -5546092915687753953
+      Artun_55: -824550554628393579
+      Artun_56: -1016004700957120241
+      Artun_57: 8030549509487570544
+      Artun_58: -1888096879239865366
+      Artun_59: 6878520453686064007
+      Artun_6: -5671610552457657492
+      Artun_60: -1702900737932865010
+      Artun_61: -1939898262873578132
+      Artun_62: 6233350647810096449
+      Artun_63: -7959979216103380826
+      Artun_64: -2755736353939682199
+      Artun_65: 3251043200396492370
+      Artun_66: 5926600125383706536
+      Artun_67: -309170272102611452
+      Artun_68: -8098968874894243418
+      Artun_69: 1690558707567465655
+      Artun_7: 5710850164253343708
+      Artun_70: 7581421859722554875
+      Artun_71: -7563091478967124557
+      Artun_72: 8185793830881895285
+      Artun_73: -2514654633503901000
+      Artun_74: 5351175731723644587
+      Artun_75: -3263397561838588342
+      Artun_76: 3263311705752844112
+      Artun_77: 8585431370206918126
+      Artun_78: 3937538782668767192
+      Artun_79: 3153390817337584552
+      Artun_8: -891910083462305474
+      Artun_80: -6213373175709946082
+      Artun_81: -5630489352474091694
+      Artun_82: 8296070889346198390
+      Artun_83: 7738374846900446268
+      Artun_84: -2230856086248350147
+      Artun_85: 7632469126589365299
+      Artun_86: -7222696878852154215
+      Artun_87: 7225122773028143359
+      Artun_88: -7507078982744827684
+      Artun_89: 1764730997353136011
+      Artun_9: -5040734001326154764
+      Artun_90: 7009765336299621254
+      Artun_91: 784334289399051797
+      Artun_92: 5602391967860912723
+      Artun_93: -7785565142434406511
+      Artun_94: 984140052488304493
+      Artun_95: -5415159084302895131
+      Artun_96: -3254405295923881681
+      Artun_97: 4001384545824180194
+      Artun_98: -6863011001603008459
+      Artun_99: -4942807828298182222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

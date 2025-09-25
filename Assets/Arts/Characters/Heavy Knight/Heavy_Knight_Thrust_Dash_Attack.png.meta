@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: 107b80faa9821364686cb629171c3f14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2422776207452967462
+    second: Heavy_Knight_Thrust_Dash_Attack_0
+  - first:
+      213: -1704897657782260759
+    second: Heavy_Knight_Thrust_Dash_Attack_1
+  - first:
+      213: -315548033490333160
+    second: Heavy_Knight_Thrust_Dash_Attack_2
+  - first:
+      213: 579113827440002562
+    second: Heavy_Knight_Thrust_Dash_Attack_3
+  - first:
+      213: 4231594229209003419
+    second: Heavy_Knight_Thrust_Dash_Attack_4
+  - first:
+      213: -8083607818638801468
+    second: Heavy_Knight_Thrust_Dash_Attack_5
+  - first:
+      213: -5453312167241268399
+    second: Heavy_Knight_Thrust_Dash_Attack_6
+  - first:
+      213: -2778228525864935351
+    second: Heavy_Knight_Thrust_Dash_Attack_7
+  - first:
+      213: -7451368553661364976
+    second: Heavy_Knight_Thrust_Dash_Attack_8
+  - first:
+      213: 6918077106082390606
+    second: Heavy_Knight_Thrust_Dash_Attack_9
+  - first:
+      213: 5633355971013434024
+    second: Heavy_Knight_Thrust_Dash_Attack_10
+  - first:
+      213: -2334505793404413507
+    second: Heavy_Knight_Thrust_Dash_Attack_11
+  - first:
+      213: -2551556311686035938
+    second: Heavy_Knight_Thrust_Dash_Attack_12
+  - first:
+      213: 3998192764243221828
+    second: Heavy_Knight_Thrust_Dash_Attack_13
+  - first:
+      213: -4252747928829274819
+    second: Heavy_Knight_Thrust_Dash_Attack_14
+  - first:
+      213: 5661729500567352199
+    second: Heavy_Knight_Thrust_Dash_Attack_15
+  - first:
+      213: 8826391100351284486
+    second: Heavy_Knight_Thrust_Dash_Attack_16
+  - first:
+      213: -7022718249451425410
+    second: Heavy_Knight_Thrust_Dash_Attack_17
+  - first:
+      213: -5527746307548765674
+    second: Heavy_Knight_Thrust_Dash_Attack_18
+  - first:
+      213: 5007522623627202772
+    second: Heavy_Knight_Thrust_Dash_Attack_19
+  - first:
+      213: 5023519532149863808
+    second: Heavy_Knight_Thrust_Dash_Attack_20
+  - first:
+      213: 3265022477701729226
+    second: Heavy_Knight_Thrust_Dash_Attack_21
+  - first:
+      213: -6287733264023162885
+    second: Heavy_Knight_Thrust_Dash_Attack_22
+  - first:
+      213: -2783098854421532165
+    second: Heavy_Knight_Thrust_Dash_Attack_23
+  - first:
+      213: 4232856734836475409
+    second: Heavy_Knight_Thrust_Dash_Attack_24
+  - first:
+      213: 8340096365792829315
+    second: Heavy_Knight_Thrust_Dash_Attack_25
+  - first:
+      213: 6740755673005823573
+    second: Heavy_Knight_Thrust_Dash_Attack_26
+  - first:
+      213: 4259420382267323595
+    second: Heavy_Knight_Thrust_Dash_Attack_27
+  - first:
+      213: -6801088752140782348
+    second: Heavy_Knight_Thrust_Dash_Attack_28
+  - first:
+      213: -1019753273338872050
+    second: Heavy_Knight_Thrust_Dash_Attack_29
+  - first:
+      213: -3387589521394584188
+    second: Heavy_Knight_Thrust_Dash_Attack_30
+  - first:
+      213: 2632664026769334118
+    second: Heavy_Knight_Thrust_Dash_Attack_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add6f7030e1906ed0800000000000000
+      internalID: -2422776207452967462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2e79fc9cf658e0800000000000000
+      internalID: -1704897657782260759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8125c324cb2fe9bf0800000000000000
+      internalID: -315548033490333160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206041135fc690800800000000000000
+      internalID: 579113827440002562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9578911884a9ba30800000000000000
+      internalID: 4231594229209003419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5c67a848141df80800000000000000
+      internalID: -8083607818638801468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c44e0a71f154b0800000000000000
+      internalID: -5453312167241268399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940a6fa10efb179d0800000000000000
+      internalID: -2778228525864935351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0158f7c87cb679890800000000000000
+      internalID: -7451368553661364976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42adc47972f10060800000000000000
+      internalID: 6918077106082390606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aad499a863bd2e40800000000000000
+      internalID: 5633355971013434024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d902895b2a9fd0800000000000000
+      internalID: -2334505793404413507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e164c81ad0d079cd0800000000000000
+      internalID: -2551556311686035938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d1140c22f6c7730800000000000000
+      internalID: 3998192764243221828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d355ade6a443bf4c0800000000000000
+      internalID: -4252747928829274819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783baafcbf0829e40800000000000000
+      internalID: 5661729500567352199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6058b1901f3ad7a70800000000000000
+      internalID: 8826391100351284486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e717bc7c5fa4a8e90800000000000000
+      internalID: -7022718249451425410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612241245008943b0800000000000000
+      internalID: -5527746307548765674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d018029b4b4e7540800000000000000
+      internalID: 5007522623627202772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0857704166027b540800000000000000
+      internalID: 5023519532149863808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbc31705a0bf4d20800000000000000
+      internalID: 3265022477701729226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffed7309eb7db8a0800000000000000
+      internalID: -6287733264023162885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1786f56527069d0800000000000000
+      internalID: -2783098854421532165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1164c0116c02eba30800000000000000
+      internalID: 4232856734836475409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9b9bf479fdb370800000000000000
+      internalID: 8340096365792829315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556163f0299fb8d50800000000000000
+      internalID: 6740755673005823573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc43a1235408c1b30800000000000000
+      internalID: 4259420382267323595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47eba40ddad91a0800000000000000
+      internalID: -6801088752140782348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f38100dcb19d1f0800000000000000
+      internalID: -1019753273338872050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485b07c474ddcf0d0800000000000000
+      internalID: -3387589521394584188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Knight_Thrust_Dash_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f1980ebf9198420800000000000000
+      internalID: 2632664026769334118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6f97163b21f4b2b4b82eff8359f6fd25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":4.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Heavy_Knight_Thrust_Dash_Attack_0: -2422776207452967462
+      Heavy_Knight_Thrust_Dash_Attack_1: -1704897657782260759
+      Heavy_Knight_Thrust_Dash_Attack_10: 5633355971013434024
+      Heavy_Knight_Thrust_Dash_Attack_11: -2334505793404413507
+      Heavy_Knight_Thrust_Dash_Attack_12: -2551556311686035938
+      Heavy_Knight_Thrust_Dash_Attack_13: 3998192764243221828
+      Heavy_Knight_Thrust_Dash_Attack_14: -4252747928829274819
+      Heavy_Knight_Thrust_Dash_Attack_15: 5661729500567352199
+      Heavy_Knight_Thrust_Dash_Attack_16: 8826391100351284486
+      Heavy_Knight_Thrust_Dash_Attack_17: -7022718249451425410
+      Heavy_Knight_Thrust_Dash_Attack_18: -5527746307548765674
+      Heavy_Knight_Thrust_Dash_Attack_19: 5007522623627202772
+      Heavy_Knight_Thrust_Dash_Attack_2: -315548033490333160
+      Heavy_Knight_Thrust_Dash_Attack_20: 5023519532149863808
+      Heavy_Knight_Thrust_Dash_Attack_21: 3265022477701729226
+      Heavy_Knight_Thrust_Dash_Attack_22: -6287733264023162885
+      Heavy_Knight_Thrust_Dash_Attack_23: -2783098854421532165
+      Heavy_Knight_Thrust_Dash_Attack_24: 4232856734836475409
+      Heavy_Knight_Thrust_Dash_Attack_25: 8340096365792829315
+      Heavy_Knight_Thrust_Dash_Attack_26: 6740755673005823573
+      Heavy_Knight_Thrust_Dash_Attack_27: 4259420382267323595
+      Heavy_Knight_Thrust_Dash_Attack_28: -6801088752140782348
+      Heavy_Knight_Thrust_Dash_Attack_29: -1019753273338872050
+      Heavy_Knight_Thrust_Dash_Attack_3: 579113827440002562
+      Heavy_Knight_Thrust_Dash_Attack_30: -3387589521394584188
+      Heavy_Knight_Thrust_Dash_Attack_31: 2632664026769334118
+      Heavy_Knight_Thrust_Dash_Attack_4: 4231594229209003419
+      Heavy_Knight_Thrust_Dash_Attack_5: -8083607818638801468
+      Heavy_Knight_Thrust_Dash_Attack_6: -5453312167241268399
+      Heavy_Knight_Thrust_Dash_Attack_7: -2778228525864935351
+      Heavy_Knight_Thrust_Dash_Attack_8: -7451368553661364976
+      Heavy_Knight_Thrust_Dash_Attack_9: 6918077106082390606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ab24baa484962d44391a554cdc24234e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1176664627989255448
+    second: Ice-Burst_light-grey_outline_48x48_0
+  - first:
+      213: 3163149884558941471
+    second: Ice-Burst_light-grey_outline_48x48_1
+  - first:
+      213: 5006931939117560519
+    second: Ice-Burst_light-grey_outline_48x48_2
+  - first:
+      213: -2702636749503625522
+    second: Ice-Burst_light-grey_outline_48x48_3
+  - first:
+      213: -3938244323378627717
+    second: Ice-Burst_light-grey_outline_48x48_4
+  - first:
+      213: 3481116514590191347
+    second: Ice-Burst_light-grey_outline_48x48_5
+  - first:
+      213: -7667710132282135424
+    second: Ice-Burst_light-grey_outline_48x48_6
+  - first:
+      213: 7397726012415462155
+    second: Ice-Burst_light-grey_outline_48x48_7
+  - first:
+      213: -5851689294252953267
+    second: Ice-Burst_light-grey_outline_48x48_8
+  - first:
+      213: 8318570214334143982
+    second: Ice-Burst_light-grey_outline_48x48_9
+  - first:
+      213: -4085986137388381089
+    second: Ice-Burst_light-grey_outline_48x48_10
+  - first:
+      213: 6388480386660910234
+    second: Ice-Burst_light-grey_outline_48x48_11
+  - first:
+      213: -3050872313754505692
+    second: Ice-Burst_light-grey_outline_48x48_12
+  - first:
+      213: -8924125655699721010
+    second: Ice-Burst_light-grey_outline_48x48_13
+  - first:
+      213: 374804929929112699
+    second: Ice-Burst_light-grey_outline_48x48_14
+  - first:
+      213: -3645631979903102845
+    second: Ice-Burst_light-grey_outline_48x48_15
+  - first:
+      213: -1295514374432182598
+    second: Ice-Burst_light-grey_outline_48x48_16
+  - first:
+      213: 1023462422793050121
+    second: Ice-Burst_light-grey_outline_48x48_17
+  - first:
+      213: 7984073811480651970
+    second: Ice-Burst_light-grey_outline_48x48_18
+  - first:
+      213: -863173680865487427
+    second: Ice-Burst_light-grey_outline_48x48_19
+  - first:
+      213: 6710647491700855237
+    second: Ice-Burst_light-grey_outline_48x48_20
+  - first:
+      213: -3386327790775042900
+    second: Ice-Burst_light-grey_outline_48x48_21
+  - first:
+      213: 8856959823991632819
+    second: Ice-Burst_light-grey_outline_48x48_22
+  - first:
+      213: 3205389046609673508
+    second: Ice-Burst_light-grey_outline_48x48_23
+  - first:
+      213: 8934019295280345301
+    second: Ice-Burst_light-grey_outline_48x48_24
+  - first:
+      213: 3337726966427865357
+    second: Ice-Burst_light-grey_outline_48x48_25
+  - first:
+      213: -1047665330223232487
+    second: Ice-Burst_light-grey_outline_48x48_26
+  - first:
+      213: 7875786934155443605
+    second: Ice-Burst_light-grey_outline_48x48_27
+  - first:
+      213: 6233327634791856992
+    second: Ice-Burst_light-grey_outline_48x48_28
+  - first:
+      213: 4360226009790745572
+    second: Ice-Burst_light-grey_outline_48x48_29
+  - first:
+      213: -6772850432928430794
+    second: Ice-Burst_light-grey_outline_48x48_30
+  - first:
+      213: 1506324444881801867
+    second: Ice-Burst_light-grey_outline_48x48_31
+  - first:
+      213: 2260998151523709115
+    second: Ice-Burst_light-grey_outline_48x48_32
+  - first:
+      213: 7428494620133809651
+    second: Ice-Burst_light-grey_outline_48x48_33
+  - first:
+      213: 6627146526989108510
+    second: Ice-Burst_light-grey_outline_48x48_34
+  - first:
+      213: 525274797412492162
+    second: Ice-Burst_light-grey_outline_48x48_35
+  - first:
+      213: 4375004670067556040
+    second: Ice-Burst_light-grey_outline_48x48_36
+  - first:
+      213: -3813436166485112642
+    second: Ice-Burst_light-grey_outline_48x48_37
+  - first:
+      213: 309054346540747813
+    second: Ice-Burst_light-grey_outline_48x48_38
+  - first:
+      213: -2610641194645994157
+    second: Ice-Burst_light-grey_outline_48x48_39
+  - first:
+      213: 1545248139479400323
+    second: Ice-Burst_light-grey_outline_48x48_40
+  - first:
+      213: -1935571796821215830
+    second: Ice-Burst_light-grey_outline_48x48_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice-Burst_light-grey_outline_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaeeec41c5abafe0800000000000000
+      internalID: -1176664627989255448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_light-grey_outline_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d14789f04c5eb20800000000000000
+      internalID: 3163149884558941471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_light-grey_outline_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2f8ad12123c7540800000000000000
+      internalID: 5006931939117560519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_light-grey_outline_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68bec023e4e7ad0800000000000000
+      internalID: -2702636749503625522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_light-grey_outline_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b715257ab8859c0800000000000000
+      internalID: -3938244323378627717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_light-grey_outline_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee4e9b6096f4030800000000000000
+      internalID: 3481116514590191347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_light-grey_outline_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce8ac8242d69590800000000000000
+      internalID: -7667710132282135424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice-Burst_light-grey_outline_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bc0bb0d900aa660800000000000000
+      internalID: 7397726012415462155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d6c520ebcabc6f44582166ba8467e1ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ice-Burst_light-grey_outline_48x48_0: -1176664627989255448
+      Ice-Burst_light-grey_outline_48x48_1: 3163149884558941471
+      Ice-Burst_light-grey_outline_48x48_2: 5006931939117560519
+      Ice-Burst_light-grey_outline_48x48_3: -2702636749503625522
+      Ice-Burst_light-grey_outline_48x48_4: -3938244323378627717
+      Ice-Burst_light-grey_outline_48x48_5: 3481116514590191347
+      Ice-Burst_light-grey_outline_48x48_6: -7667710132282135424
+      Ice-Burst_light-grey_outline_48x48_7: 7397726012415462155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

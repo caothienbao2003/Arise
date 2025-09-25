@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 3d7163a1dadaab44e86fe0b47ef86c49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3885618546398770
+    second: Hark_Combat_0
+  - first:
+      213: -2209912372368730754
+    second: Hark_Combat_1
+  - first:
+      213: -7728996554048613756
+    second: Hark_Combat_2
+  - first:
+      213: -954960066059334067
+    second: Hark_Combat_3
+  - first:
+      213: -451456519777316329
+    second: Hark_Combat_4
+  - first:
+      213: 7894544867197477190
+    second: Hark_Combat_5
+  - first:
+      213: -5622638484831820785
+    second: Hark_Combat_6
+  - first:
+      213: -7945767854735356581
+    second: Hark_Combat_7
+  - first:
+      213: 2106095022572983050
+    second: Hark_Combat_8
+  - first:
+      213: -3521530675651041693
+    second: Hark_Combat_9
+  - first:
+      213: 2388322026313680115
+    second: Hark_Combat_10
+  - first:
+      213: -3884036595175325022
+    second: Hark_Combat_11
+  - first:
+      213: -4850637628825301128
+    second: Hark_Combat_12
+  - first:
+      213: -3219790153202157456
+    second: Hark_Combat_13
+  - first:
+      213: 626166899300108237
+    second: Hark_Combat_14
+  - first:
+      213: 4092733792276235769
+    second: Hark_Combat_15
+  - first:
+      213: -1699024091240046164
+    second: Hark_Combat_16
+  - first:
+      213: 6763742170914822556
+    second: Hark_Combat_17
+  - first:
+      213: 9078546881655751706
+    second: Hark_Combat_18
+  - first:
+      213: 2878166121219843761
+    second: Hark_Combat_19
+  - first:
+      213: 4239692154741710667
+    second: Hark_Combat_20
+  - first:
+      213: 8180813813074838811
+    second: Hark_Combat_21
+  - first:
+      213: -8768863962735569940
+    second: Hark_Combat_22
+  - first:
+      213: -538227268729765920
+    second: Hark_Combat_23
+  - first:
+      213: -4842253659604130549
+    second: Hark_Combat_24
+  - first:
+      213: 6600591631406661588
+    second: Hark_Combat_25
+  - first:
+      213: 9007061378401902093
+    second: Hark_Combat_26
+  - first:
+      213: 7027955152293455494
+    second: Hark_Combat_27
+  - first:
+      213: -947905847835765261
+    second: Hark_Combat_28
+  - first:
+      213: -5449688589493774844
+    second: Hark_Combat_29
+  - first:
+      213: -7444702634245502778
+    second: Hark_Combat_30
+  - first:
+      213: 6319552541279671684
+    second: Hark_Combat_31
+  - first:
+      213: 1479477839856652469
+    second: Hark_Combat_32
+  - first:
+      213: -7445987909211108492
+    second: Hark_Combat_33
+  - first:
+      213: -7803077067701284163
+    second: Hark_Combat_34
+  - first:
+      213: 1983093743548011343
+    second: Hark_Combat_35
+  - first:
+      213: -7435572801048573361
+    second: Hark_Combat_36
+  - first:
+      213: -2649999020552154160
+    second: Hark_Combat_37
+  - first:
+      213: 2530227990070035905
+    second: Hark_Combat_38
+  - first:
+      213: -3334517939591596547
+    second: Hark_Combat_39
+  - first:
+      213: -2865154971256896685
+    second: Hark_Combat_40
+  - first:
+      213: 8054109475768302930
+    second: Hark_Combat_41
+  - first:
+      213: 6185621114162873824
+    second: Hark_Combat_42
+  - first:
+      213: -6156208377226295647
+    second: Hark_Combat_43
+  - first:
+      213: 1871889656203122372
+    second: Hark_Combat_44
+  - first:
+      213: -533473070406732996
+    second: Hark_Combat_45
+  - first:
+      213: -1637050729049645984
+    second: Hark_Combat_46
+  - first:
+      213: 6987020012269919245
+    second: Hark_Combat_47
+  - first:
+      213: -5622249168476384917
+    second: Hark_Combat_48
+  - first:
+      213: 2047363134719035641
+    second: Hark_Combat_49
+  - first:
+      213: -2361692063767461241
+    second: Hark_Combat_50
+  - first:
+      213: -3428327136631813350
+    second: Hark_Combat_51
+  - first:
+      213: -679371295561068215
+    second: Hark_Combat_52
+  - first:
+      213: -1723069905885409239
+    second: Hark_Combat_53
+  - first:
+      213: -2731076639902637468
+    second: Hark_Combat_54
+  - first:
+      213: -519862401241544095
+    second: Hark_Combat_55
+  - first:
+      213: 5775294127276488541
+    second: Hark_Combat_56
+  - first:
+      213: 4405333450484682313
+    second: Hark_Combat_57
+  - first:
+      213: -3945646942604547269
+    second: Hark_Combat_58
+  - first:
+      213: -2086803290161152734
+    second: Hark_Combat_59
+  - first:
+      213: 4070710151697480022
+    second: Hark_Combat_60
+  - first:
+      213: -1264950064276749377
+    second: Hark_Combat_61
+  - first:
+      213: -5399941537314647991
+    second: Hark_Combat_62
+  - first:
+      213: -5696723194109128779
+    second: Hark_Combat_63
+  - first:
+      213: 4007256289030529510
+    second: Hark_Combat_64
+  - first:
+      213: -8207782742661402175
+    second: Hark_Combat_65
+  - first:
+      213: -3575777655226985286
+    second: Hark_Combat_66
+  - first:
+      213: 92474533260939284
+    second: Hark_Combat_67
+  - first:
+      213: -4761369257568973219
+    second: Hark_Combat_68
+  - first:
+      213: -1612383384465202648
+    second: Hark_Combat_69
+  - first:
+      213: 6040830301520144439
+    second: Hark_Combat_70
+  - first:
+      213: -6107731031642965983
+    second: Hark_Combat_71
+  - first:
+      213: 7217792502338215158
+    second: Hark_Combat_72
+  - first:
+      213: 5206852790323348798
+    second: Hark_Combat_73
+  - first:
+      213: 3471052954428892084
+    second: Hark_Combat_74
+  - first:
+      213: 8599157923674184653
+    second: Hark_Combat_75
+  - first:
+      213: 6505340062244773326
+    second: Hark_Combat_76
+  - first:
+      213: -1718588160858314925
+    second: Hark_Combat_77
+  - first:
+      213: 5976067851115374580
+    second: Hark_Combat_78
+  - first:
+      213: -8444374442336520819
+    second: Hark_Combat_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hark_Combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236d03113fdcd0000800000000000000
+      internalID: 3885618546398770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75983ce760d451e0800000000000000
+      internalID: -2209912372368730754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482d6b585961db490800000000000000
+      internalID: -7728996554048613756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e89d721ec4fb2f0800000000000000
+      internalID: -954960066059334067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712932befaa1cb9f0800000000000000
+      internalID: -451456519777316329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64160b8cabe0f8d60800000000000000
+      internalID: 7894544867197477190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04a82b861068f1b0800000000000000
+      internalID: -5622638484831820785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d08ce0c36fab190800000000000000
+      internalID: -7945767854735356581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a035ea3b34a5a3d10800000000000000
+      internalID: 2106095022572983050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366ad242282012fc0800000000000000
+      internalID: -3521530675651041693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f40ba3aa36052120800000000000000
+      internalID: 2388322026313680115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a205f19b41291ac0800000000000000
+      internalID: -3884036595175325022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f89bfb6c21facb0800000000000000
+      internalID: -4850637628825301128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b5133ae10153d0800000000000000
+      internalID: -3219790153202157456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc704e23a7790b800800000000000000
+      internalID: 626166899300108237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5ccd823bf4cc830800000000000000
+      internalID: 4092733792276235769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca16ec0479adb68e0800000000000000
+      internalID: -1699024091240046164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9915b92ba3addd50800000000000000
+      internalID: 6763742170914822556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1442d5e94a7dfd70800000000000000
+      internalID: 9078546881655751706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66fdb86dc41f720800000000000000
+      internalID: 2878166121219843761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fd3684d8966da30800000000000000
+      internalID: 4239692154741710667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b154fe5b1d6188170800000000000000
+      internalID: 8180813813074838811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce31c617facbe4680800000000000000
+      internalID: -8768863962735569940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0effee69625d788f0800000000000000
+      internalID: -538227268729765920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05e5f2b3fbdcccb0800000000000000
+      internalID: -4842253659604130549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dff8690e130a9b50800000000000000
+      internalID: 6600591631406661588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e19c92a928ffc70800000000000000
+      internalID: 9007061378401902093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e3dda9ff488160800000000000000
+      internalID: 7027955152293455494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5db3357ac58d2f0800000000000000
+      internalID: -947905847835765261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40659bef911de54b0800000000000000
+      internalID: -5449688589493774844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8c16bd56a1fa890800000000000000
+      internalID: -7444702634245502778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485546acd8f83b750800000000000000
+      internalID: 6319552541279671684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0d7b9b149288410800000000000000
+      internalID: 1479477839856652469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b4e9572798aa890800000000000000
+      internalID: -7445987909211108492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db21ba8dfb6e5b390800000000000000
+      internalID: -7803077067701284163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f439a7cb04d558b10800000000000000
+      internalID: 1983093743548011343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a81fbcee98fc890800000000000000
+      internalID: -7435572801048573361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d31bdc5eef493bd0800000000000000
+      internalID: -2649999020552154160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c500e483fc2d1320800000000000000
+      internalID: 2530227990070035905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5b979d99969b1d0800000000000000
+      internalID: -3334517939591596547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353c9cfdbbcec38d0800000000000000
+      internalID: -2865154971256896685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25df64d45e1f5cf60800000000000000
+      internalID: 8054109475768302930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e585d861adb7d550800000000000000
+      internalID: 6185621114162873824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_43
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a684201911c09aa0800000000000000
+      internalID: -6156208377226295647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c617b089b94af910800000000000000
+      internalID: 1871889656203122372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c337b25a119b898f0800000000000000
+      internalID: -533473070406732996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c93bf09070849e0800000000000000
+      internalID: -1637050729049645984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cd4edaea1e6f060800000000000000
+      internalID: 6987020012269919245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61da325b22c9f1b0800000000000000
+      internalID: -5622249168476384917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f888237ce1b96c10800000000000000
+      internalID: 2047363134719035641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782084ea495993fd0800000000000000
+      internalID: -2361692063767461241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b8a3f12a22c60d0800000000000000
+      internalID: -3428327136631813350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9415c79f7636296f0800000000000000
+      internalID: -679371295561068215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d880cc0d6618e0800000000000000
+      internalID: -1723069905885409239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4626c301444491ad0800000000000000
+      internalID: -2731076639902637468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a8ae186e319c8f0800000000000000
+      internalID: -519862401241544095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57f6b1f867f52050800000000000000
+      internalID: 5775294127276488541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e0949ce63e22d30800000000000000
+      internalID: 4405333450484682313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b23f8b20f3e39c0800000000000000
+      internalID: -3945646942604547269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22df3d5c67f2a03e0800000000000000
+      internalID: -2086803290161152734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659318fb0511e7830800000000000000
+      internalID: 4070710151697480022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb34d285e9ef17ee0800000000000000
+      internalID: -1264950064276749377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940db7c28cd8f05b0800000000000000
+      internalID: -5399941537314647991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf856fff6c21f0b0800000000000000
+      internalID: -5696723194109128779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e16d9f0d52ac9730800000000000000
+      internalID: 4007256289030529510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1f51e0519181e80800000000000000
+      internalID: -8207782742661402175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab49a68fa29406ec0800000000000000
+      internalID: -3575777655226985286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410d9c91919884100800000000000000
+      internalID: 92474533260939284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ec22613e73cedb0800000000000000
+      internalID: -4761369257568973219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822a537cad9af99e0800000000000000
+      internalID: -1612383384465202648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738268e472755d350800000000000000
+      internalID: 6040830301520144439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1287a43acfafc3ba0800000000000000
+      internalID: -6107731031642965983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd8541a00ca2460800000000000000
+      internalID: 7217792502338215158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3589f49605724840800000000000000
+      internalID: 5206852790323348798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3ed498548ab2030800000000000000
+      internalID: 3471052954428892084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbd5104298565770800000000000000
+      internalID: 8599157923674184653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9731e15c974a50800000000000000
+      internalID: 6505340062244773326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35729d45c295628e0800000000000000
+      internalID: -1718588160858314925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f72d5b4c024fe250800000000000000
+      internalID: 5976067851115374580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hark_Combat_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85f4265f2e8fca80800000000000000
+      internalID: -8444374442336520819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hark_Combat_0: 3885618546398770
+      Hark_Combat_1: -2209912372368730754
+      Hark_Combat_10: 2388322026313680115
+      Hark_Combat_11: -3884036595175325022
+      Hark_Combat_12: -4850637628825301128
+      Hark_Combat_13: -3219790153202157456
+      Hark_Combat_14: 626166899300108237
+      Hark_Combat_15: 4092733792276235769
+      Hark_Combat_16: -1699024091240046164
+      Hark_Combat_17: 6763742170914822556
+      Hark_Combat_18: 9078546881655751706
+      Hark_Combat_19: 2878166121219843761
+      Hark_Combat_2: -7728996554048613756
+      Hark_Combat_20: 4239692154741710667
+      Hark_Combat_21: 8180813813074838811
+      Hark_Combat_22: -8768863962735569940
+      Hark_Combat_23: -538227268729765920
+      Hark_Combat_24: -4842253659604130549
+      Hark_Combat_25: 6600591631406661588
+      Hark_Combat_26: 9007061378401902093
+      Hark_Combat_27: 7027955152293455494
+      Hark_Combat_28: -947905847835765261
+      Hark_Combat_29: -5449688589493774844
+      Hark_Combat_3: -954960066059334067
+      Hark_Combat_30: -7444702634245502778
+      Hark_Combat_31: 6319552541279671684
+      Hark_Combat_32: 1479477839856652469
+      Hark_Combat_33: -7445987909211108492
+      Hark_Combat_34: -7803077067701284163
+      Hark_Combat_35: 1983093743548011343
+      Hark_Combat_36: -7435572801048573361
+      Hark_Combat_37: -2649999020552154160
+      Hark_Combat_38: 2530227990070035905
+      Hark_Combat_39: -3334517939591596547
+      Hark_Combat_4: -451456519777316329
+      Hark_Combat_40: -2865154971256896685
+      Hark_Combat_41: 8054109475768302930
+      Hark_Combat_42: 6185621114162873824
+      Hark_Combat_43: -6156208377226295647
+      Hark_Combat_44: 1871889656203122372
+      Hark_Combat_45: -533473070406732996
+      Hark_Combat_46: -1637050729049645984
+      Hark_Combat_47: 6987020012269919245
+      Hark_Combat_48: -5622249168476384917
+      Hark_Combat_49: 2047363134719035641
+      Hark_Combat_5: 7894544867197477190
+      Hark_Combat_50: -2361692063767461241
+      Hark_Combat_51: -3428327136631813350
+      Hark_Combat_52: -679371295561068215
+      Hark_Combat_53: -1723069905885409239
+      Hark_Combat_54: -2731076639902637468
+      Hark_Combat_55: -519862401241544095
+      Hark_Combat_56: 5775294127276488541
+      Hark_Combat_57: 4405333450484682313
+      Hark_Combat_58: -3945646942604547269
+      Hark_Combat_59: -2086803290161152734
+      Hark_Combat_6: -5622638484831820785
+      Hark_Combat_60: 4070710151697480022
+      Hark_Combat_61: -1264950064276749377
+      Hark_Combat_62: -5399941537314647991
+      Hark_Combat_63: -5696723194109128779
+      Hark_Combat_64: 4007256289030529510
+      Hark_Combat_65: -8207782742661402175
+      Hark_Combat_66: -3575777655226985286
+      Hark_Combat_67: 92474533260939284
+      Hark_Combat_68: -4761369257568973219
+      Hark_Combat_69: -1612383384465202648
+      Hark_Combat_7: -7945767854735356581
+      Hark_Combat_70: 6040830301520144439
+      Hark_Combat_71: -6107731031642965983
+      Hark_Combat_72: 7217792502338215158
+      Hark_Combat_73: 5206852790323348798
+      Hark_Combat_74: 3471052954428892084
+      Hark_Combat_75: 8599157923674184653
+      Hark_Combat_76: 6505340062244773326
+      Hark_Combat_77: -1718588160858314925
+      Hark_Combat_78: 5976067851115374580
+      Hark_Combat_79: -8444374442336520819
+      Hark_Combat_8: 2106095022572983050
+      Hark_Combat_9: -3521530675651041693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

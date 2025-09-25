@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: e626014dfd57d134498f72d5c9180100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7297148902908768396
+    second: Grym_Combat_0
+  - first:
+      213: 6891785251441393667
+    second: Grym_Combat_1
+  - first:
+      213: -1397507834957193698
+    second: Grym_Combat_2
+  - first:
+      213: -7485615727230256950
+    second: Grym_Combat_3
+  - first:
+      213: -6651312727391496401
+    second: Grym_Combat_4
+  - first:
+      213: -1655300252372240546
+    second: Grym_Combat_5
+  - first:
+      213: 8459711985673335408
+    second: Grym_Combat_6
+  - first:
+      213: -480340740940915590
+    second: Grym_Combat_7
+  - first:
+      213: -4070989464303536802
+    second: Grym_Combat_8
+  - first:
+      213: -375158195770735483
+    second: Grym_Combat_9
+  - first:
+      213: 5063265851330637435
+    second: Grym_Combat_10
+  - first:
+      213: 6183682192212471643
+    second: Grym_Combat_11
+  - first:
+      213: 8526370352439010693
+    second: Grym_Combat_12
+  - first:
+      213: -8266390146032480336
+    second: Grym_Combat_13
+  - first:
+      213: 4705360790970360628
+    second: Grym_Combat_14
+  - first:
+      213: -4937127413225919558
+    second: Grym_Combat_15
+  - first:
+      213: -411695488599230651
+    second: Grym_Combat_16
+  - first:
+      213: 6040304609363028768
+    second: Grym_Combat_17
+  - first:
+      213: 9093718777635539099
+    second: Grym_Combat_18
+  - first:
+      213: 4564713671736740218
+    second: Grym_Combat_19
+  - first:
+      213: 2655464281718339499
+    second: Grym_Combat_20
+  - first:
+      213: -1047670753505198307
+    second: Grym_Combat_21
+  - first:
+      213: -2474885092486504086
+    second: Grym_Combat_22
+  - first:
+      213: 4853517948722049725
+    second: Grym_Combat_23
+  - first:
+      213: -8984748432185673748
+    second: Grym_Combat_24
+  - first:
+      213: 4148949643160034584
+    second: Grym_Combat_25
+  - first:
+      213: 2228935082368017270
+    second: Grym_Combat_26
+  - first:
+      213: -2506484521830527219
+    second: Grym_Combat_27
+  - first:
+      213: -226607879202603295
+    second: Grym_Combat_28
+  - first:
+      213: -6872390418530610354
+    second: Grym_Combat_29
+  - first:
+      213: -8457269518032409153
+    second: Grym_Combat_30
+  - first:
+      213: -2092172198969835980
+    second: Grym_Combat_31
+  - first:
+      213: -3994201694609352760
+    second: Grym_Combat_32
+  - first:
+      213: -3542679635663159603
+    second: Grym_Combat_33
+  - first:
+      213: -7902939642207946224
+    second: Grym_Combat_34
+  - first:
+      213: 1201789730760634842
+    second: Grym_Combat_35
+  - first:
+      213: 4898415531610549725
+    second: Grym_Combat_36
+  - first:
+      213: 3133538344768553461
+    second: Grym_Combat_37
+  - first:
+      213: -1579380634180029059
+    second: Grym_Combat_38
+  - first:
+      213: -913638799199896386
+    second: Grym_Combat_39
+  - first:
+      213: 4268517548191978338
+    second: Grym_Combat_40
+  - first:
+      213: -5583338658351016677
+    second: Grym_Combat_41
+  - first:
+      213: 6495127832785070929
+    second: Grym_Combat_42
+  - first:
+      213: -4562309948900451289
+    second: Grym_Combat_43
+  - first:
+      213: 4578303400755061632
+    second: Grym_Combat_44
+  - first:
+      213: 8688598005071826502
+    second: Grym_Combat_45
+  - first:
+      213: 6103108150978871021
+    second: Grym_Combat_46
+  - first:
+      213: -1230747633046069182
+    second: Grym_Combat_47
+  - first:
+      213: 9089222040194001504
+    second: Grym_Combat_48
+  - first:
+      213: 545638887439049972
+    second: Grym_Combat_49
+  - first:
+      213: 1324492316503430644
+    second: Grym_Combat_50
+  - first:
+      213: -3521595578737768262
+    second: Grym_Combat_51
+  - first:
+      213: 1474151005158544241
+    second: Grym_Combat_52
+  - first:
+      213: -3512278479273398823
+    second: Grym_Combat_53
+  - first:
+      213: -1997222990334880723
+    second: Grym_Combat_54
+  - first:
+      213: -7914632174144792446
+    second: Grym_Combat_55
+  - first:
+      213: -2327536986420170206
+    second: Grym_Combat_56
+  - first:
+      213: -5494316953807570293
+    second: Grym_Combat_57
+  - first:
+      213: -6550737235620522989
+    second: Grym_Combat_58
+  - first:
+      213: 1878401888881239266
+    second: Grym_Combat_59
+  - first:
+      213: -808411304457814298
+    second: Grym_Combat_60
+  - first:
+      213: 8829576726539936916
+    second: Grym_Combat_61
+  - first:
+      213: 666834899966630416
+    second: Grym_Combat_62
+  - first:
+      213: 3695331860324504359
+    second: Grym_Combat_63
+  - first:
+      213: -8690304197354431730
+    second: Grym_Combat_64
+  - first:
+      213: 2797084492199841107
+    second: Grym_Combat_65
+  - first:
+      213: -479725538469368179
+    second: Grym_Combat_66
+  - first:
+      213: -6709105500604935693
+    second: Grym_Combat_67
+  - first:
+      213: 9120100576470609872
+    second: Grym_Combat_68
+  - first:
+      213: 3391941474853232838
+    second: Grym_Combat_69
+  - first:
+      213: 2456307678649912844
+    second: Grym_Combat_70
+  - first:
+      213: 7294394386596667028
+    second: Grym_Combat_71
+  - first:
+      213: 1987451506342160365
+    second: Grym_Combat_72
+  - first:
+      213: -6275110694567961258
+    second: Grym_Combat_73
+  - first:
+      213: 5870195108579474580
+    second: Grym_Combat_74
+  - first:
+      213: 8280194493771210890
+    second: Grym_Combat_75
+  - first:
+      213: -3411036689792315355
+    second: Grym_Combat_76
+  - first:
+      213: 5823644905778857929
+    second: Grym_Combat_77
+  - first:
+      213: -4637966838204849696
+    second: Grym_Combat_78
+  - first:
+      213: -9203311899163363115
+    second: Grym_Combat_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grym_Combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fcdf81cb15bba90800000000000000
+      internalID: -7297148902908768396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300c0740c2a84af50800000000000000
+      internalID: 6891785251441393667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e1d86470e0b9ce0800000000000000
+      internalID: -1397507834957193698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8fc551820cd1890800000000000000
+      internalID: -7485615727230256950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279bc9805ac1b3a0800000000000000
+      internalID: -6651312727391496401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57fcbcc0313709e0800000000000000
+      internalID: -1655300252372240546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0727c20ca3fe66570800000000000000
+      internalID: 8459711985673335408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c911d14ac7559f0800000000000000
+      internalID: -480340740940915590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5574d7b6a0f087c0800000000000000
+      internalID: -4070989464303536802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584428ecb9b2bcaf0800000000000000
+      internalID: -375158195770735483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eade72775544640800000000000000
+      internalID: 5063265851330637435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fabb6f03ad0d550800000000000000
+      internalID: 6183682192212471643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585ac8039a0c35670800000000000000
+      internalID: 8526370352439010693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfc1fa95f1e74d80800000000000000
+      internalID: -8266390146032480336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433e6d595bccc4140800000000000000
+      internalID: 4705360790970360628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb63d396cccb7bb0800000000000000
+      internalID: -4937127413225919558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5477966622d594af0800000000000000
+      internalID: -411695488599230651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bec301a0973d350800000000000000
+      internalID: 6040304609363028768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9804443c01633e70800000000000000
+      internalID: 9093718777635539099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79cc3946ee195f30800000000000000
+      internalID: 4564713671736740218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba73f89e1ba1ad420800000000000000
+      internalID: 2655464281718339499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fb1cf100de571f0800000000000000
+      internalID: -1047670753505198307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ae62fe1177add0800000000000000
+      internalID: -2474885092486504086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db27f8cfbd82b5340800000000000000
+      internalID: 4853517948722049725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7335777e2cf4380800000000000000
+      internalID: -8984748432185673748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d9987e7b7049930800000000000000
+      internalID: 4148949643160034584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673a3f3e5a4ceee10800000000000000
+      internalID: 2228935082368017270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fc6497b9d273dd0800000000000000
+      internalID: -2506484521830527219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eef2d0a55deadcf0800000000000000
+      internalID: -226607879202603295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e435fa9635d50a0a0800000000000000
+      internalID: -6872390418530610354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd60ff8e2eb1aa80800000000000000
+      internalID: -8457269518032409153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e7477487c17f2e0800000000000000
+      internalID: -2092172198969835980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7db8f88beb198c0800000000000000
+      internalID: -3994201694609352760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce794b24afd5dec0800000000000000
+      internalID: -3542679635663159603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab7d8544e135290800000000000000
+      internalID: -7902939642207946224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad133bc846d9da010800000000000000
+      internalID: 1201789730760634842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd27eb19faaaf340800000000000000
+      internalID: 4898415531610549725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1cef9b5809c7b20800000000000000
+      internalID: 3133538344768553461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75719e5ea9e41ae0800000000000000
+      internalID: -1579380634180029059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcfca05a5a1253f0800000000000000
+      internalID: -913638799199896386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26311813812dc3b30800000000000000
+      internalID: 4268517548191978338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b151840721ff382b0800000000000000
+      internalID: -5583338658351016677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b28ebe954532a50800000000000000
+      internalID: 6495127832785070929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_43
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cde8c064b6fa0c0800000000000000
+      internalID: -4562309948900451289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e7f3afa6698f30800000000000000
+      internalID: 4578303400755061632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e4978f9d9149870800000000000000
+      internalID: 8688598005071826502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef2e4178892b450800000000000000
+      internalID: 6103108150978871021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e22c6c818beee0800000000000000
+      internalID: -1230747633046069182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a2a6ee947632e70800000000000000
+      internalID: 9089222040194001504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4a17d5daf729700800000000000000
+      internalID: 545638887439049972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5dbe09eba816210800000000000000
+      internalID: 1324492316503430644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8cfb6ba77c02fc0800000000000000
+      internalID: -3521595578737768262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17392cf578c357410800000000000000
+      internalID: 1474151005158544241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dde8aaf451e14fc0800000000000000
+      internalID: -3512278479273398823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2498d3a5407844e0800000000000000
+      internalID: -1997222990334880723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288d83c98f3992290800000000000000
+      internalID: -7914632174144792446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222b7d2517de2bfd0800000000000000
+      internalID: -2327536986420170206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ab4e437d340c3b0800000000000000
+      internalID: -5494316953807570293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3141ae5013b1715a0800000000000000
+      internalID: -6550737235620522989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e46034d09c611a10800000000000000
+      internalID: 1878401888881239266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeb165a332f7c4f0800000000000000
+      internalID: -808411304457814298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494287e6045f88a70800000000000000
+      internalID: 8829576726539936916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a1858fec2114900800000000000000
+      internalID: 666834899966630416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72353dd8fb4784330800000000000000
+      internalID: 3695331860324504359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b5a9e2066d56780800000000000000
+      internalID: -8690304197354431730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d435ca68d31d620800000000000000
+      internalID: 2797084492199841107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ea9d91a2ca759f0800000000000000
+      internalID: -479725538469368179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1d2d3f71874e2a0800000000000000
+      internalID: -6709105500604935693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfad58672b119e70800000000000000
+      internalID: 9120100576470609872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0aa83dcc8921f20800000000000000
+      internalID: 3391941474853232838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e0ef4d1de861220800000000000000
+      internalID: 2456307678649912844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e92b81c05ea3560800000000000000
+      internalID: 7294394386596667028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7e6d37d98d49b10800000000000000
+      internalID: 1987451506342160365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d950cf1145ae8a0800000000000000
+      internalID: -6275110694567961258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c7d11895f177150800000000000000
+      internalID: 5870195108579474580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80e060950929e270800000000000000
+      internalID: 8280194493771210890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520da1df33099a0d0800000000000000
+      internalID: -3411036689792315355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c746f2df2eb1d050800000000000000
+      internalID: 5823644905778857929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e122c0dbb1a2afb0800000000000000
+      internalID: -4637966838204849696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grym_Combat_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8fd35c694474080800000000000000
+      internalID: -9203311899163363115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grym_Combat_0: -7297148902908768396
+      Grym_Combat_1: 6891785251441393667
+      Grym_Combat_10: 5063265851330637435
+      Grym_Combat_11: 6183682192212471643
+      Grym_Combat_12: 8526370352439010693
+      Grym_Combat_13: -8266390146032480336
+      Grym_Combat_14: 4705360790970360628
+      Grym_Combat_15: -4937127413225919558
+      Grym_Combat_16: -411695488599230651
+      Grym_Combat_17: 6040304609363028768
+      Grym_Combat_18: 9093718777635539099
+      Grym_Combat_19: 4564713671736740218
+      Grym_Combat_2: -1397507834957193698
+      Grym_Combat_20: 2655464281718339499
+      Grym_Combat_21: -1047670753505198307
+      Grym_Combat_22: -2474885092486504086
+      Grym_Combat_23: 4853517948722049725
+      Grym_Combat_24: -8984748432185673748
+      Grym_Combat_25: 4148949643160034584
+      Grym_Combat_26: 2228935082368017270
+      Grym_Combat_27: -2506484521830527219
+      Grym_Combat_28: -226607879202603295
+      Grym_Combat_29: -6872390418530610354
+      Grym_Combat_3: -7485615727230256950
+      Grym_Combat_30: -8457269518032409153
+      Grym_Combat_31: -2092172198969835980
+      Grym_Combat_32: -3994201694609352760
+      Grym_Combat_33: -3542679635663159603
+      Grym_Combat_34: -7902939642207946224
+      Grym_Combat_35: 1201789730760634842
+      Grym_Combat_36: 4898415531610549725
+      Grym_Combat_37: 3133538344768553461
+      Grym_Combat_38: -1579380634180029059
+      Grym_Combat_39: -913638799199896386
+      Grym_Combat_4: -6651312727391496401
+      Grym_Combat_40: 4268517548191978338
+      Grym_Combat_41: -5583338658351016677
+      Grym_Combat_42: 6495127832785070929
+      Grym_Combat_43: -4562309948900451289
+      Grym_Combat_44: 4578303400755061632
+      Grym_Combat_45: 8688598005071826502
+      Grym_Combat_46: 6103108150978871021
+      Grym_Combat_47: -1230747633046069182
+      Grym_Combat_48: 9089222040194001504
+      Grym_Combat_49: 545638887439049972
+      Grym_Combat_5: -1655300252372240546
+      Grym_Combat_50: 1324492316503430644
+      Grym_Combat_51: -3521595578737768262
+      Grym_Combat_52: 1474151005158544241
+      Grym_Combat_53: -3512278479273398823
+      Grym_Combat_54: -1997222990334880723
+      Grym_Combat_55: -7914632174144792446
+      Grym_Combat_56: -2327536986420170206
+      Grym_Combat_57: -5494316953807570293
+      Grym_Combat_58: -6550737235620522989
+      Grym_Combat_59: 1878401888881239266
+      Grym_Combat_6: 8459711985673335408
+      Grym_Combat_60: -808411304457814298
+      Grym_Combat_61: 8829576726539936916
+      Grym_Combat_62: 666834899966630416
+      Grym_Combat_63: 3695331860324504359
+      Grym_Combat_64: -8690304197354431730
+      Grym_Combat_65: 2797084492199841107
+      Grym_Combat_66: -479725538469368179
+      Grym_Combat_67: -6709105500604935693
+      Grym_Combat_68: 9120100576470609872
+      Grym_Combat_69: 3391941474853232838
+      Grym_Combat_7: -480340740940915590
+      Grym_Combat_70: 2456307678649912844
+      Grym_Combat_71: 7294394386596667028
+      Grym_Combat_72: 1987451506342160365
+      Grym_Combat_73: -6275110694567961258
+      Grym_Combat_74: 5870195108579474580
+      Grym_Combat_75: 8280194493771210890
+      Grym_Combat_76: -3411036689792315355
+      Grym_Combat_77: 5823644905778857929
+      Grym_Combat_78: -4637966838204849696
+      Grym_Combat_79: -9203311899163363115
+      Grym_Combat_8: -4070989464303536802
+      Grym_Combat_9: -375158195770735483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

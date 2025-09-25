@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 0859edbf99def84448dfc3a90cd351ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8702164625927649331
+    second: Artun_Combat_0
+  - first:
+      213: -2272867207982794905
+    second: Artun_Combat_1
+  - first:
+      213: 6901648817593097627
+    second: Artun_Combat_2
+  - first:
+      213: -8354582296122242015
+    second: Artun_Combat_3
+  - first:
+      213: -1308260120802525843
+    second: Artun_Combat_4
+  - first:
+      213: 6318189753792123698
+    second: Artun_Combat_5
+  - first:
+      213: 9099609146232882245
+    second: Artun_Combat_6
+  - first:
+      213: 5323783145268226200
+    second: Artun_Combat_7
+  - first:
+      213: 7210637872562166049
+    second: Artun_Combat_8
+  - first:
+      213: -6853388060265983007
+    second: Artun_Combat_9
+  - first:
+      213: -3735977051996686596
+    second: Artun_Combat_10
+  - first:
+      213: -960145500149029272
+    second: Artun_Combat_11
+  - first:
+      213: 8421185092748140976
+    second: Artun_Combat_12
+  - first:
+      213: 5091185195620407647
+    second: Artun_Combat_13
+  - first:
+      213: -7357480435589136341
+    second: Artun_Combat_14
+  - first:
+      213: -2916334554388182863
+    second: Artun_Combat_15
+  - first:
+      213: 4244118978550928114
+    second: Artun_Combat_16
+  - first:
+      213: 5619231879314619893
+    second: Artun_Combat_17
+  - first:
+      213: -1697930831119841674
+    second: Artun_Combat_18
+  - first:
+      213: 9122651068599824380
+    second: Artun_Combat_19
+  - first:
+      213: 3904060087506418392
+    second: Artun_Combat_20
+  - first:
+      213: -4417271671437244612
+    second: Artun_Combat_21
+  - first:
+      213: 8009790397065299430
+    second: Artun_Combat_22
+  - first:
+      213: -4255295084072973900
+    second: Artun_Combat_23
+  - first:
+      213: 2084100230320087092
+    second: Artun_Combat_24
+  - first:
+      213: 440160756374433205
+    second: Artun_Combat_25
+  - first:
+      213: -2485373680315220596
+    second: Artun_Combat_26
+  - first:
+      213: -7177782108061870790
+    second: Artun_Combat_27
+  - first:
+      213: 7661215382012814623
+    second: Artun_Combat_28
+  - first:
+      213: -5633163900764503178
+    second: Artun_Combat_29
+  - first:
+      213: 1765938871797681263
+    second: Artun_Combat_30
+  - first:
+      213: 5593526698281856640
+    second: Artun_Combat_31
+  - first:
+      213: -7379317554332431937
+    second: Artun_Combat_32
+  - first:
+      213: 6072424952054686746
+    second: Artun_Combat_33
+  - first:
+      213: 5148526632625461319
+    second: Artun_Combat_34
+  - first:
+      213: -534458447203704666
+    second: Artun_Combat_35
+  - first:
+      213: 3438755390479035781
+    second: Artun_Combat_36
+  - first:
+      213: 6095347221989505264
+    second: Artun_Combat_37
+  - first:
+      213: 3478503131910945981
+    second: Artun_Combat_38
+  - first:
+      213: 5066821686577125251
+    second: Artun_Combat_39
+  - first:
+      213: -8500390474495550751
+    second: Artun_Combat_40
+  - first:
+      213: -2621614886186557985
+    second: Artun_Combat_41
+  - first:
+      213: -7882735278721663836
+    second: Artun_Combat_42
+  - first:
+      213: -655541527171753982
+    second: Artun_Combat_43
+  - first:
+      213: -5921973191668797327
+    second: Artun_Combat_44
+  - first:
+      213: -5029975739428947513
+    second: Artun_Combat_45
+  - first:
+      213: 7622355089645194129
+    second: Artun_Combat_46
+  - first:
+      213: -2228402080570879039
+    second: Artun_Combat_47
+  - first:
+      213: -2840978128231084125
+    second: Artun_Combat_48
+  - first:
+      213: -7404566598043349647
+    second: Artun_Combat_49
+  - first:
+      213: 6198861097608329791
+    second: Artun_Combat_50
+  - first:
+      213: -8076391799564776673
+    second: Artun_Combat_51
+  - first:
+      213: -1919667397396319716
+    second: Artun_Combat_52
+  - first:
+      213: 4645679449291792496
+    second: Artun_Combat_53
+  - first:
+      213: -1346960268151112783
+    second: Artun_Combat_54
+  - first:
+      213: -4318675378296959956
+    second: Artun_Combat_55
+  - first:
+      213: -1356117713111677217
+    second: Artun_Combat_56
+  - first:
+      213: 1275379869042082359
+    second: Artun_Combat_57
+  - first:
+      213: -3063216210945392293
+    second: Artun_Combat_58
+  - first:
+      213: -2106420406156889030
+    second: Artun_Combat_59
+  - first:
+      213: -8321077022637124559
+    second: Artun_Combat_60
+  - first:
+      213: 7381596121270876196
+    second: Artun_Combat_61
+  - first:
+      213: -6467589474524713563
+    second: Artun_Combat_62
+  - first:
+      213: 5861511335570311820
+    second: Artun_Combat_63
+  - first:
+      213: -6111817339723501463
+    second: Artun_Combat_64
+  - first:
+      213: 2209722772999745185
+    second: Artun_Combat_65
+  - first:
+      213: -1369257238211646452
+    second: Artun_Combat_66
+  - first:
+      213: -1789432613268374238
+    second: Artun_Combat_67
+  - first:
+      213: 4071116581653599804
+    second: Artun_Combat_68
+  - first:
+      213: 2102342478960628513
+    second: Artun_Combat_69
+  - first:
+      213: 3643266140709199010
+    second: Artun_Combat_70
+  - first:
+      213: 3878215325528959364
+    second: Artun_Combat_71
+  - first:
+      213: -8686768864741539351
+    second: Artun_Combat_72
+  - first:
+      213: 4361087583309710387
+    second: Artun_Combat_73
+  - first:
+      213: -3082735471297570342
+    second: Artun_Combat_74
+  - first:
+      213: -235458878213038328
+    second: Artun_Combat_75
+  - first:
+      213: -2304874550334535542
+    second: Artun_Combat_76
+  - first:
+      213: 7937365247641806748
+    second: Artun_Combat_77
+  - first:
+      213: -8676325083767973442
+    second: Artun_Combat_78
+  - first:
+      213: -7463689364070897420
+    second: Artun_Combat_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Artun_Combat_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7cc96f063bb3780800000000000000
+      internalID: -8702164625927649331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 303
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7673d8601572570e0800000000000000
+      internalID: -2272867207982794905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d9129780597cf50800000000000000
+      internalID: 6901648817593097627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ccdd88aaf8e0c80800000000000000
+      internalID: -8354582296122242015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d71c10a5028dde0800000000000000
+      internalID: -1308260120802525843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 287
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233da4a1b18bea750800000000000000
+      internalID: 6318189753792123698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5444b148e4e484e70800000000000000
+      internalID: 9099609146232882245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898ace26090e1e940800000000000000
+      internalID: 5323783145268226200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129db0601f4511460800000000000000
+      internalID: 7210637872562166049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e351f7bedfd3e0a0800000000000000
+      internalID: -6853388060265983007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f9be4aa4272cc0800000000000000
+      internalID: -3735977051996686596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8666de231c0eca2f0800000000000000
+      internalID: -960145500149029272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b16119793f0ed470800000000000000
+      internalID: 8421185092748140976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f599eae06f587a640800000000000000
+      internalID: 5091185195620407647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c2d2868af4e990800000000000000
+      internalID: -7357480435589136341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8ce779c291787d0800000000000000
+      internalID: -2916334554388182863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2950589b326ea30800000000000000
+      internalID: 4244118978550928114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd391d4f958bfd40800000000000000
+      internalID: 5619231879314619893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6760be5b7ecbf68e0800000000000000
+      internalID: -1697930831119841674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffeab120da2a9e70800000000000000
+      internalID: 9122651068599824380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dab99907f10e2630800000000000000
+      internalID: 3904060087506418392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37469b81d2b2b2c0800000000000000
+      internalID: -4417271671437244612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5896eaded782f60800000000000000
+      internalID: 8009790397065299430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b94d53aaa722f4c0800000000000000
+      internalID: -4255295084072973900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430e9801e163cec10800000000000000
+      internalID: 2084100230320087092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bde3c730e3cb1600800000000000000
+      internalID: 440160756374433205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8db4ba4ecd228dd0800000000000000
+      internalID: -2485373680315220596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3551d5c335636c90800000000000000
+      internalID: -7177782108061870790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15e1a09cca125a60800000000000000
+      internalID: 7661215382012814623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c06d274bf2d1b0800000000000000
+      internalID: -5633163900764503178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c0e8c2c00e18810800000000000000
+      internalID: 1765938871797681263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee0c475e230ad40800000000000000
+      internalID: 5593526698281856640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9063918c5679990800000000000000
+      internalID: -7379317554332431937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1420702256954450800000000000000
+      internalID: 6072424952054686746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748574eb1bd337740800000000000000
+      internalID: 5148526632625461319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0673bbfd83598f0800000000000000
+      internalID: -534458447203704666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d66feeec9e8bf20800000000000000
+      internalID: 3438755390479035781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 159
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8395df006079450800000000000000
+      internalID: 6095347221989505264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb2a72b20264030800000000000000
+      internalID: 3478503131910945981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387dca09a77f05640800000000000000
+      internalID: 5066821686577125251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea149386eb880a80800000000000000
+      internalID: -8500390474495550751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd59f2a6272e9bd0800000000000000
+      internalID: -2621614886186557985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acfa5d4706ea9290800000000000000
+      internalID: -7882735278721663836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_43
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081969447c07e6f0800000000000000
+      internalID: -655541527171753982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170f13512cce0dda0800000000000000
+      internalID: -5921973191668797327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9318607bfe13ab0800000000000000
+      internalID: -5029975739428947513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b413ea19b08c960800000000000000
+      internalID: 7622355089645194129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3d4d24d102311e0800000000000000
+      internalID: -2228402080570879039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afc12cc171d298d0800000000000000
+      internalID: -2840978128231084125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d47eff8e1bd3990800000000000000
+      internalID: -7404566598043349647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3abee64357c60650800000000000000
+      internalID: 6198861097608329791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4018e274eaef80800000000000000
+      internalID: -8076391799564776673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c123b434ca8fb55e0800000000000000
+      internalID: -1919667397396319716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070ae5368d4c87040800000000000000
+      internalID: 4645679449291792496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbb94ac5c2ae4de0800000000000000
+      internalID: -1346960268151112783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c4260ff9bf014c0800000000000000
+      internalID: -4318675378296959956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd60d5cff1a1e2de0800000000000000
+      internalID: -1356117713111677217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73200ffcb3f03b110800000000000000
+      internalID: 1275379869042082359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51c164f5154d75d0800000000000000
+      internalID: -3063216210945392293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3472670dcd74c2e0800000000000000
+      internalID: -2106420406156889030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1349c0de888958c80800000000000000
+      internalID: -8321077022637124559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42870cb1092b07660800000000000000
+      internalID: 7381596121270876196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad26e1c3a18e36a0800000000000000
+      internalID: -6467589474524713563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a089b0185485150800000000000000
+      internalID: 5861511335570311820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96035b5e2867e2ba0800000000000000
+      internalID: -6111817339723501463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeadb887238aae10800000000000000
+      internalID: 2209722772999745185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c2346ebcb6ffce0800000000000000
+      internalID: -1369257238211646452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22db3a0e488aa27e0800000000000000
+      internalID: -1789432613268374238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c365aa816f28f7830800000000000000
+      internalID: 4071116581653599804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12399ae88550d2d10800000000000000
+      internalID: 2102342478960628513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1e2b804b7f8230800000000000000
+      internalID: 3643266140709199010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48921a87a4032d530800000000000000
+      internalID: 3878215325528959364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e14823fdb5627780800000000000000
+      internalID: -8686768864741539351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334ca8d0d02b58c30800000000000000
+      internalID: 4361087583309710387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9dfc00c6ce735d0800000000000000
+      internalID: -3082735471297570342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f56e4d56b7bbcf0800000000000000
+      internalID: -235458878213038328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88c877eec07300e0800000000000000
+      internalID: -2304874550334535542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97683683af272e60800000000000000
+      internalID: 7937365247641806748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9d2323e40879780800000000000000
+      internalID: -8676325083767973442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artun_Combat_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f861b45116ab6890800000000000000
+      internalID: -7463689364070897420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Artun_Combat_0: -8702164625927649331
+      Artun_Combat_1: -2272867207982794905
+      Artun_Combat_10: -3735977051996686596
+      Artun_Combat_11: -960145500149029272
+      Artun_Combat_12: 8421185092748140976
+      Artun_Combat_13: 5091185195620407647
+      Artun_Combat_14: -7357480435589136341
+      Artun_Combat_15: -2916334554388182863
+      Artun_Combat_16: 4244118978550928114
+      Artun_Combat_17: 5619231879314619893
+      Artun_Combat_18: -1697930831119841674
+      Artun_Combat_19: 9122651068599824380
+      Artun_Combat_2: 6901648817593097627
+      Artun_Combat_20: 3904060087506418392
+      Artun_Combat_21: -4417271671437244612
+      Artun_Combat_22: 8009790397065299430
+      Artun_Combat_23: -4255295084072973900
+      Artun_Combat_24: 2084100230320087092
+      Artun_Combat_25: 440160756374433205
+      Artun_Combat_26: -2485373680315220596
+      Artun_Combat_27: -7177782108061870790
+      Artun_Combat_28: 7661215382012814623
+      Artun_Combat_29: -5633163900764503178
+      Artun_Combat_3: -8354582296122242015
+      Artun_Combat_30: 1765938871797681263
+      Artun_Combat_31: 5593526698281856640
+      Artun_Combat_32: -7379317554332431937
+      Artun_Combat_33: 6072424952054686746
+      Artun_Combat_34: 5148526632625461319
+      Artun_Combat_35: -534458447203704666
+      Artun_Combat_36: 3438755390479035781
+      Artun_Combat_37: 6095347221989505264
+      Artun_Combat_38: 3478503131910945981
+      Artun_Combat_39: 5066821686577125251
+      Artun_Combat_4: -1308260120802525843
+      Artun_Combat_40: -8500390474495550751
+      Artun_Combat_41: -2621614886186557985
+      Artun_Combat_42: -7882735278721663836
+      Artun_Combat_43: -655541527171753982
+      Artun_Combat_44: -5921973191668797327
+      Artun_Combat_45: -5029975739428947513
+      Artun_Combat_46: 7622355089645194129
+      Artun_Combat_47: -2228402080570879039
+      Artun_Combat_48: -2840978128231084125
+      Artun_Combat_49: -7404566598043349647
+      Artun_Combat_5: 6318189753792123698
+      Artun_Combat_50: 6198861097608329791
+      Artun_Combat_51: -8076391799564776673
+      Artun_Combat_52: -1919667397396319716
+      Artun_Combat_53: 4645679449291792496
+      Artun_Combat_54: -1346960268151112783
+      Artun_Combat_55: -4318675378296959956
+      Artun_Combat_56: -1356117713111677217
+      Artun_Combat_57: 1275379869042082359
+      Artun_Combat_58: -3063216210945392293
+      Artun_Combat_59: -2106420406156889030
+      Artun_Combat_6: 9099609146232882245
+      Artun_Combat_60: -8321077022637124559
+      Artun_Combat_61: 7381596121270876196
+      Artun_Combat_62: -6467589474524713563
+      Artun_Combat_63: 5861511335570311820
+      Artun_Combat_64: -6111817339723501463
+      Artun_Combat_65: 2209722772999745185
+      Artun_Combat_66: -1369257238211646452
+      Artun_Combat_67: -1789432613268374238
+      Artun_Combat_68: 4071116581653599804
+      Artun_Combat_69: 2102342478960628513
+      Artun_Combat_7: 5323783145268226200
+      Artun_Combat_70: 3643266140709199010
+      Artun_Combat_71: 3878215325528959364
+      Artun_Combat_72: -8686768864741539351
+      Artun_Combat_73: 4361087583309710387
+      Artun_Combat_74: -3082735471297570342
+      Artun_Combat_75: -235458878213038328
+      Artun_Combat_76: -2304874550334535542
+      Artun_Combat_77: 7937365247641806748
+      Artun_Combat_78: -8676325083767973442
+      Artun_Combat_79: -7463689364070897420
+      Artun_Combat_8: 7210637872562166049
+      Artun_Combat_9: -6853388060265983007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

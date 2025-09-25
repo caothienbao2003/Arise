@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: e8af6e493ed2ae94796ee15fc29182dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1976438527298741547
+    second: caped_warrior_combat_without_Attack_Effect_24x24_0
+  - first:
+      213: -7753329662652769196
+    second: caped_warrior_combat_without_Attack_Effect_24x24_1
+  - first:
+      213: -5199769612897968959
+    second: caped_warrior_combat_without_Attack_Effect_24x24_2
+  - first:
+      213: 3257479599978261894
+    second: caped_warrior_combat_without_Attack_Effect_24x24_3
+  - first:
+      213: -3926014463152818310
+    second: caped_warrior_combat_without_Attack_Effect_24x24_4
+  - first:
+      213: -8694206080494541150
+    second: caped_warrior_combat_without_Attack_Effect_24x24_5
+  - first:
+      213: 5416954723429414538
+    second: caped_warrior_combat_without_Attack_Effect_24x24_6
+  - first:
+      213: 5617766562760104738
+    second: caped_warrior_combat_without_Attack_Effect_24x24_7
+  - first:
+      213: -3800850842160675772
+    second: caped_warrior_combat_without_Attack_Effect_24x24_8
+  - first:
+      213: -2814023950032779755
+    second: caped_warrior_combat_without_Attack_Effect_24x24_9
+  - first:
+      213: -9030771771958843284
+    second: caped_warrior_combat_without_Attack_Effect_24x24_10
+  - first:
+      213: -5181731132849439951
+    second: caped_warrior_combat_without_Attack_Effect_24x24_11
+  - first:
+      213: 2381034650092129120
+    second: caped_warrior_combat_without_Attack_Effect_24x24_12
+  - first:
+      213: 1504813945252256297
+    second: caped_warrior_combat_without_Attack_Effect_24x24_13
+  - first:
+      213: 6135719292721534540
+    second: caped_warrior_combat_without_Attack_Effect_24x24_14
+  - first:
+      213: -7062431383642812342
+    second: caped_warrior_combat_without_Attack_Effect_24x24_15
+  - first:
+      213: -5018534282559453640
+    second: caped_warrior_combat_without_Attack_Effect_24x24_16
+  - first:
+      213: 548763097986001154
+    second: caped_warrior_combat_without_Attack_Effect_24x24_17
+  - first:
+      213: 5084945251700417191
+    second: caped_warrior_combat_without_Attack_Effect_24x24_18
+  - first:
+      213: 1103855398764633368
+    second: caped_warrior_combat_without_Attack_Effect_24x24_19
+  - first:
+      213: 6065349113599440586
+    second: caped_warrior_combat_without_Attack_Effect_24x24_20
+  - first:
+      213: -8273782777571419439
+    second: caped_warrior_combat_without_Attack_Effect_24x24_21
+  - first:
+      213: 1732533113735356884
+    second: caped_warrior_combat_without_Attack_Effect_24x24_22
+  - first:
+      213: 5349356159297371511
+    second: caped_warrior_combat_without_Attack_Effect_24x24_23
+  - first:
+      213: -3493823834747266732
+    second: caped_warrior_combat_without_Attack_Effect_24x24_24
+  - first:
+      213: 3982183017213689153
+    second: caped_warrior_combat_without_Attack_Effect_24x24_25
+  - first:
+      213: 6876667612185576036
+    second: caped_warrior_combat_without_Attack_Effect_24x24_26
+  - first:
+      213: 8884668820118025005
+    second: caped_warrior_combat_without_Attack_Effect_24x24_27
+  - first:
+      213: 8011990300016221475
+    second: caped_warrior_combat_without_Attack_Effect_24x24_28
+  - first:
+      213: 8648181843128117184
+    second: caped_warrior_combat_without_Attack_Effect_24x24_29
+  - first:
+      213: -1064417751678836702
+    second: caped_warrior_combat_without_Attack_Effect_24x24_30
+  - first:
+      213: -5296952215482374016
+    second: caped_warrior_combat_without_Attack_Effect_24x24_31
+  - first:
+      213: 158624434956153535
+    second: caped_warrior_combat_without_Attack_Effect_24x24_32
+  - first:
+      213: -2459359730858347116
+    second: caped_warrior_combat_without_Attack_Effect_24x24_33
+  - first:
+      213: -213016363684203088
+    second: caped_warrior_combat_without_Attack_Effect_24x24_34
+  - first:
+      213: -7514426536997863599
+    second: caped_warrior_combat_without_Attack_Effect_24x24_35
+  - first:
+      213: 1362058321398355363
+    second: caped_warrior_combat_without_Attack_Effect_24x24_36
+  - first:
+      213: 5941645190725062840
+    second: caped_warrior_combat_without_Attack_Effect_24x24_37
+  - first:
+      213: 8493378429649541958
+    second: caped_warrior_combat_without_Attack_Effect_24x24_38
+  - first:
+      213: -2846840308236301026
+    second: caped_warrior_combat_without_Attack_Effect_24x24_39
+  - first:
+      213: 2359485723917419646
+    second: caped_warrior_combat_without_Attack_Effect_24x24_40
+  - first:
+      213: 3876632572360550326
+    second: caped_warrior_combat_without_Attack_Effect_24x24_41
+  - first:
+      213: -7892400363983953826
+    second: caped_warrior_combat_without_Attack_Effect_24x24_42
+  - first:
+      213: 9145790317818870467
+    second: caped_warrior_combat_without_Attack_Effect_24x24_43
+  - first:
+      213: 3249119417259121023
+    second: caped_warrior_combat_without_Attack_Effect_24x24_44
+  - first:
+      213: -7880389313255373197
+    second: caped_warrior_combat_without_Attack_Effect_24x24_45
+  - first:
+      213: 3459834651752305960
+    second: caped_warrior_combat_without_Attack_Effect_24x24_46
+  - first:
+      213: 8564357591402481771
+    second: caped_warrior_combat_without_Attack_Effect_24x24_47
+  - first:
+      213: 4236788340176927243
+    second: caped_warrior_combat_without_Attack_Effect_24x24_48
+  - first:
+      213: -1521509846432105583
+    second: caped_warrior_combat_without_Attack_Effect_24x24_49
+  - first:
+      213: 611382623304979692
+    second: caped_warrior_combat_without_Attack_Effect_24x24_50
+  - first:
+      213: 1525798399701964550
+    second: caped_warrior_combat_without_Attack_Effect_24x24_51
+  - first:
+      213: -3081758491391211536
+    second: caped_warrior_combat_without_Attack_Effect_24x24_52
+  - first:
+      213: -1677597961403403421
+    second: caped_warrior_combat_without_Attack_Effect_24x24_53
+  - first:
+      213: -2547074496160137326
+    second: caped_warrior_combat_without_Attack_Effect_24x24_54
+  - first:
+      213: -7672995309757523471
+    second: caped_warrior_combat_without_Attack_Effect_24x24_55
+  - first:
+      213: 8000354539420418341
+    second: caped_warrior_combat_without_Attack_Effect_24x24_56
+  - first:
+      213: -650858430216731321
+    second: caped_warrior_combat_without_Attack_Effect_24x24_57
+  - first:
+      213: 7696428473532299684
+    second: caped_warrior_combat_without_Attack_Effect_24x24_58
+  - first:
+      213: -4020449907369194471
+    second: caped_warrior_combat_without_Attack_Effect_24x24_59
+  - first:
+      213: -77294369957805629
+    second: caped_warrior_combat_without_Attack_Effect_24x24_60
+  - first:
+      213: 6159142426480165752
+    second: caped_warrior_combat_without_Attack_Effect_24x24_61
+  - first:
+      213: 7301375880103095408
+    second: caped_warrior_combat_without_Attack_Effect_24x24_62
+  - first:
+      213: -3996915351562314465
+    second: caped_warrior_combat_without_Attack_Effect_24x24_63
+  - first:
+      213: 8658578502931326142
+    second: caped_warrior_combat_without_Attack_Effect_24x24_64
+  - first:
+      213: 2227948960580868345
+    second: caped_warrior_combat_without_Attack_Effect_24x24_65
+  - first:
+      213: 1188687531576431669
+    second: caped_warrior_combat_without_Attack_Effect_24x24_66
+  - first:
+      213: -6430575085736620761
+    second: caped_warrior_combat_without_Attack_Effect_24x24_67
+  - first:
+      213: -6214941239754355085
+    second: caped_warrior_combat_without_Attack_Effect_24x24_68
+  - first:
+      213: -3666410351968415750
+    second: caped_warrior_combat_without_Attack_Effect_24x24_69
+  - first:
+      213: 7821220234472541917
+    second: caped_warrior_combat_without_Attack_Effect_24x24_70
+  - first:
+      213: -1435131794805008482
+    second: caped_warrior_combat_without_Attack_Effect_24x24_71
+  - first:
+      213: -5466238666413445078
+    second: caped_warrior_combat_without_Attack_Effect_24x24_72
+  - first:
+      213: -4216356111757371880
+    second: caped_warrior_combat_without_Attack_Effect_24x24_73
+  - first:
+      213: -3429141768070146433
+    second: caped_warrior_combat_without_Attack_Effect_24x24_74
+  - first:
+      213: -7428917736353860525
+    second: caped_warrior_combat_without_Attack_Effect_24x24_75
+  - first:
+      213: 7184267054880567936
+    second: caped_warrior_combat_without_Attack_Effect_24x24_76
+  - first:
+      213: -4997459467889939087
+    second: caped_warrior_combat_without_Attack_Effect_24x24_77
+  - first:
+      213: -2582349283244488489
+    second: caped_warrior_combat_without_Attack_Effect_24x24_78
+  - first:
+      213: -852347444132793980
+    second: caped_warrior_combat_without_Attack_Effect_24x24_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25a9047e58bd6b10800000000000000
+      internalID: 1976438527298741547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 459
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c151f20c3a66490800000000000000
+      internalID: -7753329662652769196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 459
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc985d2615b6d7b0800000000000000
+      internalID: -5199769612897968959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 459
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d29c3ff64e43d20800000000000000
+      internalID: 3257479599978261894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77fabc85aef389c0800000000000000
+      internalID: -3926014463152818310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 435
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6e41832a9f75780800000000000000
+      internalID: -8694206080494541150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 434
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a867266ee93ec2b40800000000000000
+      internalID: 5416954723429414538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 434
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b1264bce056fd40800000000000000
+      internalID: 5617766562760104738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 411
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c4ccfb4aa04bc0800000000000000
+      internalID: -3800850842160675772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 411
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516cad4702492f8d0800000000000000
+      internalID: -2814023950032779755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 411
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68a4c4abe04ca280800000000000000
+      internalID: -9030771771958843284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 411
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b3de81dfac618b0800000000000000
+      internalID: -5181731132849439951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 387
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b43a426622b0120800000000000000
+      internalID: 2381034650092129120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 387
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a90d37f4c22e410800000000000000
+      internalID: 1504813945252256297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 386
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c469d243034762550800000000000000
+      internalID: 6135719292721534540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 386
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40566f23143dfd90800000000000000
+      internalID: -7062431383642812342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8368ceac8a59a5ab0800000000000000
+      internalID: -5018534282559453640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 363
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2096c4151299d9700800000000000000
+      internalID: 548763097986001154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 362
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a9e5e3ca519640800000000000000
+      internalID: 5084945251700417191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d53cef2aea15f00800000000000000
+      internalID: 1103855398764633368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 338
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac633da12e27c2450800000000000000
+      internalID: 6065349113599440586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 339
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da5c12766e9d2d80800000000000000
+      internalID: -8273782777571419439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 339
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d12cc500b13b0810800000000000000
+      internalID: 1732533113735356884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 339
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db7f3b51bbc3a40800000000000000
+      internalID: 5349356159297371511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 314
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459981ebbb1738fc0800000000000000
+      internalID: -3493823834747266732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 314
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d7d9b0b5e834730800000000000000
+      internalID: 3982183017213689153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 315
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46241c652c4de6f50800000000000000
+      internalID: 6876667612185576036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 315
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23bf1a083fac4b70800000000000000
+      internalID: 8884668820118025005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d97508abe403f60800000000000000
+      internalID: 8011990300016221475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 291
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c762a8f093840870800000000000000
+      internalID: 8648181843128117184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 290
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2202092c1bd6a31f0800000000000000
+      internalID: -1064417751678836702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 290
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08864f346027d76b0800000000000000
+      internalID: -5296952215482374016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 267
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2324a451c833200800000000000000
+      internalID: 158624434956153535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 267
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495b943ea599eddd0800000000000000
+      internalID: -2459359730858347116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 267
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5f14feeb63b0df0800000000000000
+      internalID: -213016363684203088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 267
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f3973b0e467b790800000000000000
+      internalID: -7514426536997863599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 243
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5505aa3d007e210800000000000000
+      internalID: 1362058321398355363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 243
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0539e12d6f47250800000000000000
+      internalID: 5941645190725062840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bd9329eaa8ed570800000000000000
+      internalID: 8493378429649541958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 243
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dcf47a2ddfd78d0800000000000000
+      internalID: -2846840308236301026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 220
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7404bac3c39eb020800000000000000
+      internalID: 2359485723917419646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 220
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7624809c09cc530800000000000000
+      internalID: 3876632572360550326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 220
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50a2974faf887290800000000000000
+      internalID: -7892400363983953826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 220
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cafccb66df5cee70800000000000000
+      internalID: 9145790317818870467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79dd8a35e0371d20800000000000000
+      internalID: 3249119417259121023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37601a3fbab33a290800000000000000
+      internalID: -7880389313255373197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 194
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8259847e84dc30030800000000000000
+      internalID: 3459834651752305960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 194
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6807fc7ad5bad670800000000000000
+      internalID: 8564357591402481771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 171
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a33c44c881cca30800000000000000
+      internalID: 4236788340176927243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 171
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bb7212bd282eae0800000000000000
+      internalID: -1521509846432105583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 171
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce490f3b1411c7800800000000000000
+      internalID: 611382623304979692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 171
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607581d7f89bc2510800000000000000
+      internalID: 1525798399701964550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7451ddaf46b35d0800000000000000
+      internalID: -3081758491391211536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 147
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36371aada89f7b8e0800000000000000
+      internalID: -1677597961403403421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ffaef9d39f6acd0800000000000000
+      internalID: -2547074496160137326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f91aa64b6b048590800000000000000
+      internalID: -7672995309757523471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 123
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521865fd018f60f60800000000000000
+      internalID: 8000354539420418341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7450dd3c4bfa7f6f0800000000000000
+      internalID: -650858430216731321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_58
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a938145be43fca60800000000000000
+      internalID: 7696428473532299684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_59
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc10a4c1e7438c0800000000000000
+      internalID: -4020449907369194471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 99
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c107871e256deef0800000000000000
+      internalID: -77294369957805629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8734363876ba97550800000000000000
+      internalID: 6159142426480165752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6629bda2b35560800000000000000
+      internalID: 7301375880103095408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 99
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d92d01aaa1888c0800000000000000
+      internalID: -3996915351562314465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb42e07f543792870800000000000000
+      internalID: 8658578502931326142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 75
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f89f1586c34bee10800000000000000
+      internalID: 2227948960580868345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 75
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349c8413011f7010800000000000000
+      internalID: 1188687531576431669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_67
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d0139b70202c6a0800000000000000
+      internalID: -6430575085736620761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e0480eed710c9a0800000000000000
+      internalID: -6214941239754355085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 51
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff8b1ad53b4e1dc0800000000000000
+      internalID: -3666410351968415750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_70
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde45d95d5e8a8c60800000000000000
+      internalID: 7821220234472541917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9757cc7c33651ce0800000000000000
+      internalID: -1435131794805008482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20fbeee4e40424b0800000000000000
+      internalID: -5466238666413445078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_73
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8169720a47e7c75c0800000000000000
+      internalID: -4216356111757371880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7659b5fabd3960d0800000000000000
+      internalID: -3429141768070146433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_75
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354770bcdae27e890800000000000000
+      internalID: -7428917736353860525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082b2b192d4a3b360800000000000000
+      internalID: 7184267054880567936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17de105771575aab0800000000000000
+      internalID: -4997459467889939087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d84a3e3207a92cd0800000000000000
+      internalID: -2582349283244488489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caped_warrior_combat_without_Attack_Effect_24x24_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b047f38adb24f0800000000000000
+      internalID: -852347444132793980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caped_warrior_combat_without_Attack_Effect_24x24_0: 1976438527298741547
+      caped_warrior_combat_without_Attack_Effect_24x24_1: -7753329662652769196
+      caped_warrior_combat_without_Attack_Effect_24x24_10: -9030771771958843284
+      caped_warrior_combat_without_Attack_Effect_24x24_11: -5181731132849439951
+      caped_warrior_combat_without_Attack_Effect_24x24_12: 2381034650092129120
+      caped_warrior_combat_without_Attack_Effect_24x24_13: 1504813945252256297
+      caped_warrior_combat_without_Attack_Effect_24x24_14: 6135719292721534540
+      caped_warrior_combat_without_Attack_Effect_24x24_15: -7062431383642812342
+      caped_warrior_combat_without_Attack_Effect_24x24_16: -5018534282559453640
+      caped_warrior_combat_without_Attack_Effect_24x24_17: 548763097986001154
+      caped_warrior_combat_without_Attack_Effect_24x24_18: 5084945251700417191
+      caped_warrior_combat_without_Attack_Effect_24x24_19: 1103855398764633368
+      caped_warrior_combat_without_Attack_Effect_24x24_2: -5199769612897968959
+      caped_warrior_combat_without_Attack_Effect_24x24_20: 6065349113599440586
+      caped_warrior_combat_without_Attack_Effect_24x24_21: -8273782777571419439
+      caped_warrior_combat_without_Attack_Effect_24x24_22: 1732533113735356884
+      caped_warrior_combat_without_Attack_Effect_24x24_23: 5349356159297371511
+      caped_warrior_combat_without_Attack_Effect_24x24_24: -3493823834747266732
+      caped_warrior_combat_without_Attack_Effect_24x24_25: 3982183017213689153
+      caped_warrior_combat_without_Attack_Effect_24x24_26: 6876667612185576036
+      caped_warrior_combat_without_Attack_Effect_24x24_27: 8884668820118025005
+      caped_warrior_combat_without_Attack_Effect_24x24_28: 8011990300016221475
+      caped_warrior_combat_without_Attack_Effect_24x24_29: 8648181843128117184
+      caped_warrior_combat_without_Attack_Effect_24x24_3: 3257479599978261894
+      caped_warrior_combat_without_Attack_Effect_24x24_30: -1064417751678836702
+      caped_warrior_combat_without_Attack_Effect_24x24_31: -5296952215482374016
+      caped_warrior_combat_without_Attack_Effect_24x24_32: 158624434956153535
+      caped_warrior_combat_without_Attack_Effect_24x24_33: -2459359730858347116
+      caped_warrior_combat_without_Attack_Effect_24x24_34: -213016363684203088
+      caped_warrior_combat_without_Attack_Effect_24x24_35: -7514426536997863599
+      caped_warrior_combat_without_Attack_Effect_24x24_36: 1362058321398355363
+      caped_warrior_combat_without_Attack_Effect_24x24_37: 5941645190725062840
+      caped_warrior_combat_without_Attack_Effect_24x24_38: 8493378429649541958
+      caped_warrior_combat_without_Attack_Effect_24x24_39: -2846840308236301026
+      caped_warrior_combat_without_Attack_Effect_24x24_4: -3926014463152818310
+      caped_warrior_combat_without_Attack_Effect_24x24_40: 2359485723917419646
+      caped_warrior_combat_without_Attack_Effect_24x24_41: 3876632572360550326
+      caped_warrior_combat_without_Attack_Effect_24x24_42: -7892400363983953826
+      caped_warrior_combat_without_Attack_Effect_24x24_43: 9145790317818870467
+      caped_warrior_combat_without_Attack_Effect_24x24_44: 3249119417259121023
+      caped_warrior_combat_without_Attack_Effect_24x24_45: -7880389313255373197
+      caped_warrior_combat_without_Attack_Effect_24x24_46: 3459834651752305960
+      caped_warrior_combat_without_Attack_Effect_24x24_47: 8564357591402481771
+      caped_warrior_combat_without_Attack_Effect_24x24_48: 4236788340176927243
+      caped_warrior_combat_without_Attack_Effect_24x24_49: -1521509846432105583
+      caped_warrior_combat_without_Attack_Effect_24x24_5: -8694206080494541150
+      caped_warrior_combat_without_Attack_Effect_24x24_50: 611382623304979692
+      caped_warrior_combat_without_Attack_Effect_24x24_51: 1525798399701964550
+      caped_warrior_combat_without_Attack_Effect_24x24_52: -3081758491391211536
+      caped_warrior_combat_without_Attack_Effect_24x24_53: -1677597961403403421
+      caped_warrior_combat_without_Attack_Effect_24x24_54: -2547074496160137326
+      caped_warrior_combat_without_Attack_Effect_24x24_55: -7672995309757523471
+      caped_warrior_combat_without_Attack_Effect_24x24_56: 8000354539420418341
+      caped_warrior_combat_without_Attack_Effect_24x24_57: -650858430216731321
+      caped_warrior_combat_without_Attack_Effect_24x24_58: 7696428473532299684
+      caped_warrior_combat_without_Attack_Effect_24x24_59: -4020449907369194471
+      caped_warrior_combat_without_Attack_Effect_24x24_6: 5416954723429414538
+      caped_warrior_combat_without_Attack_Effect_24x24_60: -77294369957805629
+      caped_warrior_combat_without_Attack_Effect_24x24_61: 6159142426480165752
+      caped_warrior_combat_without_Attack_Effect_24x24_62: 7301375880103095408
+      caped_warrior_combat_without_Attack_Effect_24x24_63: -3996915351562314465
+      caped_warrior_combat_without_Attack_Effect_24x24_64: 8658578502931326142
+      caped_warrior_combat_without_Attack_Effect_24x24_65: 2227948960580868345
+      caped_warrior_combat_without_Attack_Effect_24x24_66: 1188687531576431669
+      caped_warrior_combat_without_Attack_Effect_24x24_67: -6430575085736620761
+      caped_warrior_combat_without_Attack_Effect_24x24_68: -6214941239754355085
+      caped_warrior_combat_without_Attack_Effect_24x24_69: -3666410351968415750
+      caped_warrior_combat_without_Attack_Effect_24x24_7: 5617766562760104738
+      caped_warrior_combat_without_Attack_Effect_24x24_70: 7821220234472541917
+      caped_warrior_combat_without_Attack_Effect_24x24_71: -1435131794805008482
+      caped_warrior_combat_without_Attack_Effect_24x24_72: -5466238666413445078
+      caped_warrior_combat_without_Attack_Effect_24x24_73: -4216356111757371880
+      caped_warrior_combat_without_Attack_Effect_24x24_74: -3429141768070146433
+      caped_warrior_combat_without_Attack_Effect_24x24_75: -7428917736353860525
+      caped_warrior_combat_without_Attack_Effect_24x24_76: 7184267054880567936
+      caped_warrior_combat_without_Attack_Effect_24x24_77: -4997459467889939087
+      caped_warrior_combat_without_Attack_Effect_24x24_78: -2582349283244488489
+      caped_warrior_combat_without_Attack_Effect_24x24_79: -852347444132793980
+      caped_warrior_combat_without_Attack_Effect_24x24_8: -3800850842160675772
+      caped_warrior_combat_without_Attack_Effect_24x24_9: -2814023950032779755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
