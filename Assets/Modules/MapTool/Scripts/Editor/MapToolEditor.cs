@@ -10,6 +10,8 @@ namespace MapTool
         [BoxGroup("Cell types settings"), SerializeField]
         private string dataPath = "Assets/Modules/MapTool/Data/CellTypes";
 
+        private CreateNewCellTypeData createNewCellTypeData;
+
         [MenuItem("Tools/Map Tool")]
         private static void OpenWindow()
         {
@@ -17,11 +19,23 @@ namespace MapTool
             window.Show();
         }
 
+        protected override void OnDestroy()
+        {
+            base.OnDestroy();
+
+            if(createNewCellTypeData != null && createNewCellTypeData.cellTypeSO != null)
+            {
+                DestroyImmediate(createNewCellTypeData.cellTypeSO);
+            }
+        }
+
         protected override OdinMenuTree BuildMenuTree()
         {
             var tree = new OdinMenuTree();
 
-            tree.Add("Cell Types/ Create New Type", new CreateNewCellTypeData(dataPath));
+            createNewCellTypeData = new CreateNewCellTypeData(dataPath);
+
+            tree.Add("Cell Types/ Create New Type", createNewCellTypeData);
             tree.AddAllAssetsAtPath("Cell Types/ All Cell Types", dataPath, typeof(CellTypeSO));
 
             tree.Add("Level editor/ Create New Level", new CreateNewLevelData());
