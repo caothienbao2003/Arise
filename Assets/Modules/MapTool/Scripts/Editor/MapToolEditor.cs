@@ -12,37 +12,73 @@ namespace MapTool
 {
     public class MapToolEditor : OdinMenuEditorWindow
     {
-        #region Cell types settings
-        [TabGroup("Cell types settings")]
+        private CreateNewCellTypeWindow createNewCellTypeData;
+        private CreateNewLevelWindow createNewLevelData;
+
         [SerializeField]
+        [ShowIf("@settings == null")]
         [FolderPath]
-        private string dataPath = "Assets/Modules/MapTool/Data/CellTypes";
-        #endregion
+        private string SettingsAssetPath = "Assets/Modules/MapTool";
 
-        #region Level settings
-        [TabGroup("Level settings")]
-        [AssetsOnly]
-        [Required("Template scene is required")]
         [SerializeField]
-        [InfoBox("Scene used as a template when creating new levels. It should contain essential components like Grid, Camera setup, Lighting, etc.", InfoMessageType.None)]
-        private SceneAsset templateScene;
-
-        [TabGroup("Level settings")]
+        [ShowIf("@settings == null")]
         [FolderPath]
-        [SerializeField]
-        [InfoBox("Path where new level scenes will be created.", InfoMessageType.None)]
-        private string levelPath = "Assets/Scenes/Levels";
-        #endregion
+        private string SettingsName = "MapToolSettings";
+
+        [InlineEditor(ObjectFieldMode = InlineEditorObjectFieldModes.Hidden)]
+        [SerializeField, Required]
+        [ShowIf("@settings != null")]
+        private MapToolSettingsSO settings;
 
 
-        private CreateNewCellTypeData createNewCellTypeData;
-        private CreateNewLevelData createNewLevelData;
+        [ShowIf("@settings == null")]
+        [Button(ButtonSizes.Large)]
+        private void CreateSettingsAsset()
+        {
+            string folderPath = $"{SettingsAssetPath}/{SettingsName}.asset";
+
+            // Create folder path if it doesn’t exist
+            string folder = Path.GetDirectoryName(folderPath);
+            if (!Directory.Exists(folder))
+                Directory.CreateDirectory(folder);
+
+            // Create new ScriptableObject instance
+            settings = ScriptableObject.CreateInstance<MapToolSettingsSO>();
+
+            // Save as an asset in the project
+            AssetDatabase.CreateAsset(settings, folderPath);
+            AssetDatabase.SaveAssets();
+            AssetDatabase.Refresh();
+
+            // Ping it for visual feedback
+            EditorGUIUtility.PingObject(settings);
+
+            Debug.Log($"Created new MapToolSettingsSO at {folderPath}");
+        }
 
         [MenuItem("Tools/Map Tool")]
         private static void OpenWindow()
         {
             var window = GetWindow<MapToolEditor>();
             window.Show();
+        }
+
+        protected override void OnEnable()
+        {
+            base.OnEnable();
+
+            string folderPath = $"{SettingsAssetPath}/{SettingsName}.asset";
+
+            Debug.Log(folderPath);
+            // Try to find the asset first
+            settings = AssetDatabase.LoadAssetAtPath<MapToolSettingsSO>(folderPath);
+
+            // If not found, automatically create it
+            //if (settings == null)
+            //{
+            //    Debug.Log("MapToolSettingsSO not found, creating new one...");
+            //    CreateSettingsAsset();
+            //}
         }
 
         protected override void OnDestroy()
@@ -59,11 +95,17 @@ namespace MapTool
         {
             var tree = new OdinMenuTree();
 
-            createNewCellTypeData = new CreateNewCellTypeData(dataPath);
-            createNewLevelData = new CreateNewLevelData(templateScene, levelPath);
+            if (settings == null)
+            {
+                tree.Add("Settings", this);
+                return tree;
+            }
+
+            createNewCellTypeData = new CreateNewCellTypeWindow(settings);
+            createNewLevelData = new CreateNewLevelWindow(settings);
 
             tree.Add("Cell Types/ Create New Type", createNewCellTypeData);
-            tree.AddAllAssetsAtPath("Cell Types/ All Cell Types", dataPath, typeof(CellTypeSO));
+            tree.AddAllAssetsAtPath("Cell Types/ All Cell Types", settings.cellTypePath, typeof(CellTypeSO));
 
             tree.Add("Level editor/ Create New Level", createNewLevelData);
 
@@ -72,44 +114,41 @@ namespace MapTool
         }
     }
 
-    public class CreateNewCellTypeData
+    public class CreateNewCellTypeWindow
     {
-        public CreateNewCellTypeData(string dataPath)
+        public CreateNewCellTypeWindow(MapToolSettingsSO settings)
         {
             cellTypeSO = ScriptableObject.CreateInstance<CellTypeSO>();
-            this.dataPath = dataPath;
+            this.settings = settings;
         }
 
         [InlineEditor(ObjectFieldMode = InlineEditorObjectFieldModes.Hidden)]
         public CellTypeSO cellTypeSO;
 
-        private string dataPath = "";
+        private MapToolSettingsSO settings;
 
         [BoxGroup("Actions")]
         [Button("Add New Cell Type", ButtonSizes.Medium), GUIColor(0.4f, 1f, 0.4f), HorizontalGroup("Actions/Buttons")]
         private void CreateNewData()
         {
-            Debug.Log(dataPath);
             Debug.Log(cellTypeSO.DisplayName);
-            AssetDatabase.CreateAsset(cellTypeSO, $"{dataPath}/{cellTypeSO.DisplayName}.asset");
+            AssetDatabase.CreateAsset(cellTypeSO, $"{settings.cellTypePath}/{cellTypeSO.DisplayName}.asset");
             AssetDatabase.SaveAssets();
 
             cellTypeSO = ScriptableObject.CreateInstance<CellTypeSO>();
         }
     }
 
-    public class CreateNewLevelData
+    public class CreateNewLevelWindow
     {
         [SerializeField]
         [ValidateInput("ValidateLevelName", "Level name is required and must contain valid characters!")]
         private string levelName;
 
-        private SceneAsset sceneTemplate;
-        private string levelPath;
-        public CreateNewLevelData(SceneAsset sceneTemplate, string levelPath)
+        private MapToolSettingsSO settings;
+        public CreateNewLevelWindow(MapToolSettingsSO settings)
         {
-            this.sceneTemplate = sceneTemplate;
-            this.levelPath = levelPath;
+            this.settings = settings;
         }
 
 #if UNITY_EDITOR
@@ -120,8 +159,9 @@ namespace MapTool
             if (!ValidateInputs())
                 return;
 
-            string newScenePath = $"{levelPath}/{levelName}.unity";
+            string newScenePath = $"{settings.levelPath}/{levelName}.unity";
 
+            // Step 1: Handle existing scene
             if (File.Exists(newScenePath))
             {
                 if (!EditorUtility.DisplayDialog(
@@ -136,10 +176,36 @@ namespace MapTool
                 AssetDatabase.DeleteAsset(newScenePath);
             }
 
-            if(!Directory.Exists(levelPath))
+            // Step 2: Create new scene from template
+            if (!Directory.Exists(settings.levelPath))
             {
-                Directory.CreateDirectory(levelPath);
+                Directory.CreateDirectory(settings.levelPath);
                 AssetDatabase.Refresh();
+            }
+
+            string templateScenePath = AssetDatabase.GetAssetPath(settings.templateScene);
+
+            //Step 3: Copy template scene to new location
+            bool success = AssetDatabase.CopyAsset(templateScenePath, newScenePath);
+            if (!success)
+            {
+                EditorUtility.DisplayDialog("Error", "Failed to create the new level scene.", "OK");
+                return;
+            }
+
+            AssetDatabase.SaveAssets();
+            AssetDatabase.Refresh();
+
+            // Step 5: (Optional) Open or highlight new scene
+            EditorGUIUtility.PingObject(AssetDatabase.LoadAssetAtPath<SceneAsset>(newScenePath));
+
+            if (EditorUtility.DisplayDialog(
+                "Level created",
+                $"Level '{levelName}' created successfully at:\n{newScenePath}",
+                "Open Scene",
+                "Close"))
+            {
+                UnityEditor.SceneManagement.EditorSceneManager.OpenScene(newScenePath);
             }
         }
         private bool ValidateLevelName(string name)
@@ -153,7 +219,7 @@ namespace MapTool
 
         private bool ValidateInputs()
         {
-            if (sceneTemplate == null)
+            if (settings.templateScene == null)
             {
                 EditorUtility.DisplayDialog("Error", "Template scene is required!", "OK");
                 return false;
@@ -171,7 +237,7 @@ namespace MapTool
                 return false;
             }
 
-            if (string.IsNullOrWhiteSpace(levelPath) || !levelPath.StartsWith("Assets/"))
+            if (string.IsNullOrWhiteSpace(settings.levelPath) || !settings.levelPath.StartsWith("Assets/"))
             {
                 EditorUtility.DisplayDialog("Error", "Level path must be valid and start with 'Assets/'!", "OK");
                 return false;
