@@ -7,9 +7,9 @@ namespace MapTool
     [Serializable]
     public class CellData
     {
-        [SerializeField] private CellType CellType;
-        
-        public CellType cellType => CellType;
+        public CellType CellType;
+        public Vector2Int Position;
+        public bool walkable = true;
     }
 
     public enum CellType
