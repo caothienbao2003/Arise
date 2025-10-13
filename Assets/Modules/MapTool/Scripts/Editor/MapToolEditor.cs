@@ -1,15 +1,18 @@
 using UnityEngine;
 using Sirenix.OdinInspector;
 using Sirenix.OdinInspector.Editor;
+using System.Linq;
 
 #if UNITY_EDITOR
 using UnityEditor;
 using UnityEngine.SceneManagement;
+using UnityEditor.SceneManagement;
 using System.IO;
 #endif
 
 namespace MapTool
 {
+#if UNITY_EDITOR
     public class MapToolEditor : OdinMenuEditorWindow
     {
         private CreateNewCellTypeWindow createNewCellTypeData;
@@ -104,10 +107,22 @@ namespace MapTool
             createNewCellTypeData = new CreateNewCellTypeWindow(settings);
             createNewLevelData = new CreateNewLevelWindow(settings);
 
-            tree.Add("Cell Types/ Create New Type", createNewCellTypeData);
-            tree.AddAllAssetsAtPath("Cell Types/ All Cell Types", settings.cellTypePath, typeof(CellTypeSO));
+            tree.Add("Cell Types", createNewCellTypeData);
+            tree.AddAllAssetsAtPath("Cell Types", settings.cellTypePath, typeof(CellTypeSO));
 
-            tree.Add("Level editor/ Create New Level", createNewLevelData);
+            tree.Add("Level editor", createNewLevelData);
+
+            var items = tree.AddAllAssetsAtPath(
+                "Level editor",
+                settings.levelDataPath,
+                typeof(LevelDataSO),
+                includeSubDirectories: true,
+                flattenSubDirectories: true
+            );
+
+            foreach (var item in items)
+                if (item.Value is LevelDataSO data)
+                    item.Name = data.levelName;
 
             tree.Add("Settings", this);
             return tree;
@@ -151,7 +166,6 @@ namespace MapTool
             this.settings = settings;
         }
 
-#if UNITY_EDITOR
         [HorizontalGroup("Actions")]
         [Button("Create level scene", ButtonSizes.Large), GUIColor(0.4f, 1f, 0.4f)]
         private void CreateLevel()
@@ -159,9 +173,12 @@ namespace MapTool
             if (!ValidateInputs())
                 return;
 
-            string newScenePath = $"{settings.levelPath}/{levelName}.unity";
 
             // Step 1: Handle existing scene
+            Directory.CreateDirectory($"{settings.levelPath}/{levelName}");
+
+            string newScenePath = $"{settings.levelPath}/{levelName}/{levelName}.unity";
+            
             if (File.Exists(newScenePath))
             {
                 if (!EditorUtility.DisplayDialog(
@@ -176,16 +193,23 @@ namespace MapTool
                 AssetDatabase.DeleteAsset(newScenePath);
             }
 
-            // Step 2: Create new scene from template
+            // Step 2: Create directories if missing
             if (!Directory.Exists(settings.levelPath))
             {
                 Directory.CreateDirectory(settings.levelPath);
-                AssetDatabase.Refresh();
             }
 
-            string templateScenePath = AssetDatabase.GetAssetPath(settings.templateScene);
+            if (!Directory.Exists(settings.levelDataPath))
+            {
+                Directory.CreateDirectory(settings.levelDataPath);
+            }
+
+            AssetDatabase.Refresh();
+
 
             //Step 3: Copy template scene to new location
+            string templateScenePath = AssetDatabase.GetAssetPath(settings.templateScene);
+
             bool success = AssetDatabase.CopyAsset(templateScenePath, newScenePath);
             if (!success)
             {
@@ -193,19 +217,38 @@ namespace MapTool
                 return;
             }
 
+            //Step 4: Create LevelDataSO
+            Directory.CreateDirectory($"{settings.gridDataPath}/{levelName}");
+            Directory.CreateDirectory($"{settings.levelDataPath}/{levelName}");
+
+            string newGridDataPath = $"{settings.gridDataPath}/{levelName}/{levelName}_GridData.asset";
+            string newLevelDataPath = $"{settings.levelDataPath}/{levelName}/{levelName}_LevelData.asset";
+
+            var gridData = ScriptableObject.CreateInstance<GridDataSO>();
+            AssetDatabase.CreateAsset(gridData, newGridDataPath);
+
+            var levelData = ScriptableObject.CreateInstance<LevelDataSO>();
+            levelData.levelName = levelName;
+            levelData.levelScene = AssetDatabase.LoadAssetAtPath<SceneAsset>(newScenePath);
+            levelData.gridData = gridData;
+
+            AssetDatabase.CreateAsset(levelData, newLevelDataPath);
+
             AssetDatabase.SaveAssets();
             AssetDatabase.Refresh();
 
-            // Step 5: (Optional) Open or highlight new scene
-            EditorGUIUtility.PingObject(AssetDatabase.LoadAssetAtPath<SceneAsset>(newScenePath));
+            // Step 5: Link LevelDataSO to scene
+            var scene = EditorSceneManager.OpenScene(newScenePath);
+            var map = GameObject.FindFirstObjectByType<GridMap>();
 
-            if (EditorUtility.DisplayDialog(
-                "Level created",
-                $"Level '{levelName}' created successfully at:\n{newScenePath}",
-                "Open Scene",
-                "Close"))
+            if(map == null)
             {
-                UnityEditor.SceneManagement.EditorSceneManager.OpenScene(newScenePath);
+                EditorUtility.DisplayDialog("Error", "No GridMap found in the template scene. Please ensure the template scene contains a GridMap component.", "OK");
+                return;
+            }
+            else
+            {
+
             }
         }
         private bool ValidateLevelName(string name)
@@ -245,6 +288,6 @@ namespace MapTool
 
             return true;
         }
-#endif
     }
+#endif
 }

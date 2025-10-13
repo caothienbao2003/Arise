@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: MapToolSettings
   m_EditorClassIdentifier: Assembly-CSharp::MapTool.MapToolSettingsSO
   cellTypePath: Assets/Modules/MapTool/Data/CellTypes
-  templateScene: {fileID: 102900000, guid: 8c9cfa26abfee488c85f1582747f6a02, type: 3}
+  templateScene: {fileID: 102900000, guid: dc17e1fb2c8a5da4aabaec76104f9d52, type: 3}
   levelPath: Assets/Scenes/Levels
+  levelDataPath: Assets/Scenes/Levels
+  gridDataPath: Assets/Scenes/Levels

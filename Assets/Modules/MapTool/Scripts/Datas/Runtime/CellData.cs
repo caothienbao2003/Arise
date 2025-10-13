@@ -7,16 +7,7 @@ namespace MapTool
     [Serializable]
     public class CellData
     {
-        public CellType CellType;
+        public CellTypeSO CellType;
         public Vector2Int Position;
-        public bool walkable = true;
-    }
-
-    public enum CellType
-    {
-        King,
-        Spawn,
-        Movable,
-        Obstacle,
     }
 }
