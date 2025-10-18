@@ -261,17 +261,6 @@ namespace MapTool
 
             // Step 5: Link LevelDataSO to scene
             var scene = EditorSceneManager.OpenScene(newScenePath);
-            var map = GameObject.FindFirstObjectByType<GridMap>();
-
-            if (map == null)
-            {
-                EditorUtility.DisplayDialog("Error", "No GridMap found in the template scene. Please ensure the template scene contains a GridMap component.", "OK");
-                return;
-            }
-            else
-            {
-
-            }
         }
         private bool ValidateLevelName(string name)
         {
