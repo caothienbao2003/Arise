@@ -147,7 +147,29 @@ namespace MapTool
         private void CreateNewData()
         {
             Debug.Log(cellTypeSO.DisplayName);
-            AssetDatabase.CreateAsset(cellTypeSO, $"{settings.cellTypePath}/{cellTypeSO.DisplayName}.asset");
+
+            string folderPath = settings.cellTypePath;
+            if (!Directory.Exists(folderPath))
+            {
+                Directory.CreateDirectory(folderPath);
+            }
+
+            string assetPath = $"{folderPath}/{cellTypeSO.DisplayName}.asset";
+
+            if(File.Exists(assetPath))
+            {
+                if (!EditorUtility.DisplayDialog(
+                    "Cell Type already exist",
+                    $"A Cell Type name '{cellTypeSO.DisplayName} already exist at: \n{assetPath}'",
+                    "Override",
+                    "Cancel"))
+                {
+                    return;
+                }
+                AssetDatabase.DeleteAsset(assetPath);
+            }
+
+            AssetDatabase.CreateAsset(cellTypeSO, assetPath);
             AssetDatabase.SaveAssets();
 
             cellTypeSO = ScriptableObject.CreateInstance<CellTypeSO>();
@@ -178,7 +200,7 @@ namespace MapTool
             Directory.CreateDirectory($"{settings.levelPath}/{levelName}");
 
             string newScenePath = $"{settings.levelPath}/{levelName}/{levelName}.unity";
-            
+
             if (File.Exists(newScenePath))
             {
                 if (!EditorUtility.DisplayDialog(
@@ -241,7 +263,7 @@ namespace MapTool
             var scene = EditorSceneManager.OpenScene(newScenePath);
             var map = GameObject.FindFirstObjectByType<GridMap>();
 
-            if(map == null)
+            if (map == null)
             {
                 EditorUtility.DisplayDialog("Error", "No GridMap found in the template scene. Please ensure the template scene contains a GridMap component.", "OK");
                 return;

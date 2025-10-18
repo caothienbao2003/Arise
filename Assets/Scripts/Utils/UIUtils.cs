@@ -8,7 +8,7 @@ public class UIUtils
         string text,
         Vector2 worldPosition,
         Vector2 size,
-        int fontSize = 40,
+        float fontSize = 40,
         TextAlignmentOptions textAlignment = TextAlignmentOptions.Center,
         Color? color = null,
         Transform parent = null,

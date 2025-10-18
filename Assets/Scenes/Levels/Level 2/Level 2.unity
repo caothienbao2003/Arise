@@ -229,6 +229,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MapTool.GridMap
   gridCanvas: {fileID: 1490943669}
   gridParent: {fileID: 1490943670}
+  originPosition: {x: -3, y: -3, z: 0}
+  fontSize: 0.5
+  cellSize: 2
 --- !u!4 &789377481
 Transform:
   m_ObjectHideFlags: 0

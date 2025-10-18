@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace FN
+namespace FreelancerNecromancer
 {
     public class FNUtils
     {

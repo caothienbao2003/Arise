@@ -1,18 +1,34 @@
+using FreelancerNecromancer;
+using Sirenix.OdinInspector;
+using Sirenix.Serialization;
+using System;
+using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 namespace MapTool
 {
     public class GridMap : MonoBehaviour
     {
-        [SerializeField] private Canvas gridCanvas;
-        [SerializeField] private Transform gridParent;
-
         [SerializeField] private Vector3 originPosition;
 
-        private FN.Grid grid;
+        [SerializeField] private float cellSize;
+
+        private FreelancerNecromancer.Grid<CellData> grid;
+
+        [SerializeField]
+        private CellTypeSO currentCellType;
+
         private void Start()
         {
-            grid = new FN.Grid(10, 10, 1f, canvas: gridCanvas, gridParent: gridParent, originPosition: originPosition);
+            grid = new FreelancerNecromancer.Grid<CellData>(10, 10, cellSize: cellSize, originPosition: originPosition, CreateCellData);
+        }
+
+        private CellData CreateCellData(Grid<CellData> grid, int x, int y)
+        {
+            CellData cellData = new CellData(grid, x, y);
+            cellData.SetCellType(currentCellType);
+            return cellData;
         }
 
         private void Update()
@@ -20,13 +36,13 @@ namespace MapTool
             if (Input.GetMouseButton(0))
             {
                 Vector3 worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-                grid.SetCellValue(worldPosition, 1);
+                grid.GetCellGridObject(worldPosition).SetCellType(currentCellType);
             }
 
             if (Input.GetMouseButtonDown(1))
             {
                 Vector3 worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-                Debug.Log(grid.GetCellValue(worldPosition));
+                Debug.Log(grid.GetCellGridObject(worldPosition));
             }
         }
     }
