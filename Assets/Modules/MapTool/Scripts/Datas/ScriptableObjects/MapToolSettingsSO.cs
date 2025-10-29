@@ -17,7 +17,7 @@ namespace MapTool
         [TabGroup("Cell types settings")]
         [SerializeField]
         [FolderPath]
-        public string cellTypePath = "Assets/Modules/MapTool/Data/CellTypes";
+        public string terrainTypePath = "Assets/Modules/MapTool/Data/CellTypes";
         #endregion
 
         #region Level settings

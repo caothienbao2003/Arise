@@ -1,40 +1,16 @@
 using FreelancerNecromancer;
 using System;
+using UnityEngine;
 
 namespace MapTool
 {
     [Serializable]
     public class CellData
     {
-        private CellTypeSO cellType;
+        public TerrainTypeSO CellType { get; set; }
 
-        private Grid<CellData> grid;
-        private int x;
-        private int y;
-
-        public CellData(Grid<CellData> grid, int x, int y)
-        {
-            this.grid = grid;
-            this.x = x;
-            this.y = y;
-        }
-
-        public CellTypeSO GetCellType()
-        {
-            return cellType;
-        }
-
-        public void SetCellType(CellTypeSO newCellType)
-        {
-            cellType = newCellType;
-            grid.TriggerGridObjectChanged(x, y);
-        }
-
-        public override string ToString()
-        {
-            if(cellType == null)
-                return "-";
-            return cellType.DisplayName;
-        }
+        public Vector2Int CellPosition { get; set; }
+        public Vector3 WorldPosition { get; set; }
+        public TerrainTypeSO TerrainType { get; set; }
     }
 }

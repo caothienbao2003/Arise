@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using Sirenix.OdinInspector;
 using Sirenix.Utilities;
 using UnityEditor;
@@ -19,7 +20,7 @@ namespace MapTool
         [BoxGroup("Grid Data"), LabelWidth(100)]
         [InlineEditor(ObjectFieldMode = InlineEditorObjectFieldModes.Hidden)]
         [SerializeField]
-        public GridDataSO gridData;
+        public MapDataSO gridData;
     }
 }
-
+#endif

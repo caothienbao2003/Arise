@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6acb8a58415d4d1448ad992cc2e8c0b9, type: 3}
   m_Name: Walkable
   m_EditorClassIdentifier: Assembly-CSharp::MapTool.CellTypeSO
-  DisplayName: Walkable
+  DisplayName: Ground
   CellColor: {r: 1, g: 1, b: 1, a: 1}
   Description: 
   IsWalkable: 1
