@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Walkable
   m_EditorClassIdentifier: Assembly-CSharp::MapTool.CellTypeSO
   DisplayName: Ground
-  CellColor: {r: 1, g: 1, b: 1, a: 1}
+  CellColor: {r: 1, g: 0.035848916, b: 0.035848916, a: 1}
   Description: 
+  IsRender: 1
   IsWalkable: 1

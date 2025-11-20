@@ -31,11 +31,11 @@ namespace MapTool
                 return;
 
 
-            // Step 1: Handle existing scene
             Directory.CreateDirectory($"{settings.levelPath}/{levelName}");
 
             string newScenePath = $"{settings.levelPath}/{levelName}/{levelName}.unity";
 
+            // Step 1: Check if file existed, if yes, override or return
             if (File.Exists(newScenePath))
             {
                 if (!EditorUtility.DisplayDialog(

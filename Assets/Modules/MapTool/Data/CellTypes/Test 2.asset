@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Test 2
   m_EditorClassIdentifier: Assembly-CSharp::MapTool.TerrainTypeSO
   DisplayName: Test 2
-  CellColor: {r: 1, g: 1, b: 1, a: 1}
+  CellColor: {r: 0, g: 0.12092161, b: 1, a: 1}
   Description: 
+  IsRender: 1
   IsWalkable: 1

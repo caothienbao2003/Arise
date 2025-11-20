@@ -37,7 +37,7 @@ namespace MapTool
 
             Debug.Log("Baking map...");
 
-            outputMapData.cellDatas.Clear();
+            outputMapData.CellDatas.Clear();
 
             Dictionary<Vector2Int, CellData> cellDataDict = new();
             BoundsInt overallBounds = CalculateOverallBounds();
@@ -66,10 +66,10 @@ namespace MapTool
 
                 foreach(var kvp in cellDataDict)
                 {
-                    outputMapData.cellDatas.Add(kvp.Value);
+                    outputMapData.CellDatas.Add(kvp.Value);
                 }
 
-                outputMapData.cellDatas.Sort((a, b) =>
+                outputMapData.CellDatas.Sort((a, b) =>
                 {
                     int compareY = b.CellPosition.y.CompareTo(a.CellPosition.y);
                     return compareY != 0 ? compareY : a.CellPosition.x.CompareTo(b.CellPosition.x);
@@ -85,6 +85,15 @@ namespace MapTool
         private void ProcessLayer(MapLayer layer, Dictionary<Vector2Int, CellData> cellDataDict, BoundsInt bounds)
         {
             int tilesProcessed = 0;
+
+            if(layer.tileMap != null && !layer.terrainType.IsRender)
+            {
+                TilemapRenderer tr = layer.tileMap.GetComponent<TilemapRenderer>();
+                if(tr != null)
+                {
+                    tr.enabled = false;
+                }   
+            }
 
             foreach (Vector3Int cellPosition in bounds.allPositionsWithin)
             {
@@ -116,6 +125,7 @@ namespace MapTool
             }
         }
 
+        //Create a surround bounds that contains all layers
         private BoundsInt CalculateOverallBounds()
         {
             bool firstBounds = true;
