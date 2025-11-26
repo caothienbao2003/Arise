@@ -38,6 +38,9 @@ namespace GridTool
             Debug.Log("Baking map...");
 
             outputMapData.CellDatas.Clear();
+            
+            float cellSize = GetTilemapCellSize();
+            outputMapData.SetCellSize(cellSize);
 
             Dictionary<Vector2Int, CellData> cellDataDict = new();
             BoundsInt overallBounds = CalculateOverallBounds();
@@ -64,11 +67,6 @@ namespace GridTool
 
                 ProcessLayer(layer, cellDataDict, overallBounds);
 
-                foreach(var kvp in cellDataDict)
-                {
-                    outputMapData.CellDatas.Add(kvp.Value);
-                }
-
                 outputMapData.CellDatas.Sort((a, b) =>
                 {
                     int compareY = b.CellPosition.y.CompareTo(a.CellPosition.y);
@@ -79,6 +77,11 @@ namespace GridTool
                 AssetDatabase.SaveAssets();
 
                 Debug.Log("Map baked successfully");
+            }
+
+            foreach (var kvp in cellDataDict)
+            {
+                outputMapData.CellDatas.Add(kvp.Value);
             }
         }
 
@@ -169,6 +172,21 @@ namespace GridTool
 
             this.layers = layers;
             this.outputMapData = outputMapData;
+        }
+        
+        private float GetTilemapCellSize()
+        {
+            foreach (GridLayer layer in layers)
+            {
+                if (layer.tileMap != null)
+                {
+                    // Get cell size from tilemap
+                    return layer.tileMap.cellSize.x; // Assuming square cells
+                }
+            }
+    
+            Debug.LogWarning("No valid tilemap found, using default cell size 1.0");
+            return 1f;
         }
 #endif
     }

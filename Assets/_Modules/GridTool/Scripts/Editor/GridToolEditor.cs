@@ -2,6 +2,7 @@
 using UnityEngine;
 using Sirenix.OdinInspector;
 using Sirenix.OdinInspector.Editor;
+using System.Collections.Generic;
 using System.Linq;
 
 using UnityEditor;
@@ -27,10 +28,11 @@ namespace GridTool
         {
             string folderPath = GridToolPaths.Settings.SETTINGS_ASSET_PATH;
 
-            // Create folder path if it doesn’t exist
+            // Create folder path if it doesnï¿½t exist
             string folder = Path.GetDirectoryName(folderPath);
             if (!Directory.Exists(folder))
-                Directory.CreateDirectory(folder);
+                if (folder != null)
+                    Directory.CreateDirectory(folder);
 
             // Create new ScriptableObject instance
             settings = ScriptableObject.CreateInstance<GridToolSettingsSO>();
@@ -76,7 +78,7 @@ namespace GridTool
 
         protected override OdinMenuTree BuildMenuTree()
         {
-            var tree = new OdinMenuTree();
+            OdinMenuTree tree = new OdinMenuTree();
 
             if (settings == null)
             {
@@ -88,7 +90,7 @@ namespace GridTool
             createNewLevelWindow = new CreateNewLevelWindow(settings);
 
             tree.Add("Terrain Types", createNewTerrainTypeWindow);
-            var terrainTypes = tree.AddAllAssetsAtPath(
+            IEnumerable<OdinMenuItem> terrainTypes = tree.AddAllAssetsAtPath(
                 "Terrain Types",
                 GridToolPaths.TerrainTypes.TERRAIN_TYPE_FOLDER,
                 typeof(TerrainTypeSO),
@@ -102,7 +104,7 @@ namespace GridTool
 
             tree.Add("Level editor", createNewLevelWindow);
 
-            var levels = tree.AddAllAssetsAtPath(
+            IEnumerable<OdinMenuItem> levels = tree.AddAllAssetsAtPath(
                 "Level editor",
                 GridToolPaths.Levels.LEVELS_DATA_FOLDER,
                 typeof(LevelDataSO),

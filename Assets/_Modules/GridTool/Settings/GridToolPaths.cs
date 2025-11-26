@@ -2,8 +2,8 @@ namespace GridTool
 {
     public static class GridToolPaths
     {
-        private const string MODULE_FOLDER = "Assets/_Modules/GridTool";
-        private const string RESOURCES_FOLDER = MODULE_FOLDER + "/Resources";
+        public const string MODULE_FOLDER = "Assets/_Modules/GridTool";
+        public const string RESOURCES_FOLDER = MODULE_FOLDER + "/Resources";
 
         public class Settings
         {
@@ -14,18 +14,18 @@ namespace GridTool
         
         public class TerrainTypes
         {
-            public const string TERRAIN_TYPE_FOLDER = RESOURCES_FOLDER + "/CellTypes";
+            public const string TERRAIN_TYPE_FOLDER = RESOURCES_FOLDER + "/TerrainTypes";
         }
 
         public class Levels
         {
-            public const string LEVELS_SCENES_FOLDER = RESOURCES_FOLDER + "/Levels/Scenes";
-            public const string LEVELS_DATA_FOLDER = RESOURCES_FOLDER + "/Levels/LevelDatas";
+            public const string LEVELS_SCENES_FOLDER = RESOURCES_FOLDER + "/Levels";
+            public const string LEVELS_DATA_FOLDER = RESOURCES_FOLDER + "/Levels";
         }
 
         public class GridData
         {
-            public const string GRID_DATA_FOLDER = RESOURCES_FOLDER + "/Levels/GridData";
+            public const string GRID_DATA_FOLDER = RESOURCES_FOLDER + "/Levels";
         }
     }
 }

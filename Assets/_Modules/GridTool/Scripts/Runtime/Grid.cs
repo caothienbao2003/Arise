@@ -1,135 +1,138 @@
 using System;
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using FreelancerNecromancer;
 
-namespace FreelancerNecromancer
+namespace GridTool
 {
     public class Grid<TGridObject>
     {
-        private int width;
-        private int height;
         private float cellSize;
         private Vector3 originPosition;
 
-        private TGridObject[,] gridArray;
-        private TextMeshProUGUI[,] debugTextArray;
+        private Dictionary<Vector2Int, TGridObject> gridDictionary;
 
         public event EventHandler<OnGridValueChangedEventArgs> OnGridValueChanged;
 
-        public delegate TGridObject CreateGridObjectDelegate(Grid<TGridObject> grid, int x, int y);
+        // public delegate TGridObject CreateGridObjectDelegate(Grid<TGridObject> grid, int x, int y);
 
         public class OnGridValueChangedEventArgs : EventArgs
         {
-            public int x;
-            public int y;
+            public Vector2Int CellXYPosition;
         }
 
-        public Grid(int width, int height, float cellSize, Vector3 originPosition, CreateGridObjectDelegate createGridObject)
+        public Grid(float cellSize, Vector3 originPosition)
         {
-            this.width = width;
-            this.height = height;
             this.cellSize = cellSize;
+            this.originPosition = originPosition;
+            gridDictionary = new Dictionary<Vector2Int, TGridObject>();
 
-            gridArray = new TGridObject[width, height];
+            Debug.Log($"Created grid with cell size {cellSize}");
+            
+            OnGridValueChanged += HandleGridValueChanged;
+        }
+        private void HandleGridValueChanged(object sender, OnGridValueChangedEventArgs eventArgs)
+        {
+            Debug.Log($"{sender.GetType().Name} changed at {eventArgs.CellXYPosition}");
+        }
 
-            for(int x = 0; x < width; x++)
-            {
-                for(int y = 0; y < height; y++)
-                {
-                    gridArray[x, y] = createGridObject(this, x, y);
-                }
-            }
-
-            debugTextArray = new TextMeshProUGUI[width, height];
-
-            for (int x = 0; x < width; x++)
-            {
-                for (int y = 0; y < height; y++)
-                {
-                    string displayText = gridArray[x, y].ToString();
-                    debugTextArray[x, y] = UIUtils.CreateWorldText(
-                        text: displayText,
-                        worldPosition: GetWorldPos(x, y) + new Vector3(cellSize, cellSize) * .5f,
-                        size: new Vector2(cellSize, cellSize),
-                        fontSize: 0.5f,
-                        color: Color.white,
-                        parent: null,
-                        canvas: null,
-                        sortingOrder: 0
-                        );
-
-                    Debug.DrawLine(GetWorldPos(x, y), GetWorldPos(x, y + 1), Color.white, 100f);
-                    Debug.DrawLine(GetWorldPos(x, y), GetWorldPos(x + 1, y), Color.white, 100f);
-                }
-            }
-
-            Debug.DrawLine(GetWorldPos(0, height), GetWorldPos(width, height), Color.white, 100f);
-            Debug.DrawLine(GetWorldPos(width, 0), GetWorldPos(width, height), Color.white, 100f);
-
-            OnGridValueChanged += (object sender, OnGridValueChangedEventArgs eventArgs) =>
-            {
-                debugTextArray[eventArgs.x, eventArgs.y].text = gridArray[eventArgs.x, eventArgs.y].ToString();
-            };
+        private bool HasCell(Vector2Int cellXYPosition)
+        {
+            return gridDictionary.ContainsKey(cellXYPosition);
         }
 
         public void TriggerGridObjectChanged(Vector3 worldPosition)
         {
-            int x, y = 0;
-            GetXYPos(worldPosition, out x, out y);
-            OnGridValueChanged?.Invoke(this, new OnGridValueChangedEventArgs { x = x, y = y });
+            Vector2Int cellXYPos = GetCellXYPos(worldPosition);
+            OnGridValueChanged?.Invoke(this, new OnGridValueChangedEventArgs { CellXYPosition = cellXYPos});
+        }
+
+        public void TriggerGridObjectChanged(Vector2Int cellXYPosition)
+        {
+            if (!HasCell(cellXYPosition)) return;
+            OnGridValueChanged?.Invoke(this, new OnGridValueChangedEventArgs { CellXYPosition = cellXYPosition});
         }
 
         public void TriggerGridObjectChanged(int x, int y)
         {
-            OnGridValueChanged?.Invoke(this, new OnGridValueChangedEventArgs { x = x, y = y });
+            TriggerGridObjectChanged(new Vector2Int(x, y));
         }
 
-        public void GetXYPos(Vector3 worldPosition, out int x, out int y)
+
+        public Vector2Int GetCellXYPos(Vector3 worldPosition)
         {
-            x = Mathf.FloorToInt((worldPosition.x - originPosition.x) / cellSize);
-            y = Mathf.FloorToInt((worldPosition.y - originPosition.y) / cellSize);
+            int x = Mathf.FloorToInt((worldPosition.x - originPosition.x) / cellSize);
+            int y = Mathf.FloorToInt((worldPosition.y - originPosition.y) / cellSize);
+            return new Vector2Int(x, y);
         }
 
-        public Vector3 GetWorldPos(int x, int y)
+        public Vector3 GetCellWorldPos(int x, int y)
         {
-            return new Vector3(x, y) * cellSize + originPosition;
+            return GetCellWorldPos(new Vector2Int(x, y));
         }
 
+        public Vector3 GetCellWorldPos(Vector2Int cellXYPosition)
+        {
+            return new Vector3(cellXYPosition.x, cellXYPosition.y) * cellSize + originPosition;
+        }
+
+        public Vector3 GetCellCenterWorldPos(Vector2Int cellXYPosition)
+        {
+            return GetCellWorldPos(cellXYPosition) + new Vector3(cellSize, cellSize) * .5f;
+        }
+
+        public Vector3 GetCellCenterWorldPos(int x, int y)
+        {
+            return GetCellCenterWorldPos(new Vector2Int(x, y));
+        }
+
+        public IEnumerable<Vector2Int> GetAllCellXYPositions()
+        {
+            return gridDictionary.Keys;
+        }
+
+        public IEnumerable<TGridObject> GetAllGridObjects()
+        {
+            return gridDictionary.Values;
+        }
+
+        public int GetCellCount()
+        {
+            return gridDictionary.Count;
+        }
+        
         public void SetCellGridObject(int x, int y, TGridObject value)
         {
-            if (x >= width || y >= height || x < 0 || y < 0) return;
-
-            gridArray[x, y] = value;
-            debugTextArray[x, y].text = gridArray[x, y].ToString();
-
-            OnGridValueChanged?.Invoke(this, new OnGridValueChangedEventArgs { x = x, y = y });
+            SetCellGridObject(new Vector2Int(x, y), value);
+        }
+        
+        public void SetCellGridObject(Vector2Int cellXYPosition, TGridObject value)
+        {
+            gridDictionary[cellXYPosition] = value;
+            OnGridValueChanged?.Invoke(this, new OnGridValueChangedEventArgs { CellXYPosition = cellXYPosition});
         }
 
         public void SetCellGridObject(Vector3 worldPosition, TGridObject value)
         {
-            int x, y = 0;
-
-            GetXYPos(worldPosition, out x, out y);
-            SetCellGridObject(x, y, value);
-
-            OnGridValueChanged?.Invoke(this, new OnGridValueChangedEventArgs { x = x, y = y });
+            Vector2Int cellXYPos = GetCellXYPos(worldPosition);
+            SetCellGridObject(cellXYPos, value);
         }
 
         public TGridObject GetCellGridObject(int x, int y)
         {
-            if (x >= width || y >= height || x < 0 || y < 0) return default(TGridObject);
-            return gridArray[x, y];
+            return GetCellGridObject(new Vector2Int(x, y));
+        }
+
+        public TGridObject GetCellGridObject(Vector2Int cellXYPosition)
+        {
+            if (!HasCell(cellXYPosition)) return default;
+            return gridDictionary[cellXYPosition];
         }
 
         public TGridObject GetCellGridObject(Vector3 worldPosition)
         {
-            int x, y = 0;
-
-            GetXYPos(worldPosition, out x, out y);
-            return GetCellGridObject(x, y);
+            Vector2Int cellXYPosition = GetCellXYPos(worldPosition);
+            return GetCellGridObject(cellXYPosition);
         }
     }
-
-
 }

@@ -1,8 +1,6 @@
-using UnityEngine;
-
 namespace FreelancerNecromancer
 {
-    public class FNUtils
+    public static class FNUtils
     {
 
     }
