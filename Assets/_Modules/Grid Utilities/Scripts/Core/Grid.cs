@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
 
-namespace GridTool
+namespace GridUtilities
 {
     public class Grid<TGridObject>
     {

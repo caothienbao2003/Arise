@@ -1014,7 +1014,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &810176672
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1533,6 +1533,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.GridVisualizer
   gridData: {fileID: 11400000, guid: 99c65dd90223b5d4f91cf0f2a78fbe8e, type: 2}
   cellColor: {r: 0, g: 1, b: 0, a: 1}
+  labelColor: {r: 1, g: 1, b: 1, a: 1}
+  labelFontSize: 12
 --- !u!1 &1635801620
 GameObject:
   m_ObjectHideFlags: 0

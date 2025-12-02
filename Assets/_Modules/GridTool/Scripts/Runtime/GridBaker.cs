@@ -37,8 +37,9 @@ namespace GridTool
 
             Debug.Log("Baking map...");
 
-            outputMapData.CellDatas.Clear();
-            
+            // CHANGED: Use method instead of property
+            outputMapData.ClearCellDatas();
+    
             float cellSize = GetTilemapCellSize();
             outputMapData.SetCellSize(cellSize);
 
@@ -66,23 +67,23 @@ namespace GridTool
                 }
 
                 ProcessLayer(layer, cellDataDict, overallBounds);
-
-                outputMapData.CellDatas.Sort((a, b) =>
-                {
-                    int compareY = b.CellPosition.y.CompareTo(a.CellPosition.y);
-                    return compareY != 0 ? compareY : a.CellPosition.x.CompareTo(b.CellPosition.x);
-                });
-
-                EditorUtility.SetDirty(outputMapData);
-                AssetDatabase.SaveAssets();
-
-                Debug.Log("Map baked successfully");
             }
 
+            // CHANGED: Use method to add data
             foreach (var kvp in cellDataDict)
             {
-                outputMapData.CellDatas.Add(kvp.Value);
+                outputMapData.AddCellData(kvp.Value);
             }
+
+            // CHANGED: Use method to sort
+            outputMapData.SortCellDatas();
+
+            // Force Unity to recognize changes
+            EditorUtility.SetDirty(outputMapData);
+            AssetDatabase.SaveAssetIfDirty(outputMapData); // CHANGED: Use SaveAssetIfDirty
+            AssetDatabase.Refresh();
+
+            Debug.Log($"Map baked successfully with {outputMapData.CellDatas.Count} cells");
         }
 
         private void ProcessLayer(GridLayer layer, Dictionary<Vector2Int, CellData> cellDataDict, BoundsInt bounds)

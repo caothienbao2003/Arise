@@ -1,7 +1,5 @@
-﻿using FreelancerNecromancer;
-using System;
-using UnityEngine;
-using UnityEngine.InputSystem;
+﻿using UnityEngine;
+using GridUtilities;
 
 namespace GridTool
 {
@@ -9,6 +7,8 @@ namespace GridTool
     {
         [SerializeField] private GridDataSO gridDataSo;
 
+        private Pathfinding pathfinding;
+        
         private Grid<CellData> grid;
         private Camera mainCamera;
 
@@ -16,6 +16,7 @@ namespace GridTool
         {
             mainCamera = Camera.main;
             grid = gridDataSo.CreateRuntimeGrid();
+            pathfinding = new Pathfinding(grid);
         }
 
         private void Update()
@@ -25,6 +26,7 @@ namespace GridTool
                 HandleClick();
             }
         }
+        
         private void HandleClick()
         {
             Vector2Int cellXYPos = grid.GetCellXYPos(GetMouseToWorldPosition());
@@ -33,9 +35,9 @@ namespace GridTool
             if (cellData != null)
             {
                 Debug.Log($"Clicked on {cellData.TerrainType.DisplayName}, Cell XY Position: {cellXYPos}");
-
             }
-        }
+        }   
+        
         private Vector2 GetMouseToWorldPosition()
         {
             if (!mainCamera) return Vector2.zero;
