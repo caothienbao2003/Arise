@@ -36,8 +36,8 @@ namespace GridTool
         {
             CellDatas.Sort((a, b) =>
             {
-                int compareY = b.CellPosition.y.CompareTo(a.CellPosition.y);
-                return compareY != 0 ? compareY : a.CellPosition.x.CompareTo(b.CellPosition.x);
+                int compareY = b.NodePosition.y.CompareTo(a.NodePosition.y);
+                return compareY != 0 ? compareY : a.NodePosition.x.CompareTo(b.NodePosition.x);
             });
         }
         
@@ -46,9 +46,9 @@ namespace GridTool
             cellSize = size;
         }
         
-        public CellData GetCellAt(Vector2Int cellPosition)
+        public CellData GetCellAt(Vector2Int NodePosition)
         {
-            return CellDatas?.Find(c => c.CellPosition == cellPosition);
+            return CellDatas?.Find(c => c.NodePosition == NodePosition);
         }
 
         public Grid<CellData> CreateRuntimeGrid()
@@ -65,7 +65,7 @@ namespace GridTool
             // IMPORTANT: Add all cells to the grid!
             foreach (var cellData in cellDatas)
             {
-                grid.SetCellGridObject(cellData.CellPosition, cellData);
+                grid.SetCellGridObject(cellData.NodePosition, cellData);
             }
             
             Debug.Log($"Grid created with {grid.GetCellCount()} cells");
@@ -84,10 +84,10 @@ namespace GridTool
 
             foreach (CellData cellData in cellDatas)
             {
-                minX = Mathf.Min(minX, cellData.CellPosition.x);
-                minY = Mathf.Min(minY, cellData.CellPosition.y);
-                maxX = Mathf.Max(maxX, cellData.CellPosition.x);
-                maxY = Mathf.Max(maxY, cellData.CellPosition.y);
+                minX = Mathf.Min(minX, cellData.NodePosition.x);
+                minY = Mathf.Min(minY, cellData.NodePosition.y);
+                maxX = Mathf.Max(maxX, cellData.NodePosition.x);
+                maxY = Mathf.Max(maxY, cellData.NodePosition.y);
             }
 
             int width = maxX - minX + 1;
@@ -99,8 +99,8 @@ namespace GridTool
             {
                 if (cellData == null) return null;
                 
-                int x = cellData.CellPosition.x - minX;
-                int y = cellData.CellPosition.y - minY;
+                int x = cellData.NodePosition.x - minX;
+                int y = cellData.NodePosition.y - minY;
                 
                 matrix[x, y] = cellData;
             }

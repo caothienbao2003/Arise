@@ -114,7 +114,7 @@ namespace GridTool
                     //If not exist, create new CellData
                     cellDataDict[cellPos] = new CellData
                     {
-                        CellPosition = cellPos,
+                        NodePosition = cellPos,
                         WorldPosition = layer.tileMap.CellToWorld(cellPosition),
                         TerrainType = layer.terrainType
                     };

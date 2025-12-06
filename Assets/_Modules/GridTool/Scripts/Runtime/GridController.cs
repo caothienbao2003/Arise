@@ -7,7 +7,7 @@ namespace GridTool
     {
         [SerializeField] private GridDataSO gridDataSo;
 
-        private Pathfinding pathfinding;
+        private Pathfinding<CellData> pathfinding;
         
         private Grid<CellData> grid;
         private Camera mainCamera;
@@ -16,7 +16,7 @@ namespace GridTool
         {
             mainCamera = Camera.main;
             grid = gridDataSo.CreateRuntimeGrid();
-            pathfinding = new Pathfinding(grid);
+            pathfinding = new Pathfinding<CellData>(grid);
         }
 
         private void Update()

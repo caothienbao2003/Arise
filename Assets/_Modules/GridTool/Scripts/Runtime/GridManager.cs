@@ -1,7 +1,12 @@
-﻿namespace GridTool
+﻿using UnityEngine;
+
+namespace GridTool
 {
-    public class GridManager
+    public class GridManager : MonoBehaviour
     {
-        
+        public static GridManager Instance { get; private set; }
+
+        [SerializeField] private GridDataSO gridDataSO;
+
     }
 }

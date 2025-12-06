@@ -6,63 +6,63 @@ using UnityEngine;
 
 namespace GridUtilities
 {
-    public class Pathfinding
+    public class Pathfinding<TPathNode> where TPathNode : class, IPathNode
     {
         private const int MOVE_STRAIGHT_COST = 10;
         private const int MOVE_DIAGONAL_COST = 14;
 
-        private Grid<CellData> grid;
-        private List<CellData> toProcessList;
-        private List<CellData> processedList;
+        private Grid<TPathNode> grid;
+        private List<TPathNode> toProcessList;
+        private List<TPathNode> processedList;
 
-        public Pathfinding(Grid<CellData> grid)
+        public Pathfinding(Grid<TPathNode> grid)
         {
             this.grid = grid;
         }
 
-        public List<CellData> FindPath(CellData startCell, CellData endCell)
+        public List<TPathNode> FindPath(TPathNode startNode, TPathNode endNode)
         {
-            toProcessList = new List<CellData> { startCell };
-            processedList = new List<CellData>();
+            toProcessList = new List<TPathNode> { startNode };
+            processedList = new List<TPathNode>();
 
             //Reset all cells to start find path
-            foreach (CellData cell in grid.GetAllGridObjects())
+            foreach (TPathNode node in grid.GetAllGridObjects())
             {
-                cell.GCost = int.MaxValue;
-                cell.PreviousCell = null;
+                node.GCost = int.MaxValue;
+                node.PreviousNode = null;
             }
 
-            startCell.GCost = 0;
-            startCell.HCost = CalculateMovementCost(startCell, endCell);
+            startNode.GCost = 0;
+            startNode.HCost = CalculateMovementCost(startNode, endNode);
 
             while (toProcessList.Count > 0)
             {
-                CellData currentCell = GetNextCurrentCell(toProcessList);
-                if (currentCell == endCell)
+                TPathNode currentNode = GetNextCurrentCell(toProcessList);
+                if (currentNode == endNode)
                 {
-                    return CalculatePath(endCell);
+                    return CalculatePath(endNode);
                 }
 
-                toProcessList.Remove(currentCell);
-                processedList.Add(currentCell);
+                toProcessList.Remove(currentNode);
+                processedList.Add(currentNode);
 
-                List<CellData> validNeighborCells = GetValidNeighborCells(currentCell);
+                List<TPathNode> validNeighborNodes = GetValidNeighborCells(currentNode);
 
-                foreach (CellData neighborCell in validNeighborCells)
+                foreach (TPathNode neighborNode in validNeighborNodes)
                 {
-                    int tentativeGCost = currentCell.GCost + CalculateMovementCost(currentCell, neighborCell);
+                    int tentativeGCost = currentNode.GCost + CalculateMovementCost(currentNode, neighborNode);
 
-                    bool isNeighborInToSearchList = toProcessList.Contains(neighborCell);
+                    bool isNeighborInToSearchList = toProcessList.Contains(neighborNode);
 
-                    if (!isNeighborInToSearchList || tentativeGCost < neighborCell.GCost)
+                    if (!isNeighborInToSearchList || tentativeGCost < neighborNode.GCost)
                     {
-                        neighborCell.PreviousCell = currentCell;
-                        neighborCell.GCost = tentativeGCost;
-                        neighborCell.HCost = CalculateMovementCost(neighborCell, endCell);
+                        neighborNode.PreviousNode = currentNode;
+                        neighborNode.GCost = tentativeGCost;
+                        neighborNode.HCost = CalculateMovementCost(neighborNode, endNode);
 
                         if (!isNeighborInToSearchList)
                         {
-                            toProcessList.Add(neighborCell);
+                            toProcessList.Add(neighborNode);
                         }
                     }
                 }
@@ -70,29 +70,29 @@ namespace GridUtilities
             return null;
         }
 
-        private List<CellData> GetValidNeighborCells(CellData cell)
+        private List<TPathNode> GetValidNeighborCells(TPathNode node)
         {
-            return cell.GetNeighborCells().Where(t => !processedList.Contains(t)).ToList();
+            return grid.GetNeighbors(node.NodePosition).Where(cell => !processedList.Contains(cell)).ToList();
         }
 
-        public List<CellData> CalculatePath(CellData endNode)
+        public List<TPathNode> CalculatePath(TPathNode endNode)
         {
-            List<CellData> path = new List<CellData>();
+            List<TPathNode> path = new List<TPathNode>();
             path.Add(endNode);
-            CellData currentNode = endNode;
-            while (currentNode.PreviousCell != null)
+            TPathNode currentNode = endNode;
+            while (currentNode?.PreviousNode != null)
             {
-                path.Add(currentNode.PreviousCell);
-                currentNode = currentNode.PreviousCell;
+                path.Add(currentNode.PreviousNode as TPathNode);
+                currentNode = currentNode.PreviousNode as TPathNode;
             }
             path.Reverse();
             return path;
         }
 
-        private int CalculateMovementCost(CellData cellA, CellData cellB)
+        private int CalculateMovementCost(TPathNode cellA, TPathNode cellB)
         {
-            int xDistance = Mathf.Abs(cellA.CellPosition.x - cellB.CellPosition.x);
-            int yDistance = Mathf.Abs(cellA.CellPosition.y - cellB.CellPosition.y);
+            int xDistance = Mathf.Abs(cellA.NodePosition.x - cellB.NodePosition.x);
+            int yDistance = Mathf.Abs(cellA.NodePosition.y - cellB.NodePosition.y);
 
             int numberOfDiagonalMoves = Mathf.Min(xDistance, yDistance);
             int numberOfStraightMove = Math.Abs(xDistance - yDistance);
@@ -100,11 +100,11 @@ namespace GridUtilities
             return MOVE_DIAGONAL_COST * numberOfDiagonalMoves + MOVE_STRAIGHT_COST * numberOfStraightMove;
         }
 
-        private CellData GetNextCurrentCell(List<CellData> cellList)
+        private TPathNode GetNextCurrentCell(List<TPathNode> cellList)
         {
-            CellData lowestFCostCell = cellList[0];
+            TPathNode lowestFCostCell = cellList[0];
 
-            foreach (CellData cell in cellList)
+            foreach (TPathNode cell in cellList)
             {
                 if ((cell.FCost < lowestFCostCell.FCost) || (cell.FCost == lowestFCostCell.FCost && cell.HCost < lowestFCostCell.HCost))
                 {

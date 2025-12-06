@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 namespace GridUtilities
@@ -9,7 +10,7 @@ namespace GridUtilities
         private float cellSize;
         private Vector3 originPosition;
 
-        private Dictionary<Vector2Int, TGridObject> gridDictionary;
+        private Dictionary<Vector2Int, TGridObject> gridObjectDictionary;
 
         public event EventHandler<OnGridValueChangedEventArgs> OnGridValueChanged;
 
@@ -24,7 +25,7 @@ namespace GridUtilities
         {
             this.cellSize = cellSize;
             this.originPosition = originPosition;
-            gridDictionary = new Dictionary<Vector2Int, TGridObject>();
+            gridObjectDictionary = new Dictionary<Vector2Int, TGridObject>();
 
             Debug.Log($"Created grid with cell size {cellSize}");
             
@@ -37,7 +38,7 @@ namespace GridUtilities
 
         private bool HasCell(Vector2Int cellXYPosition)
         {
-            return gridDictionary.ContainsKey(cellXYPosition);
+            return gridObjectDictionary.ContainsKey(cellXYPosition);
         }
 
         public void TriggerGridObjectChanged(Vector3 worldPosition)
@@ -64,7 +65,7 @@ namespace GridUtilities
             int y = Mathf.FloorToInt((worldPosition.y - originPosition.y) / cellSize);
             return new Vector2Int(x, y);
         }
-
+        
         public Vector3 GetCellWorldPos(int x, int y)
         {
             return GetCellWorldPos(new Vector2Int(x, y));
@@ -87,17 +88,17 @@ namespace GridUtilities
 
         public IEnumerable<Vector2Int> GetAllCellXYPositions()
         {
-            return gridDictionary.Keys;
+            return gridObjectDictionary.Keys;
         }
 
         public IEnumerable<TGridObject> GetAllGridObjects()
         {
-            return gridDictionary.Values;
+            return gridObjectDictionary.Values;
         }
 
         public int GetCellCount()
         {
-            return gridDictionary.Count;
+            return gridObjectDictionary.Count;
         }
         
         public void SetCellGridObject(int x, int y, TGridObject value)
@@ -107,7 +108,7 @@ namespace GridUtilities
         
         public void SetCellGridObject(Vector2Int cellXYPosition, TGridObject value)
         {
-            gridDictionary[cellXYPosition] = value;
+            gridObjectDictionary[cellXYPosition] = value;
             OnGridValueChanged?.Invoke(this, new OnGridValueChangedEventArgs { CellXYPosition = cellXYPosition});
         }
 
@@ -125,13 +126,37 @@ namespace GridUtilities
         public TGridObject GetCellGridObject(Vector2Int cellXYPosition)
         {
             if (!HasCell(cellXYPosition)) return default;
-            return gridDictionary[cellXYPosition];
+            return gridObjectDictionary[cellXYPosition];
         }
 
         public TGridObject GetCellGridObject(Vector3 worldPosition)
         {
             Vector2Int cellXYPosition = GetCellXYPos(worldPosition);
             return GetCellGridObject(cellXYPosition);
+        }
+
+        public List<TGridObject> GetNeighbors(Vector2Int cellXYPosition)
+        {
+            List<TGridObject> neighbors = new List<TGridObject>();
+            foreach (Vector2Int neighborPosition in GetNeighborPositions(cellXYPosition))
+            {
+                neighbors.Add(GetCellGridObject(neighborPosition));
+            }
+            return neighbors;
+        }
+        
+        public List<Vector2Int> GetNeighborPositions(Vector2Int cellXYPosition)
+        {
+            List<Vector2Int> neighborPosition = new List<Vector2Int>();
+            neighborPosition.Add(cellXYPosition + Vector2Int.up);
+            neighborPosition.Add(cellXYPosition + Vector2Int.down);
+            neighborPosition.Add(cellXYPosition + Vector2Int.left);
+            neighborPosition.Add(cellXYPosition + Vector2Int.right);
+            neighborPosition.Add(cellXYPosition + Vector2Int.up + Vector2Int.left);
+            neighborPosition.Add(cellXYPosition + Vector2Int.up + Vector2Int.right);
+            neighborPosition.Add(cellXYPosition + Vector2Int.down + Vector2Int.left);
+            neighborPosition.Add(cellXYPosition + Vector2Int.down + Vector2Int.right);
+            return neighborPosition;
         }
     }
 }
