@@ -13,174 +13,259 @@ MonoBehaviour:
   m_Name: Level 1_GridData
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.GridDataSo
   cellDatas:
-  - WorldPosition: {x: -10, y: 4}
+  - position: {x: -10, y: 4}
+    WorldPosition: {x: -10, y: 4}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -9, y: 4}
+  - position: {x: -9, y: 4}
+    WorldPosition: {x: -9, y: 4}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -10, y: 3}
+  - position: {x: -10, y: 3}
+    WorldPosition: {x: -10, y: 3}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -9, y: 3}
+  - position: {x: -9, y: 3}
+    WorldPosition: {x: -9, y: 3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -8, y: 3}
+  - position: {x: -8, y: 3}
+    WorldPosition: {x: -8, y: 3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -7, y: 3}
+  - position: {x: -7, y: 3}
+    WorldPosition: {x: -7, y: 3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -6, y: 3}
+  - position: {x: -6, y: 3}
+    WorldPosition: {x: -6, y: 3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -10, y: 2}
+  - position: {x: -10, y: 2}
+    WorldPosition: {x: -10, y: 2}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -9, y: 2}
+  - position: {x: -9, y: 2}
+    WorldPosition: {x: -9, y: 2}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -8, y: 2}
+  - position: {x: -8, y: 2}
+    WorldPosition: {x: -8, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -7, y: 2}
+  - position: {x: -7, y: 2}
+    WorldPosition: {x: -7, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -6, y: 2}
+  - position: {x: -6, y: 2}
+    WorldPosition: {x: -6, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -5, y: 2}
+  - position: {x: -5, y: 2}
+    WorldPosition: {x: -5, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -4, y: 2}
+  - position: {x: -4, y: 2}
+    WorldPosition: {x: -4, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -3, y: 2}
+  - position: {x: -3, y: 2}
+    WorldPosition: {x: -3, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -2, y: 2}
+  - position: {x: -2, y: 2}
+    WorldPosition: {x: -2, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -1, y: 2}
+  - position: {x: -1, y: 2}
+    WorldPosition: {x: -1, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 0, y: 2}
+  - position: {x: 0, y: 2}
+    WorldPosition: {x: 0, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 1, y: 2}
+  - position: {x: 1, y: 2}
+    WorldPosition: {x: 1, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 2, y: 2}
+  - position: {x: 2, y: 2}
+    WorldPosition: {x: 2, y: 2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -9, y: 1}
+  - position: {x: -9, y: 1}
+    WorldPosition: {x: -9, y: 1}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -8, y: 1}
+  - position: {x: -8, y: 1}
+    WorldPosition: {x: -8, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -7, y: 1}
+  - position: {x: -7, y: 1}
+    WorldPosition: {x: -7, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -6, y: 1}
+  - position: {x: -6, y: 1}
+    WorldPosition: {x: -6, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -5, y: 1}
+  - position: {x: -5, y: 1}
+    WorldPosition: {x: -5, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -4, y: 1}
+  - position: {x: -4, y: 1}
+    WorldPosition: {x: -4, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -3, y: 1}
+  - position: {x: -3, y: 1}
+    WorldPosition: {x: -3, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -2, y: 1}
+  - position: {x: -2, y: 1}
+    WorldPosition: {x: -2, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -1, y: 1}
+  - position: {x: -1, y: 1}
+    WorldPosition: {x: -1, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 0, y: 1}
+  - position: {x: 0, y: 1}
+    WorldPosition: {x: 0, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 1, y: 1}
+  - position: {x: 1, y: 1}
+    WorldPosition: {x: 1, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 2, y: 1}
+  - position: {x: 2, y: 1}
+    WorldPosition: {x: 2, y: 1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -9, y: 0}
+  - position: {x: -9, y: 0}
+    WorldPosition: {x: -9, y: 0}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -8, y: 0}
+  - position: {x: -8, y: 0}
+    WorldPosition: {x: -8, y: 0}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -7, y: 0}
+  - position: {x: -7, y: 0}
+    WorldPosition: {x: -7, y: 0}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -6, y: 0}
+  - position: {x: -6, y: 0}
+    WorldPosition: {x: -6, y: 0}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -5, y: 0}
+  - position: {x: -5, y: 0}
+    WorldPosition: {x: -5, y: 0}
     TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - WorldPosition: {x: -4, y: 0}
+  - position: {x: -4, y: 0}
+    WorldPosition: {x: -4, y: 0}
     TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - WorldPosition: {x: -3, y: 0}
+  - position: {x: -3, y: 0}
+    WorldPosition: {x: -3, y: 0}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -2, y: 0}
+  - position: {x: -2, y: 0}
+    WorldPosition: {x: -2, y: 0}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -1, y: 0}
+  - position: {x: -1, y: 0}
+    WorldPosition: {x: -1, y: 0}
     TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - WorldPosition: {x: 0, y: 0}
+  - position: {x: 0, y: 0}
+    WorldPosition: {x: 0, y: 0}
     TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - WorldPosition: {x: 1, y: 0}
+  - position: {x: 1, y: 0}
+    WorldPosition: {x: 1, y: 0}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 2, y: 0}
+  - position: {x: 2, y: 0}
+    WorldPosition: {x: 2, y: 0}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -8, y: -1}
+  - position: {x: -8, y: -1}
+    WorldPosition: {x: -8, y: -1}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -7, y: -1}
+  - position: {x: -7, y: -1}
+    WorldPosition: {x: -7, y: -1}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -6, y: -1}
+  - position: {x: -6, y: -1}
+    WorldPosition: {x: -6, y: -1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -5, y: -1}
+  - position: {x: -5, y: -1}
+    WorldPosition: {x: -5, y: -1}
     TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - WorldPosition: {x: -4, y: -1}
+  - position: {x: -4, y: -1}
+    WorldPosition: {x: -4, y: -1}
     TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - WorldPosition: {x: -3, y: -1}
+  - position: {x: -3, y: -1}
+    WorldPosition: {x: -3, y: -1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -2, y: -1}
+  - position: {x: -2, y: -1}
+    WorldPosition: {x: -2, y: -1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -1, y: -1}
+  - position: {x: -1, y: -1}
+    WorldPosition: {x: -1, y: -1}
     TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - WorldPosition: {x: 0, y: -1}
+  - position: {x: 0, y: -1}
+    WorldPosition: {x: 0, y: -1}
     TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - WorldPosition: {x: 1, y: -1}
+  - position: {x: 1, y: -1}
+    WorldPosition: {x: 1, y: -1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 2, y: -1}
+  - position: {x: 2, y: -1}
+    WorldPosition: {x: 2, y: -1}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -8, y: -2}
+  - position: {x: -8, y: -2}
+    WorldPosition: {x: -8, y: -2}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -7, y: -2}
+  - position: {x: -7, y: -2}
+    WorldPosition: {x: -7, y: -2}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -6, y: -2}
+  - position: {x: -6, y: -2}
+    WorldPosition: {x: -6, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -5, y: -2}
+  - position: {x: -5, y: -2}
+    WorldPosition: {x: -5, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -4, y: -2}
+  - position: {x: -4, y: -2}
+    WorldPosition: {x: -4, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -3, y: -2}
+  - position: {x: -3, y: -2}
+    WorldPosition: {x: -3, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -2, y: -2}
+  - position: {x: -2, y: -2}
+    WorldPosition: {x: -2, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -1, y: -2}
+  - position: {x: -1, y: -2}
+    WorldPosition: {x: -1, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 0, y: -2}
+  - position: {x: 0, y: -2}
+    WorldPosition: {x: 0, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 1, y: -2}
+  - position: {x: 1, y: -2}
+    WorldPosition: {x: 1, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 2, y: -2}
+  - position: {x: 2, y: -2}
+    WorldPosition: {x: 2, y: -2}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -7, y: -3}
+  - position: {x: -7, y: -3}
+    WorldPosition: {x: -7, y: -3}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -6, y: -3}
+  - position: {x: -6, y: -3}
+    WorldPosition: {x: -6, y: -3}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -5, y: -3}
+  - position: {x: -5, y: -3}
+    WorldPosition: {x: -5, y: -3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -4, y: -3}
+  - position: {x: -4, y: -3}
+    WorldPosition: {x: -4, y: -3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -3, y: -3}
+  - position: {x: -3, y: -3}
+    WorldPosition: {x: -3, y: -3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -2, y: -3}
+  - position: {x: -2, y: -3}
+    WorldPosition: {x: -2, y: -3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -1, y: -3}
+  - position: {x: -1, y: -3}
+    WorldPosition: {x: -1, y: -3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 0, y: -3}
+  - position: {x: 0, y: -3}
+    WorldPosition: {x: 0, y: -3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: 1, y: -3}
+  - position: {x: 1, y: -3}
+    WorldPosition: {x: 1, y: -3}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -7, y: -4}
+  - position: {x: -7, y: -4}
+    WorldPosition: {x: -7, y: -4}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -6, y: -4}
+  - position: {x: -6, y: -4}
+    WorldPosition: {x: -6, y: -4}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -5, y: -4}
+  - position: {x: -5, y: -4}
+    WorldPosition: {x: -5, y: -4}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -4, y: -4}
+  - position: {x: -4, y: -4}
+    WorldPosition: {x: -4, y: -4}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -3, y: -4}
+  - position: {x: -3, y: -4}
+    WorldPosition: {x: -3, y: -4}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -2, y: -4}
+  - position: {x: -2, y: -4}
+    WorldPosition: {x: -2, y: -4}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - WorldPosition: {x: -6, y: -5}
+  - position: {x: -6, y: -5}
+    WorldPosition: {x: -6, y: -5}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -5, y: -5}
+  - position: {x: -5, y: -5}
+    WorldPosition: {x: -5, y: -5}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -4, y: -5}
+  - position: {x: -4, y: -5}
+    WorldPosition: {x: -4, y: -5}
     TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
-  - WorldPosition: {x: -3, y: -5}
+  - position: {x: -3, y: -5}
+    WorldPosition: {x: -3, y: -5}
     TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
   cellSize: 1
