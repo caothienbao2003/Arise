@@ -77,14 +77,14 @@ namespace GridTool
                     normal = { textColor = Color.black }
                 };
 
-                string label = $"{cell.NodePosition.x},{cell.NodePosition.y}";
+                string label = $"{cell.GridPosition.x},{cell.GridPosition.y}";
                 GUI.Label(rect, label, labelStyle);
 
                 GUI.backgroundColor = prevColor;
 
                 if (Event.current.type == EventType.MouseDown && rect.Contains(Event.current.mousePosition))
                 {
-                    Debug.Log($"Clicked cell at {cell.NodePosition}");
+                    Debug.Log($"Clicked cell at {cell.GridPosition}");
                     Event.current.Use();
                 }
             }

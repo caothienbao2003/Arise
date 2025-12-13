@@ -20,13 +20,7 @@ namespace GridTool
         //public string terrainTypePath = "Assets/Modules/MapTool/Data/CellTypes";
         //#endregion
 
-        #region Level settings
-        [TabGroup("Level settings")]
-        [AssetsOnly]
-        [Required("Template scene is required")]
-        [SerializeField]
-        [InfoBox("Scene used as a template when creating new levels. It should contain essential components like Grid, Camera setup, Lighting, etc.", InfoMessageType.None)]
-        public SceneAsset templateScene;
+        
 
         //[TabGroup("Level settings")]
         //[FolderPath]
@@ -44,8 +38,7 @@ namespace GridTool
         //[FolderPath]
         //[SerializeField]
         //[InfoBox("Path where grid data ScriptableObjects are stored.", InfoMessageType.None)]
-        //public string gridDataPath = "Assets/Modules/MapTool/Data/GridDatas";
-        #endregion
+        //public string gridDataPath = "Assets/Modules/MapTool/Data/GridDatas"
 #endif
 
 #if UNITY_EDITOR

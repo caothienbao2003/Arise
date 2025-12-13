@@ -87,7 +87,7 @@ namespace GridTool
             }
 
             createNewTerrainTypeWindow = new CreateNewTerrainTypeWindow(settings);
-            createNewLevelWindow = new CreateNewLevelWindow(settings);
+            createNewLevelWindow = new CreateNewLevelWindow();
 
             tree.Add("Terrain Types", createNewTerrainTypeWindow);
             IEnumerable<OdinMenuItem> terrainTypes = tree.AddAllAssetsAtPath(

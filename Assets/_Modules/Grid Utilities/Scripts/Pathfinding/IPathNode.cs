@@ -9,7 +9,7 @@ namespace GridUtilities
         int HCost { get; set; }
         int FCost => GCost + HCost;
         IPathNode PreviousNode { get; set;}
-        Vector2Int NodePosition { get; set; }
+        // Vector2Int NodePosition { get; set; }
         bool IsWalkable { get; set; }
     }
 }

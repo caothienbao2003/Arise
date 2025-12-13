@@ -23,6 +23,9 @@ namespace GridTool
 
         [BoxGroup("Properties")]
         [SerializeField] public bool IsWalkable = true;
+        
+        [BoxGroup("Properties")]
+        [SerializeField] public int Priority = 0;
 
 
 #if UNITY_EDITOR

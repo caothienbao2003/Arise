@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Sirenix.OdinInspector;
-
+using System;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using System.IO;
@@ -16,11 +16,17 @@ namespace GridTool
         [SerializeField]
         [ValidateInput("ValidateLevelName", "Level name is required and must contain valid characters!")]
         private string levelName;
+        
+        [AssetsOnly]
+        [Required("Template scene is required")]
+        [SerializeField]
+        public SceneAsset templateScene;
+        
+        [SerializeField] private bool VisualizeGrid = true;
 
-        private GridToolSettingsSO settings;
-        public CreateNewLevelWindow(GridToolSettingsSO settings)
+        // private GridToolSettingsSO settings;
+        public CreateNewLevelWindow()
         {
-            this.settings = settings;
         }
 
         [HorizontalGroup("Actions")]
@@ -30,72 +36,106 @@ namespace GridTool
             if (!ValidateInputs())
                 return;
 
-
-            Directory.CreateDirectory($"{GridToolPaths.Levels.LEVELS_SCENES_FOLDER}");
-
             string newScenePath = $"{GridToolPaths.Levels.LEVELS_SCENES_FOLDER}/{levelName}.unity";
 
-            // Step 1: Check if file existed, if yes, override or return
+            // 1. Handle scene file existence and copy template
+            if (!HandleSceneFileCreation(newScenePath))
+                return;
+
+            // 2. Create and link ScriptableObject assets
+            if (!CreateAssetFiles(newScenePath, out GridDataSO gridData, out LevelDataSO levelData))
+                return;
+
+            // 3. Open scene and set up runtime components
+            OpenSceneAndSetupBaker(newScenePath, gridData);
+
+            AssetDatabase.SaveAssets();
+            EditorUtility.DisplayDialog("Success", $"Level '{levelName}' created successfully!", "OK");
+        }
+        
+        // --- STEP 1: SCENE HANDLING ---
+
+        private bool HandleSceneFileCreation(string newScenePath)
+        {
+            Directory.CreateDirectory($"{GridToolPaths.Levels.LEVELS_SCENES_FOLDER}");
+
+            // Check if file exists and handle overwrite
             if (File.Exists(newScenePath))
             {
                 if (!EditorUtility.DisplayDialog(
                     "Scene already exist",
-                    $"A scene name '{levelName} already exist at: \n{newScenePath}'",
+                    $"A scene name '{levelName}' already exist at: \n{newScenePath}",
                     "Override",
                     "Cancel"))
                 {
-                    return;
+                    return false;
                 }
 
                 AssetDatabase.DeleteAsset(newScenePath);
             }
 
-            // Step 2: Create directories if missing
-            //if (!Directory.Exists(GridToolPaths.Levels.LEVELS_DATA_FOLDER))
-            //{
-            //    Directory.CreateDirectory(GridToolPaths.Levels.LEVELS_DATA_FOLDER);
-            //}
-
-            //AssetDatabase.Refresh();
-
-
-            //Step 3: Copy template scene to new location
-            string templateScenePath = AssetDatabase.GetAssetPath(settings.templateScene);
+            // Copy template scene
+            string templateScenePath = AssetDatabase.GetAssetPath(templateScene);
 
             bool success = AssetDatabase.CopyAsset(templateScenePath, newScenePath);
             if (!success)
             {
-                EditorUtility.DisplayDialog("Error", "Failed to create the new level scene.", "OK");
-                return;
+                EditorUtility.DisplayDialog("Error", "Failed to copy the new level scene from template.", "OK");
+                return false;
             }
 
-            //Step 4: Create LevelDataSO
+            AssetDatabase.Refresh();
+            return true;
+        }
+
+        // --- STEP 2: ASSET CREATION ---
+
+        private bool CreateAssetFiles(string newScenePath, out GridDataSO gridData, out LevelDataSO levelData)
+        {
+            gridData = null;
+            levelData = null;
+
             Directory.CreateDirectory($"{GridToolPaths.GridData.GRID_DATA_FOLDER}");
             Directory.CreateDirectory($"{GridToolPaths.Levels.LEVELS_DATA_FOLDER}");
 
             string newGridDataPath = $"{GridToolPaths.GridData.GRID_DATA_FOLDER}/{levelName}_GridData.asset";
             string newLevelDataPath = $"{GridToolPaths.Levels.LEVELS_DATA_FOLDER}/{levelName}_LevelData.asset";
 
-            var gridData = ScriptableObject.CreateInstance<GridDataSO>();
-            AssetDatabase.CreateAsset(gridData, newGridDataPath);
+            try
+            {
+                // Create GridDataSO
+                gridData = ScriptableObject.CreateInstance<GridDataSO>();
+                AssetDatabase.CreateAsset(gridData, newGridDataPath);
 
-            var levelData = ScriptableObject.CreateInstance<LevelDataSO>();
-            levelData.levelName = levelName;
-            levelData.levelScene = AssetDatabase.LoadAssetAtPath<SceneAsset>(newScenePath);
-            levelData.gridData = gridData;
-
-            AssetDatabase.CreateAsset(levelData, newLevelDataPath);
+                // Create LevelDataSO
+                levelData = ScriptableObject.CreateInstance<LevelDataSO>();
+                levelData.levelName = levelName;
+                levelData.levelScene = AssetDatabase.LoadAssetAtPath<SceneAsset>(newScenePath);
+                levelData.gridData = gridData;
+                AssetDatabase.CreateAsset(levelData, newLevelDataPath);
+            }
+            catch (Exception e)
+            {
+                EditorUtility.DisplayDialog("Asset Error", $"Failed to create GridData or LevelData assets: {e.Message}", "OK");
+                return false;
+            }
 
             AssetDatabase.SaveAssets();
-            AssetDatabase.Refresh();
+            return true;
+        }
 
-            // Step 5: Open scene, set up MapBaker
+        // --- STEP 3: SCENE SETUP ---
+
+        private void OpenSceneAndSetupBaker(string newScenePath, GridDataSO gridData)
+        {
             var scene = EditorSceneManager.OpenScene(newScenePath);
+            
             SetUpMapBaker(scene, gridData);
 
             EditorSceneManager.SaveScene(scene);
-            EditorUtility.DisplayDialog("Success", $"Level '{levelName}' created successfully!", "OK");
         }
+
+        // --- VALIDATION HELPERS (Kept as is for brevity, but could be split further) ---
 
         private bool ValidateLevelName(string name)
         {
@@ -108,7 +148,8 @@ namespace GridTool
 
         private bool ValidateInputs()
         {
-            if (settings.templateScene == null)
+            // ... (Your existing validation logic remains here) ...
+            if (templateScene == null)
             {
                 EditorUtility.DisplayDialog("Error", "Template scene is required!", "OK");
                 return false;
@@ -131,88 +172,112 @@ namespace GridTool
                 EditorUtility.DisplayDialog("Error", "Level path must be valid and start with 'Assets/'!", "OK");
                 return false;
             }
-
             return true;
         }
 
+
+        // --- REFACTORED SetUpMapBaker ---
+
         private void SetUpMapBaker(Scene scene, GridDataSO mapData)
         {
-            //Find or create MapEditor game object
+            GridBaker mapBaker = FindOrCreateGridBaker();
+            
+            List<TerrainTypeSO> terrainTypes = LoadAllTerrainTypes();
+
+            GameObject tileMapParentGO = FindOrCreateTilemapParent();
+
+            List<GridLayer> layers = CreateTilemapLayers(terrainTypes, tileMapParentGO);
+
+            mapBaker.SetUp(layers, mapData);
+
+            // Finalizing scene changes
+            EditorUtility.SetDirty(mapBaker);
+            EditorUtility.SetDirty(mapBaker.gameObject);
+            EditorSceneManager.MarkSceneDirty(scene);
+            AssetDatabase.SaveAssets();
+
+            Debug.Log("MapBaker setup complete.");
+        }
+
+        private GridBaker FindOrCreateGridBaker()
+        {
             GridBaker mapBaker = GameObject.FindAnyObjectByType<GridBaker>();
-            GameObject mapBakerGO = null;
 
             if (mapBaker == null)
             {
-                mapBakerGO = new GameObject("MapBaker");
+                GameObject mapBakerGO = new GameObject("MapBaker");
                 mapBaker = mapBakerGO.AddComponent<GridBaker>();
             }
-            else
-            {
-                mapBakerGO = mapBaker.gameObject;
-            }
 
-            GUID[] terrainGUIDs = AssetDatabase.FindAssetGUIDs($"t:{nameof(TerrainTypeSO).ToString()}", new[] { GridToolPaths.TerrainTypes.TERRAIN_TYPE_FOLDER });
+            return mapBaker;
+        }
+
+        private List<TerrainTypeSO> LoadAllTerrainTypes()
+        {
             List<TerrainTypeSO> terrainTypes = new List<TerrainTypeSO>();
+            GUID[] terrainGUIDs = AssetDatabase.FindAssetGUIDs(
+                $"t:{nameof(TerrainTypeSO)}", 
+                new[] { GridToolPaths.TerrainTypes.TERRAIN_TYPE_FOLDER }
+            );
 
-            Debug.Log("Terrain GUIDS: " + terrainGUIDs.Length + " " + GridToolPaths.TerrainTypes.TERRAIN_TYPE_FOLDER);
+            Debug.Log($"Found {terrainGUIDs.Length} TerrainType assets in {GridToolPaths.TerrainTypes.TERRAIN_TYPE_FOLDER}");
 
             foreach (GUID terrain in terrainGUIDs)
             {
                 TerrainTypeSO terrainType = AssetDatabase.LoadAssetByGUID<TerrainTypeSO>(terrain);
                 if (terrainType != null)
                 {
-                    Debug.Log("Found terrain type: " + terrainType.DisplayName);
+                    Debug.Log("Loaded terrain type: " + terrainType.DisplayName);
                     terrainTypes.Add(terrainType);
                 }
             }
+            return terrainTypes;
+        }
 
+        private GameObject FindOrCreateTilemapParent()
+        {
+            // Grid is the default parent object for all Tilemaps in Unity's 2D setup
             GameObject tileMapParentGO = GameObject.FindAnyObjectByType<Grid>()?.gameObject;
             if (tileMapParentGO == null)
             {
                 tileMapParentGO = new GameObject("Grid");
                 tileMapParentGO.AddComponent<Grid>();
             }
+            return tileMapParentGO;
+        }
 
+        private List<GridLayer> CreateTilemapLayers(List<TerrainTypeSO> terrainTypes, GameObject tileMapParent)
+        {
             List<GridLayer> layers = new List<GridLayer>();
+            int layerIndex = 0;
 
             foreach (TerrainTypeSO terrain in terrainTypes)
             {
-                GameObject tileMapLayerGO = null;
+                // Determine name based on rendering status
+                string layerGOName = terrain.IsRender ? 
+                    $"Core_{terrain.DisplayName}" : 
+                    $"NoRender_{terrain.DisplayName}";
 
-                if (terrain.IsRender)
-                {
-                    tileMapLayerGO = new GameObject("Core_" + terrain.DisplayName);
-                }
-                else
-                {
-                    tileMapLayerGO = new GameObject("NoRender_" + terrain.DisplayName);
-                }
-
-                tileMapLayerGO.transform.SetParent(tileMapParentGO.transform);
+                GameObject tileMapLayerGO = new GameObject(layerGOName);
+                tileMapLayerGO.transform.SetParent(tileMapParent.transform);
+                
                 Tilemap layerTileMap = tileMapLayerGO.AddComponent<Tilemap>();
-
                 TilemapRenderer tilemapRenderer = tileMapLayerGO.AddComponent<TilemapRenderer>();
-                tilemapRenderer.sortingOrder = layers.Count;
+                
+                // Set sorting order based on index to ensure consistent rendering
+                tilemapRenderer.sortingOrder = layerIndex;
 
                 GridLayer newLayer = new GridLayer
                 {
-                    layerName = terrain.DisplayName,
-                    terrainType = terrain,
-                    tileMap = layerTileMap
+                    LayerName = terrain.DisplayName,
+                    TerrainType = terrain,
+                    TileMap = layerTileMap,
+                    Priority = terrain.Priority
                 };
                 layers.Add(newLayer);
+                layerIndex++;
             }
-
-            mapBaker.SetUp(layers, mapData);
-
-            //Set dirty to save changes
-            EditorUtility.SetDirty(mapBaker);
-            EditorUtility.SetDirty(mapBaker.gameObject);
-            EditorSceneManager.MarkSceneDirty(scene);
-
-            AssetDatabase.SaveAssets();
-
-            Debug.Log("MapBaker setup complete.");
+            return layers;
         }
     }
 }

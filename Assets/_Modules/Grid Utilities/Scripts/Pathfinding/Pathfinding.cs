@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace GridUtilities
 {
-    public class Pathfinding<TPathNode> where TPathNode : class, IPathNode
+    public class Pathfinding<TPathNode> where TPathNode : class, IPathNode, IGridObject
     {
         private const int MOVE_STRAIGHT_COST = 10;
         private const int MOVE_DIAGONAL_COST = 14;
@@ -20,8 +20,25 @@ namespace GridUtilities
             this.grid = grid;
         }
 
+        public Grid<TPathNode> GetGrid()
+        {
+            return grid;
+        }
+
         public List<TPathNode> FindPath(TPathNode startNode, TPathNode endNode)
         {
+            if (startNode == null)
+            {
+                Debug.LogWarning("[Pathfinding] [FindPath] Start node is null.");
+                return null;
+            }
+
+            if (endNode == null)
+            {
+                Debug.LogWarning("[Pathfinding] [FindPath] End node is null.");
+                return null;
+            }
+            
             toProcessList = new List<TPathNode> { startNode };
             processedList = new List<TPathNode>();
 
@@ -50,6 +67,18 @@ namespace GridUtilities
 
                 foreach (TPathNode neighborNode in validNeighborNodes)
                 {
+                    if (neighborNode == null)
+                    {
+                        Debug.LogWarning("[Pathfinding] [FindPath] Neighbor node is null.");
+                    }
+
+                    if (!neighborNode.IsWalkable)
+                    {
+                        Debug.LogWarning($"[FindPath] Skipping non-walkable cell at position: {neighborNode.GridPosition}");
+                        processedList.Add(neighborNode);
+                        continue;
+                    }
+                    
                     int tentativeGCost = currentNode.GCost + CalculateMovementCost(currentNode, neighborNode);
 
                     bool isNeighborInToSearchList = toProcessList.Contains(neighborNode);
@@ -72,11 +101,16 @@ namespace GridUtilities
 
         private List<TPathNode> GetValidNeighborCells(TPathNode node)
         {
-            return grid.GetNeighbors(node.NodePosition).Where(cell => !processedList.Contains(cell)).ToList();
+            return grid.GetNeighbors(node.GridPosition).Where(cell => !processedList.Contains(cell)).ToList();
         }
 
         public List<TPathNode> CalculatePath(TPathNode endNode)
         {
+            if (endNode == null)
+            {
+                Debug.LogWarning("[Pathfinding] [CalculatePath] End node is null.");
+            }
+            
             List<TPathNode> path = new List<TPathNode>();
             path.Add(endNode);
             TPathNode currentNode = endNode;
@@ -91,8 +125,17 @@ namespace GridUtilities
 
         private int CalculateMovementCost(TPathNode cellA, TPathNode cellB)
         {
-            int xDistance = Mathf.Abs(cellA.NodePosition.x - cellB.NodePosition.x);
-            int yDistance = Mathf.Abs(cellA.NodePosition.y - cellB.NodePosition.y);
+            if (cellA == null)
+            {
+                Debug.LogWarning("[Pathfinding] [CalculateMovementCost] Cell A is null.");
+            }
+            if (cellB == null)
+            {
+                Debug.LogWarning("[Pathfinding] [CalculateMovementCost] Cell B is null.");
+            }
+            
+            int xDistance = Mathf.Abs(cellA.GridPosition.x - cellB.GridPosition.x);
+            int yDistance = Mathf.Abs(cellA.GridPosition.y - cellB.GridPosition.y);
 
             int numberOfDiagonalMoves = Mathf.Min(xDistance, yDistance);
             int numberOfStraightMove = Math.Abs(xDistance - yDistance);

@@ -6,22 +6,21 @@ using UnityEngine;
 namespace GridTool
 {
     [Serializable]
-    public class CellData: IPathNode
+    public class CellData: IPathNode, IGridObject
     {
-        [SerializeField] private Vector2Int position; 
+        [SerializeField] private Vector2Int gridPosition; 
         
         public CellData PreviousCell;
         
-        public Vector2 WorldPosition;
         public TerrainTypeSO TerrainType;
 
         public int GCost { get; set; }
         public int HCost { get; set; }
         public IPathNode PreviousNode { get; set; }
-        public Vector2Int NodePosition
+        public Vector2Int GridPosition
         {
-            get => position;
-            set => position = value;
+            get => gridPosition;
+            set => gridPosition = value;
         }
         public bool IsWalkable { get; set; }
     }

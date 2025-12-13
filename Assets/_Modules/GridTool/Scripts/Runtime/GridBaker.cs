@@ -1,107 +1,169 @@
 using Sirenix.OdinInspector;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
 namespace GridTool
 {
+    // Note: This code assumes the existence of:
+    // 1. GridLayer (from your first prompt)
+    // 2. TerrainTypeSO (must contain a 'Priority' and 'IsRender' field)
+    // 3. GridDataSO (must contain 'ClearCellDatas', 'SetCellSize', 'AddCellData', 'SortCellDatas' and a 'CellDatas' list)
+    // 4. CellData (must contain 'GridPosition', 'TerrainType', 'IsWalkable', and the NEW 'LayerPriority' field)
+
     public class GridBaker : MonoBehaviour
     {
+        // --- PUBLIC INSPECTOR FIELDS ---
+        
         [Title("Map Layers")]
-        [ListDrawerSettings(ShowFoldout = true)]
+        [ListDrawerSettings(ShowFoldout = true, CustomAddFunction = nameof(CreateNewLayer))]
         public List<GridLayer> layers = new();
 
         [Required("Output Map Data must be assigned!")]
         [AssetsOnly]
         public GridDataSO outputMapData;
+        
+        private GridLayer CreateNewLayer()
+        {
+            return new GridLayer { LayerName = "New Layer" };
+        }
 
+        // --- PUBLIC EDITOR METHODS (Buttons) ---
 #if UNITY_EDITOR
-        [Button(ButtonSizes.Large), GUIColor(0.3f, 0.9f, 0.3f)]
+        
+        [Button(ButtonSizes.Medium)]
+        [GUIColor(0.8f, 0.8f, 0.3f)] // Utility color
+        public void ResetAttributes()
+        {
+            foreach (GridLayer layer in layers)
+            {
+                if (layer.TerrainType != null)
+                {
+                    layer.Priority = layer.TerrainType.Priority;
+                    layer.IsWalkable = layer.TerrainType.IsWalkable;
+                }
+            }
+            Debug.Log("Layer priorities reset to their respective TerrainType priorities.");
+        }
+        
+        [Button(ButtonSizes.Large)]
+        [GUIColor(0.3f, 0.9f, 0.3f)] // Primary action color
         public void BakeGrid()
         {
-            Debug.Log(outputMapData);
+            if (!ValidateBakeConditions())
+            {
+                return;
+            }
 
+            Debug.Log("Starting map bake process...");
+            
+            Dictionary<Vector2Int, CellData> cellDataDict = new();
+            BoundsInt overallBounds = InitializeBake(cellDataDict);
+
+            if (overallBounds.size.x == 0 || overallBounds.size.y == 0)
+            {
+                Debug.LogError("Bake Failed: Map is empty (overall bounds size is zero).");
+                return;
+            }
+            
+            ProcessAllLayers(cellDataDict, overallBounds);
+            
+            FinalizeBake(cellDataDict);
+            
+            Debug.Log($"Map baked successfully with {outputMapData.CellDatas.Count} cells.");
+        }
+        
+        private bool ValidateBakeConditions()
+        {
             if (outputMapData == null)
             {
-                Debug.LogError("Output Asset is not assigned.");
-                return;
+                Debug.LogError("Bake Failed: Output Asset is not assigned.");
+                return false;
             }
 
             if (layers.Count == 0)
             {
-                Debug.LogError("No layers assigned to bake.");
-                return;
+                Debug.LogError("Bake Failed: No layers assigned to bake.");
+                return false;
             }
+            return true;
+        }
 
-            Debug.Log("Baking map...");
-
-            // CHANGED: Use method instead of property
+        private BoundsInt InitializeBake(Dictionary<Vector2Int, CellData> cellDataDict)
+        {
             outputMapData.ClearCellDatas();
-    
-            float cellSize = GetTilemapCellSize();
-            outputMapData.SetCellSize(cellSize);
+            outputMapData.SetCellSize(GetTilemapCellSize());
+            
+            // cellDataDict is already new, so no need to clear it.
+            return CalculateOverallBounds();
+        }
 
-            Dictionary<Vector2Int, CellData> cellDataDict = new();
-            BoundsInt overallBounds = CalculateOverallBounds();
-
-            if (overallBounds.size.x == 0 || overallBounds.size.y == 0)
-            {
-                Debug.LogError("Map is empty, nothing to bake");
-                return;
-            }
+        private void ProcessAllLayers(Dictionary<Vector2Int, CellData> cellDataDict, BoundsInt overallBounds)
+        {
+            // Sort layers: 'b.Priority.CompareTo(a.Priority)' sorts in DESCENDING order.
+            // This means layers with a HIGHER Priority value are processed first.
+            layers.Sort((a, b) => b.Priority.CompareTo(a.Priority)); 
 
             foreach (GridLayer layer in layers)
             {
-                if (layer.tileMap == null)
+                if (!IsLayerValid(layer))
                 {
-                    Debug.LogWarning($"Layer {layer.layerName} has no TileMap assigned. Skipping.");
                     continue;
                 }
-
-                if (layer.terrainType == null)
-                {
-                    Debug.LogWarning($"Layer {layer.layerName} has no TerrainType assigned. Skipping.");
-                    continue;
-                }
-
+                
                 ProcessLayer(layer, cellDataDict, overallBounds);
             }
+            
+            Debug.Log($"Non-walkable Cells found: {cellDataDict.Count(x => !x.Value.IsWalkable)}");
+        }
 
-            // CHANGED: Use method to add data
+        private void FinalizeBake(Dictionary<Vector2Int, CellData> cellDataDict)
+        {
+            // Batch add the generated cell data
             foreach (var kvp in cellDataDict)
             {
                 outputMapData.AddCellData(kvp.Value);
             }
 
-            // CHANGED: Use method to sort
-            outputMapData.SortCellDatas();
+            outputMapData.SortCellDatas(); // Sort the final list
+            
+            SaveGridAsset();
+        }
 
-            // Force Unity to recognize changes
-            EditorUtility.SetDirty(outputMapData);
-            AssetDatabase.SaveAssetIfDirty(outputMapData); // CHANGED: Use SaveAssetIfDirty
-            AssetDatabase.Refresh();
+        // --- CORE PROCESSING & UTILITIES ---
 
-            Debug.Log($"Map baked successfully with {outputMapData.CellDatas.Count} cells");
+        private bool IsLayerValid(GridLayer layer)
+        {
+            if (layer.TileMap == null)
+            {
+                Debug.LogWarning($"Skipping layer '{layer.LayerName}': TileMap is null.");
+                return false;
+            }
+            if (layer.TerrainType == null)
+            {
+                Debug.LogWarning($"Skipping layer '{layer.LayerName}': TerrainType is null.");
+                return false;
+            }
+            return true;
         }
 
         private void ProcessLayer(GridLayer layer, Dictionary<Vector2Int, CellData> cellDataDict, BoundsInt bounds)
         {
-            int tilesProcessed = 0;
-
-            if(layer.tileMap != null && !layer.terrainType.IsRender)
+            // Optimization: Disable rendering for non-visual layers
+            if (!layer.TerrainType.IsRender)
             {
-                TilemapRenderer tr = layer.tileMap.GetComponent<TilemapRenderer>();
-                if(tr != null)
+                if (layer.TileMap.TryGetComponent<TilemapRenderer>(out var tr))
                 {
                     tr.enabled = false;
-                }   
+                }
             }
 
             foreach (Vector3Int cellPosition in bounds.allPositionsWithin)
             {
-                TileBase tile = layer.tileMap.GetTile(cellPosition);
+                TileBase tile = layer.TileMap.GetTile(cellPosition);
 
                 if (tile == null)
                 {
@@ -109,45 +171,36 @@ namespace GridTool
                 }
 
                 Vector2Int cellPos = new Vector2Int(cellPosition.x, cellPosition.y);
+                
                 if (!cellDataDict.ContainsKey(cellPos))
                 {
-                    //If not exist, create new CellData
+                    // Case 1: If cell does not exist, create it with current layer data.
                     cellDataDict[cellPos] = new CellData
                     {
-                        NodePosition = cellPos,
-                        WorldPosition = layer.tileMap.CellToWorld(cellPosition),
-                        TerrainType = layer.terrainType
+                        GridPosition = cellPos,
+                        TerrainType = layer.TerrainType,
+                        IsWalkable = layer.IsWalkable,
                     };
                 }
                 else
                 {
-                    //If exist, update its data
-                    cellDataDict[cellPos].TerrainType = layer.terrainType;
+                    
                 }
-
-                tilesProcessed++;
             }
         }
 
-        //Create a surround bounds that contains all layers
         private BoundsInt CalculateOverallBounds()
         {
-            bool firstBounds = true;
             BoundsInt overallBounds = new();
+            bool firstBounds = true;
 
             foreach (GridLayer layer in layers)
             {
-                if (layer.tileMap == null)
-                {
-                    continue;
-                }
+                if (layer.TileMap == null) continue;
 
-                BoundsInt layerBounds = layer.tileMap.cellBounds;
-                if (layerBounds.size.x == 0 || layerBounds.size.y == 0)
-                {
-                    continue;
-                }
-
+                BoundsInt layerBounds = layer.TileMap.cellBounds;
+                if (layerBounds.size.x == 0 && layerBounds.size.y == 0) continue;
+                
                 if (firstBounds)
                 {
                     overallBounds = layerBounds;
@@ -155,38 +208,51 @@ namespace GridTool
                 }
                 else
                 {
-                    overallBounds.xMin = Math.Min(overallBounds.xMin, layerBounds.xMin);
-                    overallBounds.yMin = Math.Min(overallBounds.yMin, layerBounds.yMin);
-                    overallBounds.xMax = Math.Max(overallBounds.xMax, layerBounds.xMax);
-                    overallBounds.yMax = Math.Max(overallBounds.yMax, layerBounds.yMax);
+                    // Union the current overallBounds with the new layerBounds
+                    overallBounds = UnionBoundsInt(overallBounds, layerBounds); 
                 }
             }
 
             return overallBounds;
         }
 
-
+        /// <summary>
+        /// Combines two BoundsInt structures into a single encompassing BoundsInt.
+        /// </summary>
+        private BoundsInt UnionBoundsInt(BoundsInt a, BoundsInt b)
+        {
+            a.xMin = Math.Min(a.xMin, b.xMin);
+            a.yMin = Math.Min(a.yMin, b.yMin);
+            a.xMax = Math.Max(a.xMax, b.xMax);
+            a.yMax = Math.Max(a.yMax, b.yMax);
+            return a;
+        }
 
         public void SetUp(List<GridLayer> layers, GridDataSO outputMapData)
         {
-            Debug.Log("Setting up MapBaker... " + outputMapData);
-
+            Debug.Log("Setting up MapBaker...");
             this.layers = layers;
             this.outputMapData = outputMapData;
+        }
+
+        private void SaveGridAsset()
+        {
+            EditorUtility.SetDirty(outputMapData);
+            AssetDatabase.SaveAssetIfDirty(outputMapData);
+            AssetDatabase.Refresh();
         }
         
         private float GetTilemapCellSize()
         {
             foreach (GridLayer layer in layers)
             {
-                if (layer.tileMap != null)
+                if (layer.TileMap != null)
                 {
-                    // Get cell size from tilemap
-                    return layer.tileMap.cellSize.x; // Assuming square cells
+                    return layer.TileMap.cellSize.x; 
                 }
             }
-    
-            Debug.LogWarning("No valid tilemap found, using default cell size 1.0");
+
+            Debug.LogWarning("No valid tilemap found, using default cell size 1.0.");
             return 1f;
         }
 #endif

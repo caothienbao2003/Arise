@@ -17,3 +17,4 @@ MonoBehaviour:
   Description: 
   IsRender: 1
   IsWalkable: 0
+  Priority: 5

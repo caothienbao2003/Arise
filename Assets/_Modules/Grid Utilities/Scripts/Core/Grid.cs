@@ -7,10 +7,10 @@ namespace GridUtilities
 {
     public class Grid<TGridObject>
     {
-        private float cellSize;
-        private Vector3 originPosition;
-
         private Dictionary<Vector2Int, TGridObject> gridObjectDictionary;
+
+        private Vector3 originPosition;
+        private float cellSize;
 
         public event EventHandler<OnGridValueChangedEventArgs> OnGridValueChanged;
 
@@ -21,16 +21,18 @@ namespace GridUtilities
             public Vector2Int CellXYPosition;
         }
 
-        public Grid(float cellSize, Vector3 originPosition)
+        public Grid(Vector3 originPosition = default, float cellSize = 1f)
         {
-            this.cellSize = cellSize;
-            this.originPosition = originPosition;
             gridObjectDictionary = new Dictionary<Vector2Int, TGridObject>();
 
             Debug.Log($"Created grid with cell size {cellSize}");
             
             OnGridValueChanged += HandleGridValueChanged;
+            
+            this.cellSize = cellSize;
+            this.originPosition = originPosition;
         }
+        
         private void HandleGridValueChanged(object sender, OnGridValueChangedEventArgs eventArgs)
         {
             Debug.Log($"{sender.GetType().Name} changed at {eventArgs.CellXYPosition}");
@@ -140,6 +142,7 @@ namespace GridUtilities
             List<TGridObject> neighbors = new List<TGridObject>();
             foreach (Vector2Int neighborPosition in GetNeighborPositions(cellXYPosition))
             {
+                if (!HasCell(neighborPosition)) continue;
                 neighbors.Add(GetCellGridObject(neighborPosition));
             }
             return neighbors;
