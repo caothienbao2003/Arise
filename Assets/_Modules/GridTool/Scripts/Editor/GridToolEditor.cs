@@ -21,29 +21,14 @@ namespace GridTool
         [ShowIf("@settings != null")]
         private GridToolSettingsSO settings;
 
-
         [ShowIf("@settings == null")]
         [Button(ButtonSizes.Large)]
         private void CreateSettingsAsset()
         {
             string folderPath = GridToolPaths.Settings.SETTINGS_ASSET_PATH;
+            // settings = ScriptableObject.CreateInstance<GridToolSettingsSO>();
 
-            // Create folder path if it doesn�t exist
-            string folder = Path.GetDirectoryName(folderPath);
-            if (!Directory.Exists(folder))
-                if (folder != null)
-                    Directory.CreateDirectory(folder);
-
-            // Create new ScriptableObject instance
-            settings = ScriptableObject.CreateInstance<GridToolSettingsSO>();
-
-            // Save as an asset in the project
-            AssetDatabase.CreateAsset(settings, folderPath);
-            AssetDatabase.SaveAssets();
-            AssetDatabase.Refresh();
-
-            // Ping it for visual feedback
-            EditorGUIUtility.PingObject(settings);
+            GridToolSettingsSO settingsSO = AssetDatabaseUtils.CreateScriptableAsset<GridToolSettingsSO>("Settings", folderPath);
 
             Debug.Log($"Created new GridToolSettingsSO at {folderPath}");
         }
@@ -86,8 +71,37 @@ namespace GridTool
                 return tree;
             }
 
-            createNewTerrainTypeWindow = new CreateNewTerrainTypeWindow(settings);
+            HandleCreateNewTerrainTypeWindow(tree);
+            HandleCreateNewLevelWindow(tree);
+            HandleCreateSettingsWindow(tree);
+            
+            
+            return tree;
+        }
+        
+        private void HandleCreateNewLevelWindow(OdinMenuTree tree)
+        {
             createNewLevelWindow = new CreateNewLevelWindow();
+            
+            tree.Add("Level editor", createNewLevelWindow);
+            
+            IEnumerable<OdinMenuItem> levels = tree.AddAllAssetsAtPath(
+                "Level editor",
+                GridToolPaths.Levels.LEVELS_DATA_FOLDER,
+                typeof(LevelDataSO),
+                includeSubDirectories: true,
+                flattenSubDirectories: true
+            );
+            
+            foreach (var item in levels)
+                if (item.Value is LevelDataSO data)
+                    item.Name = data.levelName;
+
+        }
+
+        private void HandleCreateNewTerrainTypeWindow(OdinMenuTree tree)
+        {
+            createNewTerrainTypeWindow = new CreateNewTerrainTypeWindow(settings);
 
             tree.Add("Terrain Types", createNewTerrainTypeWindow);
             IEnumerable<OdinMenuItem> terrainTypes = tree.AddAllAssetsAtPath(
@@ -96,28 +110,16 @@ namespace GridTool
                 typeof(TerrainTypeSO),
                 includeSubDirectories: true,
                 flattenSubDirectories: true
-                );
-
+            );
+            
             foreach(var item in terrainTypes)
                 if (item.Value is TerrainTypeSO data)
                     item.Name = data.DisplayName;
-
-            tree.Add("Level editor", createNewLevelWindow);
-
-            IEnumerable<OdinMenuItem> levels = tree.AddAllAssetsAtPath(
-                "Level editor",
-                GridToolPaths.Levels.LEVELS_DATA_FOLDER,
-                typeof(LevelDataSO),
-                includeSubDirectories: true,
-                flattenSubDirectories: true
-            );
-
-            foreach (var item in levels)
-                if (item.Value is LevelDataSO data)
-                    item.Name = data.levelName;
-
+        }
+        
+        private void HandleCreateSettingsWindow(OdinMenuTree tree)
+        {
             tree.Add("Settings", this);
-            return tree;
         }
     }
 }

@@ -73,39 +73,39 @@ namespace GridTool
             return grid;
         }
 
-        public CellData[,] GeneratePreviewMatrix()
-        {
-            if (cellDatas == null || cellDatas.Count == 0) return null;
-
-            int minX = int.MaxValue;
-            int minY = int.MaxValue;
-            int maxX = int.MinValue;
-            int maxY = int.MinValue;
-
-            foreach (CellData cellData in cellDatas)
-            {
-                minX = Mathf.Min(minX, cellData.GridPosition.x);
-                minY = Mathf.Min(minY, cellData.GridPosition.y);
-                maxX = Mathf.Max(maxX, cellData.GridPosition.x);
-                maxY = Mathf.Max(maxY, cellData.GridPosition.y);
-            }
-
-            int width = maxX - minX + 1;
-            int height = maxY - minY + 1;
-            
-            CellData[,] matrix = new CellData[width, height];
-            
-            foreach (CellData cellData in cellDatas)
-            {
-                if (cellData == null) return null;
-                
-                int x = cellData.GridPosition.x - minX;
-                int y = cellData.GridPosition.y - minY;
-                
-                matrix[x, y] = cellData;
-            }
-            
-            return matrix;
-        }
+        // public CellData[,] GeneratePreviewMatrix()
+        // {
+        //     if (cellDatas == null || cellDatas.Count == 0) return null;
+        //
+        //     int minX = int.MaxValue;
+        //     int minY = int.MaxValue;
+        //     int maxX = int.MinValue;
+        //     int maxY = int.MinValue;
+        //
+        //     foreach (CellData cellData in cellDatas)
+        //     {
+        //         minX = Mathf.Min(minX, cellData.GridPosition.x);
+        //         minY = Mathf.Min(minY, cellData.GridPosition.y);
+        //         maxX = Mathf.Max(maxX, cellData.GridPosition.x);
+        //         maxY = Mathf.Max(maxY, cellData.GridPosition.y);
+        //     }
+        //
+        //     int width = maxX - minX + 1;
+        //     int height = maxY - minY + 1;
+        //     
+        //     CellData[,] matrix = new CellData[width, height];
+        //     
+        //     foreach (CellData cellData in cellDatas)
+        //     {
+        //         if (cellData == null) return null;
+        //         
+        //         int x = cellData.GridPosition.x - minX;
+        //         int y = cellData.GridPosition.y - minY;
+        //         
+        //         matrix[x, y] = cellData;
+        //     }
+        //     
+        //     return matrix;
+        // }
     }
 }

@@ -14,7 +14,7 @@ namespace GridTool
         [SerializeField] private Color labelColor = Color.white;
         [SerializeField] private int labelFontSize = 12;
 
-        private GridInitializer _gridInitializer;
+        [SerializeField] private GridInitializer _gridInitializer;
         
         private GridInitializer gridInitializer
         {

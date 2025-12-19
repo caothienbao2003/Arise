@@ -18,7 +18,7 @@ namespace GridTool
     {
         // --- PUBLIC INSPECTOR FIELDS ---
         
-        [Title("Map Layers")]
+        [Title("Grid Layers")]
         [ListDrawerSettings(ShowFoldout = true, CustomAddFunction = nameof(CreateNewLayer))]
         public List<GridLayer> layers = new();
 
@@ -31,6 +31,16 @@ namespace GridTool
             return new GridLayer { LayerName = "New Layer" };
         }
 
+        public void SetGridLayers(List<GridLayer> layers)
+        {
+            this.layers = layers;
+        }
+
+        public void SetOutputMapData(GridDataSO outputMapData)
+        {
+            this.outputMapData = outputMapData;
+        }
+        
         // --- PUBLIC EDITOR METHODS (Buttons) ---
 #if UNITY_EDITOR
         
@@ -228,12 +238,12 @@ namespace GridTool
             return a;
         }
 
-        public void SetUp(List<GridLayer> layers, GridDataSO outputMapData)
-        {
-            Debug.Log("Setting up MapBaker...");
-            this.layers = layers;
-            this.outputMapData = outputMapData;
-        }
+        // public void SetUp(List<GridLayer> layers, GridDataSO outputMapData)
+        // {
+        //     Debug.Log("Setting up MapBaker...");
+        //     this.layers = layers;
+        //     this.outputMapData = outputMapData;
+        // }
 
         private void SaveGridAsset()
         {

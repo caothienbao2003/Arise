@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b0cfab878fe94524dbb4b231fe856645, type: 3}
-  m_Name: Level 3_LevelData
+  m_Name: Level 2_LevelData
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.LevelDataSO
-  levelName: Level 3
-  levelScene: {fileID: 102900000, guid: 2595ca84bed4dee4d8520e53e44f26a7, type: 3}
-  gridData: {fileID: 11400000, guid: 52974b407542b0044bc07da2411c1edb, type: 2}
+  levelName: Level 2
+  levelScene: {fileID: 102900000, guid: 607e74ba07ba3644aaa77065ccb9f4b6, type: 3}
+  gridData: {fileID: 11400000, guid: 141e2f9b116d2a941b63bf46993d8bca, type: 2}
