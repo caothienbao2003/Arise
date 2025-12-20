@@ -14,23 +14,23 @@ namespace GridTool
         [SerializeField] private Color labelColor = Color.white;
         [SerializeField] private int labelFontSize = 12;
 
-        [SerializeField] private GridInitializer _gridInitializer;
+        [SerializeField] private GridInitializer gridInitializer;
         
-        private GridInitializer gridInitializer
+        private GridInitializer GridInitializer
         {
             get
             {
-                if (_gridInitializer == null)
+                if (gridInitializer == null)
                 {
-                    _gridInitializer = GetComponent<GridInitializer>();
+                    gridInitializer = GetComponent<GridInitializer>();
                 }
-                return _gridInitializer;
+                return gridInitializer;
             }
         }
         
-        private GridDataSO gridData => gridInitializer.GridDataSO;
-        private Grid<CellData> runtimeGrid => gridInitializer.RuntimeGrid;
-        private Pathfinding<CellData> pathfinding => gridInitializer.Pathfinding;
+        private GridDataSO gridData => GridInitializer.GridDataSO;
+        private Grid<CellData> runtimeGrid => GridInitializer.RuntimeGrid;
+        private Pathfinding<CellData> pathfinding => GridInitializer.Pathfinding;
 
         void OnDrawGizmos()
         {

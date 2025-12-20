@@ -25,6 +25,26 @@ namespace GridUtilities
             return grid;
         }
 
+        public List<Vector3> FindPath(Vector3 startPosition, Vector3 endPosition)
+        {
+            TPathNode startNode = grid.GetCellGridObject(startPosition);
+            TPathNode endNode = grid.GetCellGridObject(endPosition);
+
+            List<TPathNode> path = FindPath(startNode, endNode);
+            if (path == null)
+            {
+                return null;
+            }
+
+            List<Vector3> pathPositions = new List<Vector3>();
+            foreach (TPathNode node in path)
+            {
+                Vector3 nodeWorldPosition = grid.GetCellCenterWorldPos(node.GridPosition);
+                pathPositions.Add(nodeWorldPosition);
+            }
+            return pathPositions;
+        }
+
         public List<TPathNode> FindPath(TPathNode startNode, TPathNode endNode)
         {
             if (startNode == null)
@@ -38,7 +58,7 @@ namespace GridUtilities
                 Debug.LogWarning("[Pathfinding] [FindPath] End node is null.");
                 return null;
             }
-            
+
             toProcessList = new List<TPathNode> { startNode };
             processedList = new List<TPathNode>();
 
@@ -78,7 +98,7 @@ namespace GridUtilities
                         processedList.Add(neighborNode);
                         continue;
                     }
-                    
+
                     int tentativeGCost = currentNode.GCost + CalculateMovementCost(currentNode, neighborNode);
 
                     bool isNeighborInToSearchList = toProcessList.Contains(neighborNode);
@@ -110,7 +130,7 @@ namespace GridUtilities
             {
                 Debug.LogWarning("[Pathfinding] [CalculatePath] End node is null.");
             }
-            
+
             List<TPathNode> path = new List<TPathNode>();
             path.Add(endNode);
             TPathNode currentNode = endNode;
@@ -133,7 +153,7 @@ namespace GridUtilities
             {
                 Debug.LogWarning("[Pathfinding] [CalculateMovementCost] Cell B is null.");
             }
-            
+
             int xDistance = Mathf.Abs(cellA.GridPosition.x - cellB.GridPosition.x);
             int yDistance = Mathf.Abs(cellA.GridPosition.y - cellB.GridPosition.y);
 

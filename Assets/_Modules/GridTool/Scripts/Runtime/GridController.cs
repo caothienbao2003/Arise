@@ -7,21 +7,21 @@ namespace GridTool
 {
     public class GridController : MonoBehaviour
     {
-        private GridInitializer _gridInitializer;
+        private GridInitializer gridInitializer;
         
-        private GridInitializer gridInitializer
+        private GridInitializer GridInitializer
         {
             get
             {
-                if (_gridInitializer == null)
+                if (gridInitializer == null)
                 {
-                    _gridInitializer = GetComponent<GridInitializer>();
+                    gridInitializer = GetComponent<GridInitializer>();
                 }
-                return _gridInitializer;
+                return gridInitializer;
             }
         }
-        private Pathfinding<CellData> pathfinding => gridInitializer.Pathfinding;
-        private GridDataSO gridDataSO => gridInitializer.GridDataSO;
+        private Pathfinding<CellData> pathfinding => GridInitializer.Pathfinding;
+        private GridDataSO gridDataSO => GridInitializer.GridDataSO;
         
         private Camera mainCamera;
         

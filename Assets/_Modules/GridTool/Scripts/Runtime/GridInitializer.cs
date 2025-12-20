@@ -34,5 +34,11 @@ namespace GridTool
                 return _pathfinding;
             }
         }
+
+        private void Awake()
+        {
+            GridManager.Instance.SetRuntimeGrid(RuntimeGrid);
+            GridManager.Instance.SetPathfinding(Pathfinding);
+        }
     }
 }
