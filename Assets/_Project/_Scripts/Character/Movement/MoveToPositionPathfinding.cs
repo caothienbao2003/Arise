@@ -1,4 +1,4 @@
-using CTB_Utils;
+using CTB;
 using GridTool;
 using GridUtilities;
 using Sirenix.OdinInspector;
@@ -8,23 +8,23 @@ using UnityEngine;
 
 public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
 {
-    [SerializeField] private float reachPathPositionDistance = 0.1f;
+    [SerializeField] private float reachPathPositionDistance = 0.5f;
+    [SerializeField] private float finalSnapLerpSpeed = 50f;
     private int currentPathIndex = -1;
 
     private List<Vector3> pathPositionList;
 
-    [ShowInInspector] private IMoveToDirection moveToDirectionComponent;
+    [ShowInInspector] private IMoveToDirection _moveToDirectionComponent;
 
-    private IMoveToDirection MoveToDirectionComponent => moveToDirectionComponent ??= GetComponent<IMoveToDirection>();
-
-    private void Awake()
-    {
-        moveToDirectionComponent = GetComponent<IMoveToDirection>();
-    }
+    private IMoveToDirection moveToDirectionComponent => _moveToDirectionComponent ??= GetComponent<IMoveToDirection>();
 
     public void SetMoveTargetPosition(Vector3 targetPosition)
     {
+        Debug.Log($"[MoveToPositionPathfinding] SetMoveTargetPosition] {targetPosition}");
+
         pathPositionList = GridManager.Instance.CurrentPathfinding.FindPath(transform.position, targetPosition);
+
+        if (pathPositionList == null) return;
 
         if (pathPositionList.Count > 0)
         {
@@ -32,18 +32,13 @@ public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
         }
     }
 
-    private void StopMoving()
-    {
-        pathPositionList = null;
-    }
-
-    private void HandleMovement()
+    private void ProcessPath()
     {
         if (currentPathIndex != -1)
         {
             Vector3 nextPosition = pathPositionList[currentPathIndex];
             Vector3 moveDirection = (nextPosition - transform.position).normalized;
-            MoveToDirectionComponent.SetMoveDirection(moveDirection);
+            moveToDirectionComponent.SetMoveDirection(moveDirection);
 
             if (Vector3.Distance(transform.position, nextPosition) <= reachPathPositionDistance)
             {
@@ -56,7 +51,24 @@ public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
         }
         else
         {
-            MoveToDirectionComponent.SetMoveDirection(Vector3.zero);
+            moveToDirectionComponent.SetMoveDirection(Vector3.zero);
+
+            LerpToFinalTarget();
         }
+    }
+    private void LerpToFinalTarget()
+    {
+        Vector3 finalTarget = pathPositionList[pathPositionList.Count - 1];
+        this.transform.position = Vector3.Lerp(this.transform.position, finalTarget, Time.deltaTime * finalSnapLerpSpeed);
+        if (Vector3.Distance(transform.position, finalTarget) < 0.001f)
+        {
+            transform.position = finalTarget;
+            pathPositionList = null; 
+        }
+    }
+
+    private void Update()
+    {
+        ProcessPath();
     }
 }

@@ -1,9 +1,9 @@
 ﻿using System;
 using UnityEngine;
 
-namespace CTB_Utils
+namespace CTB
 {
-    public class MonoBehaviourSingleton<T>: MonoBehaviour where T : Component
+    public abstract class MonoBehaviourSingleton<T>: MonoBehaviour where T : Component
     {
         private static T instance;
         public static T Instance

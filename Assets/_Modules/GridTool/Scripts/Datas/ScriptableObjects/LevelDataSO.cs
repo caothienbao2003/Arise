@@ -1,5 +1,5 @@
 #if UNITY_EDITOR
-using CTB_Utils;
+using CTB;
 using Sirenix.OdinInspector;
 using Sirenix.Utilities;
 using Unity.VisualScripting;

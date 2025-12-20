@@ -30,6 +30,8 @@ namespace GridUtilities
             TPathNode startNode = grid.GetCellGridObject(startPosition);
             TPathNode endNode = grid.GetCellGridObject(endPosition);
 
+            if(startNode == null || endNode == null) return null;
+            
             List<TPathNode> path = FindPath(startNode, endNode);
             if (path == null)
             {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace CTB_Utils
+namespace CTB
 {
     public static class GameObjectUtils
     {

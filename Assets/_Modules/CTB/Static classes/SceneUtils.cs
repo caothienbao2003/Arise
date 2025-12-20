@@ -4,7 +4,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace CTB_Utils
+namespace CTB
 {
     public static class SceneUtils
     {

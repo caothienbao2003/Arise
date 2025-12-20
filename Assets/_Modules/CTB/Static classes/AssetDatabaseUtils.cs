@@ -5,7 +5,7 @@ using UnityEditor;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace CTB_Utils
+namespace CTB
 {
     public static class AssetDatabaseUtils
     {

@@ -13,41 +13,116 @@ MonoBehaviour:
   m_Name: Level 2_GridData
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.GridDataSO
   cellDatas:
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -10, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -9, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -8, y: 5}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -7, y: 5}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -6, y: 5}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -5, y: 5}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -4, y: 5}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -3, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -2, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -1, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 0, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 1, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 2, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 3, y: 5}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 4, y: 5}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 5, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 6, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 7, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 8, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 9, y: 5}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -11, y: 4}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -10, y: 4}
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -138,16 +213,21 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: 4}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 9, y: 4}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: 3}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: 3}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -238,6 +318,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: 3}
     <IsWalkable>k__BackingField: 1
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 9, y: 3}
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -253,16 +338,16 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -12, y: 2}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: 2}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: 2}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -353,6 +438,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: 2}
     <IsWalkable>k__BackingField: 1
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 9, y: 2}
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -378,11 +468,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: 1}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: 1}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -473,6 +563,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: 1}
     <IsWalkable>k__BackingField: 1
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 9, y: 1}
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -498,11 +593,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: 0}
     <IsWalkable>k__BackingField: 0
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: 0}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -593,6 +688,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: 0}
     <IsWalkable>k__BackingField: 1
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 9, y: 0}
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -618,11 +718,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: -1}
     <IsWalkable>k__BackingField: 0
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: -1}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -713,11 +813,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: -1}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 9, y: -1}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -743,11 +843,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: -2}
     <IsWalkable>k__BackingField: 0
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: -2}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -838,11 +938,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: -2}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 9, y: -2}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -868,11 +968,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: -3}
     <IsWalkable>k__BackingField: 0
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: -3}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -963,11 +1063,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: -3}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 9, y: -3}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -983,11 +1083,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: -4}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: -4}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -1078,11 +1178,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: -4}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 9, y: -4}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -1098,11 +1198,11 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -11, y: -5}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -10, y: -5}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -1193,46 +1293,116 @@ MonoBehaviour:
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: -5}
     <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 9, y: -5}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 10, y: -5}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -10, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -9, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -8, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -7, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -6, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -5, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -4, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -3, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -2, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: -1, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 0, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 1, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 2, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
+    <GCost>k__BackingField: 0
+    <HCost>k__BackingField: 0
+    <GridPosition>k__BackingField: {x: 3, y: -6}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 4, y: -6}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 5, y: -6}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 6, y: -6}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 7, y: -6}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 8, y: -6}
-    <IsWalkable>k__BackingField: 1
-  - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
+    <IsWalkable>k__BackingField: 0
+  - TerrainType: {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 9, y: -6}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
