@@ -96,7 +96,6 @@ namespace GridUtilities
 
                     if (!neighborNode.IsWalkable)
                     {
-                        Debug.LogWarning($"[FindPath] Skipping non-walkable cell at position: {neighborNode.GridPosition}");
                         processedList.Add(neighborNode);
                         continue;
                     }

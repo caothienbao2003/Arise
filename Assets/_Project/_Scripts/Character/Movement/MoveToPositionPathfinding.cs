@@ -16,54 +16,70 @@ public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
 
     [ShowInInspector] private IMoveToDirection _moveToDirectionComponent;
 
+    private bool finishLerped = false;
+
     private IMoveToDirection moveToDirectionComponent => _moveToDirectionComponent ??= GetComponent<IMoveToDirection>();
 
     public void SetMoveTargetPosition(Vector3 targetPosition)
     {
         Debug.Log($"[MoveToPositionPathfinding] SetMoveTargetPosition] {targetPosition}");
 
-        pathPositionList = GridManager.Instance.CurrentPathfinding.FindPath(transform.position, targetPosition);
+        List<Vector3> tempPathList = GridManager.Instance.CurrentPathfinding.FindPath(transform.position, targetPosition);
 
+        if (tempPathList == null)
+        {
+            return;
+        }
+
+        pathPositionList = tempPathList;
         if (pathPositionList == null) return;
 
         if (pathPositionList.Count > 0)
         {
             currentPathIndex = 0;
         }
+
+        finishLerped = false;
     }
 
     private void ProcessPath()
     {
-        if (currentPathIndex != -1)
-        {
-            Vector3 nextPosition = pathPositionList[currentPathIndex];
-            Vector3 moveDirection = (nextPosition - transform.position).normalized;
-            moveToDirectionComponent.SetMoveDirection(moveDirection);
-
-            if (Vector3.Distance(transform.position, nextPosition) <= reachPathPositionDistance)
-            {
-                currentPathIndex++;
-                if (currentPathIndex >= pathPositionList.Count)
-                {
-                    currentPathIndex = -1;
-                }
-            }
-        }
-        else
+        if (currentPathIndex == -1 || pathPositionList == null || pathPositionList.Count == 0)
         {
             moveToDirectionComponent.SetMoveDirection(Vector3.zero);
-
             LerpToFinalTarget();
+            return;
+        }
+
+        Vector3 nextPosition = pathPositionList[currentPathIndex];
+        Vector3 moveDirection = (nextPosition - transform.position).normalized;
+        moveToDirectionComponent.SetMoveDirection(moveDirection);
+
+        if (Vector3.Distance(transform.position, nextPosition) <= reachPathPositionDistance)
+        {
+            currentPathIndex++;
+            if (currentPathIndex >= pathPositionList.Count)
+            {
+                currentPathIndex = -1;
+            }
         }
     }
+
     private void LerpToFinalTarget()
     {
+        if (finishLerped) return;
+        if (pathPositionList == null || pathPositionList.Count <= 0)
+        {
+            return;
+        }
+        
         Vector3 finalTarget = pathPositionList[pathPositionList.Count - 1];
         this.transform.position = Vector3.Lerp(this.transform.position, finalTarget, Time.deltaTime * finalSnapLerpSpeed);
         if (Vector3.Distance(transform.position, finalTarget) < 0.001f)
         {
             transform.position = finalTarget;
-            pathPositionList = null; 
+            pathPositionList = null;
+            finishLerped = true;
         }
     }
 
