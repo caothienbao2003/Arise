@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
@@ -21,7 +22,9 @@ namespace CTB
             string sceneName,
             string sceneFolderPath,
             NewSceneSetup newSceneSetup = NewSceneSetup.DefaultGameObjects,
-            NewSceneMode newSceneMode = NewSceneMode.Single
+            NewSceneMode newSceneMode = NewSceneMode.Single,
+            bool setActiveAfterCreation = true,
+            bool pingAfterCreation = true
             )
         {
             AssetDatabaseUtils.EnsureFolderExists(sceneFolderPath);
@@ -33,9 +36,17 @@ namespace CTB
 
             if (!saveSuccess) return false;
 
-            SceneManager.SetActiveScene(newScene);
-            AssetDatabase.Refresh();
+            if (setActiveAfterCreation)
+            {
+                SceneManager.SetActiveScene(newScene);
+            }
 
+            if (pingAfterCreation)
+            {
+                PingScene(scenePath);
+            }
+            AssetDatabase.Refresh();
+            
             return true;
         }
 
@@ -64,6 +75,12 @@ namespace CTB
             return loadedScene;
         }
 
+        public static Scene OpenScene(string sceneName, string sceneFolderPath,OpenSceneMode mode = OpenSceneMode.Single)
+        {
+            string scenePath = $"{sceneFolderPath}/{sceneName}.unity";
+            return OpenScene(scenePath, mode);
+        }
+        
         /// <summary>
         /// Closes a scene.
         /// </summary>
@@ -299,5 +316,47 @@ namespace CTB
                     break;
             }
         }
+
+        public static void PingScene(string scenePath)
+        {
+            EditorGUIUtility.PingObject(AssetDatabase.LoadMainAssetAtPath(scenePath));
+        }
+
+        public static void PingScene(SceneAsset sceneAsset)
+        {
+            PingScene(AssetDatabase.GetAssetPath(sceneAsset));
+        }
+        
+        public static void PingScene(Scene scene)
+        {
+            PingScene(scene.path);
+        }
+
+        public static void PingScene(string sceneName, string sceneFolderPath)
+        {
+            PingScene($"{sceneFolderPath}/{sceneName}.unity");
+        }
+
+#if UNITY_EDITOR
+
+        public static bool CheckSceneExisted(string sceneName, string sceneFolderPath)
+        {
+            string scenePath = $"{sceneFolderPath}/{sceneName}.unity";
+            if (File.Exists(scenePath))
+            {
+                if (!EditorUtility.DisplayDialog(
+                    "Scene already exist",
+                    $"A scene name '{sceneName}' already exist at: \n{sceneFolderPath}",
+                    "Override",
+                    "Cancel"))
+                {
+                    return false;
+                }
+
+                AssetDatabase.DeleteAsset(sceneFolderPath);
+            }
+            return true;
+        }
+#endif
     }
 }

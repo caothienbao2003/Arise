@@ -1,6 +1,7 @@
 #if UNITY_EDITOR
 using System;
 using System.IO;
+using System.Linq;
 using UnityEditor;
 using UnityEngine;
 using Object = UnityEngine.Object;
@@ -29,7 +30,7 @@ namespace CTB
 
             if (string.IsNullOrEmpty(guid))
             {
-                Debug.LogError($"Failed to create folder: {folderPath}. Check permissions or name validity.");
+                Debug.LogError($"[AssetDatabaseUtils] EnsureFolderExisted - Failed to create folder: {folderPath}. Check permissions or name validity.");
             }
 
             AssetDatabase.Refresh();
@@ -45,10 +46,14 @@ namespace CTB
             AssetDatabase.SaveAssets();
             AssetDatabase.Refresh();
 
+            Debug.Log($"[AssetDatabaseUtils] Created asset: {assetPath}");
+            
             if (pingAsset)
             {
                 EditorGUIUtility.PingObject(asset);
             }
+            
+            Debug.Log($"[AssetDatabaseUtils] Create assset at path: {assetPath}");
         }
 
         public static T CreateScriptableAsset<T>(string assetName, string assetPath, bool pingAsset = true) where T : ScriptableObject
@@ -60,31 +65,46 @@ namespace CTB
             return asset;
         }
 
-        public static T[] GetAllAssetsInFolder<T>(string folderPath) where T : ScriptableObject
+        public static T[] GetAllAssetsInFolder<T>(string folderPath) where T : Object
         {
+            string filter = $"t:{typeof(T).Name}";
+            
             if (string.IsNullOrEmpty(folderPath) || !AssetDatabase.IsValidFolder(folderPath))
                 return Array.Empty<T>();
 
-            GUID[] guids = AssetDatabase.FindAssetGUIDs($"t:{typeof(T).Name}", new[] { folderPath });
-            T[] assets = new T[guids.Length];
-            for (int i = 0; i < guids.Length; i++)
-            {
-                assets[i] = AssetDatabase.LoadAssetByGUID(guids[i], typeof(T)) as T;
-            }
-
-            return assets;
+            GUID[] guids = AssetDatabase.FindAssetGUIDs(filter, new[] { folderPath });
+            return ConvertsGuidsToAssets<T>(guids);
         }
 
-        public static void DeleteAsset(string assetPath)
+        public static T GetAssetAtFolder<T>(string folderPath) where T : Object
         {
+            T asset = GetAllAssetsInFolder<T>(folderPath).FirstOrDefault();
+            
+            Debug.Log($"[AssetDatabaseUtils] Get asset at folder: {folderPath}, asset: {asset}");
+
+            return asset;
+        }
+
+        public static bool DeleteAsset(string assetPath)
+        {
+            bool success = false;
+            
             if (AssetDatabase.LoadAssetAtPath<Object>(assetPath) != null)
             {
-                AssetDatabase.DeleteAsset(assetPath);
+                success = AssetDatabase.DeleteAsset(assetPath);
                 AssetDatabase.SaveAssets();
                 AssetDatabase.Refresh();
             }
+            
+            Debug.Log($"[AssetDatabaseUtils] Deleted asset: {assetPath}, success: {success}");
+            return success;
         }
 
+        public static bool CopyAsset(Object sourceAsset, string destinationPath)
+        {
+            return CopyAsset(AssetDatabase.GetAssetPath(sourceAsset), destinationPath);
+        }
+        
         public static bool CopyAsset(string sourcePath, string destinationPath)
         {
             bool success = false;
@@ -95,7 +115,28 @@ namespace CTB
                 AssetDatabase.SaveAssets();
                 AssetDatabase.Refresh();
             }
+            
+            Debug.Log($"[AssetDatabaseUtils] Copy asset: {sourcePath} -> {destinationPath}, success: {success}");
+            
             return success;
+        }
+
+        public static string GetAssetPath(Object asset)
+        {
+            string assetPath = AssetDatabase.GetAssetPath(asset);
+            Debug.Log($"[AssetDatabaseUtils] Get asset path: {assetPath}");
+            return assetPath;
+        }
+        
+        private static T[] ConvertsGuidsToAssets<T>(GUID[] guids) where T : Object
+        {
+            T[] assets = new T[guids.Length];
+            for (int i = 0; i < guids.Length; i++)
+            {
+                assets[i] = AssetDatabase.LoadAssetByGUID(guids[i], typeof(T)) as T;
+            }
+
+            return assets;
         }
     }
 }

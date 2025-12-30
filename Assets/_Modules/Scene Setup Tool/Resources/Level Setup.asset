@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0def5571d8e2a2548bd7ffbc994d42cd, type: 3}
+  m_Name: Level Setup
+  m_EditorClassIdentifier: Assembly-CSharp::SceneSetupTool.SetupSceneBehaviourSO
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Blackboard:
+    Entries:
+    - Key: Grid_GO
+      IsPersistent: 0
+    - Key: Grid_GO_name
+      IsPersistent: 1
+    - Key: Level_name
+      IsPersistent: 1
+  Actions:
+  - rid: 4775767893444132933
+  - rid: 4775767893444132931
+  - rid: 4775767893444132932
+  references:
+    version: 2
+    RefIds:
+    - rid: 4775767893444132931
+      type: {class: CreateGameObjectAction, ns: SceneSetupTool, asm: Assembly-CSharp}
+      data:
+        getNameFromBlackboard: 1
+        GameObjectNameKey: Grid_GO_name
+        GameObjectName: 
+        HasParent: 0
+        ParentObjectName: 
+        FromPrefab: 0
+        Prefab: {fileID: 0}
+        SaveToBlackboard: 1
+        OutputKey: Grid_GO
+    - rid: 4775767893444132932
+      type: {class: AddComponentAction, ns: SceneSetupTool, asm: Assembly-CSharp}
+      data:
+        UseGameObjectInBlackboard: 1
+        TargetGameObjectName: 
+        TargetKey: Grid_GO
+        Source: 0
+        _builtInTypeQualifiedName: UnityEngine.Grid, UnityEngine.GridModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        componentToAdd: {fileID: 0}
+        SaveToBlackboard: 0
+        OutputKey: 
+    - rid: 4775767893444132933
+      type: {class: CreateNewSceneAction, ns: SceneSetupTool, asm: Assembly-CSharp}
+      data:
+        createFromTemplate: 1
+        templateScene: {fileID: 102900000, guid: dc17e1fb2c8a5da4aabaec76104f9d52, type: 3}
+        getNameFromBlackboard: 1
+        sceneNameKey: 
+        sceneName: 
+        folderPath: 
+        newSceneMode: 0
+        newSceneSetup: 1
+        openSceneAfterCreated: 1
+        saveToBlackboard: 0
+        outputKey: 

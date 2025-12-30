@@ -1,0 +1,20 @@
+OVDF v1.1
+SceneSetupTool.SetupSceneBehaviourSO, Assembly-CSharp
+MetaGuid:0def5571d8e2a2548bd7ffbc994d42cd
+
+# $LnmtGfW8vFr6T5T95Yg7JC
+Position: $root
++ [Sirenix.OdinInspector.BoxGroupAttribute]
+	GroupName = "Behaviour List"
+
+# $H5M1p3Nv6v4nr83r8q2jWa
+Position: $root
++ [Sirenix.OdinInspector.BoxGroupAttribute]
+	GroupName = "Actions"
+
+# ExecuteActions()
+Position: $H5M1p3Nv6v4nr83r8q2jWa:0
+
+# Actions
+Position: $LnmtGfW8vFr6T5T95Yg7JC:0
+- [Sirenix.OdinInspector.TitleAttribute]
