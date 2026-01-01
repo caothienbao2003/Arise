@@ -64,10 +64,6 @@ namespace GridTool
             base.OnDestroy();
 
             SettingAssetFolderPath = settingsAssetPath;
-            // if (createNewTerrainTypeWindow != null && createNewTerrainTypeWindow.terrainTypeSO != null)
-            // {
-            //     DestroyImmediate(createNewTerrainTypeWindow.terrainTypeSO);
-            // }
         }
 
         protected override OdinMenuTree BuildMenuTree()
@@ -83,9 +79,7 @@ namespace GridTool
             HandleCreateNewTerrainTypeWindow(tree);
             HandleCreateNewLevelWindow(tree);
             HandleCreateSettingsWindow(tree);
-
-            tree.Add("SequenceActionExecutor", new SequenceActionExecutorWindow());
-
+            
             return tree;
         }
 

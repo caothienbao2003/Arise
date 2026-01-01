@@ -12,65 +12,100 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0def5571d8e2a2548bd7ffbc994d42cd, type: 3}
   m_Name: Level Setup
   m_EditorClassIdentifier: Assembly-CSharp::SceneSetupTool.SetupSceneBehaviourSO
-  serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
-    ReferencedUnityObjects: []
-    SerializedBytesString: 
-    Prefab: {fileID: 0}
-    PrefabModificationsReferencedUnityObjects: []
-    PrefabModifications: []
-    SerializationNodes: []
   Blackboard:
-    Entries:
-    - Key: Grid_GO
-      IsPersistent: 0
-    - Key: Grid_GO_name
-      IsPersistent: 1
+    AvailableKeys:
+    - Grid_GO
+    - Grid_GO_name
+    - Level_name
+    BlackboardVariables:
     - Key: Level_name
+      UnityValue: {fileID: 0}
+      StringValue: Level 1
+      IsUnityAsset: 0
+      IsPersistent: 1
+    - Key: Grid_GO_name
+      UnityValue: {fileID: 0}
+      StringValue: Grid
+      IsUnityAsset: 0
       IsPersistent: 1
   Actions:
-  - rid: 4775767893444132933
-  - rid: 4775767893444132931
-  - rid: 4775767893444132932
+  - rid: 9006234585964478537
+  - rid: 9006234585964478590
+  - rid: 3179966873638797384
+  - rid: 3179966873638797382
   references:
     version: 2
     RefIds:
-    - rid: 4775767893444132931
+    - rid: 3179966873638797382
+      type: {class: CreateNewScriptableObjectAction, ns: SceneSetupTool, asm: Assembly-CSharp}
+      data:
+        selectedTypeQualifiedName: GridTool.LevelDataSO, Assembly-CSharp, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        FileName:
+          UseBlackboard: 1
+          DirectValue: LaunchingScenarioWindow
+          BlackboardKey: Level_name
+        FileNamePrefix: 
+        FileNameSuffix: _LevelData
+        FolderPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
+        CreateFolder: 1
+        FolderName:
+          UseBlackboard: 1
+          DirectValue: 
+          BlackboardKey: Level_name
+        PreviewInstance: {fileID: 11400000, guid: 8eb01b17cc87eba40adb4337971109fa, type: 2}
+    - rid: 3179966873638797384
+      type: {class: CreateNewScriptableObjectAction, ns: SceneSetupTool, asm: Assembly-CSharp}
+      data:
+        selectedTypeQualifiedName: GridTool.GridDataSO, Assembly-CSharp, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        FileName:
+          UseBlackboard: 1
+          DirectValue: LaunchingScenarioWindow
+          BlackboardKey: Level_name
+        FileNamePrefix: 
+        FileNameSuffix: _GridData
+        FolderPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
+        CreateFolder: 1
+        FolderName:
+          UseBlackboard: 1
+          DirectValue: 
+          BlackboardKey: Level_name
+        PreviewInstance: {fileID: 0}
+    - rid: 9006234585964478537
       type: {class: CreateGameObjectAction, ns: SceneSetupTool, asm: Assembly-CSharp}
       data:
-        getNameFromBlackboard: 1
-        GameObjectNameKey: Grid_GO_name
-        GameObjectName: 
+        GameObjectName:
+          UseBlackboard: 1
+          DirectValue: 
+          BlackboardKey: Grid_GO
         HasParent: 0
-        ParentObjectName: 
+        ParentObjectName:
+          UseBlackboard: 0
+          DirectValue: 
+          BlackboardKey: 
         FromPrefab: 0
         Prefab: {fileID: 0}
-        SaveToBlackboard: 1
-        OutputKey: Grid_GO
-    - rid: 4775767893444132932
-      type: {class: AddComponentAction, ns: SceneSetupTool, asm: Assembly-CSharp}
-      data:
-        UseGameObjectInBlackboard: 1
-        TargetGameObjectName: 
-        TargetKey: Grid_GO
-        Source: 0
-        _builtInTypeQualifiedName: UnityEngine.Grid, UnityEngine.GridModule, Version=0.0.0.0,
-          Culture=neutral, PublicKeyToken=null
-        componentToAdd: {fileID: 0}
-        SaveToBlackboard: 0
-        OutputKey: 
-    - rid: 4775767893444132933
+        GameObjectOutput:
+          SaveToBlackboard: 1
+          Key: Grid_GO
+    - rid: 9006234585964478590
       type: {class: CreateNewSceneAction, ns: SceneSetupTool, asm: Assembly-CSharp}
       data:
-        createFromTemplate: 1
-        templateScene: {fileID: 102900000, guid: dc17e1fb2c8a5da4aabaec76104f9d52, type: 3}
-        getNameFromBlackboard: 1
-        sceneNameKey: 
-        sceneName: 
-        folderPath: 
-        newSceneMode: 0
-        newSceneSetup: 1
-        openSceneAfterCreated: 1
-        saveToBlackboard: 0
-        outputKey: 
+        CreateFromTemplate: 0
+        TemplateScene: {fileID: 0}
+        SceneName:
+          UseBlackboard: 1
+          DirectValue: 
+          BlackboardKey: Level_name
+        SceneNamePrefix: 
+        SceneNameSuffix: 
+        FolderPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
+        CreateNewFolder: 1
+        FolderName:
+          UseBlackboard: 1
+          DirectValue: 
+          BlackboardKey: Level_name
+        NewSceneMode: 0
+        NewSceneSetup: 1
+        OpenSceneAfterCreated: 1

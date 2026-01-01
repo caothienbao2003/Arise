@@ -8,46 +8,36 @@ namespace SceneSetupTool
     [Serializable]
     public class CreateGameObjectAction : SequenceAction
     {
-        [Title("Basic Settings")]
-        [SerializeField] public bool getNameFromBlackboard = false;
+        public BlackboardVariable<string> GameObjectName = new();
         
-        [ShowIf(nameof(getNameFromBlackboard))]
-        [ValueDropdown(nameof(AvailableKeys))]
-        public string GameObjectNameKey;
-        
-        [HideIf(nameof(getNameFromBlackboard))]
-        public string GameObjectName;
-     
         [Title("Parent Settings")]
         public bool HasParent = false;
-        [ShowIf(nameof(HasParent))]
-        public string ParentObjectName = "";
+
+        [ShowIf(nameof(HasParent))] 
+        public BlackboardVariable<string> ParentObjectName;
         
         [Title("Prefab Settings")]
         public bool FromPrefab = false;
         [ShowIf(nameof(FromPrefab))]
         public GameObject Prefab;
         
-        [Title("Output")]
-        public bool SaveToBlackboard = true;
-        [ValueDropdown(nameof(AvailableKeys))]
-        [ShowIf(nameof(SaveToBlackboard))]
-        public string OutputKey;
+        public BlackboardOutput GameObjectOutput = new();
         
         public override void Execute()
         {
             GameObject newGO;
 
-            string gameObjectName;
+            string gameObjectName = GameObjectName.GetValue(key => Blackboard.Get<string>(key));
 
-            if (getNameFromBlackboard)
-            {
-                gameObjectName = Blackboard.Get<string>(GameObjectNameKey);
-            }
-            else
-            {
-                gameObjectName = GameObjectName;
-            }
+            string parentObjectName = ParentObjectName.GetValue(key => Blackboard.Get<string>(key));
+            // if (GetNameFromBlackboard)
+            // {
+            //     gameObjectName = Blackboard.Get<string>(GameObjectNameKey);
+            // }
+            // else
+            // {
+            //     gameObjectName = GameObjectName;
+            // }
             
             if (FromPrefab && Prefab != null)
             {
@@ -65,25 +55,27 @@ namespace SceneSetupTool
             
             if(HasParent)
             {
-                if (string.IsNullOrEmpty(ParentObjectName) == true)
+                if (string.IsNullOrEmpty(parentObjectName) == true)
                 {
                     Debug.LogWarning("[CreateGameObjectAction] Failed: ParentObjectName cannot be empty.");
                     return;
                 }
-                GameObject parent = GameObject.Find(ParentObjectName);
+                GameObject parent = GameObject.Find(parentObjectName);
 
                 if (parent == null)
                 {
-                    parent = new GameObject(ParentObjectName);
+                    parent = new GameObject(parentObjectName);
                 }
             
                 newGO.transform.SetParent(parent.transform);
             }
 
-            if (SaveToBlackboard && string.IsNullOrEmpty(OutputKey) == false)
-            {
-                Blackboard.Set(OutputKey, newGO);
-            }
+            GameObjectOutput.TrySave(Blackboard, newGO);
+            
+            // if (SaveToBlackboard && string.IsNullOrEmpty(OutputKey) == false)
+            // {
+            //     Blackboard.Set(OutputKey, newGO);
+            // }
         }
     }
 }

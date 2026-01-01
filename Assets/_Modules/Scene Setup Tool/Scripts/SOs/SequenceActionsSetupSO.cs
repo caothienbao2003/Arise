@@ -5,51 +5,57 @@ using UnityEngine;
 
 namespace SceneSetupTool
 {
-    [CreateAssetMenu(fileName = "SetupSceneBehaviourSO", menuName = "Scriptable Objects/SetupSceneBehaviourSO")]
-    public class SequenceActionsSetupSO : SerializedScriptableObject
+    [CreateAssetMenu(fileName = "SequenceActionsSetupSO", menuName = "Scriptable Objects/Sequence Actions Setup")]
+    public class SequenceActionsSetupSO : ScriptableObject
     {
         [HideLabel]
+        [SerializeField]
         public Blackboard Blackboard = new Blackboard();
         
+        [Space]
+        
+        [Searchable]
+        [ListDrawerSettings(DraggableItems = true, ShowFoldout = true, ShowPaging = false, HideAddButton = false)]
         [SerializeReference]
-        [OnCollectionChanged(nameof(SyncActions))]
         public List<SequenceAction> Actions = new List<SequenceAction>();
         
         [Button(ButtonSizes.Large, ButtonStyle.Box), GUIColor(0.4f, 1f, 0.4f)]
         public void ExecuteActions()
         {
+            // Ensure data is synced before run
             SyncActions();
             
-            // 1. Clean up from last run
-            Blackboard.ClearRuntimeData();
+            // Clean up non-persistent data
             
-            // 2. Execute
             foreach (var action in Actions)
             {
-                action?.Execute();
+                if (action != null)
+                {
+                    action.Blackboard = this.Blackboard; // Pass the actual instance
+                    action.Execute();
+                }
             }
+            
+            Blackboard.ClearRuntimeData();
         }
-
+        
         [OnInspectorGUI]
-        private void SyncActions()
+        private void SyncActions()  
         {
             if (Actions == null) return;
+            
+            // Sync keys to variables
+            Blackboard.SyncKeys();
 
             foreach (var action in Actions)
             {
                 if (action != null)
                 {
-                    // Now we pass the logic/keys from the unified Entries list
-                    action.AvailableKeys = Blackboard.GetAvailableKeys;
+                    // Update the injection list
+                    action.AvailableKeys = Blackboard.AvailableKeys;
                     action.Blackboard = Blackboard;
                 }
             }
-        }
-        
-        protected override void OnAfterDeserialize()
-        {
-            base.OnAfterDeserialize();
-            SyncActions();
         }
     }
 }
