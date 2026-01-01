@@ -19,6 +19,14 @@ MonoBehaviour:
   addedIllegalTypes:
     serializedCollection: []
   typeSettings:
-    serializedDictionary: []
+    serializedDictionary:
+    - typeBound: SceneSetupTool.SequenceAction, Assembly-CSharp
+      displayName: 
+      category: 
+      sdfIconType: 201
+      lightColor: {r: 0, g: 0, b: 0, a: 0}
+      darkColor: {r: 0.509434, g: 0.07593445, b: 0.07593445, a: 1}
   typePriorities:
-    serializedDictionary: []
+    serializedDictionary:
+    - typeName: SceneSetupTool.SequenceAction, Assembly-CSharp
+      priority: 100

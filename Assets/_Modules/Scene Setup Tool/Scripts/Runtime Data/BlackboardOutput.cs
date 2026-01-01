@@ -9,7 +9,6 @@ namespace SceneSetupTool
     [Serializable]
     [InlineProperty]
     [HideLabel]
-    [Title("Blackboard output")]
     public class BlackboardOutput : IBlackboardInjectable
     {
         [LabelText(" Save?", SdfIconType.Save2Fill)]

@@ -3,120 +3,94 @@ using System.Collections.Generic;
 using System.Linq;
 using CTB;
 using Sirenix.OdinInspector;
+using Sirenix.Serialization;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.WSA;
 
 namespace SceneSetupTool
 {
     [Serializable]
     public class CreateNewScriptableObjectAction : SequenceAction
     {
-        [SerializeField, HideInInspector] private string selectedTypeQualifiedName;
-
-        // --- FILE CONFIG ---
+        [OdinSerialize]
+        [BoxGroup("Select Type")]
+        [InfoBox("@\"Selected: \" + (SelectedType != null ? SelectedType.Name : \"None\")", InfoMessageType.Info)]
+        [Title("ScriptableObject Selection")]
+        [LabelText("Target Type")]
+        [Required(InfoMessageType.Error)]
+// This ensures Odin's drawer is used instead of Unity's default text field
+        [TypeDrawerSettings(BaseType = typeof(ScriptableObject))]
+        [TypeSelectorSettings(
+            FilterTypesFunction = nameof(IsProjectSO),
+            ShowCategories = true,
+            PreferNamespaces = true)]
+        [ShowInInspector]
+        public Type SelectedType; // No longer needs a hidden string backing!
+        
         [InfoBox("@\"Full file name: \" + FullFileName + \".asset\"")]
+        [BoxGroup("File Configuration")]
+        [InlineProperty, HideLabel]
         public BlackboardVariable<string> FileName = new BlackboardVariable<string>();
 
+        [BoxGroup("File Configuration")]
         public string FileNamePrefix;
+
+        [BoxGroup("File Configuration")]
         public string FileNameSuffix;
 
-        [Title("Location")] [FolderPath] [Required]
+        [BoxGroup("Folder")] [FolderPath] [Required]
         public string FolderPath = "Assets";
 
-        public bool CreateFolder = false;
-        [ShowIf(nameof(CreateFolder))] public BlackboardVariable<string> FolderName = new BlackboardVariable<string>();
+        [BoxGroup("Folder")] public bool CreateFolder = false;
 
-        [Title("ScriptableObject Type")]
-        [ShowInInspector]
-        [ValueDropdown(nameof(GetScriptableObjectTypes))]
-        [OnValueChanged(nameof(OnTypeChanged))]
-        [LabelText("Target Type")]
-        public Type SelectedType
-        {
-            get => string.IsNullOrEmpty(selectedTypeQualifiedName) ? null : Type.GetType(selectedTypeQualifiedName);
-            set => selectedTypeQualifiedName = value?.AssemblyQualifiedName;
-        }
-        
-        // --- PREVIEW & MODIFICATION ---
-        [Title("Data Setup")]
-        [InlineEditor(ObjectFieldMode = InlineEditorObjectFieldModes.CompletelyHidden)]
-        [ShowInInspector, LabelText("Configure Properties")]
-        [OnInspectorInit(nameof(EnsurePreviewInstance))]
-        public ScriptableObject PreviewInstance;
+        [BoxGroup("Folder")]
+        [ShowIf(nameof(CreateFolder))] [InlineProperty]
+        public BlackboardVariable<string> FolderName = new BlackboardVariable<string>();
+
+        [BoxGroup("Blackboard Output")]
+        public BlackboardOutput OutputAsset;
+
         private string FullFileName =>
             FileNamePrefix + FileName.GetValue(key => Blackboard.Get<string>(key)) + FileNameSuffix;
 
         public override void Execute()
         {
-            if (SelectedType == null || PreviewInstance == null)
+            if (SelectedType == null)
             {
-                Debug.LogError("[CreateNewScriptableObjectAction] No Type or Data configured!");
+                Debug.LogError("[CreateNewScriptableObjectAction] No Type selected!");
                 return;
             }
 
-            string fileName = FullFileName;
             string folderName = FolderName.GetValue(key => Blackboard.Get<string>(key));
-            string folderPath = CreateFolder ? $"{FolderPath}/{folderName}" : FolderPath;
-            string fullPath = $"{folderPath}/{fileName}.asset";
-
-            // Use the instance we modified in the inspector
-            // We use AssetDatabaseUtils.CreateAsset (assuming it handles the save/refresh)
-            AssetDatabaseUtils.CreateAsset(PreviewInstance, fullPath);
-
-            Debug.Log($"<b>[Success]</b> Created {SelectedType.Name} asset with custom data at: {fullPath}");
-            EditorGUIUtility.PingObject(PreviewInstance);
             
-            // Note: After saving, PreviewInstance becomes a persistent asset. 
-            // We null it out so the next time the action is viewed, it's fresh or handled.
-            PreviewInstance = null;
-        }
+            string folderPath;
 
-        private void OnTypeChanged()
-        {
-            AutoFillName();
-            RefreshPreviewInstance();
-        }
-
-        private void EnsurePreviewInstance()
-        {
-            if (PreviewInstance == null && SelectedType != null)
+            if (CreateFolder)
             {
-                RefreshPreviewInstance();
-            }
-        }
-
-        private void RefreshPreviewInstance()
-        {
-            if (SelectedType != null)
-            {
-                // Creates a temporary instance in memory (not saved to disk yet)
-                PreviewInstance = ScriptableObject.CreateInstance(SelectedType);
+                folderPath = $"{FolderPath}/{folderName}";
             }
             else
             {
-                PreviewInstance = null;
+                folderPath = $"{FolderPath}";
             }
-        }
+            
+            string assetPath = $"{folderPath}/{FullFileName}.asset";
 
-        private IEnumerable<ValueDropdownItem<Type>> GetScriptableObjectTypes()
-        {
-            return AppDomain.CurrentDomain.GetAssemblies()
-                .SelectMany(assembly => assembly.GetTypes())
-                .Where(t => typeof(ScriptableObject).IsAssignableFrom(t)
-                            && !t.IsAbstract
-                            && !t.IsInterface
-                            && !t.Name.Contains("Internal")
-                            && (t.Namespace == null || (!t.Namespace.StartsWith("UnityEngine") &&
-                                                        !t.Namespace.StartsWith("UnityEditor"))))
-                .Select(t => new ValueDropdownItem<Type>(t.Namespace != null ? $"{t.Namespace}/{t.Name}" : t.Name, t));
-        }
-
-        private void AutoFillName()
-        {
-            if (SelectedType != null && FileName != null && string.IsNullOrEmpty(FileName.DirectValue))
+            if (!AssetDatabaseUtils.CheckFileExisted(assetPath))
             {
-                FileName.DirectValue = SelectedType.Name;
+                return;
             }
+            
+            ScriptableObject instance = ScriptableObject.CreateInstance(SelectedType);
+            AssetDatabaseUtils.CreateAsset(instance, assetPath);
+
+            OutputAsset.TrySave(Blackboard, instance);
+
+            Debug.Log($"<b>[Success]</b> Created {instance.name} of type {SelectedType.Name} at: {assetPath}");
+            EditorGUIUtility.PingObject(instance);
         }
+        
+        private bool IsProjectSO(Type t) => !t.IsAbstract && t.Assembly.GetName().Name == "Assembly-CSharp";
     }
 }

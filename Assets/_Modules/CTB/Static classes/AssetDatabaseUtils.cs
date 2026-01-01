@@ -139,6 +139,40 @@ namespace CTB
 
             return assets;
         }
+
+        public static bool CheckFileExisted(string filePath)
+        {
+            // Check if the asset actually exists at the given path
+            Object existingAsset = AssetDatabase.LoadAssetAtPath<Object>(filePath);
+
+            if (existingAsset != null)
+            {
+                // Pop up a dialog box to the user
+                bool overwrite = EditorUtility.DisplayDialog(
+                    "File Already Exists",                   // Title
+                    $"An asset already exists at {filePath}. Do you want to overwrite it?", // Message
+                    "Yes, Overwrite",                        // Confirm button
+                    "No, Cancel"                             // Cancel button
+                );
+
+                if (overwrite)
+                {
+                    // If user says yes, we delete the old one so the new one can take its place
+                    AssetDatabase.DeleteAsset(filePath);
+                    AssetDatabase.SaveAssets();
+                    AssetDatabase.Refresh();
+                    return true; // Safe to proceed with creating the new asset
+                }
+                else
+                {
+                    Debug.Log($"[AssetDatabaseUtils] Operation cancelled by user. File exists at: {filePath}");
+                    return false; // Do not proceed
+                }
+            }
+
+            // File doesn't exist, safe to proceed
+            return true;
+        }
     }
 }
 #endif

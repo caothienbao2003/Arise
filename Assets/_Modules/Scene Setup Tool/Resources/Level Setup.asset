@@ -17,10 +17,12 @@ MonoBehaviour:
     - Grid_GO
     - Grid_GO_name
     - Level_name
+    - GridDataSO
+    - LevelDataSO
     BlackboardVariables:
     - Key: Level_name
       UnityValue: {fileID: 0}
-      StringValue: Level 1
+      StringValue: Level 2
       IsUnityAsset: 0
       IsPersistent: 1
     - Key: Grid_GO_name
@@ -28,37 +30,22 @@ MonoBehaviour:
       StringValue: Grid
       IsUnityAsset: 0
       IsPersistent: 1
+    - Key: LevelDataSO
+      UnityValue: {fileID: 11400000, guid: c8dff94162bb82b41955016b1eb05197, type: 2}
+      StringValue: 
+      IsUnityAsset: 1
+      IsPersistent: 1
   Actions:
   - rid: 9006234585964478537
   - rid: 9006234585964478590
   - rid: 3179966873638797384
-  - rid: 3179966873638797382
+  - rid: 3179966881215545590
   references:
     version: 2
     RefIds:
-    - rid: 3179966873638797382
-      type: {class: CreateNewScriptableObjectAction, ns: SceneSetupTool, asm: Assembly-CSharp}
-      data:
-        selectedTypeQualifiedName: GridTool.LevelDataSO, Assembly-CSharp, Version=0.0.0.0,
-          Culture=neutral, PublicKeyToken=null
-        FileName:
-          UseBlackboard: 1
-          DirectValue: LaunchingScenarioWindow
-          BlackboardKey: Level_name
-        FileNamePrefix: 
-        FileNameSuffix: _LevelData
-        FolderPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
-        CreateFolder: 1
-        FolderName:
-          UseBlackboard: 1
-          DirectValue: 
-          BlackboardKey: Level_name
-        PreviewInstance: {fileID: 11400000, guid: 8eb01b17cc87eba40adb4337971109fa, type: 2}
     - rid: 3179966873638797384
       type: {class: CreateNewScriptableObjectAction, ns: SceneSetupTool, asm: Assembly-CSharp}
       data:
-        selectedTypeQualifiedName: GridTool.GridDataSO, Assembly-CSharp, Version=0.0.0.0,
-          Culture=neutral, PublicKeyToken=null
         FileName:
           UseBlackboard: 1
           DirectValue: LaunchingScenarioWindow
@@ -71,7 +58,27 @@ MonoBehaviour:
           UseBlackboard: 1
           DirectValue: 
           BlackboardKey: Level_name
-        PreviewInstance: {fileID: 0}
+        OutputAsset:
+          SaveToBlackboard: 1
+          Key: GridDataSO
+    - rid: 3179966881215545590
+      type: {class: CreateNewScriptableObjectAction, ns: SceneSetupTool, asm: Assembly-CSharp}
+      data:
+        FileName:
+          UseBlackboard: 1
+          DirectValue: 
+          BlackboardKey: Level_name
+        FileNamePrefix: 
+        FileNameSuffix: _LevelData
+        FolderPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
+        CreateFolder: 1
+        FolderName:
+          UseBlackboard: 1
+          DirectValue: 
+          BlackboardKey: Level_name
+        OutputAsset:
+          SaveToBlackboard: 1
+          Key: LevelDataSO
     - rid: 9006234585964478537
       type: {class: CreateGameObjectAction, ns: SceneSetupTool, asm: Assembly-CSharp}
       data:
