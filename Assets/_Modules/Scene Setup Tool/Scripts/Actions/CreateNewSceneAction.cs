@@ -17,7 +17,7 @@ namespace SceneSetupTool
         [ShowIf(nameof(CreateFromTemplate))] [AssetsOnly]
         public SceneAsset TemplateScene;
         
-        [InfoBox("@\"Full Name: \" + SceneFullName")]
+        [InfoBox("@\"Full file name: \" + SceneFullName + \".asset\"")]
         public BlackboardVariable<string> SceneName;
 
         [Space]
@@ -26,8 +26,10 @@ namespace SceneSetupTool
         public string SceneNameSuffix;
         
         private string SceneFullName =>
-            SceneNamePrefix + SceneName.GetValue(key => Blackboard.Get<string>(key)) + SceneNameSuffix;
+            SceneNamePrefix + sceneName + SceneNameSuffix;
 
+        private string sceneName => (SceneName != null && Blackboard!=null) ? SceneName.GetValue(key => Blackboard.Get<string>(key)): "";
+        
         [Title("Folder")] 
         [FolderPath] 
         [Required]

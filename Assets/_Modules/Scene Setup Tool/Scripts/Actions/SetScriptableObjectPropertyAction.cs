@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using CTB;
 using Sirenix.OdinInspector;
 using Sirenix.Serialization;
 using UnityEditor;
@@ -23,43 +24,15 @@ namespace SceneSetupTool
         [Required]
         public string FieldName;
 
-        [HideInInspector]
-        [OdinSerialize]
-        private Type cachedFieldType;
-
         [ShowIf(nameof(IsFieldSelected))]
         [BoxGroup("Value Injection")]
         [LabelText("New Value")]
         [OdinSerialize]
         [InlineProperty]
-        [ShowIf(nameof(IsUnityObjectType))]
-        [AssetsOnly]
-        public UnityEngine.Object NewValueAsset;
+        [HideReferenceObjectPicker]
+        public TypedValue NewValue = new TypedValue();
 
-        [ShowIf(nameof(IsFieldSelected))]
-        [BoxGroup("Value Injection")]
-        [LabelText("New Value")]
-        [OdinSerialize]
-        [HideIf(nameof(IsUnityObjectType))]
-        public object NewValuePrimitive;
-
-        public object NewValue
-        {
-            get => IsUnityObjectType ? NewValueAsset : NewValuePrimitive;
-            set
-            {
-                if (cachedFieldType != null && typeof(UnityEngine.Object).IsAssignableFrom(cachedFieldType))
-                {
-                    NewValueAsset = value as UnityEngine.Object;
-                }
-                else
-                {
-                    NewValuePrimitive = value;
-                }
-            }
-        }
-
-        private bool IsUnityObjectType => cachedFieldType != null && typeof(UnityEngine.Object).IsAssignableFrom(cachedFieldType);
+        private bool IsFieldSelected => !string.IsNullOrEmpty(FieldName);
 
         public override void Execute()
         {
@@ -70,25 +43,22 @@ namespace SceneSetupTool
                 return;
             }
 
-            FieldInfo field = host.GetType().GetField(FieldName, BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic);
+            FieldInfo field = GetFieldInfo(host.GetType());
             if (field == null)
             {
                 Debug.LogError($"[SetProperty] Field '{FieldName}' not found on {host.name}");
                 return;
             }
 
-            object valueToSet = NewValue;
+            object valueToSet = NewValue.Value;
 
-            // Type validation
-            if (valueToSet != null && !field.FieldType.IsAssignableFrom(valueToSet.GetType()))
+            if (!ValidateType(field.FieldType, valueToSet))
             {
-                Debug.LogError($"[SetProperty] Type mismatch: Cannot assign {valueToSet.GetType()} to {field.FieldType}");
+                Debug.LogError($"[SetProperty] Type mismatch: Cannot assign {valueToSet?.GetType()} to {field.FieldType}");
                 return;
             }
 
-            // Apply the value
             field.SetValue(host, valueToSet);
-            
             EditorUtility.SetDirty(host);
             Debug.Log($"<b>[SetProperty]</b> Set {host.name}.{FieldName} to {valueToSet}");
         }
@@ -98,73 +68,22 @@ namespace SceneSetupTool
             Type hostType = GetBlackboardEntryType();
             if (hostType == null)
             {
-                cachedFieldType = null;
+                NewValue.Type = null;
                 return;
             }
 
-            FieldInfo field = hostType.GetField(FieldName, BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic);
+            FieldInfo field = GetFieldInfo(hostType);
             if (field == null)
             {
-                cachedFieldType = null;
+                NewValue.Type = null;
                 return;
             }
 
-            cachedFieldType = field.FieldType;
-
-            // Initialize with appropriate default value
-            if (typeof(UnityEngine.Object).IsAssignableFrom(cachedFieldType))
-            {
-                NewValueAsset = null;
-                NewValuePrimitive = null;
-            }
-            else if (cachedFieldType == typeof(string))
-            {
-                NewValuePrimitive = "";
-                NewValueAsset = null;
-            }
-            else if (cachedFieldType == typeof(int))
-            {
-                NewValuePrimitive = 0;
-                NewValueAsset = null;
-            }
-            else if (cachedFieldType == typeof(float))
-            {
-                NewValuePrimitive = 0f;
-                NewValueAsset = null;
-            }
-            else if (cachedFieldType == typeof(bool))
-            {
-                NewValuePrimitive = false;
-                NewValueAsset = null;
-            }
-            else if (cachedFieldType == typeof(double))
-            {
-                NewValuePrimitive = 0.0;
-                NewValueAsset = null;
-            }
-            else if (cachedFieldType.IsValueType)
-            {
-                try
-                {
-                    NewValuePrimitive = Activator.CreateInstance(cachedFieldType);
-                    NewValueAsset = null;
-                }
-                catch
-                {
-                    NewValuePrimitive = null;
-                    NewValueAsset = null;
-                }
-            }
-            else
-            {
-                NewValuePrimitive = null;
-                NewValueAsset = null;
-            }
+            NewValue.Type = field.FieldType;
         }
 
-        private bool IsFieldSelected => !string.IsNullOrEmpty(FieldName);
-        
-        private IEnumerable<string> GetBlackboardKeys() => Blackboard?.AvailableKeys ?? new List<string>();
+        private IEnumerable<string> GetBlackboardKeys() => 
+            Blackboard?.AvailableKeys ?? new List<string>();
 
         private IEnumerable<string> GetFieldNames()
         {
@@ -176,43 +95,38 @@ namespace SceneSetupTool
 
             var fields = hostType
                 .GetFields(BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic)
-                .Where(f => !f.IsLiteral && !f.IsInitOnly) // Exclude constants and readonly
+                .Where(f => !f.IsLiteral && !f.IsInitOnly)
                 .Select(f => f.Name)
                 .ToList();
 
-            if (fields.Count == 0)
-            {
-                return new List<string> { "No fields found on this type" };
-            }
-
-            return fields;
+            return fields.Count == 0 
+                ? new List<string> { "No fields found on this type" } 
+                : fields;
         }
 
-        // Helper method to get the Type from the Blackboard entry, not the value
         private Type GetBlackboardEntryType()
         {
             if (Blackboard == null || string.IsNullOrEmpty(BlackboardKey))
-            {
                 return null;
-            }
 
-            // Find the blackboard entry with this key
             var entry = Blackboard.BlackboardVariables.FirstOrDefault(e => e.Key == BlackboardKey);
-            if (entry == null)
-            {
+            if (entry?.EntryType == null)
                 return null;
-            }
 
-            // Get the type from the entry's EntryType field
-            Type entryType = entry.EntryType;
-            
-            // Make sure it's a ScriptableObject type
-            if (entryType != null && typeof(ScriptableObject).IsAssignableFrom(entryType))
-            {
-                return entryType;
-            }
+            return typeof(ScriptableObject).IsAssignableFrom(entry.EntryType) 
+                ? entry.EntryType 
+                : null;
+        }
 
-            return null;
+        private FieldInfo GetFieldInfo(Type hostType)
+        {
+            return hostType?.GetField(FieldName, 
+                BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic);
+        }
+
+        private bool ValidateType(Type targetType, object value)
+        {
+            return value == null || targetType.IsAssignableFrom(value.GetType());
         }
     }
 }

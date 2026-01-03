@@ -18,6 +18,8 @@ namespace SceneSetupTool
         [InlineProperty, HideLabel]
         public BlackboardVariable<string> FileName = new BlackboardVariable<string>();
 
+        private string fileName => (FileName != null && Blackboard!=null) ? FileName.GetValue(key => Blackboard.Get<string>(key)): "";
+
         [BoxGroup("File Configuration")]
         public string FileNamePrefix;
 
@@ -60,7 +62,7 @@ namespace SceneSetupTool
         }
         
         private string FullFileName =>
-            FileNamePrefix + FileName.GetValue(key => Blackboard.Get<string>(key)) + FileNameSuffix;
+            FileNamePrefix + fileName + FileNameSuffix;
         
         public override void Execute()
         {

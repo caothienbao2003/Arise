@@ -1,7 +1,9 @@
 ﻿using CTB;
 using Sirenix.OdinInspector;
 using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Reflection;
 using UnityEngine;
 
 namespace SceneSetupTool
@@ -22,21 +24,63 @@ namespace SceneSetupTool
         {
             if (AvailableKeys == null) return;
 
-            // Get all public and private fields in this action
-            var fields = this.GetType().GetFields(System.Reflection.BindingFlags.Public | 
-                                                  System.Reflection.BindingFlags.NonPublic | 
-                                                  System.Reflection.BindingFlags.Instance);
-            
-            foreach (var f in fields)
+            InjectKeysRecursive(this);
+        }
+
+        private void InjectKeysRecursive(object obj, HashSet<object> visited = null)
+        {
+            if (obj == null) return;
+
+            // Prevent infinite loops from circular references
+            if (visited == null)
+                visited = new HashSet<object>();
+
+            // Skip if already visited (prevents infinite recursion)
+            if (!visited.Add(obj))
+                return;
+
+            Type type = obj.GetType();
+
+            // Skip primitive types and strings
+            if (type.IsPrimitive || type == typeof(string))
+                return;
+
+            // If this object implements IBlackboardInjectable, inject keys
+            if (obj is IBlackboardInjectable injectable)
             {
-                // Check if the field implements our interface
-                if (typeof(IBlackboardInjectable).IsAssignableFrom(f.FieldType))
+                injectable.LocalKeys = AvailableKeys;
+            }
+
+            // Handle collections (List, Array, etc.)
+            if (obj is IEnumerable enumerable && !(obj is string))
+            {
+                foreach (var item in enumerable)
                 {
-                    var injected = f.GetValue(this) as IBlackboardInjectable;
-                    if (injected != null)
+                    if (item != null)
                     {
-                        injected.LocalKeys = AvailableKeys;
+                        InjectKeysRecursive(item, visited);
                     }
+                }
+                return;
+            }
+
+            // Get all fields (public, private, instance)
+            FieldInfo[] fields = type.GetFields(
+                BindingFlags.Public | 
+                BindingFlags.NonPublic | 
+                BindingFlags.Instance
+            );
+
+            foreach (var field in fields)
+            {
+                // Skip fields marked with [NonSerialized]
+                if (field.IsNotSerialized)
+                    continue;
+
+                object fieldValue = field.GetValue(obj);
+                if (fieldValue != null)
+                {
+                    InjectKeysRecursive(fieldValue, visited);
                 }
             }
         }

@@ -7,6 +7,7 @@ namespace SceneSetupTool
 {
     [Serializable]
     [InlineProperty]
+    [HideReferenceObjectPicker]
     [HideLabel]
     [GUIColor(0.8f, 1f, 0.8f)]
     [Title("@$property.Name")]

@@ -8,6 +8,7 @@ namespace SceneSetupTool
 {
     [Serializable]
     [InlineProperty]
+    [HideReferenceObjectPicker]
     [HideLabel]
     public class BlackboardOutput : IBlackboardInjectable
     {
