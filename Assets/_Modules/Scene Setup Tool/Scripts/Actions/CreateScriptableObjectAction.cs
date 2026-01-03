@@ -13,21 +13,6 @@ namespace SceneSetupTool
     [Serializable]
     public class CreateNewScriptableObjectAction : SequenceAction
     {
-        [OdinSerialize]
-        [BoxGroup("Select Type")]
-        [InfoBox("@\"Selected: \" + (SelectedType != null ? SelectedType.Name : \"None\")", InfoMessageType.Info)]
-        [Title("ScriptableObject Selection")]
-        [LabelText("Target Type")]
-        [Required(InfoMessageType.Error)]
-// This ensures Odin's drawer is used instead of Unity's default text field
-        [TypeDrawerSettings(BaseType = typeof(ScriptableObject))]
-        [TypeSelectorSettings(
-            FilterTypesFunction = nameof(IsProjectSO),
-            ShowCategories = true,
-            PreferNamespaces = true)]
-        [ShowInInspector]
-        public Type SelectedType; // No longer needs a hidden string backing!
-        
         [InfoBox("@\"Full file name: \" + FullFileName + \".asset\"")]
         [BoxGroup("File Configuration")]
         [InlineProperty, HideLabel]
@@ -51,9 +36,32 @@ namespace SceneSetupTool
         [BoxGroup("Blackboard Output")]
         public BlackboardOutput OutputAsset;
 
+        [BoxGroup("Select Type")]
+        [SerializeField, HideInInspector] 
+        private string _selectedTypeAssemblyQualifiedName;
+
+        [BoxGroup("Select Type")]
+        [InfoBox("@\"Selected: \" + (SelectedType != null ? SelectedType.Name : \"None\")", InfoMessageType.Info)]
+        [Title("ScriptableObject Selection")]
+        [LabelText("Target Type")]
+        [Required(InfoMessageType.Error)]
+        [TypeDrawerSettings(BaseType = typeof(ScriptableObject))]
+        [TypeSelectorSettings(
+            FilterTypesFunction = nameof(IsProjectSO),
+            ShowCategories = true,
+            PreferNamespaces = true)]
+        [ShowInInspector]
+        public Type SelectedType
+        {
+            get => string.IsNullOrEmpty(_selectedTypeAssemblyQualifiedName) 
+                ? null 
+                : Type.GetType(_selectedTypeAssemblyQualifiedName);
+            set => _selectedTypeAssemblyQualifiedName = value?.AssemblyQualifiedName;
+        }
+        
         private string FullFileName =>
             FileNamePrefix + FileName.GetValue(key => Blackboard.Get<string>(key)) + FileNameSuffix;
-
+        
         public override void Execute()
         {
             if (SelectedType == null)

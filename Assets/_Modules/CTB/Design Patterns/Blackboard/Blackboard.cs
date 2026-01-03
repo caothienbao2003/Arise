@@ -11,24 +11,12 @@ namespace CTB
     [Serializable]
     public class Blackboard
     {
-        [SerializeField]
-        [OnValueChanged(nameof(SyncKeys))]
-        public List<string> AvailableKeys = new List<string>();
-        
-        [Space]
-        
-        [SerializeField]
-        [OnCollectionChanged(nameof(SyncKeys))]
-        [ListDrawerSettings(DraggableItems = true, ShowFoldout = true, ShowPaging = false, HideAddButton = false)]
-        public List<BlackboardEntry> BlackboardVariables = new List<BlackboardEntry>();
+        public List<string> AvailableKeys => BlackboardVariables.Select(e => e.Key).ToList();
 
-        public void SyncKeys()
-        {
-            foreach (var entry in BlackboardVariables)
-            {
-                entry.AvailableKeys = AvailableKeys;
-            }
-        }
+        [Space]
+        [OdinSerialize]
+        [ListDrawerSettings(DraggableItems = true, ShowFoldout = false, ShowPaging = false)]
+        public List<BlackboardEntry> BlackboardVariables = new List<BlackboardEntry>();
 
         public void Set(string key, object value, bool persistent = false)
         {
@@ -42,8 +30,7 @@ namespace CTB
                 BlackboardVariables.Add(new BlackboardEntry
                 {
                     Key = key,
-                    Value = value,
-                    IsPersistent = persistent
+                    Value = value
                 });
             }
         }
@@ -53,43 +40,243 @@ namespace CTB
             var entry = BlackboardVariables.FirstOrDefault(e => e.Key == key);
             return (entry != null && entry.Value is T typed) ? typed : default;
         }
-
-        public void ClearRuntimeData()
-        {
-            BlackboardVariables.RemoveAll(e => !e.IsPersistent);
-        }
     }
 
     [Serializable]
+    [HideReferenceObjectPicker]
+    [InlineProperty]
     public class BlackboardEntry
     {
-        [HorizontalGroup("Entry", Width = 0.3f), HideLabel, ValueDropdown(nameof(AvailableKeys))]
+        [HorizontalGroup("Entry", 0.25f), HideLabel]
         public string Key;
 
-        // We use TWO fields. One for Assets, one for Strings/Data.
-        [HorizontalGroup("Entry"), HideLabel, ShowIf(nameof(IsUnityAsset))]
-        public UnityEngine.Object UnityValue;
+        [HorizontalGroup("Entry", 0.3f), HideLabel]
+        [ValueDropdown(nameof(GetAllSerializableTypes), NumberOfItemsBeforeEnablingSearch = 5)]
+        [OnValueChanged(nameof(OnTypeChanged))]
+        [ShowInInspector]
+        [OdinSerialize]
+        // CRITICAL: This must be here!
+        public Type EntryType;
 
-        [HorizontalGroup("Entry"), HideLabel, HideIf(nameof(IsUnityAsset))]
-        public string StringValue;
+        // For Unity Object types (ScriptableObject, GameObject, etc.)
+        [HorizontalGroup("Entry"), HideLabel]
+        [ShowIf(nameof(IsUnityObjectType))]
+        [AssetsOnly]
+        [ShowInInspector]
+        [ValueDropdown(nameof(GetValueDropdown), AppendNextDrawer = true, DisableListAddButtonBehaviour = true)]
+        public UnityEngine.Object ValueAsset;
 
-        [HorizontalGroup("Entry", Width = 40)]
-        [ToggleLeft, HideLabel, Tooltip("Is this a Unity Asset?")]
-        public bool IsUnityAsset;
+        // For Primitive and other serializable types
+        [ShowInInspector]
+        [HorizontalGroup("Entry"), HideLabel] [OdinSerialize] [HideIf(nameof(IsUnityObjectType))]
+        public object ValuePrimitive;
 
-        [HorizontalGroup("Entry", Width = 20), HideLabel, ToggleLeft]
-        public bool IsPersistent = true;
+        // [HideInInspector, NonSerialized] public List<string> AvailableKeys;
 
-        [HideInInspector, NonSerialized] public List<string> AvailableKeys;
-
-        // Your code still uses .Value, so nothing else breaks!
-        public object Value 
+        // Unified Value property
+        public object Value
         {
-            get => IsUnityAsset ? UnityValue : StringValue;
-            set {
-                if (value is UnityEngine.Object uo) { UnityValue = uo; IsUnityAsset = true; }
-                else { StringValue = value?.ToString(); IsUnityAsset = false; }
+            get => IsUnityObjectType ? (object)ValueAsset : ValuePrimitive;
+            set
+            {
+                if (EntryType != null && typeof(UnityEngine.Object).IsAssignableFrom(EntryType))
+                {
+                    ValueAsset = value as UnityEngine.Object;
+                    ValuePrimitive = null;
+                }
+                else
+                {
+                    ValuePrimitive = value;
+                    ValueAsset = null;
+                }
             }
+        }
+
+        private bool IsUnityObjectType => EntryType != null && typeof(UnityEngine.Object).IsAssignableFrom(EntryType);
+
+        private IEnumerable<ValueDropdownItem<object>> GetValueDropdown()
+        {
+            if (EntryType == null) yield break;
+
+            // Only for Unity Objects
+            if (typeof(UnityEngine.Object).IsAssignableFrom(EntryType))
+            {
+#if UNITY_EDITOR
+                // Use AssetDatabase to find all assets of this type in the project
+                string[] guids = UnityEditor.AssetDatabase.FindAssets($"t:{EntryType.Name}");
+
+                foreach (string guid in guids)
+                {
+                    string path = UnityEditor.AssetDatabase.GUIDToAssetPath(guid);
+                    UnityEngine.Object asset = UnityEditor.AssetDatabase.LoadAssetAtPath(path, EntryType);
+
+                    if (asset != null)
+                    {
+                        yield return new ValueDropdownItem<object>(asset.name, asset);
+                    }
+                }
+
+                // Also include objects currently in the scene/memory
+                var loadedObjects = Resources.FindObjectsOfTypeAll(EntryType)
+                    .Where(obj =>
+                        UnityEditor.AssetDatabase.Contains(obj) &&
+                        (obj.hideFlags & HideFlags.HideInInspector) == 0);
+
+                foreach (var obj in loadedObjects)
+                {
+                    string assetPath = UnityEditor.AssetDatabase.GetAssetPath(obj);
+                    if (!string.IsNullOrEmpty(assetPath) &&
+                        !guids.Any(g => UnityEditor.AssetDatabase.GUIDToAssetPath(g) == assetPath))
+                    {
+                        yield return new ValueDropdownItem<object>(obj.name, obj);
+                    }
+                }
+#else
+            // Runtime fallback
+            var objects = Resources.FindObjectsOfTypeAll(EntryType)
+                .Where(obj => (obj.hideFlags & HideFlags.HideInInspector) == 0);
+
+            foreach (var obj in objects)
+            {
+                yield return new ValueDropdownItem<object>(obj.name, obj);
+            }
+#endif
+            }
+        }
+
+        private void OnTypeChanged()
+        {
+            if (EntryType == null)
+            {
+                ValueAsset = null;
+                ValuePrimitive = null;
+                return;
+            }
+
+            // Check if current value is compatible
+            if (Value != null && EntryType.IsAssignableFrom(Value.GetType())) return;
+
+            // Initialize based on type
+            if (typeof(UnityEngine.Object).IsAssignableFrom(EntryType))
+            {
+                ValueAsset = null;
+                ValuePrimitive = null;
+            }
+            else if (EntryType == typeof(string))
+            {
+                ValuePrimitive = "";
+                ValueAsset = null;
+            }
+            else if (EntryType == typeof(int))
+            {
+                ValuePrimitive = 0;
+                ValueAsset = null;
+            }
+            else if (EntryType == typeof(float))
+            {
+                ValuePrimitive = 0f;
+                ValueAsset = null;
+            }
+            else if (EntryType == typeof(bool))
+            {
+                ValuePrimitive = false;
+                ValueAsset = null;
+            }
+            else if (EntryType == typeof(double))
+            {
+                ValuePrimitive = 0.0;
+                ValueAsset = null;
+            }
+            else if (EntryType == typeof(long))
+            {
+                ValuePrimitive = 0L;
+                ValueAsset = null;
+            }
+            else if (EntryType == typeof(byte))
+            {
+                ValuePrimitive = (byte)0;
+                ValueAsset = null;
+            }
+            else if (EntryType == typeof(short))
+            {
+                ValuePrimitive = (short)0;
+                ValueAsset = null;
+            }
+            else if (EntryType.IsEnum)
+            {
+                ValuePrimitive = Enum.GetValues(EntryType).GetValue(0);
+                ValueAsset = null;
+            }
+            else if (EntryType.IsPrimitive)
+            {
+                ValuePrimitive = Activator.CreateInstance(EntryType);
+                ValueAsset = null;
+            }
+            else
+            {
+                try
+                {
+                    ValuePrimitive = Activator.CreateInstance(EntryType);
+                    ValueAsset = null;
+                }
+                catch
+                {
+                    ValuePrimitive = null;
+                    ValueAsset = null;
+                }
+            }
+        }
+
+        private IEnumerable<ValueDropdownItem<Type>> GetAllSerializableTypes()
+        {
+            // Manually add common primitive types first
+            var primitiveTypes = new List<ValueDropdownItem<Type>>
+            {
+                new ValueDropdownItem<Type>("Primitives/String", typeof(string)),
+                new ValueDropdownItem<Type>("Primitives/Int", typeof(int)),
+                new ValueDropdownItem<Type>("Primitives/Float", typeof(float)),
+                new ValueDropdownItem<Type>("Primitives/Bool", typeof(bool)),
+                new ValueDropdownItem<Type>("Primitives/Double", typeof(double)),
+                new ValueDropdownItem<Type>("Primitives/Long", typeof(long)),
+                new ValueDropdownItem<Type>("Primitives/Byte", typeof(byte)),
+                new ValueDropdownItem<Type>("Primitives/Short", typeof(short)),
+            };
+
+            // Get Unity types and other serializable types
+            var assemblies = AppDomain.CurrentDomain.GetAssemblies()
+                .Where(a => a.GetName().Name.Contains("Assembly-CSharp") ||
+                            a.GetName().Name.Contains("UnityEngine"));
+
+            var otherTypes = assemblies.SelectMany(a => a.GetTypes())
+                .Where(t => t != null && !t.IsAbstract && !t.IsInterface && !t.IsGenericType)
+                .Where(t => typeof(UnityEngine.Object).IsAssignableFrom(t) ||
+                            (t.IsSerializable && !t.IsPrimitive &&
+                             t != typeof(string))) // Exclude primitives we already added
+                .Select(t =>
+                {
+                    string category;
+                    if (typeof(ScriptableObject).IsAssignableFrom(t))
+                    {
+                        category = "Unity/ScriptableObjects";
+                    }
+                    else if (typeof(MonoBehaviour).IsAssignableFrom(t))
+                    {
+                        category = "Unity/Components";
+                    }
+                    else if (typeof(UnityEngine.Object).IsAssignableFrom(t))
+                    {
+                        category = "Unity/Other";
+                    }
+                    else
+                    {
+                        category = "Classes";
+                    }
+
+                    return new ValueDropdownItem<Type>($"{category}/{t.Name}", t);
+                });
+
+            // Combine primitives and other types
+            return primitiveTypes.Concat(otherTypes).OrderBy(item => item.Text);
         }
     }
 }

@@ -1,20 +1,25 @@
+using System;
 using CTB;
 using Sirenix.OdinInspector;
 using System.Collections.Generic;
+using Sirenix.Serialization;
 using UnityEngine;
 
 namespace SceneSetupTool
 {
     [CreateAssetMenu(fileName = "SequenceActionsSetupSO", menuName = "Scriptable Objects/Sequence Actions Setup")]
-    public class SequenceActionsSetupSO : ScriptableObject
+    public class SequenceActionsSetupSO : SerializedScriptableObject
     {
         [HideLabel]
-        [SerializeField]
+        [NonSerialized]
+        [OdinSerialize]
         public Blackboard Blackboard = new Blackboard();
         
         [Space]
         
         [Searchable]
+        [NonSerialized]
+        [OdinSerialize]
         [ListDrawerSettings(DraggableItems = true, ShowFoldout = true, ShowPaging = false, HideAddButton = false)]
         [SerializeReference]
         public List<SequenceAction> Actions = new List<SequenceAction>();
@@ -35,8 +40,6 @@ namespace SceneSetupTool
                     action.Execute();
                 }
             }
-            
-            Blackboard.ClearRuntimeData();
         }
         
         [OnInspectorGUI]
@@ -45,7 +48,7 @@ namespace SceneSetupTool
             if (Actions == null) return;
             
             // Sync keys to variables
-            Blackboard.SyncKeys();
+            // Blackboard.SyncKeys();
 
             foreach (var action in Actions)
             {
