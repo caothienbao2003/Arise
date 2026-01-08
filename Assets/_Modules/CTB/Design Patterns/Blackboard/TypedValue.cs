@@ -5,10 +5,40 @@ using Sirenix.OdinInspector;
 using Sirenix.Serialization;
 using UnityEngine;
 
+[Flags]
+public enum TypeFilter
+{
+    None = 0,
+    ScriptableObjectOnly = 1 << 0,
+    MonoBehaviourOnly = 1 << 1,
+    ComponentOnly = 1 << 2,
+    ProjectScriptsOnly = 1 << 3,
+    UnityEngineOnly = 1 << 4,
+    NonAbstract = 1 << 5,
+    NonGeneric = 1 << 6,
+    HasParameterlessConstructor = 1 << 7,
+}
+
 [Serializable, InlineProperty, HideReferenceObjectPicker]
 public class TypedValue
 {
-    [HideInInspector] [OdinSerialize] private Type cachedType;
+    [HideInInspector] [OdinSerialize] 
+    private Type cachedType;
+    
+    [HideInInspector] [OdinSerialize] 
+    private TypeFilter typeFilters = TypeFilter.None;
+    
+    [HideInInspector] [OdinSerialize] 
+    private Type baseTypeConstraint;
+    
+    [HideInInspector] [OdinSerialize] 
+    private List<string> namespaceFilters = new List<string>();
+    
+    [HideInInspector] [OdinSerialize] 
+    private List<string> excludedNamespaces = new List<string>();
+    
+    [HideInInspector] [OdinSerialize] 
+    private Func<Type, bool> customTypeFilter;
 
     [HideLabel]
     [ShowIf(nameof(IsUnityObjectType))]
@@ -17,7 +47,10 @@ public class TypedValue
     [ValueDropdown(nameof(GetValueDropdown), AppendNextDrawer = true, DisableListAddButtonBehaviour = true)]
     public UnityEngine.Object ValueAsset;
 
-    [HideLabel] [OdinSerialize] [HideIf(nameof(IsUnityObjectType))] [ShowInInspector]
+    [HideLabel] 
+    [OdinSerialize] 
+    [HideIf(nameof(IsUnityObjectType))] 
+    [ShowInInspector]
     public object ValuePrimitive;
 
     public Type Type
@@ -49,7 +82,118 @@ public class TypedValue
         }
     }
 
-    private bool IsUnityObjectType => cachedType != null && typeof(UnityEngine.Object).IsAssignableFrom(cachedType);
+    private bool IsUnityObjectType => 
+        cachedType != null && typeof(UnityEngine.Object).IsAssignableFrom(cachedType);
+
+    public TypedValue()
+    {
+    }
+
+    public TypedValue(TypeFilter filters)
+    {
+        typeFilters = filters;
+    }
+
+    public TypedValue(Type baseType, TypeFilter filters = TypeFilter.None)
+    {
+        baseTypeConstraint = baseType;
+        typeFilters = filters;
+    }
+
+    public TypedValue SetFilters(TypeFilter filters)
+    {
+        typeFilters = filters;
+        return this;
+    }
+
+    public TypedValue AddFilter(TypeFilter filter)
+    {
+        typeFilters |= filter;
+        return this;
+    }
+
+    public TypedValue RemoveFilter(TypeFilter filter)
+    {
+        typeFilters &= ~filter;
+        return this;
+    }
+
+    public TypedValue SetBaseType(Type baseType)
+    {
+        baseTypeConstraint = baseType;
+        return this;
+    }
+
+    public TypedValue AddNamespaceFilter(params string[] namespaces)
+    {
+        namespaceFilters.AddRange(namespaces);
+        return this;
+    }
+
+    public TypedValue ExcludeNamespaces(params string[] namespaces)
+    {
+        excludedNamespaces.AddRange(namespaces);
+        return this;
+    }
+
+    public TypedValue SetCustomFilter(Func<Type, bool> filter)
+    {
+        customTypeFilter = filter;
+        return this;
+    }
+
+    public bool PassesFilter(Type type)
+    {
+        if (type == null) 
+            return false;
+
+        if (typeFilters.HasFlag(TypeFilter.NonAbstract) && type.IsAbstract)
+            return false;
+
+        if (typeFilters.HasFlag(TypeFilter.NonGeneric) && type.IsGenericTypeDefinition)
+            return false;
+
+        if (baseTypeConstraint != null && !baseTypeConstraint.IsAssignableFrom(type))
+            return false;
+
+        if (typeFilters.HasFlag(TypeFilter.ScriptableObjectOnly) && 
+            !typeof(ScriptableObject).IsAssignableFrom(type))
+            return false;
+
+        if (typeFilters.HasFlag(TypeFilter.MonoBehaviourOnly) && 
+            !typeof(MonoBehaviour).IsAssignableFrom(type))
+            return false;
+
+        if (typeFilters.HasFlag(TypeFilter.ComponentOnly) && 
+            !typeof(Component).IsAssignableFrom(type))
+            return false;
+
+        if (typeFilters.HasFlag(TypeFilter.ProjectScriptsOnly) && 
+            type.Assembly.GetName().Name != "Assembly-CSharp")
+            return false;
+
+        if (typeFilters.HasFlag(TypeFilter.UnityEngineOnly) && 
+            !type.Assembly.FullName.Contains("UnityEngine"))
+            return false;
+
+        if (typeFilters.HasFlag(TypeFilter.HasParameterlessConstructor) && 
+            type.GetConstructor(Type.EmptyTypes) == null && 
+            !typeof(ScriptableObject).IsAssignableFrom(type))
+            return false;
+
+        if (namespaceFilters.Count > 0 && 
+            !namespaceFilters.Any(ns => type.Namespace != null && type.Namespace.StartsWith(ns)))
+            return false;
+
+        if (excludedNamespaces.Count > 0 && 
+            excludedNamespaces.Any(ns => type.Namespace != null && type.Namespace.StartsWith(ns)))
+            return false;
+
+        if (customTypeFilter != null && !customTypeFilter(type))
+            return false;
+
+        return true;
+    }
 
     private IEnumerable<ValueDropdownItem<object>> GetValueDropdown()
     {
@@ -86,13 +230,13 @@ public class TypedValue
                 }
             }
 #else
-                var objects = Resources.FindObjectsOfTypeAll(cachedType)
-                    .Where(obj => (obj.hideFlags & HideFlags.HideInInspector) == 0);
+            var objects = Resources.FindObjectsOfTypeAll(cachedType)
+                .Where(obj => (obj.hideFlags & HideFlags.HideInInspector) == 0);
 
-                foreach (var obj in objects)
-                {
-                    yield return new ValueDropdownItem<object>(obj.name, obj);
-                }
+            foreach (var obj in objects)
+            {
+                yield return new ValueDropdownItem<object>(obj.name, obj);
+            }
 #endif
         }
     }

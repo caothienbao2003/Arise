@@ -15,11 +15,16 @@ namespace SceneSetupTool
         [TextArea(minLines: 1, maxLines: 10)] 
         [SerializeField]
         [HideLabel]
+        [OnValueChanged(nameof(OnDescriptionChanged))]
         private string description;
 
         public Blackboard Blackboard { get; set; }
 
-        [HideInInspector, NonSerialized] public IEnumerable<string> AvailableKeys = new List<string>();
+        [HideInInspector, NonSerialized] 
+        public IEnumerable<string> AvailableKeys = new List<string>();
+
+        // Public accessor for description
+        public string GetDescription() => description;
 
         [Button(ButtonSizes.Medium, ButtonStyle.Box), GUIColor(0.6f, 1f, 0.4f)]
         public abstract void Execute();
@@ -32,31 +37,35 @@ namespace SceneSetupTool
             InjectKeysRecursive(this);
         }
 
+        // Callback when description changes (forces repaint of parent inspector)
+        private void OnDescriptionChanged()
+        {
+#if UNITY_EDITOR
+            // This triggers the parent ScriptableObject to refresh its inspector
+            // UnityEditor.EditorUtility.SetDirty(this);
+#endif
+        }
+
         private void InjectKeysRecursive(object obj, HashSet<object> visited = null)
         {
             if (obj == null) return;
 
-            // Prevent infinite loops from circular references
             if (visited == null)
                 visited = new HashSet<object>();
 
-            // Skip if already visited (prevents infinite recursion)
             if (!visited.Add(obj))
                 return;
 
             Type type = obj.GetType();
 
-            // Skip primitive types and strings
             if (type.IsPrimitive || type == typeof(string))
                 return;
 
-            // If this object implements IBlackboardInjectable, inject keys
             if (obj is IBlackboardInjectable injectable)
             {
                 injectable.LocalKeys = AvailableKeys;
             }
 
-            // Handle collections (List, Array, etc.)
             if (obj is IEnumerable enumerable && !(obj is string))
             {
                 foreach (var item in enumerable)
@@ -70,7 +79,6 @@ namespace SceneSetupTool
                 return;
             }
 
-            // Get all fields (public, private, instance)
             FieldInfo[] fields = type.GetFields(
                 BindingFlags.Public |
                 BindingFlags.NonPublic |
@@ -79,7 +87,6 @@ namespace SceneSetupTool
 
             foreach (var field in fields)
             {
-                // Skip fields marked with [NonSerialized]
                 if (field.IsNotSerialized)
                     continue;
 

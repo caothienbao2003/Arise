@@ -13,11 +13,9 @@ namespace SceneSetupTool
     [Serializable]
     public class SetPropertiesAction : SequenceAction
     {
-        [Title("Target Object")]
-        [ValueDropdown(nameof(GetBlackboardKeys))]
-        [Required]
-        [OnValueChanged(nameof(OnTargetChanged))]
-        public string BlackboardKey;
+        [InlineProperty]
+        [HideLabel]
+        public BlackboardVariable<object> TargetObject = new BlackboardVariable<object>();
 
         [Title("Field Assignments")]
         [OdinSerialize]
@@ -36,14 +34,14 @@ namespace SceneSetupTool
         [DisplayAsString]
         private string targetTypeDisplay;
 
-        private bool HasTarget => !string.IsNullOrEmpty(BlackboardKey);
+        private bool HasTarget => TargetObject != null && (!TargetObject.UseBlackboard || !string.IsNullOrEmpty(TargetObject.BlackboardKey));
 
         public override void Execute()
         {
-            var host = Blackboard.Get<object>(BlackboardKey);
+            var host = TargetObject?.GetValue(key => Blackboard.Get<object>(key));
             if (host == null)
             {
-                Debug.LogError($"[SetProperties] Target object not found at key: {BlackboardKey}");
+                Debug.LogError($"[SetProperties] Target object not found");
                 return;
             }
 
@@ -90,23 +88,8 @@ namespace SceneSetupTool
                 return false;
             }
 
-            // Get TypedValue (either direct or from Blackboard), then extract the actual value
-            TypedValue typedValue = assignment.Value.GetValue(key => 
-            {
-                // When loading from Blackboard, we get the raw object, so wrap it in a TypedValue
-                object blackboardValue = Blackboard.Get<object>(key);
-                if (blackboardValue is TypedValue tv)
-                    return tv;
-                
-                // If it's not a TypedValue, create one and set its value
-                var newTypedValue = new TypedValue();
-                if (blackboardValue != null)
-                    newTypedValue.Type = blackboardValue.GetType();
-                newTypedValue.Value = blackboardValue;
-                return newTypedValue;
-            });
-
-            object valueToSet = typedValue?.Value;
+            // Get the value from BlackboardVariable
+            object valueToSet = assignment.Value?.GetValue(key => Blackboard.Get<object>(key));
 
             if (!ValidateType(field.FieldType, valueToSet))
             {
@@ -124,15 +107,9 @@ namespace SceneSetupTool
             return true;
         }
 
-        private void OnTargetChanged()
-        {
-            FieldAssignments.Clear();
-            UpdateTargetTypeDisplay();
-        }
-
         private void UpdateTargetTypeDisplay()
         {
-            Type hostType = GetBlackboardEntryType();
+            Type hostType = GetTargetType();
             targetTypeDisplay = hostType != null 
                 ? $"Editing: {hostType.Name}" 
                 : "No target selected";
@@ -140,10 +117,10 @@ namespace SceneSetupTool
 
         private FieldAssignment AddFieldAssignment()
         {
-            Type hostType = GetBlackboardEntryType();
+            Type hostType = GetTargetType();
             var assignment = new FieldAssignment
             {
-                Value = new BlackboardVariable<TypedValue>()
+                Value = new BlackboardVariable<object>()
             };
             
             if (hostType != null)
@@ -158,9 +135,6 @@ namespace SceneSetupTool
             return assignment;
         }
 
-        private IEnumerable<string> GetBlackboardKeys() => 
-            Blackboard?.AvailableKeys ?? new List<string>();
-
         private IEnumerable<string> GetEditableFieldNames(Type type)
         {
             return type
@@ -170,13 +144,22 @@ namespace SceneSetupTool
                 .Select(f => f.Name);
         }
 
-        private Type GetBlackboardEntryType()
+        private Type GetTargetType()
         {
-            if (Blackboard == null || string.IsNullOrEmpty(BlackboardKey))
+            if (Blackboard == null || TargetObject == null)
                 return null;
 
-            var entry = Blackboard.BlackboardVariables.FirstOrDefault(e => e.Key == BlackboardKey);
-            return entry?.EntryType;
+            if (TargetObject.UseBlackboard && !string.IsNullOrEmpty(TargetObject.BlackboardKey))
+            {
+                var entry = Blackboard.BlackboardVariables.FirstOrDefault(e => e.Key == TargetObject.BlackboardKey);
+                return entry?.EntryType;
+            }
+            else if (!TargetObject.UseBlackboard && TargetObject.DirectValue != null)
+            {
+                return TargetObject.DirectValue.GetType();
+            }
+
+            return null;
         }
 
         private bool ValidateType(Type targetType, object value)
@@ -201,7 +184,7 @@ namespace SceneSetupTool
         [HideLabel]
         [OdinSerialize]
         [InlineProperty]
-        public BlackboardVariable<TypedValue> Value = new BlackboardVariable<TypedValue>();
+        public BlackboardVariable<object> Value = new BlackboardVariable<object>();
 
         [HideInInspector, NonSerialized]
         public List<string> AvailableFields = new List<string>();
@@ -213,10 +196,6 @@ namespace SceneSetupTool
         {
             if (HostType == null || string.IsNullOrEmpty(FieldName))
             {
-                if (Value?.DirectValue != null)
-                {
-                    Value.DirectValue.Type = null;
-                }
                 return;
             }
 
@@ -225,9 +204,10 @@ namespace SceneSetupTool
                 BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic
             );
 
-            if (field != null && Value?.DirectValue != null)
+            if (field != null)
             {
-                Value.DirectValue.Type = field.FieldType;
+                // We can log the field type for debugging if needed
+                Debug.Log($"Selected field '{FieldName}' of type {field.FieldType.Name}");
             }
         }
     }

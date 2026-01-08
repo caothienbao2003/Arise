@@ -4,9 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-#if UNITY_EDITOR
-using UnityEditor;
-#endif
+using SceneSetupTool;
 
 namespace CTB
 {
@@ -15,7 +13,13 @@ namespace CTB
     {
         public List<string> AvailableKeys => BlackboardVariables.Select(e => e.Key).ToList();
 
-        [Space] [OdinSerialize] [ListDrawerSettings(DraggableItems = true, ShowFoldout = false, ShowPaging = false, CustomAddFunction = nameof(CreateNewEntry))]
+        [Space] 
+        [OdinSerialize] 
+        [ListDrawerSettings(
+            DraggableItems = true, 
+            ShowFoldout = false, 
+            ShowPaging = false, 
+            CustomAddFunction = nameof(CreateNewEntry))]
         public List<BlackboardEntry> BlackboardVariables = new List<BlackboardEntry>();
 
         private BlackboardEntry CreateNewEntry()
@@ -32,20 +36,22 @@ namespace CTB
             if (entry != null)
             {
                 entry.EnsureTypedValueInitialized();
-                entry.TypedValue.Value = value;
+                entry.TypeSelector.TypedValue.Value = value;
             }
             else
             {
                 var newEntry = new BlackboardEntry
                 {
                     Key = key,
-                    TypedValue = new TypedValue(),
                     IsPersistent = false
                 };
-                newEntry.TypedValue.Value = value;
+                newEntry.TypeSelector = new TypeSelector();
+                newEntry.TypeSelector.TypedValue = new TypedValue();
+                newEntry.TypeSelector.TypedValue.Value = value;
                 if (value != null)
                 {
-                    newEntry.TypedValue.Type = value.GetType();
+                    newEntry.TypeSelector.SelectedType = value.GetType();
+                    newEntry.TypeSelector.TypedValue.Type = value.GetType();
                 }
 
                 BlackboardVariables.Add(newEntry);
@@ -54,7 +60,11 @@ namespace CTB
 
         public void ClearRuntimeData()
         {
-            BlackboardVariables.Where(e => e.IsPersistent).ToList().ForEach(e => e = null);
+            BlackboardVariables.Where(e => !e.IsPersistent).ToList().ForEach(e => 
+            {
+                e.EnsureTypedValueInitialized();
+                e.TypeSelector.TypedValue.Value = null;
+            });
         }
 
         public T Get<T>(string key)
@@ -63,7 +73,7 @@ namespace CTB
             if (entry == null) return default;
 
             entry.EnsureTypedValueInitialized();
-            return (entry.TypedValue.Value is T typed) ? typed : default;
+            return (entry.TypeSelector.TypedValue.Value is T typed) ? typed : default;
         }
     }
 
@@ -72,118 +82,68 @@ namespace CTB
     [InlineProperty]
     public class BlackboardEntry
     {
-        [HorizontalGroup("Entry", 0.25f), HideLabel]
+        [HorizontalGroup("Entry", 0.2f)]
+        [HideLabel]
         public string Key;
 
-        [HorizontalGroup("Entry", 0.3f), HideLabel]
-        [ValueDropdown(nameof(GetAllSerializableTypes), NumberOfItemsBeforeEnablingSearch = 5)]
-        [OnValueChanged(nameof(OnTypeChanged))]
-        [ShowInInspector]
-        [OdinSerialize]
-        public Type EntryType;
-
-        [HorizontalGroup("Entry"), HideLabel]
-        [OdinSerialize]
+        [HorizontalGroup("Entry", 0.75f)]
+        [HideLabel]
         [InlineProperty]
-        [HideReferenceObjectPicker]
+        [OdinSerialize]
         [ShowInInspector]
-        public TypedValue TypedValue = new TypedValue();
+        public TypeSelector TypeSelector = new TypeSelector(TypeFilter.None, withValueField: true, horizontal: true);
 
-        [HorizontalGroup("Entry", 0.05f), HideLabel]
+        [HorizontalGroup("Entry", 0.05f)]
+        [HideLabel]
         public bool IsPersistent;
-        
-        // Ensure TypedValue is never null
-        public void EnsureTypedValueInitialized()
+
+        // Legacy compatibility properties
+        public Type EntryType
         {
-            if (TypedValue == null)
+            get => TypeSelector?.SelectedType;
+            set
             {
-                TypedValue = new TypedValue();
-                if (EntryType != null)
-                {
-                    TypedValue.Type = EntryType;
-                }
+                if (TypeSelector != null)
+                    TypeSelector.SelectedType = value;
             }
         }
 
-        // Legacy compatibility property
+        public TypedValue TypedValue
+        {
+            get
+            {
+                EnsureTypedValueInitialized();
+                return TypeSelector.TypedValue;
+            }
+            set
+            {
+                if (TypeSelector != null)
+                    TypeSelector.TypedValue = value;
+            }
+        }
+
         public object Value
         {
             get
             {
                 EnsureTypedValueInitialized();
-                return TypedValue.Value;
+                return TypeSelector.TypedValue.Value;
             }
             set
             {
                 EnsureTypedValueInitialized();
-                TypedValue.Value = value;
+                TypeSelector.TypedValue.Value = value;
             }
         }
 
-        private void OnTypeChanged()
+        public void EnsureTypedValueInitialized()
         {
-            EnsureTypedValueInitialized();
-            TypedValue.Type = EntryType;
-        }
-
-        private IEnumerable<ValueDropdownItem<Type>> GetAllSerializableTypes()
-        {
-            var primitiveTypes = new List<ValueDropdownItem<Type>>
+            if (TypeSelector == null)
             {
-                new ValueDropdownItem<Type>("Primitives/String", typeof(string)),
-                new ValueDropdownItem<Type>("Primitives/Int", typeof(int)),
-                new ValueDropdownItem<Type>("Primitives/Float", typeof(float)),
-                new ValueDropdownItem<Type>("Primitives/Bool", typeof(bool)),
-                new ValueDropdownItem<Type>("Primitives/Double", typeof(double)),
-                new ValueDropdownItem<Type>("Primitives/Long", typeof(long)),
-                new ValueDropdownItem<Type>("Primitives/Byte", typeof(byte)),
-                new ValueDropdownItem<Type>("Primitives/Short", typeof(short)),
-            };
-
-            // ADD EDITOR-ONLY TYPES HERE
-            var editorTypes = new List<ValueDropdownItem<Type>>();
-#if UNITY_EDITOR
-            editorTypes.Add(new ValueDropdownItem<Type>("Unity/Editor/SceneAsset", typeof(SceneAsset)));
-            editorTypes.Add(new ValueDropdownItem<Type>("Unity/Editor/MonoScript", typeof(MonoScript)));
-            editorTypes.Add(new ValueDropdownItem<Type>("Unity/Editor/DefaultAsset", typeof(DefaultAsset)));
-#endif
-
-            var assemblies = AppDomain.CurrentDomain.GetAssemblies()
-                .Where(a => a.GetName().Name.Contains("Assembly-CSharp") ||
-                            a.GetName().Name.Contains("UnityEngine"));
-
-            var otherTypes = assemblies.SelectMany(a => a.GetTypes())
-                .Where(t => t != null && !t.IsAbstract && !t.IsInterface && !t.IsGenericType)
-                .Where(t => typeof(UnityEngine.Object).IsAssignableFrom(t) ||
-                            (t.IsSerializable && !t.IsPrimitive && t != typeof(string)))
-                .Select(t =>
-                {
-                    string category;
-                    if (typeof(ScriptableObject).IsAssignableFrom(t))
-                    {
-                        category = "Unity/ScriptableObjects";
-                    }
-                    else if (typeof(MonoBehaviour).IsAssignableFrom(t))
-                    {
-                        category = "Unity/Components";
-                    }
-                    else if (typeof(UnityEngine.Object).IsAssignableFrom(t))
-                    {
-                        category = "Unity/Other";
-                    }
-                    else
-                    {
-                        category = "Classes";
-                    }
-
-                    return new ValueDropdownItem<Type>($"{category}/{t.Name}", t);
-                });
-
-            // COMBINE ALL TYPES INCLUDING EDITOR TYPES
-            return primitiveTypes
-                .Concat(editorTypes)
-                .Concat(otherTypes)
-                .OrderBy(item => item.Text);
+                TypeSelector = new TypeSelector(TypeFilter.None, withValueField: true, horizontal: true);
+            }
+            
+            TypeSelector.EnsureTypedValueInitialized();
         }
     }
 }

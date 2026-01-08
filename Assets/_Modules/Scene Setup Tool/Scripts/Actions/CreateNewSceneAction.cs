@@ -48,6 +48,7 @@ namespace SceneSetupTool
         [Title("Post created")] 
         public bool OpenSceneAfterCreated;
 
+        [Title("Output")]
         public BlackboardOutput SceneOutput = new();
         public override void Execute()
         {
@@ -58,12 +59,14 @@ namespace SceneSetupTool
             string folderName = FolderName.GetValue(key => Blackboard.Get<string>(key));
             
             string folderPath = GetFolderPath(folderName);
+            
+            string destinationPath = $"{folderPath}/{sceneName}.unity";
 
             if (!SceneUtils.CheckSceneExisted(sceneName, folderPath)) return;
 
             if (CreateFromTemplate)
             {
-                CreateSceneFromTemplate(folderPath);
+                CreateSceneFromTemplate(destinationPath);
             }
             else
             {
@@ -114,15 +117,15 @@ namespace SceneSetupTool
         //     return sceneName;
         // }
 
-        private void CreateSceneFromTemplate(string folderPath)
+        private void CreateSceneFromTemplate(string destinationPath)
         {
             if (TemplateScene == null)
             {
                 Debug.LogWarning("[CreateNewSceneAction] Template scene is null.");
                 return;
             }
-
-            AssetDatabaseUtils.CopyAsset(TemplateScene, folderPath);
+            
+            AssetDatabaseUtils.CopyAsset(TemplateScene, destinationPath);
         }
 
         private void CreateNewScene(string sceneName, string folderPath)
