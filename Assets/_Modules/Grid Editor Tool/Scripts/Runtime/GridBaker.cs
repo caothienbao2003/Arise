@@ -2,6 +2,7 @@ using Sirenix.OdinInspector;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using CTB;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Tilemaps;
@@ -16,15 +17,18 @@ namespace GridTool
 
     public class GridBaker : MonoBehaviour
     {
-        // --- PUBLIC INSPECTOR FIELDS ---
-        
         [Title("Grid Layers")]
         [ListDrawerSettings(ShowFoldout = true, CustomAddFunction = nameof(CreateNewLayer))]
-        public List<GridLayer> layers = new();
+        public List<GridLayer> gridLayers = new();
 
-        [Required("Output Map Data must be assigned!")]
-        [AssetsOnly]
-        public GridDataSO outputMapData;
+
+        private List<TerrainTypeSO> terrainTypeSos = new List<TerrainTypeSO>();
+
+        // [Required("Output Map Data must be assigned!")]
+        // [AssetsOnly]
+        private GridDataSO gridData => GridManager.Instance.GridData;
+
+        public LevelEditorSO LevelEditorSO;
         
         private GridLayer CreateNewLayer()
         {
@@ -33,22 +37,24 @@ namespace GridTool
 
         public void SetGridLayers(List<GridLayer> layers)
         {
-            this.layers = layers;
-        }
-
-        public void SetOutputMapData(GridDataSO outputMapData)
-        {
-            this.outputMapData = outputMapData;
+            this.gridLayers = layers;
         }
         
-        // --- PUBLIC EDITOR METHODS (Buttons) ---
 #if UNITY_EDITOR
+
+        [Button(ButtonSizes.Medium)]
+        [GUIColor(0.8f, 0.8f, 0.3f)] // Utility color
+        public void SetUpLayers()
+        {
+            terrainTypeSos = LevelEditorSO.TerrainTypes;
+            SetupTilemapLayerGameObjects(terrainTypeSos);
+        }
         
         [Button(ButtonSizes.Medium)]
         [GUIColor(0.8f, 0.8f, 0.3f)] // Utility color
         public void ResetAttributes()
         {
-            foreach (GridLayer layer in layers)
+            foreach (GridLayer layer in gridLayers)
             {
                 if (layer.TerrainType != null)
                 {
@@ -83,18 +89,18 @@ namespace GridTool
             
             FinalizeBake(cellDataDict);
             
-            Debug.Log($"Map baked successfully with {outputMapData.CellDatas.Count} cells.");
+            Debug.Log($"Map baked successfully with {gridData.CellDatas.Count} cells.");
         }
         
         private bool ValidateBakeConditions()
         {
-            if (outputMapData == null)
+            if (gridData == null)
             {
                 Debug.LogError("Bake Failed: Output Asset is not assigned.");
                 return false;
             }
 
-            if (layers.Count == 0)
+            if (gridLayers.Count == 0)
             {
                 Debug.LogError("Bake Failed: No layers assigned to bake.");
                 return false;
@@ -104,8 +110,8 @@ namespace GridTool
 
         private BoundsInt InitializeBake(Dictionary<Vector2Int, CellData> cellDataDict)
         {
-            outputMapData.ClearCellDatas();
-            outputMapData.SetCellSize(GetTilemapCellSize());
+            gridData.ClearCellDatas();
+            gridData.SetCellSize(GetTilemapCellSize());
             
             // cellDataDict is already new, so no need to clear it.
             return CalculateOverallBounds();
@@ -115,9 +121,9 @@ namespace GridTool
         {
             // Sort layers: 'b.Priority.CompareTo(a.Priority)' sorts in DESCENDING order.
             // This means layers with a HIGHER Priority value are processed first.
-            layers.Sort((a, b) => b.Priority.CompareTo(a.Priority)); 
+            gridLayers.Sort((a, b) => b.Priority.CompareTo(a.Priority)); 
 
-            foreach (GridLayer layer in layers)
+            foreach (GridLayer layer in gridLayers)
             {
                 if (!IsLayerValid(layer))
                 {
@@ -135,10 +141,10 @@ namespace GridTool
             // Batch add the generated cell data
             foreach (var kvp in cellDataDict)
             {
-                outputMapData.AddCellData(kvp.Value);
+                gridData.AddCellData(kvp.Value);
             }
 
-            outputMapData.SortCellDatas(); // Sort the final list
+            gridData.SortCellDatas(); // Sort the final list
             
             SaveGridAsset();
         }
@@ -204,7 +210,7 @@ namespace GridTool
             BoundsInt overallBounds = new();
             bool firstBounds = true;
 
-            foreach (GridLayer layer in layers)
+            foreach (GridLayer layer in gridLayers)
             {
                 if (layer.TileMap == null) continue;
 
@@ -247,14 +253,14 @@ namespace GridTool
 
         private void SaveGridAsset()
         {
-            EditorUtility.SetDirty(outputMapData);
-            AssetDatabase.SaveAssetIfDirty(outputMapData);
+            EditorUtility.SetDirty(gridData);
+            AssetDatabase.SaveAssetIfDirty(gridData);
             AssetDatabase.Refresh();
         }
         
         private float GetTilemapCellSize()
         {
-            foreach (GridLayer layer in layers)
+            foreach (GridLayer layer in gridLayers)
             {
                 if (layer.TileMap != null)
                 {
@@ -265,6 +271,49 @@ namespace GridTool
             Debug.LogWarning("No valid tilemap found, using default cell size 1.0.");
             return 1f;
         }
+
+        #region SetUpTilemap and GridLayers
+        private void SetupTilemapLayerGameObjects(List<TerrainTypeSO> terrainTypes)
+        {
+            if (terrainTypes == null || terrainTypes.Count == 0) return;
+            
+            gridLayers = new List<GridLayer>();
+            GameObject gridParent = GameObjectUtils.FindOrCreateComponent<Grid>("Grid").gameObject;
+
+            foreach (TerrainTypeSO terrain in terrainTypes)
+            {
+                Tilemap layerTileMap = ProcessTilemapLayer(terrain, gridParent);
+
+                // Determine name based on rendering status
+                // string layerGOName = terrain.IsRender ? $"Core_{terrain.DisplayName}" : $"NoRender_{terrain.DisplayName}";
+
+                GridLayer newLayer = new GridLayer
+                {
+                    LayerName = terrain.DisplayName,
+                    TerrainType = terrain,
+                    TileMap = layerTileMap,
+                    Priority = terrain.Priority
+                };
+                gridLayers.Add(newLayer);
+            }
+        }
+        private Tilemap ProcessTilemapLayer(TerrainTypeSO terrain, GameObject gridParent)
+        {
+            string layerGOName = $"Grid_{terrain.DisplayName}";
+
+            GameObject tileMapLayerGO = GameObjectUtils.FindOrCreateGameObject(layerGOName);
+            tileMapLayerGO.transform.SetParent(gridParent.transform);
+
+            Tilemap layerTileMap = tileMapLayerGO.AddComponent<Tilemap>();
+            TilemapRenderer tilemapRenderer = tileMapLayerGO.AddComponent<TilemapRenderer>();
+
+            // Set sorting order based on index to ensure consistent rendering
+            tilemapRenderer.sortingOrder = terrain.Priority;
+
+            return layerTileMap;
+        }
+        #endregion
+        
 #endif
     }
 }

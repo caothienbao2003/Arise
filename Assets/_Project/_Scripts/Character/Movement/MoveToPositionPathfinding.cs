@@ -20,11 +20,18 @@ public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
 
     private IMoveToDirection moveToDirectionComponent => _moveToDirectionComponent ??= GetComponent<IMoveToDirection>();
 
+    private Pathfinding<CellData> pathfinding;
+    
+    public void SetPathFinding(Pathfinding<CellData> pathfinding)
+    {
+        this.pathfinding = pathfinding;
+    }
+    
     public void SetMoveTargetPosition(Vector3 targetPosition)
     {
         Debug.Log($"[MoveToPositionPathfinding] SetMoveTargetPosition] {targetPosition}");
 
-        List<Vector3> tempPathList = GridManager.Instance.CurrentPathfinding.FindPath(transform.position, targetPosition);
+        List<Vector3> tempPathList = pathfinding.FindPath(transform.position, targetPosition);
 
         if (tempPathList == null)
         {

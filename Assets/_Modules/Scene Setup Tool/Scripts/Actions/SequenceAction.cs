@@ -11,14 +11,19 @@ namespace SceneSetupTool
     [Serializable]
     public abstract class SequenceAction
     {
-        public Blackboard Blackboard { get; set;}
-        
-        [HideInInspector, NonSerialized]
-        public IEnumerable<string> AvailableKeys = new List<string>();
-        
+        [BoxGroup("Description")]
+        [TextArea(minLines: 1, maxLines: 10)] 
+        [SerializeField]
+        [HideLabel]
+        private string description;
+
+        public Blackboard Blackboard { get; set; }
+
+        [HideInInspector, NonSerialized] public IEnumerable<string> AvailableKeys = new List<string>();
+
         [Button(ButtonSizes.Medium, ButtonStyle.Box), GUIColor(0.6f, 1f, 0.4f)]
         public abstract void Execute();
-        
+
         [OnInspectorGUI]
         private void InjectKeys()
         {
@@ -61,13 +66,14 @@ namespace SceneSetupTool
                         InjectKeysRecursive(item, visited);
                     }
                 }
+
                 return;
             }
 
             // Get all fields (public, private, instance)
             FieldInfo[] fields = type.GetFields(
-                BindingFlags.Public | 
-                BindingFlags.NonPublic | 
+                BindingFlags.Public |
+                BindingFlags.NonPublic |
                 BindingFlags.Instance
             );
 

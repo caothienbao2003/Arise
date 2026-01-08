@@ -5,6 +5,7 @@ using Sirenix.Serialization;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 
 namespace SceneSetupTool
@@ -18,7 +19,7 @@ namespace SceneSetupTool
         public SceneAsset TemplateScene;
         
         [InfoBox("@\"Full file name: \" + SceneFullName + \".asset\"")]
-        public BlackboardVariable<string> SceneName;
+        public BlackboardVariable<string> SceneName = new();
 
         [Space]
         
@@ -38,7 +39,7 @@ namespace SceneSetupTool
         public bool CreateNewFolder;
         
         [ShowIf(nameof(CreateNewFolder))]
-        public BlackboardVariable<string> FolderName;
+        public BlackboardVariable<string> FolderName = new();
 
         [Title("Scene Setup")] public NewSceneMode NewSceneMode = NewSceneMode.Single;
 
@@ -46,7 +47,8 @@ namespace SceneSetupTool
 
         [Title("Post created")] 
         public bool OpenSceneAfterCreated;
-        
+
+        public BlackboardOutput SceneOutput = new();
         public override void Execute()
         {
             if (!ValidateInputs()) return;
@@ -74,6 +76,10 @@ namespace SceneSetupTool
             {
                 SceneUtils.OpenScene(sceneName, folderPath, OpenSceneMode.Additive);
             }
+            
+            SceneAsset newScene = SceneUtils.GetSceneAsset(sceneName, folderPath);
+            
+            SceneOutput.TrySave(Blackboard, newScene);
         }
 
         private string GetFolderPath(string folderName)

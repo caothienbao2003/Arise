@@ -7,38 +7,38 @@ namespace GridTool
 {
     public class GridInitializer : MonoBehaviour
     {
-        public GridDataSO GridDataSO;
-        private Grid<CellData> _runtimeGrid;
-        public Grid<CellData> RuntimeGrid
-        {
-            get
-            {
-                if (_runtimeGrid == null)
-                {
-                    _runtimeGrid = GridDataSO.CreateRuntimeGrid();
-                }
-                return _runtimeGrid;
-            }
-        }
-
-        private Pathfinding<CellData> _pathfinding;
-
-        public Pathfinding<CellData> Pathfinding
-        {
-            get
-            {
-                if (_pathfinding == null)
-                {
-                    _pathfinding = new Pathfinding<CellData>(RuntimeGrid);
-                }
-                return _pathfinding;
-            }
-        }
-
-        private void Awake()
-        {
-            GridManager.Instance.SetRuntimeGrid(RuntimeGrid);
-            GridManager.Instance.SetPathfinding(Pathfinding);
-        }
+        // public GridDataSO GridDataSO;
+        // private Grid<CellData> _runtimeGrid;
+        // public Grid<CellData> RuntimeGrid
+        // {
+        //     get
+        //     {
+        //         if (_runtimeGrid == null)
+        //         {
+        //             _runtimeGrid = GridDataSO.CreateRuntimeGrid();
+        //         }
+        //         return _runtimeGrid;
+        //     }
+        // }
+        //
+        // private Pathfinding<CellData> _pathfinding;
+        //
+        // public Pathfinding<CellData> Pathfinding
+        // {
+        //     get
+        //     {
+        //         if (_pathfinding == null)
+        //         {
+        //             _pathfinding = new Pathfinding<CellData>(RuntimeGrid);
+        //         }
+        //         return _pathfinding;
+        //     }
+        // }
+        //
+        // private void Awake()
+        // {
+        //     LevelManager.Instance.SetRuntimeGrid(RuntimeGrid);
+        //     LevelManager.Instance.SetPathfinding(Pathfinding);
+        // }
     }
 }

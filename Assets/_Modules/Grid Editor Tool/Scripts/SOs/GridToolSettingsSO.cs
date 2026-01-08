@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Sirenix.OdinInspector;
 using System.IO;
 using System.Linq;
@@ -13,14 +14,18 @@ namespace GridTool
         //private const string assetPath = defaultFolder + "/MapToolSettings.asset";
 
 #if UNITY_EDITOR
+
         #region Terrain types settings
-        [TabGroup("Terrain types settings")]
-        [SerializeField]
-        [FolderPath]
+
+        [TabGroup("Terrain types settings")] [SerializeField] [FolderPath]
         public string TerrainTypePath;
+
+        public List<TerrainTypeSO> DefaultTerrainTypes;
+        
         #endregion
 
         #region Level settings
+
         [TabGroup("Level settings")]
         [FolderPath]
         [SerializeField]
@@ -39,16 +44,16 @@ namespace GridTool
         [InfoBox("Path where grid data ScriptableObjects are stored.", InfoMessageType.None)]
         public string GridDataPath;
 
-        [TabGroup("Level settings")]
-        [SerializeField]
-        [InfoBox("Template scene for each level", InfoMessageType.None)]
+        [TabGroup("Level settings")] [SerializeField] [InfoBox("Template scene for each level", InfoMessageType.None)]
         public SceneAsset TemplateScene;
-        
+
         [TabGroup("Level settings")]
         [SerializeField]
         [InfoBox("If check then a parent folder is created with the name of the scene", InfoMessageType.None)]
         public bool IsGenericFolder = true;
+
         #endregion
+
 #endif
     }
 }

@@ -40,6 +40,8 @@ namespace SceneSetupTool
                     action.Execute();
                 }
             }
+            
+            Blackboard.ClearRuntimeData();
         }
         
         [OnInspectorGUI]

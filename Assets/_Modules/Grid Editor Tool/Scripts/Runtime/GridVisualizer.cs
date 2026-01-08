@@ -14,23 +14,9 @@ namespace GridTool
         [SerializeField] private Color labelColor = Color.white;
         [SerializeField] private int labelFontSize = 12;
 
-        [SerializeField] private GridInitializer gridInitializer;
-        
-        private GridInitializer GridInitializer
-        {
-            get
-            {
-                if (gridInitializer == null)
-                {
-                    gridInitializer = GetComponent<GridInitializer>();
-                }
-                return gridInitializer;
-            }
-        }
-        
-        private GridDataSO gridData => GridInitializer.GridDataSO;
-        private Grid<CellData> runtimeGrid => GridInitializer.RuntimeGrid;
-        private Pathfinding<CellData> pathfinding => GridInitializer.Pathfinding;
+        private GridDataSO gridData => GridManager.Instance.GridData;
+        private Grid<CellData> runtimeGrid => GridManager.Instance.RuntimeGrid;
+        private Pathfinding<CellData> pathfinding => GridManager.Instance.Pathfinding;
 
         void OnDrawGizmos()
         {

@@ -59,8 +59,6 @@ namespace GridTool
         private GridDataSO gridData;
         private SceneAsset levelScene;
 
-
-
         public CreateNewLevelWindow() { }
 
         #region Editor
@@ -83,7 +81,7 @@ namespace GridTool
 
                 newScenePath = $"{genericFolderPath}/{levelName}.unity";
                 newGridDataPath = $"{genericFolderPath}/{levelName}_GridData.asset";
-                newLevelDataPath = $"{genericFolderPath}/{levelName}_LevelData.asset";
+                newLevelDataPath = $"{genericFolderPath}/{levelName}_LevelEditor.asset";
             }
             else
             {
@@ -93,7 +91,7 @@ namespace GridTool
 
                 newScenePath = $"{NewSceneFolderPath}/{levelName}.unity";
                 newGridDataPath = $"{NewGridDataFolderPath}/{levelName}_GridData.asset";
-                newLevelDataPath = $"{NewLevelDataFolderPath}/{levelName}_LevelData.asset";
+                newLevelDataPath = $"{NewLevelDataFolderPath}/{levelName}_LevelEditor.asset";
             }
 
             if (!CreateOrCopyNewSceneFromTemplate(newScenePath))
@@ -106,7 +104,7 @@ namespace GridTool
                 return;
             }
 
-            if (!CreateLevelDataAsset(newLevelDataPath, out LevelDataSO levelData))
+            if (!CreateLevelDataAsset(newLevelDataPath, out LevelEditorSO levelData))
             {
                 return;
             }
@@ -228,19 +226,19 @@ namespace GridTool
 
             return true;
         }
-        private bool CreateLevelDataAsset(string newLevelDataPath, out LevelDataSO levelData)
+        private bool CreateLevelDataAsset(string newLevelDataPath, out LevelEditorSO levelEditor)
         {
-            levelData = null;
+            levelEditor = null;
 
             string levelDataAssetName = $"{levelName}_LevelData";
-            levelData = ScriptableObject.CreateInstance<LevelDataSO>();
-            levelData.name = levelDataAssetName;
-            levelData.levelScene = levelScene;
-            levelData.levelName = levelName;
-            levelData.gridData = gridData;
-            AssetDatabaseUtils.CreateAsset(levelData, newLevelDataPath);
+            levelEditor = ScriptableObject.CreateInstance<LevelEditorSO>();
+            levelEditor.name = levelDataAssetName;
+            levelEditor.levelScene = levelScene;
+            levelEditor.levelName = levelName;
+            levelEditor.GridData = gridData;
+            AssetDatabaseUtils.CreateAsset(levelEditor, newLevelDataPath);
 
-            if (levelData == null)
+            if (levelEditor == null)
             {
                 Debug.LogError($"[CreateNewLevelWindow] Failed to create LevelData asset at path: {newLevelDataPath}");
                 return false;
@@ -253,82 +251,44 @@ namespace GridTool
         #region Setup Tilemap and GridBaker
         private void SetupScene(Scene newScene)
         {
-            SetUpGridTilemap();
+            // SetUpGridTilemap();
             SetUpGridBaker();
 
             EditorSceneManager.MarkSceneDirty(newScene);
             AssetDatabase.SaveAssets();
         }
 
-        private void SetUpGridTilemap()
-        {
-            TerrainTypeSO[] terrainTypes = AssetDatabaseUtils.GetAllAssetsInFolder<TerrainTypeSO>(TerrainTypesPath);
-            SetupTilemapLayerGameObjects(terrainTypes);
-        }
+        // private void SetUpGridTilemap()
+        // {
+        //     TerrainTypeSO[] terrainTypes = AssetDatabaseUtils.GetAllAssetsInFolder<TerrainTypeSO>(TerrainTypesPath);
+        //     SetupTilemapLayerGameObjects(terrainTypes);
+        // }
 
         private void SetUpGridBaker()
         {
             GridBaker gridBaker = GameObjectUtils.FindOrCreateComponent<GridBaker>("MapBaker");
 
             gridBaker.SetGridLayers(gridLayers);
-            gridBaker.SetOutputMapData(gridData);
+            // gridBaker.SetOutputMapData(gridData);
 
             EditorUtility.SetDirty(gridBaker);
             EditorUtility.SetDirty(gridBaker.gameObject);
         }
-
-        private void SetupTilemapLayerGameObjects(TerrainTypeSO[] terrainTypes)
-        {
-            gridLayers = new List<GridLayer>();
-            GameObject gridParent = GameObjectUtils.FindOrCreateComponent<Grid>("Grid").gameObject;
-
-            foreach (TerrainTypeSO terrain in terrainTypes)
-            {
-                Tilemap layerTileMap = ProcessTilemapLayer(terrain, gridParent);
-
-                // Determine name based on rendering status
-                // string layerGOName = terrain.IsRender ? $"Core_{terrain.DisplayName}" : $"NoRender_{terrain.DisplayName}";
-
-                GridLayer newLayer = new GridLayer
-                {
-                    LayerName = terrain.DisplayName,
-                    TerrainType = terrain,
-                    TileMap = layerTileMap,
-                    Priority = terrain.Priority
-                };
-                gridLayers.Add(newLayer);
-            }
-        }
-        private Tilemap ProcessTilemapLayer(TerrainTypeSO terrain, GameObject gridParent)
-        {
-            string layerGOName = $"Grid_{terrain.DisplayName}";
-
-            GameObject tileMapLayerGO = GameObjectUtils.FindOrCreateGameObject(layerGOName);
-            tileMapLayerGO.transform.SetParent(gridParent.transform);
-
-            Tilemap layerTileMap = tileMapLayerGO.AddComponent<Tilemap>();
-            TilemapRenderer tilemapRenderer = tileMapLayerGO.AddComponent<TilemapRenderer>();
-
-            // Set sorting order based on index to ensure consistent rendering
-            tilemapRenderer.sortingOrder = terrain.Priority;
-
-            return layerTileMap;
-        }
         #endregion
 
         #region Setup Visualization
-        private void SetupGridInitializer()
-        {
-            if (gridData == null) return;
-            GridInitializer gridInitializer = GameObjectUtils.FindOrCreateComponent<GridInitializer>("Grid Controller");
-
-            if (VisualizeGrid) SetupGridVisualization(gridInitializer);
-        }
-        private void SetupGridVisualization(GridInitializer gridInitializer)
-        {
-            gridInitializer.GridDataSO = gridData;
-            gridInitializer.AddComponent<GridVisualizer>();
-        }
+        // private void SetupGridInitializer()
+        // {
+        //     if (gridData == null) return;
+        //     GridInitializer gridInitializer = GameObjectUtils.FindOrCreateComponent<GridInitializer>("Grid Controller");
+        //
+        //     if (VisualizeGrid) SetupGridVisualization(gridInitializer);
+        // }
+        // private void SetupGridVisualization(GridInitializer gridInitializer)
+        // {
+        //     gridInitializer.GridDataSO = gridData;
+        //     gridInitializer.AddComponent<GridVisualizer>();
+        // }
         #endregion
     }
 

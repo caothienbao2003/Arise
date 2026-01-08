@@ -25,7 +25,7 @@ namespace CTB
             NewSceneMode newSceneMode = NewSceneMode.Single,
             bool setActiveAfterCreation = true,
             bool pingAfterCreation = true
-            )
+        )
         {
             AssetDatabaseUtils.EnsureFolderExists(sceneFolderPath);
 
@@ -45,8 +45,9 @@ namespace CTB
             {
                 PingScene(scenePath);
             }
+
             AssetDatabase.Refresh();
-            
+
             return true;
         }
 
@@ -75,12 +76,35 @@ namespace CTB
             return loadedScene;
         }
 
-        public static Scene OpenScene(string sceneName, string sceneFolderPath,OpenSceneMode mode = OpenSceneMode.Single)
+        public static Scene OpenScene(string sceneName, string sceneFolderPath,
+            OpenSceneMode mode = OpenSceneMode.Single)
         {
             string scenePath = $"{sceneFolderPath}/{sceneName}.unity";
             return OpenScene(scenePath, mode);
         }
-        
+
+        public static Scene GetScene(string scenePath)
+        {
+            return SceneManager.GetSceneByPath(scenePath);
+        }
+
+        public static Scene GetScene(string sceneName, string sceneFolderPath)
+        {
+            string scenePath = $"{sceneFolderPath}/{sceneName}.unity";
+            return GetScene(scenePath);
+        }
+
+        public static SceneAsset GetSceneAsset(string scenePath)
+        {
+            return AssetDatabase.LoadAssetAtPath<SceneAsset>(scenePath);
+        }
+
+        public static SceneAsset GetSceneAsset(string sceneName, string sceneFolderPath)
+        {
+            string scenePath = $"{sceneFolderPath}/{sceneName}.unity";
+            return GetSceneAsset(scenePath);
+        }
+
         /// <summary>
         /// Closes a scene.
         /// </summary>
@@ -91,7 +115,8 @@ namespace CTB
 
             if (!targetScene.IsValid() || !targetScene.isLoaded)
             {
-                Debug.LogWarning($"Scene '{sceneName}' (path: {scenePath}) is not valid or not loaded. Nothing to close.");
+                Debug.LogWarning(
+                    $"Scene '{sceneName}' (path: {scenePath}) is not valid or not loaded. Nothing to close.");
                 return true;
             }
 
@@ -118,7 +143,7 @@ namespace CTB
             SceneExecutionMode mode = SceneExecutionMode.CloseTargetAfter,
             bool saveAfterAction = true,
             bool saveOnClose = true
-            )
+        )
         {
             if (!targetScene.IsValid() || string.IsNullOrEmpty(targetScene.path))
             {
@@ -138,7 +163,7 @@ namespace CTB
             SceneExecutionMode mode = SceneExecutionMode.CloseTargetAfter,
             bool saveAfterAction = true,
             bool saveOnClose = true
-            )
+        )
         {
             if (sceneAsset == null)
             {
@@ -166,7 +191,7 @@ namespace CTB
             SceneExecutionMode mode = SceneExecutionMode.CloseTargetAfter,
             bool saveAfterAction = true,
             bool saveOnClose = true
-            )
+        )
         {
             if (action == null)
             {
@@ -216,7 +241,8 @@ namespace CTB
             }
             catch (Exception ex)
             {
-                Debug.LogError($"Exception occurred while executing action in scene '{targetScene.name}': {ex.Message}");
+                Debug.LogError(
+                    $"Exception occurred while executing action in scene '{targetScene.name}': {ex.Message}");
             }
             finally
             {
@@ -245,7 +271,8 @@ namespace CTB
             }
             catch (Exception ex)
             {
-                Debug.LogError($"Exception occurred while executing action in current scene '{currentScene.name}': {ex.Message}");
+                Debug.LogError(
+                    $"Exception occurred while executing action in current scene '{currentScene.name}': {ex.Message}");
                 return false;
             }
         }
@@ -259,6 +286,7 @@ namespace CTB
             {
                 return false;
             }
+
             return true;
         }
 
@@ -292,7 +320,7 @@ namespace CTB
             Scene originalScene,
             SceneExecutionMode mode,
             bool saveOnClose
-            )
+        )
         {
             switch (mode)
             {
@@ -306,6 +334,7 @@ namespace CTB
                     {
                         SceneManager.SetActiveScene(originalScene);
                     }
+
                     break;
 
                 case SceneExecutionMode.CloseOriginalAfter:
@@ -313,6 +342,7 @@ namespace CTB
                     {
                         CloseScene(originalScene, saveOnClose);
                     }
+
                     break;
             }
         }
@@ -326,7 +356,7 @@ namespace CTB
         {
             PingScene(AssetDatabase.GetAssetPath(sceneAsset));
         }
-        
+
         public static void PingScene(Scene scene)
         {
             PingScene(scene.path);
@@ -345,16 +375,17 @@ namespace CTB
             if (File.Exists(scenePath))
             {
                 if (!EditorUtility.DisplayDialog(
-                    "Scene already exist",
-                    $"A scene name '{sceneName}' already exist at: \n{sceneFolderPath}",
-                    "Override",
-                    "Cancel"))
+                        "Scene already exist",
+                        $"A scene name '{sceneName}' already exist at: \n{sceneFolderPath}",
+                        "Override",
+                        "Cancel"))
                 {
                     return false;
                 }
 
                 AssetDatabase.DeleteAsset(sceneFolderPath);
             }
+
             return true;
         }
 #endif

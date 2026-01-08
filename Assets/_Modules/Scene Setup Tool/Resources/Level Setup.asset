@@ -17,6 +17,7 @@ MonoBehaviour:
     SerializedBytes: 
     ReferencedUnityObjects:
     - {fileID: 11400000, guid: 6ca29ade983136b44aec663114c1390d, type: 2}
+    - {fileID: 11400000, guid: aa64418434ebdda46b8dd9e06b0f6198, type: 2}
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
@@ -70,7 +71,7 @@ MonoBehaviour:
       Data: 
     - Name: IsPersistent
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -106,7 +107,7 @@ MonoBehaviour:
       Data: 
     - Name: IsPersistent
       Entry: 5
-      Data: false
+      Data: true
     - Name: 
       Entry: 8
       Data: 
@@ -121,7 +122,7 @@ MonoBehaviour:
       Data: 10|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: GridTool.LevelDataSO, Assembly-CSharp
+      Data: GridTool.LevelEditorSO, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 
@@ -168,8 +169,8 @@ MonoBehaviour:
       Entry: 9
       Data: 13
     - Name: ValueAsset
-      Entry: 6
-      Data: 
+      Entry: 10
+      Data: 1
     - Name: ValuePrimitive
       Entry: 6
       Data: 
@@ -187,27 +188,27 @@ MonoBehaviour:
       Data: 15|CTB.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: Some other
+      Data: LevelScene
     - Name: EntryType
-      Entry: 9
-      Data: 3
+      Entry: 7
+      Data: 16|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEditor.SceneAsset, UnityEditor.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: TypedValue
       Entry: 7
-      Data: 16|TypedValue, Assembly-CSharp
+      Data: 17|TypedValue, Assembly-CSharp
     - Name: cachedType
       Entry: 9
-      Data: 3
+      Data: 16
     - Name: ValueAsset
       Entry: 6
       Data: 
     - Name: ValuePrimitive
-      Entry: 7
-      Data: 17|System.String, mscorlib
-    - Name: 
-      Entry: 1
-      Data: asdasdasdasd
-    - Name: 
-      Entry: 8
+      Entry: 6
       Data: 
     - Name: 
       Entry: 8
@@ -233,10 +234,13 @@ MonoBehaviour:
         Assembly-CSharp]], mscorlib
     - Name: 
       Entry: 12
-      Data: 6
+      Data: 5
     - Name: 
       Entry: 7
       Data: 19|SceneSetupTool.CreateGameObjectAction, Assembly-CSharp
+    - Name: description
+      Entry: 6
+      Data: 
     - Name: GameObjectName
       Entry: 7
       Data: 20|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
@@ -294,6 +298,9 @@ MonoBehaviour:
     - Name: 
       Entry: 7
       Data: 23|SceneSetupTool.CreateNewSceneAction, Assembly-CSharp
+    - Name: description
+      Entry: 6
+      Data: 
     - Name: CreateFromTemplate
       Entry: 5
       Data: false
@@ -351,15 +358,30 @@ MonoBehaviour:
     - Name: OpenSceneAfterCreated
       Entry: 5
       Data: true
+    - Name: SceneOutput
+      Entry: 7
+      Data: 26|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+    - Name: SaveToBlackboard
+      Entry: 5
+      Data: true
+    - Name: Key
+      Entry: 1
+      Data: LevelScene
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: 
       Entry: 8
       Data: 
     - Name: 
       Entry: 7
-      Data: 26|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
+      Data: 27|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
+    - Name: description
+      Entry: 6
+      Data: 
     - Name: FileName
       Entry: 7
-      Data: 27|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+      Data: 28|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -386,7 +408,7 @@ MonoBehaviour:
       Data: true
     - Name: FolderName
       Entry: 7
-      Data: 28|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+      Data: 29|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -401,7 +423,7 @@ MonoBehaviour:
       Data: 
     - Name: OutputAsset
       Entry: 7
-      Data: 29|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+      Data: 30|SceneSetupTool.BlackboardOutput, Assembly-CSharp
     - Name: SaveToBlackboard
       Entry: 5
       Data: true
@@ -420,10 +442,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 30|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
+      Data: 31|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
+    - Name: description
+      Entry: 6
+      Data: 
     - Name: FileName
       Entry: 7
-      Data: 31|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+      Data: 32|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -441,7 +466,7 @@ MonoBehaviour:
       Data: 
     - Name: FileNameSuffix
       Entry: 1
-      Data: _LevelData
+      Data: _LevelEditor
     - Name: FolderPath
       Entry: 1
       Data: Assets/_Modules/Grid Editor Tool/Resources/Levels
@@ -450,7 +475,7 @@ MonoBehaviour:
       Data: true
     - Name: FolderName
       Entry: 7
-      Data: 32|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+      Data: 33|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -465,7 +490,7 @@ MonoBehaviour:
       Data: 
     - Name: OutputAsset
       Entry: 7
-      Data: 33|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+      Data: 34|SceneSetupTool.BlackboardOutput, Assembly-CSharp
     - Name: SaveToBlackboard
       Entry: 5
       Data: true
@@ -484,53 +509,29 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 34|SceneSetupTool.SetScriptableObjectPropertyAction, Assembly-CSharp
-    - Name: BlackboardKey
-      Entry: 1
-      Data: GridDataSO
-    - Name: FieldName
-      Entry: 1
-      Data: cellDatas
-    - Name: NewValue
-      Entry: 7
-      Data: 35|TypedValue, Assembly-CSharp
-    - Name: cachedType
+      Data: 35|SceneSetupTool.SetPropertiesAction, Assembly-CSharp
+    - Name: description
       Entry: 6
       Data: 
-    - Name: ValueAsset
-      Entry: 6
-      Data: 
-    - Name: ValuePrimitive
-      Entry: 6
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 36|SceneSetupTool.SetPropertiesAction, Assembly-CSharp
     - Name: BlackboardKey
       Entry: 1
       Data: LevelDataSO
     - Name: FieldAssignments
       Entry: 7
-      Data: 37|System.Collections.Generic.List`1[[SceneSetupTool.FieldAssignment,
+      Data: 36|System.Collections.Generic.List`1[[SceneSetupTool.FieldAssignment,
         Assembly-CSharp]], mscorlib
     - Name: 
       Entry: 12
-      Data: 2
+      Data: 3
     - Name: 
       Entry: 7
-      Data: 38|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 37|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
-      Data: levelName
+      Data: levelScene
     - Name: Value
       Entry: 7
-      Data: 39|SceneSetupTool.BlackboardVariable`1[[TypedValue, Assembly-CSharp]],
+      Data: 38|SceneSetupTool.BlackboardVariable`1[[TypedValue, Assembly-CSharp]],
         Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
@@ -540,7 +541,7 @@ MonoBehaviour:
       Data: 
     - Name: BlackboardKey
       Entry: 1
-      Data: Some other
+      Data: LevelScene
     - Name: 
       Entry: 8
       Data: 
@@ -549,13 +550,38 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 40|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 39|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
-      Data: gridData
+      Data: levelName
     - Name: Value
       Entry: 7
-      Data: 41|SceneSetupTool.BlackboardVariable`1[[TypedValue, Assembly-CSharp]],
+      Data: 40|SceneSetupTool.BlackboardVariable`1[[TypedValue, Assembly-CSharp]],
+        Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: Level_name
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 41|SceneSetupTool.FieldAssignment, Assembly-CSharp
+    - Name: FieldName
+      Entry: 1
+      Data: GridData
+    - Name: Value
+      Entry: 7
+      Data: 42|SceneSetupTool.BlackboardVariable`1[[TypedValue, Assembly-CSharp]],
         Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5

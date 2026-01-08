@@ -1,4 +1,6 @@
 #if UNITY_EDITOR
+using System;
+using System.Collections.Generic;
 using CTB;
 using Sirenix.OdinInspector;
 using Sirenix.Utilities;
@@ -11,7 +13,7 @@ using UnityEngine.SceneManagement;
 namespace GridTool
 {
     [CreateAssetMenu(fileName = "NewLevelData", menuName = "MapTool/Level Data")]
-    public class LevelDataSO : ScriptableObject
+    public class LevelEditorSO : ScriptableObject
     {
         [BoxGroup("Level")]
         [VerticalGroup("Level/Left"), LabelWidth(100)]
@@ -24,7 +26,13 @@ namespace GridTool
         [BoxGroup("Grid Data"), LabelWidth(100)]
         [InlineEditor(ObjectFieldMode = InlineEditorObjectFieldModes.Hidden)]
         [SerializeField]
-        public GridDataSO gridData;
+        public GridDataSO GridData;
+
+        public List<TerrainTypeSO> TerrainTypes;
+
+        private void OnEnable()
+        {
+        }
 
         [HorizontalGroup("Controls", LabelWidth = 70)]
         [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.TrashFill)]
@@ -109,7 +117,7 @@ namespace GridTool
                 return false;
             }
 
-            if (gridData == null)
+            if (GridData == null)
             {
                 EditorUtility.DisplayDialog("Error", "Grid data cannot be null!", "OK");
                 return false;
@@ -122,15 +130,15 @@ namespace GridTool
         {
             Debug.Log($"Setting up grid visualization in scene '{scene.name}'...");
 
-            GridInitializer gridInitializer = GameObjectUtils.FindOrCreateComponent<GridInitializer>("Grid Controller");
-            gridInitializer.GridDataSO = gridData;
-
-            if (gridInitializer.TryGetComponent(out GridVisualizer gridVisualizer))
-            {
-                return;
-            }
-
-            gridInitializer.AddComponent<GridVisualizer>();
+            // GridInitializer gridInitializer = GameObjectUtils.FindOrCreateComponent<GridInitializer>("Grid Controller");
+            // gridInitializer.GridDataSO = GridData;
+            //
+            // if (gridInitializer.TryGetComponent(out GridVisualizer gridVisualizer))
+            // {
+            //     return;
+            // }
+            //
+            // gridInitializer.AddComponent<GridVisualizer>();
         }
 
         private void DisableGridVisualizationInScene(Scene scene)
@@ -144,7 +152,6 @@ namespace GridTool
                 Undo.DestroyObjectImmediate(gridInitializer.GetComponent<GridVisualizer>());
             }
         }
-
     }
 }
 #endif

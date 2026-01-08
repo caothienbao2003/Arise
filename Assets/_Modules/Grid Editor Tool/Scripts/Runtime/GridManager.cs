@@ -7,18 +7,33 @@ namespace GridTool
 {
     public class GridManager: MonoBehaviourSingleton<GridManager>
     {
-        public LayerMask GridLayerMask;
-        public Grid<CellData> CurrentRuntimeGrid { get; private set; }
-        public Pathfinding<CellData> CurrentPathfinding { get; private set; }
+        public GridDataSO GridData;
         
-        public void SetRuntimeGrid(Grid<CellData> grid)
+        private Grid<CellData> runtimeGrid;
+        public Grid<CellData> RuntimeGrid
         {
-            CurrentRuntimeGrid = grid;
+            get
+            {
+                if (runtimeGrid == null)
+                {
+                    runtimeGrid = GridData.CreateRuntimeGrid();
+                }
+                return runtimeGrid;
+            }
         }
-        
-        public void SetPathfinding(Pathfinding<CellData> pathfinding)
+
+        private Pathfinding<CellData> pathfinding;
+
+        public Pathfinding<CellData> Pathfinding
         {
-            CurrentPathfinding = pathfinding;
+            get
+            {
+                if (pathfinding == null)
+                {
+                    pathfinding = new Pathfinding<CellData>(RuntimeGrid);
+                }
+                return pathfinding;
+            }
         }
     }
 }

@@ -17,7 +17,7 @@ namespace SceneSetupTool
             CustomScript
         }
 
-        public BlackboardVariable<string> GameObjectName;
+        public BlackboardVariable<string> GameObjectName = new();
 
         [Title("Component Selection")] [EnumToggleButtons]
         public ComponentSource Source = ComponentSource.BuiltIn;
@@ -37,7 +37,7 @@ namespace SceneSetupTool
         [ShowIf(nameof(Source), ComponentSource.CustomScript)] [SerializeField, LabelText("Script File")]
         public MonoScript componentToAdd;
 
-        public BlackboardOutput BlackboardOutput;
+        public BlackboardOutput BlackboardOutput = new();
 
         public override void Execute()
         {

@@ -99,13 +99,13 @@ namespace GridTool
             IEnumerable<OdinMenuItem> levels = tree.AddAllAssetsAtPath(
                 "Level editor",
                 settings.LevelDataPath,
-                typeof(LevelDataSO),
+                typeof(LevelEditorSO),
                 includeSubDirectories: true,
                 flattenSubDirectories: true
             );
 
             foreach (var item in levels)
-                if (item.Value is LevelDataSO data)
+                if (item.Value is LevelEditorSO data)
                     item.Name = data.levelName;
 
         }

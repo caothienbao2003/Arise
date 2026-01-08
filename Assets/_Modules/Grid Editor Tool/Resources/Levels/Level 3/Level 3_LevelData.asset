@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b0cfab878fe94524dbb4b231fe856645, type: 3}
-  m_Name: Level 1_LevelData
+  m_Name: Level 3_LevelData
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.LevelDataSO
-  levelName: Level 1
-  levelScene: {fileID: 102900000, guid: 9bddd2970e3f0514dbac44c5a50584ef, type: 3}
-  GridData: {fileID: 11400000, guid: aa64418434ebdda46b8dd9e06b0f6198, type: 2}
+  levelName: 
+  levelScene: {fileID: 0}
+  GridData: {fileID: 0}
   TerrainTypes: []
