@@ -1,7 +1,13 @@
-﻿namespace _Project._Scripts.LifetimeScope
+﻿using GridTool;
+using VContainer.Unity;
+
+namespace FN
 {
-    public class GameEntryPoint
+    public class GameEntryPoint: IStartable
     {
-        
+        public void Start()
+        {
+            
+        }
     }
 }

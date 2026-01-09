@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using Sirenix.OdinInspector;
 using System;
 using System.Collections.Generic;
@@ -9,45 +10,26 @@ using UnityEngine.Tilemaps;
 
 namespace GridTool
 {
-    // Note: This code assumes the existence of:
-    // 1. GridLayer (from your first prompt)
-    // 2. TerrainTypeSO (must contain a 'Priority' and 'IsRender' field)
-    // 3. GridDataSO (must contain 'ClearCellDatas', 'SetCellSize', 'AddCellData', 'SortCellDatas' and a 'CellDatas' list)
-    // 4. CellData (must contain 'GridPosition', 'TerrainType', 'IsWalkable', and the NEW 'LayerPriority' field)
-
     public class GridBaker : MonoBehaviour
     {
         [Title("Grid Layers")]
         [ListDrawerSettings(ShowFoldout = true, CustomAddFunction = nameof(CreateNewLayer))]
         public List<GridLayer> gridLayers = new();
+        
+        public List<TerrainTypeSO> TerrainTypeSos = new List<TerrainTypeSO>();
 
-
-        private List<TerrainTypeSO> terrainTypeSos = new List<TerrainTypeSO>();
-
-        // [Required("Output Map Data must be assigned!")]
-        // [AssetsOnly]
-        private GridDataSO gridData => GridManager.Instance.GridData;
-
-        public LevelEditorSO LevelEditorSO;
+        public GridDataSO OutputGridDataSO;
         
         private GridLayer CreateNewLayer()
         {
             return new GridLayer { LayerName = "New Layer" };
         }
-
-        public void SetGridLayers(List<GridLayer> layers)
-        {
-            this.gridLayers = layers;
-        }
-        
-#if UNITY_EDITOR
-
-        [Button(ButtonSizes.Medium)]
-        [GUIColor(0.8f, 0.8f, 0.3f)] // Utility color
+        //
+        // [Button(ButtonSizes.Medium)]
+        // [GUIColor(0.8f, 0.8f, 0.3f)] // Utility color
         public void SetUpLayers()
         {
-            terrainTypeSos = LevelEditorSO.TerrainTypes;
-            SetupTilemapLayerGameObjects(terrainTypeSos);
+            SetupTilemapLayerGameObjects(TerrainTypeSos);
         }
         
         [Button(ButtonSizes.Medium)]
@@ -89,12 +71,12 @@ namespace GridTool
             
             FinalizeBake(cellDataDict);
             
-            Debug.Log($"Map baked successfully with {gridData.CellDatas.Count} cells.");
+            Debug.Log($"Map baked successfully with {OutputGridDataSO.CellDatas.Count} cells.");
         }
         
         private bool ValidateBakeConditions()
         {
-            if (gridData == null)
+            if (OutputGridDataSO == null)
             {
                 Debug.LogError("Bake Failed: Output Asset is not assigned.");
                 return false;
@@ -110,8 +92,8 @@ namespace GridTool
 
         private BoundsInt InitializeBake(Dictionary<Vector2Int, CellData> cellDataDict)
         {
-            gridData.ClearCellDatas();
-            gridData.SetCellSize(GetTilemapCellSize());
+            OutputGridDataSO.ClearCellDatas();
+            OutputGridDataSO.SetCellSize(GetTilemapCellSize());
             
             // cellDataDict is already new, so no need to clear it.
             return CalculateOverallBounds();
@@ -141,10 +123,10 @@ namespace GridTool
             // Batch add the generated cell data
             foreach (var kvp in cellDataDict)
             {
-                gridData.AddCellData(kvp.Value);
+                OutputGridDataSO.AddCellData(kvp.Value);
             }
 
-            gridData.SortCellDatas(); // Sort the final list
+            OutputGridDataSO.SortCellDatas(); // Sort the final list
             
             SaveGridAsset();
         }
@@ -253,8 +235,8 @@ namespace GridTool
 
         private void SaveGridAsset()
         {
-            EditorUtility.SetDirty(gridData);
-            AssetDatabase.SaveAssetIfDirty(gridData);
+            EditorUtility.SetDirty(OutputGridDataSO);
+            AssetDatabase.SaveAssetIfDirty(OutputGridDataSO);
             AssetDatabase.Refresh();
         }
         
@@ -292,7 +274,8 @@ namespace GridTool
                     LayerName = terrain.DisplayName,
                     TerrainType = terrain,
                     TileMap = layerTileMap,
-                    Priority = terrain.Priority
+                    Priority = terrain.Priority,
+                    IsWalkable = terrain.IsWalkable
                 };
                 gridLayers.Add(newLayer);
             }
@@ -304,9 +287,16 @@ namespace GridTool
             GameObject tileMapLayerGO = GameObjectUtils.FindOrCreateGameObject(layerGOName);
             tileMapLayerGO.transform.SetParent(gridParent.transform);
 
-            Tilemap layerTileMap = tileMapLayerGO.AddComponent<Tilemap>();
-            TilemapRenderer tilemapRenderer = tileMapLayerGO.AddComponent<TilemapRenderer>();
+            if (!tileMapLayerGO.TryGetComponent<Tilemap>(out Tilemap layerTileMap))
+            {
+                layerTileMap = tileMapLayerGO.AddComponent<Tilemap>();
+            }
 
+            if (!tileMapLayerGO.TryGetComponent<TilemapRenderer>(out TilemapRenderer tilemapRenderer))
+            {
+                tilemapRenderer = tileMapLayerGO.AddComponent<TilemapRenderer>();
+            }
+            
             // Set sorting order based on index to ensure consistent rendering
             tilemapRenderer.sortingOrder = terrain.Priority;
 
@@ -314,6 +304,6 @@ namespace GridTool
         }
         #endregion
         
-#endif
     }
 }
+#endif

@@ -34,5 +34,9 @@ namespace GridTool
 
         [field: SerializeField]
         public bool IsWalkable { get; set; }
+        
+        public bool IsOccupied { get; set; }
+        
+        public GameObject OccupiedObject { get; set; }
     }
 }

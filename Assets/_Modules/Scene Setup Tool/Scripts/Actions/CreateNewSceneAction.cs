@@ -77,7 +77,7 @@ namespace SceneSetupTool
 
             if (OpenSceneAfterCreated)
             {
-                SceneUtils.OpenScene(sceneName, folderPath, OpenSceneMode.Additive);
+                SceneUtils.OpenScene(sceneName, folderPath, OpenSceneMode.Single);
             }
             
             SceneAsset newScene = SceneUtils.GetSceneAsset(sceneName, folderPath);

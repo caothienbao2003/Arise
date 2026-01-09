@@ -1,11 +1,13 @@
 ﻿using CTB;
 using Sirenix.OdinInspector;
 using System;
+using Sirenix.Serialization;
 using UnityEngine;
 
 public class PlayerMovementByMouse : MonoBehaviour
 {
-    [ShowInInspector] private IMoveToPosition _moveToPositionComponent;
+    [OdinSerialize]
+    private IMoveToPosition _moveToPositionComponent;
 
     private IMoveToPosition moveToPositionComponent => _moveToPositionComponent ??= GetComponent<IMoveToPosition>();
     

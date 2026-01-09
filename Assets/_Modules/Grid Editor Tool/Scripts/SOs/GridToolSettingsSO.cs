@@ -17,37 +17,37 @@ namespace GridTool
 
         #region Terrain types settings
 
-        [TabGroup("Terrain types settings")] [SerializeField] [FolderPath]
+        [TabGroup("Terrain types settings")]
+        [FolderPath]
         public string TerrainTypePath;
+        [TabGroup("Terrain types settings")]
+        public List<TerrainTypeSO> DefaultTerrainTypes = new List<TerrainTypeSO>();
         #endregion
 
         #region Level settings
 
         [TabGroup("Level settings")]
         [FolderPath]
-        [SerializeField]
         [InfoBox("Path where new level scenes will be created.", InfoMessageType.None)]
         public string LevelScenePath;
 
         [TabGroup("Level settings")]
         [FolderPath]
-        [SerializeField]
         [InfoBox("Path where level data ScriptableObjects are stored.", InfoMessageType.None)]
         public string LevelDataPath;
 
         [TabGroup("Level settings")]
         [FolderPath]
-        [SerializeField]
         [InfoBox("Path where grid data ScriptableObjects are stored.", InfoMessageType.None)]
         public string GridDataPath;
 
-        [TabGroup("Level settings")] [SerializeField] [InfoBox("Template scene for each level", InfoMessageType.None)]
+        [TabGroup("Level settings")] [InfoBox("Template scene for each level", InfoMessageType.None)]
         public SceneAsset TemplateScene;
 
         [TabGroup("Level settings")]
-        [SerializeField]
         [InfoBox("If check then a parent folder is created with the name of the scene", InfoMessageType.None)]
         public bool IsGenericFolder = true;
+        
 
         #endregion
 

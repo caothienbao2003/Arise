@@ -64,57 +64,59 @@ namespace GridTool
         #region Editor
         [HorizontalGroup("Actions")]
         [Button("Create level scene", ButtonSizes.Large), GUIColor(0.4f, 1f, 0.4f)]
-        private void CreateLevel()
+        private void CreateNewLevel()
         {
             if (!ValidateInputs())
                 return;
-
-
-            string newScenePath;
-            string newGridDataPath;
-            string newLevelDataPath;
-
-            if (IsGenericFolder)
-            {
-                string genericFolderPath = $"{NewSceneFolderPath}/{levelName}";
-                AssetDatabaseUtils.EnsureFolderExists(genericFolderPath);
-
-                newScenePath = $"{genericFolderPath}/{levelName}.unity";
-                newGridDataPath = $"{genericFolderPath}/{levelName}_GridData.asset";
-                newLevelDataPath = $"{genericFolderPath}/{levelName}_LevelEditor.asset";
-            }
-            else
-            {
-                AssetDatabaseUtils.EnsureFolderExists(NewGridDataFolderPath);
-                AssetDatabaseUtils.EnsureFolderExists(NewLevelDataFolderPath);
-                AssetDatabaseUtils.EnsureFolderExists(NewSceneFolderPath);
-
-                newScenePath = $"{NewSceneFolderPath}/{levelName}.unity";
-                newGridDataPath = $"{NewGridDataFolderPath}/{levelName}_GridData.asset";
-                newLevelDataPath = $"{NewLevelDataFolderPath}/{levelName}_LevelEditor.asset";
-            }
-
-            if (!CreateOrCopyNewSceneFromTemplate(newScenePath))
-            {
-                return;
-            }
-
-            if (!CreateGridDataAsset(newGridDataPath))
-            {
-                return;
-            }
-
-            if (!CreateLevelDataAsset(newLevelDataPath, out LevelEditorSO levelData))
-            {
-                return;
-            }
-
-            Scene newScene = EditorSceneManager.OpenScene(newScenePath);
-
-            SetupScene(newScene);
-            EditorSceneManager.SaveOpenScenes();
-
-            EditorUtility.DisplayDialog("Success", $"Level '{levelName}' created successfully!", "OK");
+            
+            
+            //
+            //
+            // string newScenePath;
+            // string newGridDataPath;
+            // string newLevelDataPath;
+            //
+            // if (IsGenericFolder)
+            // {
+            //     string genericFolderPath = $"{NewSceneFolderPath}/{levelName}";
+            //     AssetDatabaseUtils.EnsureFolderExists(genericFolderPath);
+            //
+            //     newScenePath = $"{genericFolderPath}/{levelName}.unity";
+            //     newGridDataPath = $"{genericFolderPath}/{levelName}_GridData.asset";
+            //     newLevelDataPath = $"{genericFolderPath}/{levelName}_LevelEditor.asset";
+            // }
+            // else
+            // {
+            //     AssetDatabaseUtils.EnsureFolderExists(NewGridDataFolderPath);
+            //     AssetDatabaseUtils.EnsureFolderExists(NewLevelDataFolderPath);
+            //     AssetDatabaseUtils.EnsureFolderExists(NewSceneFolderPath);
+            //
+            //     newScenePath = $"{NewSceneFolderPath}/{levelName}.unity";
+            //     newGridDataPath = $"{NewGridDataFolderPath}/{levelName}_GridData.asset";
+            //     newLevelDataPath = $"{NewLevelDataFolderPath}/{levelName}_LevelEditor.asset";
+            // }
+            //
+            // if (!CreateOrCopyNewSceneFromTemplate(newScenePath))
+            // {
+            //     return;
+            // }
+            //
+            // if (!CreateGridDataAsset(newGridDataPath))
+            // {
+            //     return;
+            // }
+            //
+            // if (!CreateLevelDataAsset(newLevelDataPath, out LevelEditorSO levelData))
+            // {
+            //     return;
+            // }
+            //
+            // Scene newScene = EditorSceneManager.OpenScene(newScenePath);
+            //
+            // SetupScene(newScene);
+            // EditorSceneManager.SaveOpenScenes();
+            //
+            // EditorUtility.DisplayDialog("Success", $"Level '{levelName}' created successfully!", "OK");
         }
         #endregion
 
@@ -146,54 +148,55 @@ namespace GridTool
             return true;
         }
 
-        private bool CreateOrCopyNewSceneFromTemplate(string newScenePath)
-        {
-            levelScene = null;
-
-            if (File.Exists(newScenePath))
-            {
-                if (!EditorUtility.DisplayDialog(
-                    "Scene already exist",
-                    $"A scene name '{levelName}' already exist at: \n{newScenePath}",
-                    "Override",
-                    "Cancel"))
-                {
-                    return false;
-                }
-
-                AssetDatabase.DeleteAsset(newScenePath);
-            }
-
-            if (templateScene == null)
-            {
-                if (!CreateNewScene(newScenePath)) return false;
-            }
-            else if (!DuplicateScene(newScenePath))
-            {
-                return false;
-            }
-
-            levelScene = AssetDatabase.LoadAssetAtPath<SceneAsset>(newScenePath);
-
-            return true;
-        }
-
+        // private bool CreateOrCopyNewSceneFromTemplate(string newScenePath)
+        // {
+        //     levelScene = null;
+        //
+        //     if (File.Exists(newScenePath))
+        //     {
+        //         if (!EditorUtility.DisplayDialog(
+        //             "Scene already exist",
+        //             $"A scene name '{levelName}' already exist at: \n{newScenePath}",
+        //             "Override",
+        //             "Cancel"))
+        //         {
+        //             return false;
+        //         }
+        //
+        //         AssetDatabase.DeleteAsset(newScenePath);
+        //     }
+        //
+        //     if (templateScene == null)
+        //     {
+        //         if (!CreateNewScene(newScenePath)) return false;
+        //     }
+        //     else if (!DuplicateScene(newScenePath))
+        //     {
+        //         return false;
+        //     }
+        //
+        //     levelScene = AssetDatabase.LoadAssetAtPath<SceneAsset>(newScenePath);
+        //
+        //     return true;
+        // }
+        //
+        
         private bool CreateNewScene(string newScenePath)
         {
             levelScene = null;
-
+        
             Scene newScene = EditorSceneManager.NewScene(NewSceneSetup.DefaultGameObjects, NewSceneMode.Single);
             bool success = EditorSceneManager.SaveScene(newScene, newScenePath);
-
+        
             if (!success)
             {
                 EditorUtility.DisplayDialog("Error", "Failed to create scene.", "OK");
                 return false;
             }
-
+        
             AssetDatabase.SaveAssets();
             AssetDatabase.Refresh();
-
+        
             return true;
         }
 
@@ -249,31 +252,31 @@ namespace GridTool
         #endregion
 
         #region Setup Tilemap and GridBaker
-        private void SetupScene(Scene newScene)
-        {
-            // SetUpGridTilemap();
-            SetUpGridBaker();
-
-            EditorSceneManager.MarkSceneDirty(newScene);
-            AssetDatabase.SaveAssets();
-        }
-
-        // private void SetUpGridTilemap()
+        // private void SetupScene(Scene newScene)
         // {
-        //     TerrainTypeSO[] terrainTypes = AssetDatabaseUtils.GetAllAssetsInFolder<TerrainTypeSO>(TerrainTypesPath);
-        //     SetupTilemapLayerGameObjects(terrainTypes);
+        //     // SetUpGridTilemap();
+        //     SetUpGridBaker();
+        //
+        //     EditorSceneManager.MarkSceneDirty(newScene);
+        //     AssetDatabase.SaveAssets();
         // }
-
-        private void SetUpGridBaker()
-        {
-            GridBaker gridBaker = GameObjectUtils.FindOrCreateComponent<GridBaker>("MapBaker");
-
-            gridBaker.SetGridLayers(gridLayers);
-            // gridBaker.SetOutputMapData(gridData);
-
-            EditorUtility.SetDirty(gridBaker);
-            EditorUtility.SetDirty(gridBaker.gameObject);
-        }
+        //
+        // // private void SetUpGridTilemap()
+        // // {
+        // //     TerrainTypeSO[] terrainTypes = AssetDatabaseUtils.GetAllAssetsInFolder<TerrainTypeSO>(TerrainTypesPath);
+        // //     SetupTilemapLayerGameObjects(terrainTypes);
+        // // }
+        //
+        // private void SetUpGridBaker()
+        // {
+        //     GridBaker gridBaker = GameObjectUtils.FindOrCreateComponent<GridBaker>("MapBaker");
+        //
+        //     gridBaker.SetUpLayers();
+        //     // gridBaker.SetOutputMapData(gridData);
+        //
+        //     EditorUtility.SetDirty(gridBaker);
+        //     EditorUtility.SetDirty(gridBaker.gameObject);
+        // }
         #endregion
 
         #region Setup Visualization

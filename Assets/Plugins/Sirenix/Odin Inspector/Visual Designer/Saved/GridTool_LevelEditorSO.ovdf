@@ -1,0 +1,86 @@
+OVDF v1.1
+GridTool.LevelEditorSO, Assembly-CSharp
+MetaGuid:b0cfab878fe94524dbb4b231fe856645
+
+# $Ub6Ttv4TxJtNdfKKXYpiWB
+Position: "Tabs/Grid Setup":1
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Terrains"
+
+# "Tabs/LevelSetup/Terrains"
+- [Sirenix.OdinInspector.TitleGroupAttribute]
+
+# $6i1ekeNUrBHaZUQ35uxcMJ
+Position: "Tabs/LevelSetup":1
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Actions"
+
+# "Tabs/LevelSetup/Action"
+Position: $6i1ekeNUrBHaZUQ35uxcMJ:0
+
+# $2MgF2UcsKXxm5AmVwuD92v
+Position: "Tabs/Grid Setup":0
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Grid Data"
+
+# $HJQRkHpszLaL2C9Lzu92wa
+Position: "Tabs/Grid Setup":2
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Action"
+
+# "Tabs/Grid Setup/Action"
+Position: $HJQRkHpszLaL2C9Lzu92wa:0
+* [Sirenix.OdinInspector.HorizontalGroupAttribute]
+	GroupName = "Terrain"
+
+# $T536fTXaps8zT8DTiHokq5
+Position: $HJQRkHpszLaL2C9Lzu92wa:1
++ [Sirenix.OdinInspector.HorizontalGroupAttribute]
+	GroupName = "GridBaker"
+
+# $75X96REtoM2MnxKCQGWg8J
+Position: $HJQRkHpszLaL2C9Lzu92wa:2
++ [Sirenix.OdinInspector.HorizontalGroupAttribute]
+	GroupName = "Grid Visualizer"
+
+# levelScene
+Position: "Tabs/LevelSetup/Details":1
+
+# levelName
+Position: "Tabs/LevelSetup/Details":0
+
+# DefaultGridTerrainsSO
+Position: $Ub6Ttv4TxJtNdfKKXYpiWB:0
+
+# TerrainTypes
+Position: $Ub6Ttv4TxJtNdfKKXYpiWB:1
+
+# GridData
+Position: $2MgF2UcsKXxm5AmVwuD92v:0
+Visibility: Shown
+* [Sirenix.OdinInspector.InlineEditorAttribute]
+	DrawGUI = True
+	PreviewAlignment = Right
+
+# SetUpGridBaker()
+Position: $T536fTXaps8zT8DTiHokq5:0
+* [Sirenix.OdinInspector.ButtonAttribute]
+	Icon = MotherboardFill
+
+# DisableGridBaker()
+Position: $T536fTXaps8zT8DTiHokq5:1
+* [Sirenix.OdinInspector.ButtonAttribute]
+	Icon = Motherboard
+
+# SetupGridVisualize()
+Position: $75X96REtoM2MnxKCQGWg8J:0
+* [Sirenix.OdinInspector.ButtonAttribute]
+	Icon = EyeFill
+
+# DisableGridVisualize()
+Position: $75X96REtoM2MnxKCQGWg8J:1
+* [Sirenix.OdinInspector.ButtonAttribute]
+	Icon = EyeSlash
+
+# ResetTerrainTypeToDefault()
+Position: "Tabs/Grid Setup/Action":0

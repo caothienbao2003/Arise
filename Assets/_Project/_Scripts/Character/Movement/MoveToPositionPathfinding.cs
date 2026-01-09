@@ -4,7 +4,9 @@ using GridUtilities;
 using Sirenix.OdinInspector;
 using System;
 using System.Collections.Generic;
+using Sirenix.Serialization;
 using UnityEngine;
+using VContainer;
 
 public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
 {
@@ -14,24 +16,36 @@ public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
 
     private List<Vector3> pathPositionList;
 
-    [ShowInInspector] private IMoveToDirection _moveToDirectionComponent;
+    [OdinSerialize] private IMoveToDirection _moveToDirectionComponent;
 
     private bool finishLerped = false;
-
+    
     private IMoveToDirection moveToDirectionComponent => _moveToDirectionComponent ??= GetComponent<IMoveToDirection>();
 
-    private Pathfinding<CellData> pathfinding;
+    // private Pathfinding<CellData> pathfinding;
+
+    // public void SetPathFinding(Pathfinding<CellData> pathfinding)
+    // {
+    //     this.pathfinding = pathfinding;
+    // }
     
-    public void SetPathFinding(Pathfinding<CellData> pathfinding)
-    {
-        this.pathfinding = pathfinding;
-    }
-    
+    [Inject] private IGridService gridService;
+
     public void SetMoveTargetPosition(Vector3 targetPosition)
     {
         Debug.Log($"[MoveToPositionPathfinding] SetMoveTargetPosition] {targetPosition}");
 
-        List<Vector3> tempPathList = pathfinding.FindPath(transform.position, targetPosition);
+
+        if (gridService == null)
+        {
+            Debug.Log($"[MoveToPositionPathfinding] SetMoveTargetPosition - Grid Service Is null");
+            return;
+        }
+        
+        Debug.Log($"[MoveToPositionPathfinding] SetMoveTargetPosition {gridService.Pathfinding == null} {gridService.GridData.name}");
+
+        
+        List<Vector3> tempPathList = gridService.Pathfinding.FindPath(transform.position, targetPosition);
 
         if (tempPathList == null)
         {
@@ -79,9 +93,10 @@ public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
         {
             return;
         }
-        
+
         Vector3 finalTarget = pathPositionList[pathPositionList.Count - 1];
-        this.transform.position = Vector3.Lerp(this.transform.position, finalTarget, Time.deltaTime * finalSnapLerpSpeed);
+        this.transform.position =
+            Vector3.Lerp(this.transform.position, finalTarget, Time.deltaTime * finalSnapLerpSpeed);
         if (Vector3.Distance(transform.position, finalTarget) < 0.001f)
         {
             transform.position = finalTarget;

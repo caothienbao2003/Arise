@@ -97,6 +97,15 @@ namespace CTB
                 AssetDatabase.Refresh();
             }
             
+            if (success)
+            {
+                EditorUtility.DisplayDialog("Success", $"Deleted level data at {assetPath}", "OK");
+            }
+            else
+            {
+                EditorUtility.DisplayDialog("Failed", "Failed to delete asset.", "OK");
+            }
+            
             Debug.Log($"[AssetDatabaseUtils] Deleted asset: {assetPath}, success: {success}");
             return success;
         }
@@ -127,6 +136,11 @@ namespace CTB
             string assetPath = AssetDatabase.GetAssetPath(asset);
             Debug.Log($"[AssetDatabaseUtils] Get asset path: {assetPath}");
             return assetPath;
+        }
+
+        public static string GetParentFolderPath(string assetPath)
+        {
+            return Path.GetDirectoryName(assetPath);
         }
         
         private static T[] ConvertsGuidsToAssets<T>(GUID[] guids) where T : Object

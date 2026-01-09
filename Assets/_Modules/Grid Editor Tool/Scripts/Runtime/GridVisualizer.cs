@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿#if UNITY_EDITOR
+using UnityEngine;
 using GridUtilities;
 using Sirenix.OdinInspector;
 using System;
@@ -10,51 +11,70 @@ namespace GridTool
 {
     public class GridVisualizer: MonoBehaviour
     {
+        [Title("Grid Data")]
+        [SerializeField, AssetsOnly, Required]
+        public GridDataSO GridDataSO;
+        
+        [Title("Visualization Settings")]
         [SerializeField] private Color cellColor = Color.green;
+        [SerializeField] private Color nonWalkableColor = Color.red;
         [SerializeField] private Color labelColor = Color.white;
         [SerializeField] private int labelFontSize = 12;
+        [SerializeField] private bool showLabels = true;
+        [SerializeField] private bool showNonWalkable = true;
 
-        private GridDataSO gridData => GridManager.Instance.GridData;
-        private Grid<CellData> runtimeGrid => GridManager.Instance.RuntimeGrid;
-        private Pathfinding<CellData> pathfinding => GridManager.Instance.Pathfinding;
-
-        void OnDrawGizmos()
+        private void OnDrawGizmos()
         {
-            if (runtimeGrid == null || gridData == null)
+            if (GridDataSO == null || GridDataSO.CellDatas == null)
             {
-                Debug.LogWarning("GridVisualizer is missing GridData or RuntimeGrid.");
                 return;
             }
             
-            Gizmos.color = cellColor;
-            
-            foreach (Vector2Int pos in runtimeGrid.GetAllCellXYPositions())
+            foreach (var cellData in GridDataSO.CellDatas)
             {
-                Vector3 center = runtimeGrid.GetCellCenterWorldPos(pos);
-                Gizmos.DrawWireCube(center, new Vector3(gridData.CellSize, gridData.CellSize, 0.01f));
+                Gizmos.color = (showNonWalkable && !cellData.IsWalkable) 
+                    ? nonWalkableColor 
+                    : cellColor;
                 
-#if UNITY_EDITOR
-                DrawCellLabel(pos, center);
-#endif
+                Vector3 center = GetWorldPosition(cellData.GridPosition);
+                Gizmos.DrawWireCube(
+                    center, 
+                    new Vector3(GridDataSO.CellSize, GridDataSO.CellSize, 0.01f)
+                );
+                
+                if (showLabels)
+                {
+                    DrawCellLabel(cellData.GridPosition, center);
+                }
             }
         }
         
-#if UNITY_EDITOR
+        private Vector3 GetWorldPosition(Vector2Int gridPos)
+        {
+            return new Vector3(
+                gridPos.x * GridDataSO.CellSize + GridDataSO.CellSize * 0.5f,
+                gridPos.y * GridDataSO.CellSize + GridDataSO.CellSize * 0.5f,
+                0f
+            );
+        }
+        
         private void DrawCellLabel(Vector2Int pos, Vector3 center)
         {
-            float halfSize = gridData.CellSize * 0.5f;
+            float halfSize = GridDataSO.CellSize * 0.5f;
             Vector3 labelPos = new Vector3(
                 center.x - halfSize + 0.1f,
                 center.y + halfSize - 0.1f,
                 center.z
             );
             
-            GUIStyle style = new GUIStyle();
-            style.normal.textColor = labelColor;
-            style.fontSize = labelFontSize;
+            GUIStyle style = new GUIStyle
+            {
+                normal = { textColor = labelColor },
+                fontSize = labelFontSize
+            };
             
             Handles.Label(labelPos, $"{pos.x},{pos.y}", style);
         }
-#endif
     }
 }
+#endif

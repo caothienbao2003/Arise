@@ -3,10 +3,7 @@ using System;
 using System.Collections.Generic;
 using CTB;
 using Sirenix.OdinInspector;
-using Sirenix.Utilities;
-using Unity.VisualScripting;
 using UnityEditor;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -15,143 +12,209 @@ namespace GridTool
     [CreateAssetMenu(fileName = "NewLevelData", menuName = "MapTool/Level Data")]
     public class LevelEditorSO : ScriptableObject
     {
-        [BoxGroup("Level")]
-        [VerticalGroup("Level/Left"), LabelWidth(100)]
+        #region Data
+        
+        [TabGroup("Tabs", "LevelSetup")]
+        [FoldoutGroup("Tabs/LevelSetup/Details")]
+        [VerticalGroup("Tabs/LevelSetup/Details")]
+        [LabelWidth(100)]
         public string levelName = "";
 
-        [BoxGroup("Level")]
-        [VerticalGroup("Level/Right"), LabelWidth(100)]
+        [VerticalGroup("Tabs/LevelSetup/Details")]
         public SceneAsset levelScene;
 
-        [BoxGroup("Grid Data"), LabelWidth(100)]
+        [TabGroup("Tabs", "LevelSetup")]
+        [TitleGroup("Tabs/LevelSetup/Terrains")]
+        public DefaultGridTerrainsSO DefaultGridTerrainsSO;
+
+        [TitleGroup("Tabs/LevelSetup/Terrains")]
+        public List<TerrainTypeSO> TerrainTypes = new List<TerrainTypeSO>();
+
+        [TabGroup("Tabs", "Grid Setup")]
         [InlineEditor(ObjectFieldMode = InlineEditorObjectFieldModes.Hidden)]
-        [SerializeField]
         public GridDataSO GridData;
+        
+        #endregion
 
-        public List<TerrainTypeSO> TerrainTypes;
-
-        private void OnEnable()
+        #region Terrain Actions
+        
+        [HorizontalGroup("Tabs/LevelSetup/Action", LabelWidth = 70)]
+        [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.GridFill)]
+        public void ResetTerrainTypeToDefault()
         {
-        }
+            if (DefaultGridTerrainsSO == null)
+            {
+                ShowError("Default terrains not assigned!");
+                return;
+            }
 
-        [HorizontalGroup("Controls", LabelWidth = 70)]
+            TerrainTypes = new List<TerrainTypeSO>(DefaultGridTerrainsSO.DefaultTerrainTypes);
+            EditorUtility.SetDirty(this);
+        }
+        
+        #endregion
+
+        #region Level Deletion
+        
+        [HorizontalGroup("Tabs/LevelSetup/Action")]
         [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.TrashFill)]
         public void DeleteLevel()
         {
-            bool confirmDelete = EditorUtility.DisplayDialog("Delete Level Data?", $"Are you sure you want to delete level data for {levelName}?", "Yes", "No");
-
-            if (!confirmDelete) return;
-
-            string assetPath = AssetDatabaseUtils.GetAssetPath(this);
-
-            bool success = AssetDatabase.DeleteAsset(assetPath);
-
-            if (success)
+            if (!EditorUtility.DisplayDialog(
+                "Delete Level Data?",
+                $"Are you sure you want to delete '{levelName}'?\n\nThis will delete the entire folder.",
+                "Yes", "No"))
             {
-                EditorUtility.DisplayDialog("Success", $"Deleted level data at {assetPath}", "OK");
+                return;
+            }
+
+            string levelPath = AssetDatabaseUtils.GetAssetPath(this);
+            string folderPath = AssetDatabaseUtils.GetParentFolderPath(levelPath);
+            
+            if (AssetDatabaseUtils.DeleteAsset(folderPath))
+            {
+                ShowSuccess("Level deleted successfully");
             }
             else
             {
-                EditorUtility.DisplayDialog("Failed", "Failed to delete asset.", "OK");
+                ShowError("Failed to delete level folder");
             }
         }
+        
+        #endregion
 
-        [HorizontalGroup("Controls")]
+        #region Grid Baker
+        
+        [HorizontalGroup("Tabs/Grid Setup/Action")]
+        [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.Eye)]
+        public void SetUpGridBaker()
+        {
+            ExecuteInScene(scene =>
+            {
+                var baker = GameObjectUtils.FindOrCreateComponent<GridBaker>("Grid Baker");
+                baker.OutputGridDataSO = GridData;
+                baker.TerrainTypeSos = TerrainTypes;
+                baker.SetUpLayers();
+            }, "Grid Baker Setup");
+        }
+
+        [HorizontalGroup("Tabs/Grid Setup/Action")]
+        [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.Trash2Fill)]
+        public void DisableGridBaker()
+        {
+            ExecuteInScene(scene =>
+            {
+                var baker = UnityEngine.Object.FindAnyObjectByType<GridBaker>();
+                if (baker != null)
+                {
+                    UnityEngine.Object.DestroyImmediate(baker.gameObject);
+                }
+            }, "Grid Baker Removal");
+        }
+        
+        [HorizontalGroup("Tabs/Grid Setup/Action")]
+        [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.Grid3x3GapFill)]
+        public void BakeGrid()
+        {
+            ExecuteInScene(scene =>
+            {
+                var baker = GameObjectUtils.FindOrCreateComponent<GridBaker>("Grid Baker");
+                baker.BakeGrid();
+            }, "Bake Grid");
+        }
+        
+        #endregion
+
+        #region Grid Visualizer
+        
+        [HorizontalGroup("Tabs/Grid Setup/Action")]
         [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.Eye)]
         public void SetupGridVisualize()
         {
-            if (!ValidateInputs()) return;
-
-            bool success = SceneUtils.ExecuteInScene(
-                levelScene,
-                SetupGridVisualizationInScene,
-                SceneUtils.SceneExecutionMode.CloseOriginalAfter,
-                saveAfterAction: true,
-                saveOnClose: true);
-
-            if (success)
+            ExecuteInScene(scene =>
             {
-                EditorUtility.DisplayDialog("Success", $"Grid visualizer setup completed for {levelName}", "OK");
-            }
-            else
-            {
-                EditorUtility.DisplayDialog("Failed", "Failed to setup grid visualizer.", "OK");
-            }
+                var visualizer = GameObjectUtils.FindOrCreateComponent<GridVisualizer>("Grid Visualizer");
+                visualizer.GridDataSO = GridData;
+            }, "Grid Visualizer Setup");
         }
 
-        [HorizontalGroup("Controls")]
+        [HorizontalGroup("Tabs/Grid Setup/Action")]
         [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.EyeSlash)]
         public void DisableGridVisualize()
         {
-            if (!ValidateInputs()) return;
+            ExecuteInScene(scene =>
+            {
+                var visualizer = UnityEngine.Object.FindObjectOfType<GridVisualizer>();
+                if (visualizer != null)
+                {
+                    UnityEngine.Object.DestroyImmediate(visualizer.gameObject);
+                }
+            }, "Grid Visualizer Removal");
+        }
+        
+        #endregion
+        
+        #region Helper Methods
+        
+        private void ExecuteInScene(Action<Scene> action, string operationName)
+        {
+            if (!ValidateForSceneOperation())
+            {
+                return;
+            }
 
             bool success = SceneUtils.ExecuteInScene(
                 levelScene,
-                DisableGridVisualizationInScene,
+                action,
                 SceneUtils.SceneExecutionMode.CloseOriginalAfter,
                 saveAfterAction: true,
-                saveOnClose: true);
+                saveOnClose: true
+            );
 
             if (success)
             {
-                EditorUtility.DisplayDialog("Success", $"Grid visualizer setup completed for {levelName}", "OK");
+                ShowSuccess($"{operationName} completed for '{levelName}'");
             }
             else
             {
-                EditorUtility.DisplayDialog("Failed", "Failed to setup grid visualizer.", "OK");
+                ShowError($"{operationName} failed");
             }
         }
 
-
-        private bool ValidateInputs()
+        private bool ValidateForSceneOperation()
         {
             if (string.IsNullOrEmpty(levelName))
             {
-                EditorUtility.DisplayDialog("Error", "Level name cannot be empty!", "OK");
+                ShowError("Level name cannot be empty!");
                 return false;
             }
 
             if (levelScene == null)
             {
-                EditorUtility.DisplayDialog("Error", "Level scene asset cannot be null!", "OK");
+                ShowError("Level scene cannot be null!");
                 return false;
             }
 
             if (GridData == null)
             {
-                EditorUtility.DisplayDialog("Error", "Grid data cannot be null!", "OK");
+                ShowError("Grid data cannot be null!");
                 return false;
             }
 
             return true;
         }
 
-        private void SetupGridVisualizationInScene(Scene scene)
+        private void ShowSuccess(string message)
         {
-            Debug.Log($"Setting up grid visualization in scene '{scene.name}'...");
-
-            // GridInitializer gridInitializer = GameObjectUtils.FindOrCreateComponent<GridInitializer>("Grid Controller");
-            // gridInitializer.GridDataSO = GridData;
-            //
-            // if (gridInitializer.TryGetComponent(out GridVisualizer gridVisualizer))
-            // {
-            //     return;
-            // }
-            //
-            // gridInitializer.AddComponent<GridVisualizer>();
+            EditorUtility.DisplayDialog("Success", message, "OK");
         }
 
-        private void DisableGridVisualizationInScene(Scene scene)
+        private void ShowError(string message)
         {
-            Debug.Log($"Disabling grid visualization in scene '{scene.name}'...");
-
-            GridInitializer gridInitializer = GameObjectUtils.FindOrCreateComponent<GridInitializer>("Grid Controller");
-
-            if (gridInitializer.TryGetComponent(out GridVisualizer gridVisualizer))
-            {
-                Undo.DestroyObjectImmediate(gridInitializer.GetComponent<GridVisualizer>());
-            }
+            EditorUtility.DisplayDialog("Error", message, "OK");
         }
+        
+        #endregion
     }
 }
 #endif
