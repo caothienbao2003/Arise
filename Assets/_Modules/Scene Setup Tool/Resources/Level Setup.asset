@@ -16,6 +16,7 @@ MonoBehaviour:
     SerializedFormat: 2
     SerializedBytes: 
     ReferencedUnityObjects:
+    - {fileID: 102900000, guid: cd3062c8e87c4db4999b78b9c61e93ca, type: 3}
     - {fileID: 11400000, guid: 10438d935b2767c43b01c9375182040b, type: 2}
     - {fileID: 11400000, guid: aa64418434ebdda46b8dd9e06b0f6198, type: 2}
     - {fileID: 102900000, guid: dc17e1fb2c8a5da4aabaec76104f9d52, type: 3}
@@ -374,8 +375,8 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: ValueAsset
-      Entry: 6
-      Data: 
+      Entry: 10
+      Data: 0
     - Name: ValuePrimitive
       Entry: 6
       Data: 
@@ -387,7 +388,7 @@ MonoBehaviour:
       Data: 
     - Name: IsPersistent
       Entry: 5
-      Data: true
+      Data: false
     - Name: 
       Entry: 8
       Data: 
@@ -492,7 +493,7 @@ MonoBehaviour:
       Data: 
     - Name: ValueAsset
       Entry: 10
-      Data: 0
+      Data: 1
     - Name: ValuePrimitive
       Entry: 6
       Data: 
@@ -504,7 +505,7 @@ MonoBehaviour:
       Data: 
     - Name: IsPersistent
       Entry: 5
-      Data: true
+      Data: false
     - Name: 
       Entry: 8
       Data: 
@@ -609,7 +610,7 @@ MonoBehaviour:
       Data: 
     - Name: ValueAsset
       Entry: 10
-      Data: 1
+      Data: 2
     - Name: ValuePrimitive
       Entry: 6
       Data: 
@@ -621,7 +622,7 @@ MonoBehaviour:
       Data: 
     - Name: IsPersistent
       Entry: 5
-      Data: true
+      Data: false
     - Name: 
       Entry: 8
       Data: 
@@ -652,7 +653,7 @@ MonoBehaviour:
       Data: true
     - Name: TemplateScene
       Entry: 10
-      Data: 2
+      Data: 3
     - Name: SceneName
       Entry: 7
       Data: 45|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
@@ -1047,8 +1048,8 @@ MonoBehaviour:
       Entry: 7
       Data: 68|SceneSetupTool.SetPropertiesAction, Assembly-CSharp
     - Name: description
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: 'Set properties of LevelEditorSO: GridDataSO, LevelScene, LevelName'
     - Name: TargetObject
       Entry: 7
       Data: 69|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp

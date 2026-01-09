@@ -17,3 +17,5 @@ MonoBehaviour:
   LevelDataPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
   GridDataPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
   TemplateScene: {fileID: 102900000, guid: dc17e1fb2c8a5da4aabaec76104f9d52, type: 3}
+  IsGenericFolder: 1
+  ActionAssetPath: Assets/_Modules/Scene Setup Tool/Resources

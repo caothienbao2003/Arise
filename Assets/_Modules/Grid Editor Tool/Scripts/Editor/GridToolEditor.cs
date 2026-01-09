@@ -8,6 +8,7 @@ using UnityEditor;
 using UnityEngine.SceneManagement;
 using System.IO;
 using CTB;
+using SceneSetupTool;
 
 namespace GridTool
 {
@@ -69,16 +70,24 @@ namespace GridTool
         protected override OdinMenuTree BuildMenuTree()
         {
             OdinMenuTree tree = new OdinMenuTree();
+            
+            HandleCreateNewTerrainTypeWindow(tree);
+            HandleCreateNewLevelWindow(tree);
+            HandleCreateSettingsWindow(tree);
 
+            tree.AddAllAssetsAtPath(
+                "Actions",
+                settings.ActionAssetPath,
+                typeof(SequenceActionsSetupSO),
+                includeSubDirectories: true,
+                flattenSubDirectories: true
+            );
+            
             if (settings == null)
             {
                 tree.Add("Settings", this);
                 return tree;
             }
-
-            HandleCreateNewTerrainTypeWindow(tree);
-            HandleCreateNewLevelWindow(tree);
-            HandleCreateSettingsWindow(tree);
             
             return tree;
         }

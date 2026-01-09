@@ -19,9 +19,6 @@ namespace GridTool
 
         [TabGroup("Terrain types settings")] [SerializeField] [FolderPath]
         public string TerrainTypePath;
-
-        public List<TerrainTypeSO> DefaultTerrainTypes;
-        
         #endregion
 
         #region Level settings
@@ -51,6 +48,14 @@ namespace GridTool
         [SerializeField]
         [InfoBox("If check then a parent folder is created with the name of the scene", InfoMessageType.None)]
         public bool IsGenericFolder = true;
+
+        #endregion
+
+        #region Actions
+
+        [TabGroup("Actions")]
+        [FolderPath]
+        public string ActionAssetPath;
 
         #endregion
 
