@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: GridToolSettings
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.GridToolSettingsSO
   TerrainTypePath: Assets/_Modules/Grid Editor Tool/Resources/TerrainTypes
-  LevelScenePath: Assets/_Modules/Grid Editor Tool/Resources/Levels
-  LevelDataPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
-  GridDataPath: Assets/_Modules/Grid Editor Tool/Resources/Levels
+  TerrainTypeDefaults: {fileID: 11400000, guid: 5b6d5c77264655d47848bc03d51c479e, type: 2}
+  SpawnTypePath: Assets/_Modules/Grid Editor Tool/Resources/SpawnTypes
+  LevelScenePath: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
+  LevelDataPath: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
+  GridDataPath: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
   TemplateScene: {fileID: 102900000, guid: dc17e1fb2c8a5da4aabaec76104f9d52, type: 3}
   IsGenericFolder: 1
   ActionAssetPath: Assets/_Modules/Scene Setup Tool/Resources

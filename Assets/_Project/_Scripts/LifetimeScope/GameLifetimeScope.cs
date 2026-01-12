@@ -7,12 +7,12 @@ namespace FN
 {
     public class GameLifetimeScope : LifetimeScope
     {
-        [Header("Grid Data")] [SerializeField] private GridDataSO gridData;
+        [Header("Grid Data")] [SerializeField] public GridDataSO GridData;
 
         protected override void Configure(IContainerBuilder builder)
         {
             //Register ScriptableObjects
-            builder.RegisterInstance(this.gridData);
+            builder.RegisterInstance(this.GridData);
 
             //Register Services
             builder.Register<GridService>(Lifetime.Singleton)

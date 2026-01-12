@@ -18,6 +18,7 @@ MonoBehaviour:
     ReferencedUnityObjects:
     - {fileID: 11400000, guid: 5b6d5c77264655d47848bc03d51c479e, type: 2}
     - {fileID: 102900000, guid: dc17e1fb2c8a5da4aabaec76104f9d52, type: 3}
+    - {fileID: 11500000, guid: 4013f44f3520f304d8c30d76cd353ccf, type: 3}
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
@@ -32,7 +33,7 @@ MonoBehaviour:
         mscorlib
     - Name: 
       Entry: 12
-      Data: 6
+      Data: 9
     - Name: 
       Entry: 7
       Data: 2|CTB.BlackboardEntry, Assembly-CSharp
@@ -140,7 +141,7 @@ MonoBehaviour:
       Data: 10|System.String, mscorlib
     - Name: 
       Entry: 1
-      Data: Level 3
+      Data: Level 1
     - Name: 
       Entry: 8
       Data: 
@@ -161,7 +162,7 @@ MonoBehaviour:
       Data: 11|CTB.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: GridGOName
+      Data: GameLifetimeScopeGOname
     - Name: TypeSelector
       Entry: 7
       Data: 12|SceneSetupTool.TypeSelector, Assembly-CSharp
@@ -257,7 +258,7 @@ MonoBehaviour:
       Data: 18|System.String, mscorlib
     - Name: 
       Entry: 1
-      Data: Grid
+      Data: Game Lifetime Scope
     - Name: 
       Entry: 8
       Data: 
@@ -742,159 +743,23 @@ MonoBehaviour:
       Entry: 8
       Data: 
     - Name: 
-      Entry: 13
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: Actions
       Entry: 7
-      Data: 51|System.Collections.Generic.List`1[[SceneSetupTool.SequenceAction,
-        Assembly-CSharp]], mscorlib
-    - Name: 
-      Entry: 12
-      Data: 4
-    - Name: 
-      Entry: 7
-      Data: 52|SceneSetupTool.CreateNewSceneAction, Assembly-CSharp
-    - Name: description
-      Entry: 1
-      Data: Create new Scene (level)
-    - Name: CreateFromTemplate
-      Entry: 5
-      Data: true
-    - Name: TemplateScene
-      Entry: 10
-      Data: 1
-    - Name: SceneName
-      Entry: 7
-      Data: 53|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
-    - Name: UseBlackboard
-      Entry: 5
-      Data: true
-    - Name: DirectValue
-      Entry: 6
-      Data: 
-    - Name: BlackboardKey
-      Entry: 1
-      Data: LevelName
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: SceneNamePrefix
-      Entry: 6
-      Data: 
-    - Name: SceneNameSuffix
-      Entry: 6
-      Data: 
-    - Name: FolderPath
-      Entry: 1
-      Data: Assets/_Modules/Grid Editor Tool/Resources/Levels
-    - Name: CreateNewFolder
-      Entry: 5
-      Data: true
-    - Name: FolderName
-      Entry: 7
-      Data: 54|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
-    - Name: UseBlackboard
-      Entry: 5
-      Data: true
-    - Name: DirectValue
-      Entry: 6
-      Data: 
-    - Name: BlackboardKey
-      Entry: 1
-      Data: LevelName
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: NewSceneMode
-      Entry: 3
-      Data: 0
-    - Name: NewSceneSetup
-      Entry: 3
-      Data: 1
-    - Name: OpenSceneAfterCreated
-      Entry: 5
-      Data: true
-    - Name: SceneOutput
-      Entry: 7
-      Data: 55|SceneSetupTool.BlackboardOutput, Assembly-CSharp
-    - Name: SaveToBlackboard
-      Entry: 5
-      Data: true
+      Data: 51|CTB.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: NewScene
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
+      Data: SpawnDataSO
+    - Name: TypeSelector
       Entry: 7
-      Data: 56|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
-    - Name: description
-      Entry: 1
-      Data: Create GridDataSO asset
-    - Name: FileName
-      Entry: 7
-      Data: 57|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
-    - Name: UseBlackboard
-      Entry: 5
-      Data: true
-    - Name: DirectValue
-      Entry: 6
-      Data: 
-    - Name: BlackboardKey
-      Entry: 1
-      Data: LevelName
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: FileNamePrefix
-      Entry: 6
-      Data: 
-    - Name: FileNameSuffix
-      Entry: 1
-      Data: _GridData
-    - Name: FolderPath
-      Entry: 1
-      Data: Assets/_Modules/Grid Editor Tool/Resources/Levels
-    - Name: CreateFolder
-      Entry: 5
-      Data: true
-    - Name: FolderName
-      Entry: 7
-      Data: 58|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
-    - Name: UseBlackboard
-      Entry: 5
-      Data: true
-    - Name: DirectValue
-      Entry: 6
-      Data: 
-    - Name: BlackboardKey
-      Entry: 1
-      Data: LevelName
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: TypeSelection
-      Entry: 7
-      Data: 59|SceneSetupTool.TypeSelector, Assembly-CSharp
+      Data: 52|SceneSetupTool.TypeSelector, Assembly-CSharp
     - Name: typeFilters
       Entry: 3
-      Data: 41
+      Data: 0
     - Name: baseTypeConstraint
       Entry: 6
       Data: 
     - Name: namespaceFilters
       Entry: 7
-      Data: 60|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+      Data: 53|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
     - Name: 
       Entry: 12
       Data: 0
@@ -906,7 +771,7 @@ MonoBehaviour:
       Data: 
     - Name: excludedNamespaces
       Entry: 7
-      Data: 61|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+      Data: 54|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
     - Name: 
       Entry: 12
       Data: 0
@@ -921,7 +786,7 @@ MonoBehaviour:
       Data: 
     - Name: showValueField
       Entry: 5
-      Data: false
+      Data: true
     - Name: useHorizontalLayout
       Entry: 5
       Data: true
@@ -929,14 +794,20 @@ MonoBehaviour:
       Entry: 5
       Data: true
     - Name: SelectedType
-      Entry: 9
-      Data: 47
+      Entry: 7
+      Data: 55|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: GridTool.SpawnDataSO, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: TypedValue
       Entry: 7
-      Data: 62|TypedValue, Assembly-CSharp
+      Data: 56|TypedValue, Assembly-CSharp
     - Name: cachedType
       Entry: 9
-      Data: 47
+      Data: 55
     - Name: typeFilters
       Entry: 3
       Data: 0
@@ -945,7 +816,7 @@ MonoBehaviour:
       Data: 
     - Name: namespaceFilters
       Entry: 7
-      Data: 63|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+      Data: 57|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
     - Name: 
       Entry: 12
       Data: 0
@@ -957,7 +828,7 @@ MonoBehaviour:
       Data: 
     - Name: excludedNamespaces
       Entry: 7
-      Data: 64|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+      Data: 58|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
     - Name: 
       Entry: 12
       Data: 0
@@ -982,81 +853,30 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
-    - Name: OutputAsset
-      Entry: 7
-      Data: 65|SceneSetupTool.BlackboardOutput, Assembly-CSharp
-    - Name: SaveToBlackboard
+    - Name: IsPersistent
       Entry: 5
-      Data: true
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 59|CTB.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: GridDataSO
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
+      Data: GameLifetimeScope
+    - Name: TypeSelector
       Entry: 7
-      Data: 66|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
-    - Name: description
-      Entry: 1
-      Data: Create LevelEditorSO asset
-    - Name: FileName
-      Entry: 7
-      Data: 67|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
-    - Name: UseBlackboard
-      Entry: 5
-      Data: true
-    - Name: DirectValue
-      Entry: 6
-      Data: 
-    - Name: BlackboardKey
-      Entry: 1
-      Data: LevelName
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: FileNamePrefix
-      Entry: 6
-      Data: 
-    - Name: FileNameSuffix
-      Entry: 1
-      Data: _LevelEditor
-    - Name: FolderPath
-      Entry: 1
-      Data: Assets/_Modules/Grid Editor Tool/Resources/Levels
-    - Name: CreateFolder
-      Entry: 5
-      Data: true
-    - Name: FolderName
-      Entry: 7
-      Data: 68|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
-    - Name: UseBlackboard
-      Entry: 5
-      Data: true
-    - Name: DirectValue
-      Entry: 6
-      Data: 
-    - Name: BlackboardKey
-      Entry: 1
-      Data: LevelName
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: TypeSelection
-      Entry: 7
-      Data: 69|SceneSetupTool.TypeSelector, Assembly-CSharp
+      Data: 60|SceneSetupTool.TypeSelector, Assembly-CSharp
     - Name: typeFilters
       Entry: 3
-      Data: 41
+      Data: 0
     - Name: baseTypeConstraint
       Entry: 6
       Data: 
     - Name: namespaceFilters
       Entry: 7
-      Data: 70|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+      Data: 61|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
     - Name: 
       Entry: 12
       Data: 0
@@ -1068,7 +888,124 @@ MonoBehaviour:
       Data: 
     - Name: excludedNamespaces
       Entry: 7
-      Data: 71|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+      Data: 62|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: customFilter
+      Entry: 6
+      Data: 
+    - Name: showValueField
+      Entry: 5
+      Data: true
+    - Name: useHorizontalLayout
+      Entry: 5
+      Data: true
+    - Name: includePrimitives
+      Entry: 5
+      Data: true
+    - Name: SelectedType
+      Entry: 7
+      Data: 63|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: FN.GameLifetimeScope, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: TypedValue
+      Entry: 7
+      Data: 64|TypedValue, Assembly-CSharp
+    - Name: cachedType
+      Entry: 9
+      Data: 63
+    - Name: typeFilters
+      Entry: 3
+      Data: 0
+    - Name: baseTypeConstraint
+      Entry: 6
+      Data: 
+    - Name: namespaceFilters
+      Entry: 7
+      Data: 65|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: excludedNamespaces
+      Entry: 7
+      Data: 66|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: customTypeFilter
+      Entry: 6
+      Data: 
+    - Name: ValueAsset
+      Entry: 6
+      Data: 
+    - Name: ValuePrimitive
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: IsPersistent
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 67|CTB.BlackboardEntry, Assembly-CSharp
+    - Name: Key
+      Entry: 1
+      Data: GameLifetimeScopeGO
+    - Name: TypeSelector
+      Entry: 7
+      Data: 68|SceneSetupTool.TypeSelector, Assembly-CSharp
+    - Name: typeFilters
+      Entry: 3
+      Data: 0
+    - Name: baseTypeConstraint
+      Entry: 6
+      Data: 
+    - Name: namespaceFilters
+      Entry: 7
+      Data: 69|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: excludedNamespaces
+      Entry: 7
+      Data: 70|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
     - Name: 
       Entry: 12
       Data: 0
@@ -1091,14 +1028,20 @@ MonoBehaviour:
       Entry: 5
       Data: true
     - Name: SelectedType
-      Entry: 9
-      Data: 39
+      Entry: 7
+      Data: 71|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: UnityEngine.GameObject, UnityEngine.CoreModule
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: TypedValue
       Entry: 7
       Data: 72|TypedValue, Assembly-CSharp
     - Name: cachedType
       Entry: 9
-      Data: 39
+      Data: 71
     - Name: typeFilters
       Entry: 3
       Data: 0
@@ -1144,9 +1087,418 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
+    - Name: IsPersistent
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Actions
+      Entry: 7
+      Data: 75|System.Collections.Generic.List`1[[SceneSetupTool.SequenceAction,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 8
+    - Name: 
+      Entry: 7
+      Data: 76|SceneSetupTool.CreateNewSceneAction, Assembly-CSharp
+    - Name: description
+      Entry: 1
+      Data: Create new Scene (level)
+    - Name: CreateFromTemplate
+      Entry: 5
+      Data: false
+    - Name: TemplateScene
+      Entry: 10
+      Data: 1
+    - Name: SceneName
+      Entry: 7
+      Data: 77|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: LevelName
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: SceneNamePrefix
+      Entry: 6
+      Data: 
+    - Name: SceneNameSuffix
+      Entry: 6
+      Data: 
+    - Name: FolderPath
+      Entry: 1
+      Data: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
+    - Name: CreateNewFolder
+      Entry: 5
+      Data: true
+    - Name: FolderName
+      Entry: 7
+      Data: 78|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: LevelName
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: NewSceneMode
+      Entry: 3
+      Data: 0
+    - Name: NewSceneSetup
+      Entry: 3
+      Data: 1
+    - Name: OpenSceneAfterCreated
+      Entry: 5
+      Data: true
+    - Name: SceneOutput
+      Entry: 7
+      Data: 79|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+    - Name: SaveToBlackboard
+      Entry: 5
+      Data: true
+    - Name: Key
+      Entry: 1
+      Data: NewScene
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 80|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
+    - Name: description
+      Entry: 1
+      Data: Create GridDataSO asset
+    - Name: FileName
+      Entry: 7
+      Data: 81|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: LevelName
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FileNamePrefix
+      Entry: 6
+      Data: 
+    - Name: FileNameSuffix
+      Entry: 1
+      Data: _GridData
+    - Name: FolderPath
+      Entry: 1
+      Data: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
+    - Name: CreateFolder
+      Entry: 5
+      Data: true
+    - Name: FolderName
+      Entry: 7
+      Data: 82|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: LevelName
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: TypeSelection
+      Entry: 7
+      Data: 83|SceneSetupTool.TypeSelector, Assembly-CSharp
+    - Name: typeFilters
+      Entry: 3
+      Data: 41
+    - Name: baseTypeConstraint
+      Entry: 6
+      Data: 
+    - Name: namespaceFilters
+      Entry: 7
+      Data: 84|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: excludedNamespaces
+      Entry: 7
+      Data: 85|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: customFilter
+      Entry: 6
+      Data: 
+    - Name: showValueField
+      Entry: 5
+      Data: false
+    - Name: useHorizontalLayout
+      Entry: 5
+      Data: true
+    - Name: includePrimitives
+      Entry: 5
+      Data: true
+    - Name: SelectedType
+      Entry: 9
+      Data: 47
+    - Name: TypedValue
+      Entry: 7
+      Data: 86|TypedValue, Assembly-CSharp
+    - Name: cachedType
+      Entry: 9
+      Data: 47
+    - Name: typeFilters
+      Entry: 3
+      Data: 0
+    - Name: baseTypeConstraint
+      Entry: 6
+      Data: 
+    - Name: namespaceFilters
+      Entry: 7
+      Data: 87|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: excludedNamespaces
+      Entry: 7
+      Data: 88|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: customTypeFilter
+      Entry: 6
+      Data: 
+    - Name: ValueAsset
+      Entry: 6
+      Data: 
+    - Name: ValuePrimitive
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: OutputAsset
       Entry: 7
-      Data: 75|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+      Data: 89|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+    - Name: SaveToBlackboard
+      Entry: 5
+      Data: true
+    - Name: Key
+      Entry: 1
+      Data: GridDataSO
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 90|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
+    - Name: description
+      Entry: 1
+      Data: Create LevelEditorSO asset
+    - Name: FileName
+      Entry: 7
+      Data: 91|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: LevelName
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FileNamePrefix
+      Entry: 6
+      Data: 
+    - Name: FileNameSuffix
+      Entry: 1
+      Data: _LevelEditor
+    - Name: FolderPath
+      Entry: 1
+      Data: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
+    - Name: CreateFolder
+      Entry: 5
+      Data: true
+    - Name: FolderName
+      Entry: 7
+      Data: 92|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: LevelName
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: TypeSelection
+      Entry: 7
+      Data: 93|SceneSetupTool.TypeSelector, Assembly-CSharp
+    - Name: typeFilters
+      Entry: 3
+      Data: 41
+    - Name: baseTypeConstraint
+      Entry: 6
+      Data: 
+    - Name: namespaceFilters
+      Entry: 7
+      Data: 94|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: excludedNamespaces
+      Entry: 7
+      Data: 95|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: customFilter
+      Entry: 6
+      Data: 
+    - Name: showValueField
+      Entry: 5
+      Data: false
+    - Name: useHorizontalLayout
+      Entry: 5
+      Data: true
+    - Name: includePrimitives
+      Entry: 5
+      Data: true
+    - Name: SelectedType
+      Entry: 9
+      Data: 39
+    - Name: TypedValue
+      Entry: 7
+      Data: 96|TypedValue, Assembly-CSharp
+    - Name: cachedType
+      Entry: 9
+      Data: 39
+    - Name: typeFilters
+      Entry: 3
+      Data: 0
+    - Name: baseTypeConstraint
+      Entry: 6
+      Data: 
+    - Name: namespaceFilters
+      Entry: 7
+      Data: 97|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: excludedNamespaces
+      Entry: 7
+      Data: 98|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: customTypeFilter
+      Entry: 6
+      Data: 
+    - Name: ValueAsset
+      Entry: 6
+      Data: 
+    - Name: ValuePrimitive
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: OutputAsset
+      Entry: 7
+      Data: 99|SceneSetupTool.BlackboardOutput, Assembly-CSharp
     - Name: SaveToBlackboard
       Entry: 5
       Data: true
@@ -1161,13 +1513,175 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 76|SceneSetupTool.SetPropertiesAction, Assembly-CSharp
+      Data: 100|SceneSetupTool.CreateNewScriptableObjectAction, Assembly-CSharp
+    - Name: description
+      Entry: 1
+      Data: Create SpawnDataSO
+    - Name: FileName
+      Entry: 7
+      Data: 101|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: LevelName
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FileNamePrefix
+      Entry: 6
+      Data: 
+    - Name: FileNameSuffix
+      Entry: 1
+      Data: _SpawnData
+    - Name: FolderPath
+      Entry: 1
+      Data: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
+    - Name: CreateFolder
+      Entry: 5
+      Data: true
+    - Name: FolderName
+      Entry: 7
+      Data: 102|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: LevelName
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: TypeSelection
+      Entry: 7
+      Data: 103|SceneSetupTool.TypeSelector, Assembly-CSharp
+    - Name: typeFilters
+      Entry: 3
+      Data: 41
+    - Name: baseTypeConstraint
+      Entry: 6
+      Data: 
+    - Name: namespaceFilters
+      Entry: 7
+      Data: 104|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: excludedNamespaces
+      Entry: 7
+      Data: 105|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: customFilter
+      Entry: 6
+      Data: 
+    - Name: showValueField
+      Entry: 5
+      Data: false
+    - Name: useHorizontalLayout
+      Entry: 5
+      Data: true
+    - Name: includePrimitives
+      Entry: 5
+      Data: true
+    - Name: SelectedType
+      Entry: 9
+      Data: 55
+    - Name: TypedValue
+      Entry: 7
+      Data: 106|TypedValue, Assembly-CSharp
+    - Name: cachedType
+      Entry: 9
+      Data: 55
+    - Name: typeFilters
+      Entry: 3
+      Data: 0
+    - Name: baseTypeConstraint
+      Entry: 6
+      Data: 
+    - Name: namespaceFilters
+      Entry: 7
+      Data: 107|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: excludedNamespaces
+      Entry: 7
+      Data: 108|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: customTypeFilter
+      Entry: 6
+      Data: 
+    - Name: ValueAsset
+      Entry: 6
+      Data: 
+    - Name: ValuePrimitive
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: OutputAsset
+      Entry: 7
+      Data: 109|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+    - Name: SaveToBlackboard
+      Entry: 5
+      Data: true
+    - Name: Key
+      Entry: 1
+      Data: SpawnDataSO
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 110|SceneSetupTool.SetPropertiesAction, Assembly-CSharp
     - Name: description
       Entry: 1
       Data: 'Set properties of LevelEditorSO: GridDataSO, LevelScene, LevelName'
     - Name: TargetObject
       Entry: 7
-      Data: 77|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
+      Data: 111|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -1182,20 +1696,20 @@ MonoBehaviour:
       Data: 
     - Name: FieldAssignments
       Entry: 7
-      Data: 78|System.Collections.Generic.List`1[[SceneSetupTool.FieldAssignment,
+      Data: 112|System.Collections.Generic.List`1[[SceneSetupTool.FieldAssignment,
         Assembly-CSharp]], mscorlib
     - Name: 
       Entry: 12
-      Data: 4
+      Data: 5
     - Name: 
       Entry: 7
-      Data: 79|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 113|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
       Data: GridData
     - Name: Value
       Entry: 7
-      Data: 80|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
+      Data: 114|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -1213,13 +1727,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 81|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 115|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
       Data: levelScene
     - Name: Value
       Entry: 7
-      Data: 82|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
+      Data: 116|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -1237,13 +1751,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 83|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 117|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
       Data: levelName
     - Name: Value
       Entry: 7
-      Data: 84|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
+      Data: 118|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -1261,13 +1775,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 85|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 119|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
       Data: DefaultGridTerrainsSO
     - Name: Value
       Entry: 7
-      Data: 86|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
+      Data: 120|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
       Data: true
@@ -1277,6 +1791,196 @@ MonoBehaviour:
     - Name: BlackboardKey
       Entry: 1
       Data: DefaultTerrainTypes
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 121|SceneSetupTool.FieldAssignment, Assembly-CSharp
+    - Name: FieldName
+      Entry: 1
+      Data: SpawnData
+    - Name: Value
+      Entry: 7
+      Data: 122|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: SpawnDataSO
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 123|SceneSetupTool.CreateGameObjectAction, Assembly-CSharp
+    - Name: description
+      Entry: 1
+      Data: Create GameLifetimeScopeGO
+    - Name: GameObjectName
+      Entry: 7
+      Data: 124|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 1
+      Data: Game Lifetime Scope
+    - Name: BlackboardKey
+      Entry: 1
+      Data: GameLifetimeScopeGOname
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: HasParent
+      Entry: 5
+      Data: false
+    - Name: ParentObjectName
+      Entry: 7
+      Data: 125|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: false
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FromPrefab
+      Entry: 5
+      Data: false
+    - Name: Prefab
+      Entry: 6
+      Data: 
+    - Name: GameObjectOutput
+      Entry: 7
+      Data: 126|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+    - Name: SaveToBlackboard
+      Entry: 5
+      Data: true
+    - Name: Key
+      Entry: 1
+      Data: GameLifetimeScopeGO
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 127|SceneSetupTool.AddComponentAction, Assembly-CSharp
+    - Name: description
+      Entry: 1
+      Data: Add component GameLifetimeScope to GameLifetimeScopeGO
+    - Name: GameObjectName
+      Entry: 7
+      Data: 128|SceneSetupTool.BlackboardVariable`1[[System.String, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: GameLifetimeScopeGOname
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Source
+      Entry: 3
+      Data: 1
+    - Name: _builtInTypeQualifiedName
+      Entry: 6
+      Data: 
+    - Name: componentToAdd
+      Entry: 10
+      Data: 2
+    - Name: BlackboardOutput
+      Entry: 7
+      Data: 129|SceneSetupTool.BlackboardOutput, Assembly-CSharp
+    - Name: SaveToBlackboard
+      Entry: 5
+      Data: true
+    - Name: Key
+      Entry: 1
+      Data: GameLifetimeScope
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 130|SceneSetupTool.SetPropertiesAction, Assembly-CSharp
+    - Name: description
+      Entry: 1
+      Data: Assign GridData to GameLifetimeScope
+    - Name: TargetObject
+      Entry: 7
+      Data: 131|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: GameLifetimeScope
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FieldAssignments
+      Entry: 7
+      Data: 132|System.Collections.Generic.List`1[[SceneSetupTool.FieldAssignment,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 133|SceneSetupTool.FieldAssignment, Assembly-CSharp
+    - Name: FieldName
+      Entry: 1
+      Data: GridData
+    - Name: Value
+      Entry: 7
+      Data: 134|SceneSetupTool.BlackboardVariable`1[[System.Object, mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: true
+    - Name: DirectValue
+      Entry: 6
+      Data: 
+    - Name: BlackboardKey
+      Entry: 1
+      Data: GridDataSO
     - Name: 
       Entry: 8
       Data: 

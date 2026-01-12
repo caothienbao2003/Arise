@@ -24,7 +24,7 @@ namespace GridTool
             set => EditorPrefs.SetString("GridTool_SettingsPath", value);
         }
         
-        private CreateNewTerrainTypeWindow createNewTerrainTypeWindow;
+        private CreateNewScriptableObjectWindow<TerrainTypeSO> createNewTerrainTypeWindow;
         private CreateNewLevelWindow createNewLevelWindow;
 
         [InlineEditor(ObjectFieldMode = InlineEditorObjectFieldModes.Hidden)]
@@ -71,7 +71,20 @@ namespace GridTool
         {
             OdinMenuTree tree = new OdinMenuTree();
             
-            HandleCreateNewTerrainTypeWindow(tree);
+            // HandleCreateNewTerrainTypeWindow(tree);
+            
+            HandleCreateNewScriptableObjectWindow<TerrainTypeSO>(
+                tree, 
+                "Terrain Types", 
+                settings.TerrainTypePath
+            );
+            
+            HandleCreateNewScriptableObjectWindow<SpawnTypeSO>(
+                tree, 
+                "Spawn Types", 
+                settings.SpawnTypePath
+            );
+            
             HandleCreateNewLevelWindow(tree);
             HandleCreateSettingsWindow(tree);
 
@@ -119,24 +132,28 @@ namespace GridTool
 
         }
 
-        private void HandleCreateNewTerrainTypeWindow(OdinMenuTree tree)
+        private void HandleCreateNewScriptableObjectWindow<T>(OdinMenuTree tree, string menuName, string folderPath) 
+            where T : ScriptableObject, IDisplayNameable
         {
-            createNewTerrainTypeWindow = new CreateNewTerrainTypeWindowBuilder()
-                .WithNewTerrainTypePath(settings.TerrainTypePath)
-                .Build();
+            var createNewWindow = new CreateNewScriptableObjectWindow<T>(folderPath);
 
-            tree.Add("Terrain Types", createNewTerrainTypeWindow);
-            IEnumerable<OdinMenuItem> terrainTypes = tree.AddAllAssetsAtPath(
-                "Terrain Types",
-                settings.TerrainTypePath,
-                typeof(TerrainTypeSO),
+            tree.Add(menuName, createNewWindow);
+
+            IEnumerable<OdinMenuItem> items = tree.AddAllAssetsAtPath(
+                menuName,
+                folderPath,
+                typeof(T),
                 includeSubDirectories: true,
                 flattenSubDirectories: true
             );
-
-            foreach (var item in terrainTypes)
-                if (item.Value is TerrainTypeSO data)
+            
+            foreach (var item in items)
+            {
+                if (item.Value is IDisplayNameable data)
+                {
                     item.Name = data.DisplayName;
+                }
+            }
         }
 
         private void HandleCreateSettingsWindow(OdinMenuTree tree)

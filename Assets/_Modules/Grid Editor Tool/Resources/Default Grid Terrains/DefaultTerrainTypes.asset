@@ -13,7 +13,5 @@ MonoBehaviour:
   m_Name: DefaultTerrainTypes
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.DefaultGridTerrainsSO
   DefaultTerrainTypes:
-  - {fileID: 11400000, guid: c7261b8226fa83d4a88d2c6f180e7008, type: 2}
-  - {fileID: 11400000, guid: 1e027f096fadc2546a81963c2409e429, type: 2}
-  - {fileID: 11400000, guid: 7416b5e0349018b4f8b35ca01f82d2db, type: 2}
-  - {fileID: 11400000, guid: 3e93105ca9da4e843b06bdf34fb84236, type: 2}
+  - {fileID: 11400000, guid: 754d33f405a65e641a4d488f1869e1cd, type: 2}
+  - {fileID: 11400000, guid: 7e16723775c76c342b9ba2cf111af7a0, type: 2}
