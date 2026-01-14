@@ -1,0 +1,10 @@
+OVDF v1.1
+SceneSetupTool.TypeSelector, Assembly-CSharp
+
+# "Type"
+* [Sirenix.OdinInspector.HorizontalGroupAttribute]
+	Width = 0
+
+# TypedValue
+* [Sirenix.OdinInspector.InlinePropertyAttribute]
+	LabelWidth = 10

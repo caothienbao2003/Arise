@@ -5,7 +5,7 @@ using Sirenix.OdinInspector;
 using Sirenix.Serialization;
 using UnityEngine;
 
-namespace SceneSetupTool
+namespace CTB.DesignPatterns.Blackboard
 {
     [Serializable, InlineProperty, HideReferenceObjectPicker]
     public class TypeSelector

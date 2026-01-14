@@ -1,0 +1,30 @@
+OVDF v1.1
+GridTool.SpawnDataSO, Assembly-CSharp
+MetaGuid:bb5652053c1244bfbf1ffcfbe9db9643
+
+# $16n45WVbQm49yVofJuVSsA
+Position: $root
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Fixed Spawn"
+
+# $UpdYp4pq4LNYXGpMvccdXw
+Position: $root
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Wave Spawn"
+
+# $Q64HZfyK6BGR4ea33Xf5nr
+Position: $root
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Summon Spawn"
+
+# FixedSpawns
+Position: $16n45WVbQm49yVofJuVSsA:0
+- [Sirenix.OdinInspector.TitleAttribute]
+
+# WaveSpawns
+Position: $UpdYp4pq4LNYXGpMvccdXw:0
+- [Sirenix.OdinInspector.TitleAttribute]
+
+# SummonZone
+Position: $Q64HZfyK6BGR4ea33Xf5nr:0
+- [Sirenix.OdinInspector.TitleAttribute]

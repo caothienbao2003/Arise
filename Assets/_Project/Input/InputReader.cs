@@ -3,14 +3,8 @@ using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-[CreateAssetMenu(fileName = "InputReader", menuName = "Scriptable Objects/InputReader")]
-public class InputReader : ScriptableSingleton<InputReader>, PlayerInputActions.IGameplayActions
+public class InputReader : MonoBehaviour, PlayerInputActions.IGameplayActions
 {
-    #region Singleton
-    private const string RESOURCE_PATH = "Settings/Input/InputReader";
-    public static InputReader Instance => GetInstance(RESOURCE_PATH);
-    #endregion
-    
     public Action<Vector2> mouseActionEvent { get; set; }
     public Action mousePanEvent { get; set; }
     public Vector2 mousePosition { get; set; }

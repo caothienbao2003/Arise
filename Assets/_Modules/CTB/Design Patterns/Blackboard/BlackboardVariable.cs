@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace SceneSetupTool
+namespace CTB.DesignPatterns.Blackboard
 {
     [Serializable]
     [InlineProperty]

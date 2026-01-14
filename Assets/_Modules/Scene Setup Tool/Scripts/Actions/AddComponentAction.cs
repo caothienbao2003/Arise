@@ -4,6 +4,7 @@ using UnityEngine;
 using Sirenix.OdinInspector;
 using System.Collections.Generic;
 using System.Linq;
+using CTB.DesignPatterns.Blackboard;
 using UnityEditor;
 
 namespace SceneSetupTool

@@ -1,6 +1,7 @@
 using GridUtilities;
 using System;
 using System.Collections.Generic;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 namespace GridTool
@@ -35,7 +36,7 @@ namespace GridTool
         [field: SerializeField]
         public bool IsWalkable { get; set; }
         
-        public bool IsOccupied { get; set; }
+        [ShowInInspector] public bool IsOccupied { get; set; }
         
         public GameObject OccupiedObject { get; set; }
     }

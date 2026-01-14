@@ -15,6 +15,7 @@ MonoBehaviour:
   TerrainTypePath: Assets/_Modules/Grid Editor Tool/Resources/TerrainTypes
   TerrainTypeDefaults: {fileID: 11400000, guid: 5b6d5c77264655d47848bc03d51c479e, type: 2}
   SpawnTypePath: Assets/_Modules/Grid Editor Tool/Resources/SpawnTypes
+  PathfindingProfilePath: Assets/_Modules/Grid Editor Tool/Resources/PathfindingProfile
   LevelScenePath: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
   LevelDataPath: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
   GridDataPath: Assets/_Modules/Grid Editor Tool/Resources/Level Datas

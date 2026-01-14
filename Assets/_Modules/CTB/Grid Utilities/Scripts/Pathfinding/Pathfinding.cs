@@ -1,70 +1,79 @@
 using GridTool;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using UnityEngine;
 
 namespace GridUtilities
 {
-    public class Pathfinding<TPathNode> where TPathNode : class, IPathNode, IGridObject
+    public class Pathfinding<TPathNode>
+        where TPathNode : class, IPathNode, IGridObject
     {
-        private const int MOVE_STRAIGHT_COST = 10;
-        private const int MOVE_DIAGONAL_COST = 14;
+        private readonly Grid<TPathNode> grid;
 
-        private Grid<TPathNode> grid;
-        private List<TPathNode> toProcessList;
-        private List<TPathNode> processedList;
+        private List<TPathNode> openList;
+        private List<TPathNode> closedList;
 
         public Pathfinding(Grid<TPathNode> grid)
         {
             this.grid = grid;
         }
 
-        public Grid<TPathNode> GetGrid()
+        public Grid<TPathNode> GetGrid() => grid;
+
+        // --------------------------------------------------
+        // WORLD POSITION API
+        // --------------------------------------------------
+
+        public List<Vector3> FindPath(
+            Vector3 startWorldPos,
+            Vector3 endWorldPos,
+            PathfindingProfileSO profileSO)
         {
-            return grid;
+            if (profileSO == null)
+            {
+                Debug.LogWarning("[Pathfinding] Profile is null.");
+                return null;
+            }
+
+            TPathNode startNode = grid.GetCellGridObject(startWorldPos);
+            TPathNode endNode = grid.GetCellGridObject(endWorldPos);
+
+            if (startNode == null || endNode == null)
+                return null;
+
+            List<TPathNode> nodePath =
+                FindPath(startNode, endNode, profileSO);
+
+            if (nodePath == null)
+                return null;
+
+            List<Vector3> worldPath = new();
+            foreach (TPathNode node in nodePath)
+            {
+                worldPath.Add(
+                    grid.GetCellCenterWorldPos(node.GridPosition)
+                );
+            }
+
+            return worldPath;
         }
 
-        public List<Vector3> FindPath(Vector3 startPosition, Vector3 endPosition)
+        // --------------------------------------------------
+        // NODE API
+        // --------------------------------------------------
+
+        public List<TPathNode> FindPath(
+            TPathNode startNode,
+            TPathNode endNode,
+            PathfindingProfileSO profileSO)
         {
-            TPathNode startNode = grid.GetCellGridObject(startPosition);
-            TPathNode endNode = grid.GetCellGridObject(endPosition);
-
-            if(startNode == null || endNode == null) return null;
-            
-            List<TPathNode> path = FindPath(startNode, endNode);
-            if (path == null)
-            {
+            if (startNode == null || endNode == null || profileSO == null)
                 return null;
-            }
 
-            List<Vector3> pathPositions = new List<Vector3>();
-            foreach (TPathNode node in path)
-            {
-                Vector3 nodeWorldPosition = grid.GetCellCenterWorldPos(node.GridPosition);
-                pathPositions.Add(nodeWorldPosition);
-            }
-            return pathPositions;
-        }
+            openList = new List<TPathNode> { startNode };
+            closedList = new List<TPathNode>();
 
-        public List<TPathNode> FindPath(TPathNode startNode, TPathNode endNode)
-        {
-            if (startNode == null)
-            {
-                Debug.LogWarning("[Pathfinding] [FindPath] Start node is null.");
-                return null;
-            }
-
-            if (endNode == null)
-            {
-                Debug.LogWarning("[Pathfinding] [FindPath] End node is null.");
-                return null;
-            }
-
-            toProcessList = new List<TPathNode> { startNode };
-            processedList = new List<TPathNode>();
-
-            //Reset all cells to start find path
+            // Reset nodes
             foreach (TPathNode node in grid.GetAllGridObjects())
             {
                 node.GCost = int.MaxValue;
@@ -72,111 +81,201 @@ namespace GridUtilities
             }
 
             startNode.GCost = 0;
-            startNode.HCost = CalculateMovementCost(startNode, endNode);
+            startNode.HCost =
+                CalculateMovementCost(startNode, endNode, profileSO);
 
-            while (toProcessList.Count > 0)
+            while (openList.Count > 0)
             {
-                TPathNode currentNode = GetNextCurrentCell(toProcessList);
+                TPathNode currentNode =
+                    GetLowestFCostNode(openList);
+
                 if (currentNode == endNode)
+                    return BuildPath(endNode);
+
+                openList.Remove(currentNode);
+                closedList.Add(currentNode);
+
+                foreach (TPathNode neighbor
+                         in GetValidNeighbors(currentNode, profileSO))
                 {
-                    return CalculatePath(endNode);
-                }
-
-                toProcessList.Remove(currentNode);
-                processedList.Add(currentNode);
-
-                List<TPathNode> validNeighborNodes = GetValidNeighborCells(currentNode);
-
-                foreach (TPathNode neighborNode in validNeighborNodes)
-                {
-                    if (neighborNode == null)
-                    {
-                        Debug.LogWarning("[Pathfinding] [FindPath] Neighbor node is null.");
-                    }
-
-                    if (!neighborNode.IsWalkable)
-                    {
-                        processedList.Add(neighborNode);
+                    if (!neighbor.IsWalkable ||
+                        closedList.Contains(neighbor))
                         continue;
-                    }
 
-                    int tentativeGCost = currentNode.GCost + CalculateMovementCost(currentNode, neighborNode);
+                    int tentativeGCost =
+                        currentNode.GCost +
+                        CalculateMovementCost(
+                            currentNode,
+                            neighbor,
+                            profileSO);
 
-                    bool isNeighborInToSearchList = toProcessList.Contains(neighborNode);
-
-                    if (!isNeighborInToSearchList || tentativeGCost < neighborNode.GCost)
+                    if (tentativeGCost < neighbor.GCost)
                     {
-                        neighborNode.PreviousNode = currentNode;
-                        neighborNode.GCost = tentativeGCost;
-                        neighborNode.HCost = CalculateMovementCost(neighborNode, endNode);
+                        neighbor.PreviousNode = currentNode;
+                        neighbor.GCost = tentativeGCost;
+                        neighbor.HCost =
+                            CalculateMovementCost(
+                                neighbor,
+                                endNode,
+                                profileSO);
 
-                        if (!isNeighborInToSearchList)
-                        {
-                            toProcessList.Add(neighborNode);
-                        }
+                        if (!openList.Contains(neighbor))
+                            openList.Add(neighbor);
                     }
                 }
             }
+
             return null;
         }
 
-        private List<TPathNode> GetValidNeighborCells(TPathNode node)
+        // --------------------------------------------------
+        // NEIGHBORS
+        // --------------------------------------------------
+
+        private List<TPathNode> GetValidNeighbors(
+            TPathNode node,
+            PathfindingProfileSO profileSO)
         {
-            return grid.GetNeighbors(node.GridPosition).Where(cell => !processedList.Contains(cell)).ToList();
+            List<TPathNode> neighbors = new();
+            Vector2Int pos = node.GridPosition;
+
+            // Straight
+            TryAddNeighbor(pos + Vector2Int.up, neighbors);
+            TryAddNeighbor(pos + Vector2Int.down, neighbors);
+            TryAddNeighbor(pos + Vector2Int.left, neighbors);
+            TryAddNeighbor(pos + Vector2Int.right, neighbors);
+
+            if (!profileSO.AllowDiagonal)
+                return neighbors;
+
+            // Diagonals
+            TryAddDiagonal(
+                pos,
+                Vector2Int.up + Vector2Int.right,
+                Vector2Int.up,
+                Vector2Int.right,
+                neighbors,
+                profileSO);
+
+            TryAddDiagonal(
+                pos,
+                Vector2Int.up + Vector2Int.left,
+                Vector2Int.up,
+                Vector2Int.left,
+                neighbors,
+                profileSO);
+
+            TryAddDiagonal(
+                pos,
+                Vector2Int.down + Vector2Int.right,
+                Vector2Int.down,
+                Vector2Int.right,
+                neighbors,
+                profileSO);
+
+            TryAddDiagonal(
+                pos,
+                Vector2Int.down + Vector2Int.left,
+                Vector2Int.down,
+                Vector2Int.left,
+                neighbors,
+                profileSO);
+
+            return neighbors;
         }
 
-        public List<TPathNode> CalculatePath(TPathNode endNode)
+        private void TryAddNeighbor(
+            Vector2Int gridPos,
+            List<TPathNode> neighbors)
         {
-            if (endNode == null)
+            TPathNode node = grid.GetCellGridObject(gridPos);
+            if (node == null) return;
+            if (closedList.Contains(node)) return;
+
+            neighbors.Add(node);
+        }
+
+        private void TryAddDiagonal(
+            Vector2Int from,
+            Vector2Int diagonalOffset,
+            Vector2Int straightA,
+            Vector2Int straightB,
+            List<TPathNode> neighbors,
+            PathfindingProfileSO profileSO)
+        {
+            TPathNode diagonalNode =
+                grid.GetCellGridObject(from + diagonalOffset);
+
+            if (diagonalNode == null) return;
+            if (closedList.Contains(diagonalNode)) return;
+
+            if (profileSO.BlockDiagonalCorner)
             {
-                Debug.LogWarning("[Pathfinding] [CalculatePath] End node is null.");
+                TPathNode a =
+                    grid.GetCellGridObject(from + straightA);
+                TPathNode b =
+                    grid.GetCellGridObject(from + straightB);
+
+                if ((a != null && !a.IsWalkable) ||
+                    (b != null && !b.IsWalkable))
+                    return;
             }
 
-            List<TPathNode> path = new List<TPathNode>();
-            path.Add(endNode);
-            TPathNode currentNode = endNode;
-            while (currentNode?.PreviousNode != null)
+            neighbors.Add(diagonalNode);
+        }
+
+        // --------------------------------------------------
+        // HELPERS
+        // --------------------------------------------------
+
+        private List<TPathNode> BuildPath(TPathNode endNode)
+        {
+            List<TPathNode> path = new();
+            TPathNode current = endNode;
+
+            while (current != null)
             {
-                path.Add(currentNode.PreviousNode as TPathNode);
-                currentNode = currentNode.PreviousNode as TPathNode;
+                path.Add(current);
+                current = current.PreviousNode as TPathNode;
             }
+
             path.Reverse();
             return path;
         }
 
-        private int CalculateMovementCost(TPathNode cellA, TPathNode cellB)
+        private int CalculateMovementCost(
+            TPathNode a,
+            TPathNode b,
+            PathfindingProfileSO profileSO)
         {
-            if (cellA == null)
-            {
-                Debug.LogWarning("[Pathfinding] [CalculateMovementCost] Cell A is null.");
-            }
-            if (cellB == null)
-            {
-                Debug.LogWarning("[Pathfinding] [CalculateMovementCost] Cell B is null.");
-            }
+            int dx = Mathf.Abs(
+                a.GridPosition.x - b.GridPosition.x);
+            int dy = Mathf.Abs(
+                a.GridPosition.y - b.GridPosition.y);
 
-            int xDistance = Mathf.Abs(cellA.GridPosition.x - cellB.GridPosition.x);
-            int yDistance = Mathf.Abs(cellA.GridPosition.y - cellB.GridPosition.y);
+            int diagonalMoves = Mathf.Min(dx, dy);
+            int straightMoves = Mathf.Abs(dx - dy);
 
-            int numberOfDiagonalMoves = Mathf.Min(xDistance, yDistance);
-            int numberOfStraightMove = Math.Abs(xDistance - yDistance);
-
-            return MOVE_DIAGONAL_COST * numberOfDiagonalMoves + MOVE_STRAIGHT_COST * numberOfStraightMove;
+            return diagonalMoves * profileSO.MoveDiagonalCost +
+                   straightMoves * profileSO.MoveStraightCost;
         }
 
-        private TPathNode GetNextCurrentCell(List<TPathNode> cellList)
+        private TPathNode GetLowestFCostNode(
+            List<TPathNode> list)
         {
-            TPathNode lowestFCostCell = cellList[0];
+            TPathNode best = list[0];
 
-            foreach (TPathNode cell in cellList)
+            foreach (TPathNode node in list)
             {
-                if ((cell.FCost < lowestFCostCell.FCost) || (cell.FCost == lowestFCostCell.FCost && cell.HCost < lowestFCostCell.HCost))
+                if (node.FCost < best.FCost ||
+                   (node.FCost == best.FCost &&
+                    node.HCost < best.HCost))
                 {
-                    lowestFCostCell = cell;
+                    best = node;
                 }
             }
 
-            return lowestFCostCell;
+            return best;
         }
     }
 }

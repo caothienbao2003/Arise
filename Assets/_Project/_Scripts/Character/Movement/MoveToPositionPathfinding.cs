@@ -10,6 +10,8 @@ using VContainer;
 
 public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
 {
+    [SerializeField] private PathfindingProfileSO pathfindingProfileSO;
+    
     [SerializeField] private float reachPathPositionDistance = 0.5f;
     [SerializeField] private float finalSnapLerpSpeed = 50f;
     private int currentPathIndex = -1;
@@ -45,7 +47,7 @@ public class MoveToPositionPathfinding : MonoBehaviour, IMoveToPosition
         Debug.Log($"[MoveToPositionPathfinding] SetMoveTargetPosition {gridService.Pathfinding == null} {gridService.GridData.name}");
 
         
-        List<Vector3> tempPathList = gridService.Pathfinding.FindPath(transform.position, targetPosition);
+        List<Vector3> tempPathList = gridService.Pathfinding.FindPath(transform.position, targetPosition, pathfindingProfileSO);
 
         if (tempPathList == null)
         {

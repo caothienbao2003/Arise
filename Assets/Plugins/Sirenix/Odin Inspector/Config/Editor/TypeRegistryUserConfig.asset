@@ -26,6 +26,12 @@ MonoBehaviour:
       sdfIconType: 201
       lightColor: {r: 0, g: 0, b: 0, a: 0}
       darkColor: {r: 0.509434, g: 0.07593445, b: 0.07593445, a: 1}
+    - typeBound: SceneSetupTool.CreateNewSceneAction, Assembly-CSharp
+      displayName: 
+      category: 
+      sdfIconType: 0
+      lightColor: {r: 0, g: 0, b: 0, a: 0}
+      darkColor: {r: 0.6122742, g: 0.6150943, b: 0.24023491, a: 1}
   typePriorities:
     serializedDictionary:
     - typeName: SceneSetupTool.SequenceAction, Assembly-CSharp

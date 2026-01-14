@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using CTB;
+using CTB.DesignPatterns.Blackboard;
 using Sirenix.OdinInspector;
 using Sirenix.Serialization;
 using UnityEditor;

@@ -25,15 +25,15 @@ namespace GridTool
         [ReadOnly]
         public Vector2Int KingPositionReference;
 
-        [BoxGroup("TitleGroup/Auto-Calculate")]
-        [ShowIf(nameof(AutoCalculateAroundKing))]
-        [Button(ButtonSizes.Medium, Icon = SdfIconType.Calculator)]
-        [GUIColor(0.4f, 0.8f, 1f)]
-        private void RecalculateZone()
-        {
-            Positions = CalculatePositionsAroundKing(KingPositionReference);
-            Debug.Log($"Summon zone recalculated: {Positions.Count} positions around king at {KingPositionReference}");
-        }
+        // [BoxGroup("TitleGroup/Auto-Calculate")]
+        // [ShowIf(nameof(AutoCalculateAroundKing))]
+        // [Button(ButtonSizes.Medium, Icon = SdfIconType.Calculator)]
+        // [GUIColor(0.4f, 0.8f, 1f)]
+        // private void RecalculateZone()
+        // {
+        //     Positions = CalculatePositionsAroundKing(KingPositionReference);
+        //     Debug.Log($"Summon zone recalculated: {Positions.Count} positions around king at {KingPositionReference}");
+        // }
 
         [TitleGroup("Summon Zone Configuration")]
         [BoxGroup("TitleGroup/Positions")]

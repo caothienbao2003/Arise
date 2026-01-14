@@ -1,0 +1,16 @@
+OVDF v1.1
+SceneSetupTool.SequenceActionsSetupSO, Assembly-CSharp
+MetaGuid:0def5571d8e2a2548bd7ffbc994d42cd
+
+# displayName
+Position: "Summary":0
+
+# ExecuteActions()
+Position: $root:5
+* [Sirenix.OdinInspector.ButtonAttribute]
+	Expanded = False
+	Style = Box
+	buttonHeight = 40
+	HasDefinedButtonHeight = True
++ [UnityEngine.SpaceAttribute]
+	height = 2

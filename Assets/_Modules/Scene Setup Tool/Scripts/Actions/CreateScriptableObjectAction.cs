@@ -1,5 +1,6 @@
 using System;
 using CTB;
+using CTB.DesignPatterns.Blackboard;
 using Sirenix.OdinInspector;
 using UnityEditor;
 using UnityEngine;

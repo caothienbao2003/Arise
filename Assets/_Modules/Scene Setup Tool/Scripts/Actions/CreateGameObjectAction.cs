@@ -1,6 +1,7 @@
 ﻿using CTB;
 using Sirenix.OdinInspector;
 using System;
+using CTB.DesignPatterns.Blackboard;
 using UnityEngine;
 
 namespace SceneSetupTool

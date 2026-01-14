@@ -3,6 +3,7 @@ using UnityEngine;
 using GridUtilities;
 using Sirenix.OdinInspector;
 using System;
+using Sirenix.Serialization;
 
 namespace GridTool
 {
@@ -11,7 +12,8 @@ namespace GridTool
     {
         [SerializeField] private List<CellData> cellDatas;
         [SerializeField] private float cellSize = 1f;
-        
+
+        [ShowInInspector]
         public List<CellData> CellDatas
         {
             get
@@ -20,6 +22,7 @@ namespace GridTool
                 return cellDatas;
             }
         }
+
         public float CellSize => cellSize;
 
         public void ClearCellDatas()
@@ -40,12 +43,12 @@ namespace GridTool
                 return compareY != 0 ? compareY : a.GridPosition.x.CompareTo(b.GridPosition.x);
             });
         }
-        
+
         public void SetCellSize(float size)
         {
             cellSize = size;
         }
-        
+
         public CellData GetCellAt(Vector2Int GridPosition)
         {
             return CellDatas?.Find(c => c.GridPosition == GridPosition);
@@ -61,15 +64,16 @@ namespace GridTool
 
             Vector3 origin = Vector3.zero;
             Grid<CellData> grid = new Grid<CellData>();
-            
+
             // IMPORTANT: Add all cells to the grid!
             foreach (var cellData in cellDatas)
             {
                 grid.SetCellGridObject(cellData.GridPosition, cellData);
+                cellData.IsOccupied = false;
             }
-            
+
             Debug.Log($"Grid created with {grid.GetCellCount()} cells");
-            
+
             return grid;
         }
 

@@ -43,6 +43,35 @@ Position: $HJQRkHpszLaL2C9Lzu92wa:2
 + [Sirenix.OdinInspector.HorizontalGroupAttribute]
 	GroupName = "Grid Visualizer"
 
+# $JrXADMCxNYbPQK4eNkZoiq
+Position: "Tabs/Spawn Setup":1
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Spawn Data"
+
+# $9E9kfjE8X5RW7WYK9y8rb6
+Position: "Tabs/Spawn Setup":2
++ [Sirenix.OdinInspector.FoldoutGroupAttribute]
+	GroupName = "Actions"
+
+# "Tabs/Spawn Setup/Actions"
+Position: $9E9kfjE8X5RW7WYK9y8rb6:2
+- [Sirenix.OdinInspector.HorizontalGroupAttribute]
+
+# $3HsP4FFWYpvUhncrzEEs3s
+Position: $9E9kfjE8X5RW7WYK9y8rb6:0
++ [Sirenix.OdinInspector.ColumnGroupAttribute]
+
+# $78mRoGtEaCgU5houM2c31m
+Position: $3HsP4FFWYpvUhncrzEEs3s:0
++ [Sirenix.OdinInspector.ColumnGroupAttribute+ColumnSubGroupAttribute]
+
+# $R9ULdhEu71vwaMQM5u72Gr
+Position: $3HsP4FFWYpvUhncrzEEs3s:1
++ [Sirenix.OdinInspector.ColumnGroupAttribute+ColumnSubGroupAttribute]
+
+# "Tabs/Spawn Setup/Utility"
+- [Sirenix.OdinInspector.HorizontalGroupAttribute]
+
 # levelScene
 Position: "Tabs/LevelSetup/Details":1
 
@@ -66,21 +95,62 @@ Visibility: Shown
 Position: $T536fTXaps8zT8DTiHokq5:0
 * [Sirenix.OdinInspector.ButtonAttribute]
 	Icon = MotherboardFill
++ [Sirenix.OdinInspector.GUIColorAttribute]
+	Color = #E0E842FF
+	GetColor = "#13BFC0"
 
 # DisableGridBaker()
 Position: $T536fTXaps8zT8DTiHokq5:1
 * [Sirenix.OdinInspector.ButtonAttribute]
 	Icon = Motherboard
++ [Sirenix.OdinInspector.GUIColorAttribute]
+	GetColor = "#E92567"
 
 # SetupGridVisualize()
 Position: $75X96REtoM2MnxKCQGWg8J:0
 * [Sirenix.OdinInspector.ButtonAttribute]
 	Icon = EyeFill
++ [Sirenix.OdinInspector.GUIColorAttribute]
+	GetColor = "#13BFC0"
 
 # DisableGridVisualize()
 Position: $75X96REtoM2MnxKCQGWg8J:1
 * [Sirenix.OdinInspector.ButtonAttribute]
 	Icon = EyeSlash
++ [Sirenix.OdinInspector.GUIColorAttribute]
+	GetColor = "#E92567"
 
 # ResetTerrainTypeToDefault()
 Position: "Tabs/Grid Setup/Action":0
+Visibility: Shown
++ [Sirenix.OdinInspector.GUIColorAttribute]
+	GetColor = "#EB1E92"
++ [Sirenix.OdinInspector.ButtonAttribute]
+	buttonHeight = 30
+	HasDefinedButtonHeight = True
+	Name = "Reset Terrrain Types To Default"
+	Icon = ArrowCounterclockwise
+
+# BakeGrid()
+Position: $HJQRkHpszLaL2C9Lzu92wa:3
++ [Sirenix.OdinInspector.GUIColorAttribute]
+	GetColor = "#1AB95F"
+
+# ValidateSpawns()
+Position: $9E9kfjE8X5RW7WYK9y8rb6:3
+* [Sirenix.OdinInspector.GUIColorAttribute]
+	GetColor = "#20C483"
+
+# SpawnData
+Position: "Tabs/Spawn Setup":0
+- [Sirenix.OdinInspector.TitleAttribute]
+
+# SetupSpawnVisualizer()
+Position: $78mRoGtEaCgU5houM2c31m:0
+
+# DisableSpawnVisualizer()
+Position: $R9ULdhEu71vwaMQM5u72Gr:0
+
+# DeleteLevel()
++ [Sirenix.OdinInspector.GUIColorAttribute]
+	GetColor = "#E63341"

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.SpawnTypeSO
   displayName: Enemy
   Description: 
-  Prefab: {fileID: 0}
+  Prefab: {fileID: 7368496744701666870, guid: 169a6be05723fe84a81cba4fddf09907, type: 3}
   MaxSimultaneousSpawns: -1
   MustSpawnOnWalkable: 1
   CanSpawnInSummonZone: 0

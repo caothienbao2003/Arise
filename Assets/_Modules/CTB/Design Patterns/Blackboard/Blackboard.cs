@@ -6,7 +6,7 @@ using System.Linq;
 using UnityEngine;
 using SceneSetupTool;
 
-namespace CTB
+namespace CTB.DesignPatterns.Blackboard
 {
     [Serializable]
     public class Blackboard

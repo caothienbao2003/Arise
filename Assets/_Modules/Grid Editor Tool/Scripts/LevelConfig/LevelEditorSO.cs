@@ -10,15 +10,12 @@ using UnityEngine.SceneManagement;
 namespace GridTool
 {
     [CreateAssetMenu(fileName = "NewLevelData", menuName = "MapTool/Level Data")]
-    public partial class LevelEditorSO : ScriptableObject
+    public class LevelEditorSO : ScriptableObject, IDisplayNameable
     {
         #region Data
-
-        [TabGroup("Tabs", "LevelSetup")]
-        [FoldoutGroup("Tabs/LevelSetup/Details")]
-        [VerticalGroup("Tabs/LevelSetup/Details")]
-        [LabelWidth(100)]
+        
         public string levelName = "";
+        public string DisplayName => levelName;
 
         [VerticalGroup("Tabs/LevelSetup/Details")]
         public SceneAsset levelScene;
@@ -35,9 +32,7 @@ namespace GridTool
         #endregion
 
         #region Terrain Actions
-
-        [HorizontalGroup("Tabs/LevelSetup/Action", LabelWidth = 70)]
-        [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.GridFill)]
+        
         public void ResetTerrainTypeToDefault()
         {
             if (DefaultGridTerrainsSO == null)
@@ -81,7 +76,7 @@ namespace GridTool
 
         #endregion
 
-        #region Grid Baker
+        #region Setup Grid Baker
 
         [HorizontalGroup("Tabs/Grid Setup/Action")]
         [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.Eye)]
@@ -108,17 +103,6 @@ namespace GridTool
                     UnityEngine.Object.DestroyImmediate(baker.gameObject);
                 }
             }, "Grid Baker Removal");
-        }
-
-        [HorizontalGroup("Tabs/Grid Setup/Action")]
-        [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.Grid3x3GapFill)]
-        public void BakeGrid()
-        {
-            ExecuteInScene(scene =>
-            {
-                var baker = GameObjectUtils.FindOrCreateComponent<GridBaker>("Grid Baker");
-                baker.BakeGrid();
-            }, "Bake Grid");
         }
 
         #endregion
@@ -151,6 +135,20 @@ namespace GridTool
         }
 
         #endregion
+
+        #region BakeGrid
+        [HorizontalGroup("Tabs/Grid Setup/Action")]
+        [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.Grid3x3GapFill)]
+        public void BakeGrid()
+        {
+            ExecuteInScene(scene =>
+            {
+                var baker = GameObjectUtils.FindOrCreateComponent<GridBaker>("Grid Baker");
+                baker.BakeGrid();
+            }, "Bake Grid");
+        }
+        #endregion
+        
 
         #region Helper Methods
 
@@ -366,6 +364,7 @@ namespace GridTool
         }
 
         #endregion
+
     }
 }
 #endif

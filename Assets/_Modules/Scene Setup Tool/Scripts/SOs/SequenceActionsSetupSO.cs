@@ -6,12 +6,18 @@ using Sirenix.Serialization;
 using UnityEngine;
 using System.Linq;
 using System.Text;
+using CTB.DesignPatterns.Blackboard;
+using GridTool;
 
 namespace SceneSetupTool
 {
     [CreateAssetMenu(fileName = "SequenceActionsSetupSO", menuName = "Scriptable Objects/Sequence Actions Setup")]
-    public class SequenceActionsSetupSO : SerializedScriptableObject
+    public class SequenceActionsSetupSO : SerializedScriptableObject, IDisplayNameable
     {
+        public string DisplayName => displayName;
+        [SerializeField] 
+        private string displayName;
+        
         [FoldoutGroup("Summary", Expanded = true)]
         [HideLabel]
         [ReadOnly]

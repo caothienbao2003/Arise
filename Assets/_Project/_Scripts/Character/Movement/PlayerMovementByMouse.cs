@@ -3,6 +3,7 @@ using Sirenix.OdinInspector;
 using System;
 using Sirenix.Serialization;
 using UnityEngine;
+using VContainer;
 
 public class PlayerMovementByMouse : MonoBehaviour
 {
@@ -11,8 +12,7 @@ public class PlayerMovementByMouse : MonoBehaviour
 
     private IMoveToPosition moveToPositionComponent => _moveToPositionComponent ??= GetComponent<IMoveToPosition>();
     
-    private InputReader _inputReader;
-    private InputReader inputReader => _inputReader ??= InputReader.Instance;
+    [Inject] private InputReader inputReader;
 
     private void OnEnable()
     {

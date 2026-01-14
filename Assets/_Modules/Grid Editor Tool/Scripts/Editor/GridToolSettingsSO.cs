@@ -31,6 +31,12 @@ namespace GridTool
         public string SpawnTypePath;
         #endregion
 
+        #region Pathfinding settings
+        [TabGroup("Pathfinding settings")]
+        [FolderPath]
+        public string PathfindingProfilePath;
+        #endregion
+        
         #region Level settings
 
         [TabGroup("Level settings")]

@@ -165,6 +165,50 @@ Transform:
   - {fileID: 827900633}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &44006066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 44006068}
+  - component: {fileID: 44006067}
+  m_Layer: 0
+  m_Name: Level Initializer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &44006067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44006066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194856ea9401416d902bc4400f6a4390, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LevelInitializer
+--- !u!4 &44006068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44006066}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.76171, y: 0.94978, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &267860435
 GameObject:
   m_ObjectHideFlags: 0
@@ -720,7 +764,7 @@ MonoBehaviour:
     TileMap: {fileID: 827900635}
     TerrainType: {fileID: 11400000, guid: 7e16723775c76c342b9ba2cf111af7a0, type: 2}
     Priority: 5
-    IsWalkable: 1
+    IsWalkable: 0
   - LayerName: Ground
     TileMap: {fileID: 267860438}
     TerrainType: {fileID: 11400000, guid: 754d33f405a65e641a4d488f1869e1cd, type: 2}
@@ -1119,7 +1163,7 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!1 &1521128414
+--- !u!1 &1029505142
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1127,48 +1171,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1521128416}
-  - component: {fileID: 1521128415}
+  - component: {fileID: 1029505144}
+  - component: {fileID: 1029505143}
   m_Layer: 0
-  m_Name: Spawn Visualizer
+  m_Name: InputReader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1521128415
+--- !u!114 &1029505143
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1521128414}
+  m_GameObject: {fileID: 1029505142}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 26f4381d8e6346678e6415390089ad0f, type: 3}
+  m_Script: {fileID: 11500000, guid: b76a423b4cdb98447bf9fb0aef9c415c, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GridTool.SpawnVisualizer
-  SpawnDataSO: {fileID: 11400000, guid: 9ccda7343ebbd3e45bb4997e3ebd583a, type: 2}
-  GridDataSO: {fileID: 11400000, guid: 6dc02b6c084e56349866ca2c422e00d2, type: 2}
-  showFixedSpawns: 1
-  showWaveSpawns: 1
-  showSummonZone: 1
-  showLabels: 1
-  summonZoneColor: {r: 0.3, g: 0.5, b: 1, a: 0.3}
-  iconSize: 1
-  labelFontSize: 12
-  filterByWave: 0
-  waveIndexToShow: 1
---- !u!4 &1521128416
+  m_EditorClassIdentifier: Assembly-CSharp::InputReader
+--- !u!4 &1029505144
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1521128414}
+  m_GameObject: {fileID: 1029505142}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -1.83565, y: 1.05954, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1208,6 +1241,8 @@ MonoBehaviour:
   autoRun: 1
   autoInjectGameObjects: []
   GridData: {fileID: 11400000, guid: 6dc02b6c084e56349866ca2c422e00d2, type: 2}
+  SpawnData: {fileID: 11400000, guid: 9ccda7343ebbd3e45bb4997e3ebd583a, type: 2}
+  InputReader: {fileID: 0}
 --- !u!4 &1760523128
 Transform:
   m_ObjectHideFlags: 0
@@ -1215,6 +1250,61 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1760523126}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1931810157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1931810159}
+  - component: {fileID: 1931810158}
+  m_Layer: 0
+  m_Name: Spawn Visualizer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1931810158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931810157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26f4381d8e6346678e6415390089ad0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GridTool.SpawnVisualizer
+  SpawnDataSO: {fileID: 11400000, guid: 9ccda7343ebbd3e45bb4997e3ebd583a, type: 2}
+  GridDataSO: {fileID: 11400000, guid: 6dc02b6c084e56349866ca2c422e00d2, type: 2}
+  showFixedSpawns: 1
+  showWaveSpawns: 1
+  showSummonZone: 1
+  showLabels: 1
+  summonZoneColor: {r: 0.3, g: 0.5, b: 1, a: 0.3}
+  iconSize: 1
+  labelFontSize: 12
+  filterByWave: 0
+  waveIndexToShow: 1
+--- !u!4 &1931810159
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931810157}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -1232,4 +1322,6 @@ SceneRoots:
   - {fileID: 579065321}
   - {fileID: 1356939}
   - {fileID: 761794720}
-  - {fileID: 1521128416}
+  - {fileID: 44006068}
+  - {fileID: 1931810159}
+  - {fileID: 1029505144}

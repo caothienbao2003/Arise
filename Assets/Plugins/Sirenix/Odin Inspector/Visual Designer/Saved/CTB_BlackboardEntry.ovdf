@@ -1,0 +1,6 @@
+OVDF v1.1
+CTB.BlackboardEntry, Assembly-CSharp
+
+# "Entry"
+* [Sirenix.OdinInspector.HorizontalGroupAttribute]
+	Width = 0.1

@@ -8,22 +8,21 @@ using UnityEditor;
 using UnityEngine.SceneManagement;
 using System.IO;
 using CTB;
+using GridUtilities;
 using SceneSetupTool;
 
 namespace GridTool
 {
     public class GridToolEditor : OdinMenuEditorWindow
     {
-        [SerializeField]
-        [FolderPath]
-        private string settingsAssetPath;
+        [SerializeField] [FolderPath] private string settingsAssetPath;
 
-        private string SettingAssetFolderPath 
+        private string SettingAssetFolderPath
         {
             get => EditorPrefs.GetString("GridTool_SettingsPath", "Assets/");
             set => EditorPrefs.SetString("GridTool_SettingsPath", value);
         }
-        
+
         private CreateNewScriptableObjectWindow<TerrainTypeSO> createNewTerrainTypeWindow;
         private CreateNewLevelWindow createNewLevelWindow;
 
@@ -39,7 +38,8 @@ namespace GridTool
             string folderPath = SettingAssetFolderPath;
             // settings = ScriptableObject.CreateInstance<GridToolSettingsSO>();
 
-            GridToolSettingsSO settingsSO = AssetDatabaseUtils.CreateScriptableAsset<GridToolSettingsSO>("Settings", folderPath);
+            GridToolSettingsSO settingsSO =
+                AssetDatabaseUtils.CreateScriptableAsset<GridToolSettingsSO>("Settings", folderPath);
 
             Debug.Log($"Created new GridToolSettingsSO at {folderPath}");
         }
@@ -70,91 +70,85 @@ namespace GridTool
         protected override OdinMenuTree BuildMenuTree()
         {
             OdinMenuTree tree = new OdinMenuTree();
-            
+
             // HandleCreateNewTerrainTypeWindow(tree);
-            
-            HandleCreateNewScriptableObjectWindow<TerrainTypeSO>(
-                tree, 
-                "Terrain Types", 
+
+            OdinEditorUtils.HandleCreateNewScriptableObjectWindow<TerrainTypeSO>(
+                tree,
+                "Terrain Types",
                 settings.TerrainTypePath
             );
-            
-            HandleCreateNewScriptableObjectWindow<SpawnTypeSO>(
-                tree, 
-                "Spawn Types", 
+
+            OdinEditorUtils.HandleCreateNewScriptableObjectWindow<SpawnTypeSO>(
+                tree,
+                "Spawn Types",
                 settings.SpawnTypePath
             );
+
+            OdinEditorUtils.HandleCreateNewScriptableObjectWindow<PathfindingProfileSO>(
+                tree,
+                "Pathfinding Profile",
+                settings.PathfindingProfilePath
+            );
+
+            OdinEditorUtils.HandleCreateNewScriptableObjectWindow<LevelEditorSO>(
+                tree,
+                "Level Editor",
+                settings.LevelDataPath,
+                false);
+
+            // HandleCreateNewLevelWindow(tree);
             
-            HandleCreateNewLevelWindow(tree);
+            OdinEditorUtils.HandleCreateNewScriptableObjectWindow<SequenceActionsSetupSO>(
+                tree,
+                "Actions Setup",
+                settings.ActionAssetPath);
+            
             HandleCreateSettingsWindow(tree);
 
-            tree.AddAllAssetsAtPath(
-                "Actions",
-                settings.ActionAssetPath,
-                typeof(SequenceActionsSetupSO),
-                includeSubDirectories: true,
-                flattenSubDirectories: true
-            );
-            
+            // tree.AddAllAssetsAtPath(
+            //     "Actions",
+            //     settings.ActionAssetPath,
+            //     typeof(SequenceActionsSetupSO),
+            //     includeSubDirectories: true,
+            //     flattenSubDirectories: true
+            // );
+
             if (settings == null)
             {
                 tree.Add("Settings", this);
                 return tree;
             }
-            
+
             return tree;
         }
 
-        private void HandleCreateNewLevelWindow(OdinMenuTree tree)
-        {
-            createNewLevelWindow = new CreateNewLevelWindowBuilder()
-                .WithNewGridDataPath(settings.GridDataPath)
-                .WithNewLevelDataPath(settings.LevelDataPath)
-                .WithNewScenePath(settings.LevelScenePath)
-                .WithTemplateScene(settings.TemplateScene)
-                .WithTerrainTypesPath(settings.TerrainTypePath)
-                .WithIsGenericFolder(settings.IsGenericFolder)
-                .Build();
+        // private void HandleCreateNewLevelWindow(OdinMenuTree tree)
+        // {
+        //     createNewLevelWindow = new CreateNewLevelWindowBuilder()
+        //         .WithNewGridDataPath(settings.GridDataPath)
+        //         .WithNewLevelDataPath(settings.LevelDataPath)
+        //         .WithNewScenePath(settings.LevelScenePath)
+        //         .WithTemplateScene(settings.TemplateScene)
+        //         .WithTerrainTypesPath(settings.TerrainTypePath)
+        //         .WithIsGenericFolder(settings.IsGenericFolder)
+        //         .Build();
+        //
+        //     tree.Add("Level editor", createNewLevelWindow);
+        //
+        //     IEnumerable<OdinMenuItem> levels = tree.AddAllAssetsAtPath(
+        //         "Level editor",
+        //         settings.LevelDataPath,
+        //         typeof(LevelEditorSO),
+        //         includeSubDirectories: true,
+        //         flattenSubDirectories: true
+        //     );
+        //
+        //     foreach (var item in levels)
+        //         if (item.Value is LevelEditorSO data)
+        //             item.Name = data.levelName;
+        // }
 
-            tree.Add("Level editor", createNewLevelWindow);
-
-            IEnumerable<OdinMenuItem> levels = tree.AddAllAssetsAtPath(
-                "Level editor",
-                settings.LevelDataPath,
-                typeof(LevelEditorSO),
-                includeSubDirectories: true,
-                flattenSubDirectories: true
-            );
-
-            foreach (var item in levels)
-                if (item.Value is LevelEditorSO data)
-                    item.Name = data.levelName;
-
-        }
-
-        private void HandleCreateNewScriptableObjectWindow<T>(OdinMenuTree tree, string menuName, string folderPath) 
-            where T : ScriptableObject, IDisplayNameable
-        {
-            var createNewWindow = new CreateNewScriptableObjectWindow<T>(folderPath);
-
-            tree.Add(menuName, createNewWindow);
-
-            IEnumerable<OdinMenuItem> items = tree.AddAllAssetsAtPath(
-                menuName,
-                folderPath,
-                typeof(T),
-                includeSubDirectories: true,
-                flattenSubDirectories: true
-            );
-            
-            foreach (var item in items)
-            {
-                if (item.Value is IDisplayNameable data)
-                {
-                    item.Name = data.DisplayName;
-                }
-            }
-        }
 
         private void HandleCreateSettingsWindow(OdinMenuTree tree)
         {

@@ -17,7 +17,7 @@ MonoBehaviour:
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -2, y: 3}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 754d33f405a65e641a4d488f1869e1cd, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -52,7 +52,7 @@ MonoBehaviour:
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 1, y: 2}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 754d33f405a65e641a4d488f1869e1cd, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -67,17 +67,17 @@ MonoBehaviour:
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -3, y: 1}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 7e16723775c76c342b9ba2cf111af7a0, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -2, y: 1}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 7e16723775c76c342b9ba2cf111af7a0, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -1, y: 1}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 754d33f405a65e641a4d488f1869e1cd, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -137,7 +137,7 @@ MonoBehaviour:
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -5, y: -1}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 754d33f405a65e641a4d488f1869e1cd, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -162,7 +162,7 @@ MonoBehaviour:
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: 0, y: -1}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 754d33f405a65e641a4d488f1869e1cd, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
@@ -197,7 +197,7 @@ MonoBehaviour:
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
     <GridPosition>k__BackingField: {x: -1, y: -2}
-    <IsWalkable>k__BackingField: 1
+    <IsWalkable>k__BackingField: 0
   - TerrainType: {fileID: 11400000, guid: 754d33f405a65e641a4d488f1869e1cd, type: 2}
     <GCost>k__BackingField: 0
     <HCost>k__BackingField: 0
