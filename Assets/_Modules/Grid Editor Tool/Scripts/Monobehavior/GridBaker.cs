@@ -271,7 +271,7 @@ namespace GridTool
 
                 GridLayer newLayer = new GridLayer
                 {
-                    LayerName = terrain.DisplayName,
+                    LayerName = terrain.GetTrimmedAssetName(),
                     TerrainType = terrain,
                     TileMap = layerTileMap,
                     Priority = terrain.Priority,
@@ -282,7 +282,7 @@ namespace GridTool
         }
         private Tilemap ProcessTilemapLayer(TerrainTypeSO terrain, GameObject gridParent)
         {
-            string layerGOName = $"Grid_{terrain.DisplayName}";
+            string layerGOName = $"Grid_{terrain.GetTrimmedAssetName()}";
 
             GameObject tileMapLayerGO = GameObjectUtils.FindOrCreateGameObject(layerGOName);
             tileMapLayerGO.transform.SetParent(gridParent.transform);

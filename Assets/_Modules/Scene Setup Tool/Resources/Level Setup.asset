@@ -16,7 +16,7 @@ MonoBehaviour:
     SerializedFormat: 2
     SerializedBytes: 
     ReferencedUnityObjects:
-    - {fileID: 11400000, guid: 5b6d5c77264655d47848bc03d51c479e, type: 2}
+    - {fileID: 11400000, guid: 22393a5b62f77c44c8001201b757a757, type: 2}
     - {fileID: 102900000, guid: dc17e1fb2c8a5da4aabaec76104f9d52, type: 3}
     SerializedBytesString: 
     Prefab: {fileID: 0}
@@ -140,7 +140,7 @@ MonoBehaviour:
       Data: 10|System.String, mscorlib
     - Name: 
       Entry: 1
-      Data: Level 2
+      Data: Level 1
     - Name: 
       Entry: 8
       Data: 
@@ -161,7 +161,7 @@ MonoBehaviour:
       Data: 11|CTB.DesignPatterns.Blackboard.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: GameLifetimeScopeGOname
+      Data: DefaultTerrainTypes
     - Name: TypeSelector
       Entry: 7
       Data: 12|CTB.DesignPatterns.Blackboard.TypeSelector, Assembly-CSharp
@@ -208,14 +208,20 @@ MonoBehaviour:
       Entry: 5
       Data: true
     - Name: SelectedType
-      Entry: 9
-      Data: 6
+      Entry: 7
+      Data: 15|System.RuntimeType, mscorlib
+    - Name: 
+      Entry: 1
+      Data: GridTool.DefaultGridTerrainsSO, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
     - Name: TypedValue
       Entry: 7
-      Data: 15|CTB.DesignPatterns.Blackboard.TypedValue, Assembly-CSharp
+      Data: 16|CTB.DesignPatterns.Blackboard.TypedValue, Assembly-CSharp
     - Name: cachedType
       Entry: 9
-      Data: 6
+      Data: 15
     - Name: typeFilters
       Entry: 3
       Data: 0
@@ -224,7 +230,7 @@ MonoBehaviour:
       Data: 
     - Name: namespaceFilters
       Entry: 7
-      Data: 16|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+      Data: 17|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
     - Name: 
       Entry: 12
       Data: 0
@@ -236,7 +242,7 @@ MonoBehaviour:
       Data: 
     - Name: excludedNamespaces
       Entry: 7
-      Data: 17|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+      Data: 18|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
     - Name: 
       Entry: 12
       Data: 0
@@ -250,16 +256,10 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: ValueAsset
-      Entry: 6
-      Data: 
+      Entry: 10
+      Data: 0
     - Name: ValuePrimitive
-      Entry: 7
-      Data: 18|System.String, mscorlib
-    - Name: 
-      Entry: 1
-      Data: Game Lifetime Scope
-    - Name: 
-      Entry: 8
+      Entry: 6
       Data: 
     - Name: 
       Entry: 8
@@ -278,7 +278,7 @@ MonoBehaviour:
       Data: 19|CTB.DesignPatterns.Blackboard.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: DefaultTerrainTypes
+      Data: NewScene
     - Name: TypeSelector
       Entry: 7
       Data: 20|CTB.DesignPatterns.Blackboard.TypeSelector, Assembly-CSharp
@@ -329,7 +329,7 @@ MonoBehaviour:
       Data: 23|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: GridTool.DefaultGridTerrainsSO, Assembly-CSharp
+      Data: UnityEditor.SceneAsset, UnityEditor.CoreModule
     - Name: 
       Entry: 8
       Data: 
@@ -373,8 +373,8 @@ MonoBehaviour:
       Entry: 6
       Data: 
     - Name: ValueAsset
-      Entry: 10
-      Data: 0
+      Entry: 6
+      Data: 
     - Name: ValuePrimitive
       Entry: 6
       Data: 
@@ -386,7 +386,7 @@ MonoBehaviour:
       Data: 
     - Name: IsPersistent
       Entry: 5
-      Data: true
+      Data: false
     - Name: 
       Entry: 8
       Data: 
@@ -395,7 +395,7 @@ MonoBehaviour:
       Data: 27|CTB.DesignPatterns.Blackboard.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: NewScene
+      Data: LevelEditorSO
     - Name: TypeSelector
       Entry: 7
       Data: 28|CTB.DesignPatterns.Blackboard.TypeSelector, Assembly-CSharp
@@ -446,7 +446,7 @@ MonoBehaviour:
       Data: 31|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: UnityEditor.SceneAsset, UnityEditor.CoreModule
+      Data: GridTool.LevelEditorSO, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 
@@ -512,7 +512,7 @@ MonoBehaviour:
       Data: 35|CTB.DesignPatterns.Blackboard.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: LevelEditorSO
+      Data: GridDataSO
     - Name: TypeSelector
       Entry: 7
       Data: 36|CTB.DesignPatterns.Blackboard.TypeSelector, Assembly-CSharp
@@ -563,7 +563,7 @@ MonoBehaviour:
       Data: 39|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: GridTool.LevelEditorSO, Assembly-CSharp
+      Data: GridTool.GridDataSO, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 
@@ -629,7 +629,7 @@ MonoBehaviour:
       Data: 43|CTB.DesignPatterns.Blackboard.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: GridDataSO
+      Data: SpawnDataSO
     - Name: TypeSelector
       Entry: 7
       Data: 44|CTB.DesignPatterns.Blackboard.TypeSelector, Assembly-CSharp
@@ -680,7 +680,7 @@ MonoBehaviour:
       Data: 47|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: GridTool.GridDataSO, Assembly-CSharp
+      Data: GridTool.SpawnDataSO, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 
@@ -746,7 +746,7 @@ MonoBehaviour:
       Data: 51|CTB.DesignPatterns.Blackboard.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: SpawnDataSO
+      Data: GameLifetimeScope
     - Name: TypeSelector
       Entry: 7
       Data: 52|CTB.DesignPatterns.Blackboard.TypeSelector, Assembly-CSharp
@@ -797,7 +797,7 @@ MonoBehaviour:
       Data: 55|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: GridTool.SpawnDataSO, Assembly-CSharp
+      Data: FN.GameLifetimeScope, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 
@@ -863,7 +863,7 @@ MonoBehaviour:
       Data: 59|CTB.DesignPatterns.Blackboard.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: GameLifetimeScope
+      Data: InputReader
     - Name: TypeSelector
       Entry: 7
       Data: 60|CTB.DesignPatterns.Blackboard.TypeSelector, Assembly-CSharp
@@ -914,7 +914,7 @@ MonoBehaviour:
       Data: 63|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: FN.GameLifetimeScope, Assembly-CSharp
+      Data: InputReader, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 
@@ -980,7 +980,7 @@ MonoBehaviour:
       Data: 67|CTB.DesignPatterns.Blackboard.BlackboardEntry, Assembly-CSharp
     - Name: Key
       Entry: 1
-      Data: InputReader
+      Data: LevelInitializer
     - Name: TypeSelector
       Entry: 7
       Data: 68|CTB.DesignPatterns.Blackboard.TypeSelector, Assembly-CSharp
@@ -1031,7 +1031,7 @@ MonoBehaviour:
       Data: 71|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: InputReader, Assembly-CSharp
+      Data: LevelInitializer, Assembly-CSharp
     - Name: 
       Entry: 8
       Data: 
@@ -1107,7 +1107,7 @@ MonoBehaviour:
         Assembly-CSharp]], mscorlib
     - Name: 
       Entry: 12
-      Data: 8
+      Data: 9
     - Name: 
       Entry: 7
       Data: 76|SceneSetupTool.CreateNewSceneAction, Assembly-CSharp
@@ -1211,11 +1211,11 @@ MonoBehaviour:
       Entry: 8
       Data: 
     - Name: FileNamePrefix
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: GridDataSO_
     - Name: FileNameSuffix
       Entry: 1
-      Data: _GridData
+      Data: 
     - Name: FolderPath
       Entry: 1
       Data: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
@@ -1285,13 +1285,13 @@ MonoBehaviour:
       Data: true
     - Name: SelectedType
       Entry: 9
-      Data: 47
+      Data: 39
     - Name: TypedValue
       Entry: 7
       Data: 86|CTB.DesignPatterns.Blackboard.TypedValue, Assembly-CSharp
     - Name: cachedType
       Entry: 9
-      Data: 47
+      Data: 39
     - Name: typeFilters
       Entry: 3
       Data: 0
@@ -1375,11 +1375,11 @@ MonoBehaviour:
       Entry: 8
       Data: 
     - Name: FileNamePrefix
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: LevelEditorSO_
     - Name: FileNameSuffix
       Entry: 1
-      Data: _LevelEditor
+      Data: 
     - Name: FolderPath
       Entry: 1
       Data: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
@@ -1449,13 +1449,13 @@ MonoBehaviour:
       Data: true
     - Name: SelectedType
       Entry: 9
-      Data: 39
+      Data: 31
     - Name: TypedValue
       Entry: 7
       Data: 96|CTB.DesignPatterns.Blackboard.TypedValue, Assembly-CSharp
     - Name: cachedType
       Entry: 9
-      Data: 39
+      Data: 31
     - Name: typeFilters
       Entry: 3
       Data: 0
@@ -1539,11 +1539,11 @@ MonoBehaviour:
       Entry: 8
       Data: 
     - Name: FileNamePrefix
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: SpawnData_
     - Name: FileNameSuffix
       Entry: 1
-      Data: _SpawnData
+      Data: 
     - Name: FolderPath
       Entry: 1
       Data: Assets/_Modules/Grid Editor Tool/Resources/Level Datas
@@ -1613,13 +1613,13 @@ MonoBehaviour:
       Data: true
     - Name: SelectedType
       Entry: 9
-      Data: 55
+      Data: 47
     - Name: TypedValue
       Entry: 7
       Data: 106|CTB.DesignPatterns.Blackboard.TypedValue, Assembly-CSharp
     - Name: cachedType
       Entry: 9
-      Data: 55
+      Data: 47
     - Name: typeFilters
       Entry: 3
       Data: 0
@@ -1708,7 +1708,7 @@ MonoBehaviour:
         Assembly-CSharp]], mscorlib
     - Name: 
       Entry: 12
-      Data: 5
+      Data: 4
     - Name: 
       Entry: 7
       Data: 113|SceneSetupTool.FieldAssignment, Assembly-CSharp
@@ -1810,31 +1810,6 @@ MonoBehaviour:
       Entry: 8
       Data: 
     - Name: 
-      Entry: 7
-      Data: 121|SceneSetupTool.FieldAssignment, Assembly-CSharp
-    - Name: FieldName
-      Entry: 1
-      Data: levelName
-    - Name: Value
-      Entry: 7
-      Data: 122|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
-        mscorlib]], Assembly-CSharp
-    - Name: UseBlackboard
-      Entry: 5
-      Data: true
-    - Name: DirectValue
-      Entry: 6
-      Data: 
-    - Name: BlackboardKey
-      Entry: 1
-      Data: LevelName
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
       Entry: 13
       Data: 
     - Name: 
@@ -1845,13 +1820,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 123|SceneSetupTool.FindOrCreateComponentAction, Assembly-CSharp
+      Data: 121|SceneSetupTool.FindOrCreateComponentAction, Assembly-CSharp
     - Name: description
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: Find or create component InputReader
     - Name: GameObjectName
       Entry: 7
-      Data: 124|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.String,
+      Data: 122|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.String,
         mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
@@ -1867,16 +1842,16 @@ MonoBehaviour:
       Data: 
     - Name: ComponentType
       Entry: 7
-      Data: 125|CTB.DesignPatterns.Blackboard.TypedType, Assembly-CSharp
+      Data: 123|CTB.DesignPatterns.Blackboard.TypedType, Assembly-CSharp
     - Name: selectedType
       Entry: 9
-      Data: 71
+      Data: 63
     - Name: typeFilters
       Entry: 3
       Data: 100
     - Name: baseTypeConstraint
       Entry: 7
-      Data: 126|System.RuntimeType, mscorlib
+      Data: 124|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
       Data: UnityEngine.Component, UnityEngine.CoreModule
@@ -1888,7 +1863,7 @@ MonoBehaviour:
       Data: 
     - Name: ComponentOutput
       Entry: 7
-      Data: 127|CTB.DesignPatterns.Blackboard.BlackboardOutput, Assembly-CSharp
+      Data: 125|CTB.DesignPatterns.Blackboard.BlackboardOutput, Assembly-CSharp
     - Name: SaveToBlackboard
       Entry: 5
       Data: true
@@ -1903,13 +1878,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 128|SceneSetupTool.FindOrCreateComponentAction, Assembly-CSharp
+      Data: 126|SceneSetupTool.FindOrCreateComponentAction, Assembly-CSharp
     - Name: description
-      Entry: 6
-      Data: 
+      Entry: 1
+      Data: Find or create component GameLifetimeScope
     - Name: GameObjectName
       Entry: 7
-      Data: 129|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.String,
+      Data: 127|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.String,
         mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
@@ -1925,22 +1900,22 @@ MonoBehaviour:
       Data: 
     - Name: ComponentType
       Entry: 7
-      Data: 130|CTB.DesignPatterns.Blackboard.TypedType, Assembly-CSharp
+      Data: 128|CTB.DesignPatterns.Blackboard.TypedType, Assembly-CSharp
     - Name: selectedType
       Entry: 9
-      Data: 63
+      Data: 55
     - Name: typeFilters
       Entry: 3
       Data: 100
     - Name: baseTypeConstraint
       Entry: 9
-      Data: 126
+      Data: 124
     - Name: 
       Entry: 8
       Data: 
     - Name: ComponentOutput
       Entry: 7
-      Data: 131|CTB.DesignPatterns.Blackboard.BlackboardOutput, Assembly-CSharp
+      Data: 129|CTB.DesignPatterns.Blackboard.BlackboardOutput, Assembly-CSharp
     - Name: SaveToBlackboard
       Entry: 5
       Data: true
@@ -1955,13 +1930,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 132|SceneSetupTool.SetPropertiesAction, Assembly-CSharp
+      Data: 130|SceneSetupTool.SetPropertiesAction, Assembly-CSharp
     - Name: description
       Entry: 1
       Data: Assign GridData to GameLifetimeScope
     - Name: TargetObject
       Entry: 7
-      Data: 133|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
+      Data: 131|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
         mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
@@ -1977,20 +1952,20 @@ MonoBehaviour:
       Data: 
     - Name: FieldAssignments
       Entry: 7
-      Data: 134|System.Collections.Generic.List`1[[SceneSetupTool.FieldAssignment,
+      Data: 132|System.Collections.Generic.List`1[[SceneSetupTool.FieldAssignment,
         Assembly-CSharp]], mscorlib
     - Name: 
       Entry: 12
       Data: 3
     - Name: 
       Entry: 7
-      Data: 135|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 133|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
       Data: GridData
     - Name: Value
       Entry: 7
-      Data: 136|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
+      Data: 134|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
         mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
@@ -2009,13 +1984,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 137|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 135|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
       Data: SpawnData
     - Name: Value
       Entry: 7
-      Data: 138|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
+      Data: 136|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
         mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
@@ -2034,13 +2009,13 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 7
-      Data: 139|SceneSetupTool.FieldAssignment, Assembly-CSharp
+      Data: 137|SceneSetupTool.FieldAssignment, Assembly-CSharp
     - Name: FieldName
       Entry: 1
       Data: InputReader
     - Name: Value
       Entry: 7
-      Data: 140|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
+      Data: 138|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.Object,
         mscorlib]], Assembly-CSharp
     - Name: UseBlackboard
       Entry: 5
@@ -2067,9 +2042,60 @@ MonoBehaviour:
       Entry: 8
       Data: 
     - Name: 
+      Entry: 7
+      Data: 139|SceneSetupTool.FindOrCreateComponentAction, Assembly-CSharp
+    - Name: description
+      Entry: 1
+      Data: Find or create component LevelInitializer
+    - Name: GameObjectName
+      Entry: 7
+      Data: 140|CTB.DesignPatterns.Blackboard.BlackboardVariable`1[[System.String,
+        mscorlib]], Assembly-CSharp
+    - Name: UseBlackboard
+      Entry: 5
+      Data: false
+    - Name: DirectValue
+      Entry: 1
+      Data: Level Initializer
+    - Name: BlackboardKey
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ComponentType
+      Entry: 7
+      Data: 141|CTB.DesignPatterns.Blackboard.TypedType, Assembly-CSharp
+    - Name: selectedType
+      Entry: 9
+      Data: 71
+    - Name: typeFilters
+      Entry: 3
+      Data: 100
+    - Name: baseTypeConstraint
+      Entry: 9
+      Data: 124
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ComponentOutput
+      Entry: 7
+      Data: 142|CTB.DesignPatterns.Blackboard.BlackboardOutput, Assembly-CSharp
+    - Name: SaveToBlackboard
+      Entry: 5
+      Data: false
+    - Name: Key
+      Entry: 1
+      Data: LevelInitializer
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
       Entry: 13
       Data: 
     - Name: 
       Entry: 8
       Data: 
-  displayName: Level Setup

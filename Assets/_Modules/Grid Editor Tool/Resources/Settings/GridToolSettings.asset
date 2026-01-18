@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: GridToolSettings
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.GridToolSettingsSO
   TerrainTypePath: Assets/_Modules/Grid Editor Tool/Resources/TerrainTypes
+  DefaultTerrainTypePath: Assets/_Modules/Grid Editor Tool/Resources/Default Grid
+    Terrains
   TerrainTypeDefaults: {fileID: 11400000, guid: 5b6d5c77264655d47848bc03d51c479e, type: 2}
   SpawnTypePath: Assets/_Modules/Grid Editor Tool/Resources/SpawnTypes
   PathfindingProfilePath: Assets/_Modules/Grid Editor Tool/Resources/PathfindingProfile

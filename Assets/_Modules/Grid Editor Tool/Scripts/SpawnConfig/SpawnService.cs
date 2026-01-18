@@ -130,20 +130,20 @@ namespace GridTool
 
             if (spawnType.Prefab == null)
             {
-                Debug.LogError($"[SpawnService] Cannot spawn {spawnType.DisplayName}: prefab is null");
+                Debug.LogError($"[SpawnService] Cannot spawn {spawnType.name}: prefab is null");
                 return null;
             }
 
             if (!CanSpawnAt(spawnType, gridPosition))
             {
                 Debug.LogWarning(
-                    $"[SpawnService] Cannot spawn {spawnType.DisplayName} at {gridPosition}: validation failed");
+                    $"[SpawnService] Cannot spawn {spawnType.name} at {gridPosition}: validation failed");
                 return null;
             }
 
             if (HasReachedMaxSpawns(spawnType))
             {
-                Debug.LogWarning($"[SpawnService] Cannot spawn {spawnType.DisplayName}: max spawns reached");
+                Debug.LogWarning($"[SpawnService] Cannot spawn {spawnType.name}: max spawns reached");
                 return null;
             }
 
@@ -172,7 +172,7 @@ namespace GridTool
 
             gridService.SetCellOccupied(gridPosition, true);
 
-            Debug.Log($"[SpawnService] Spawned {spawnType.DisplayName} at {gridPosition}");
+            Debug.Log($"[SpawnService] Spawned {spawnType.name} at {gridPosition}");
 
             return spawnedObj;
         }
@@ -212,7 +212,7 @@ namespace GridTool
                 Object.Destroy(obj);
             }
 
-            Debug.Log($"[SpawnService] Despawned {type.DisplayName}");
+            Debug.Log($"[SpawnService] Despawned {type.name}");
         }
 
         public void DespawnAll()

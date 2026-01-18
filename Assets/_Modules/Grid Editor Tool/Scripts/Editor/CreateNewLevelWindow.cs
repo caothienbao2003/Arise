@@ -239,7 +239,6 @@ namespace GridTool
             levelEditor = ScriptableObject.CreateInstance<LevelEditorSO>();
             levelEditor.name = levelDataAssetName;
             levelEditor.levelScene = levelScene;
-            levelEditor.levelName = levelName;
             levelEditor.GridData = gridData;
             AssetDatabaseUtils.CreateAsset(levelEditor, newLevelDataPath);
 

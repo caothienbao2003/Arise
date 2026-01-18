@@ -37,10 +37,10 @@ namespace GridTool
         {
             if (SpawnType != null)
             {
-                string category = !string.IsNullOrEmpty(SpawnType.DisplayName) 
-                    ? SpawnType.DisplayName 
+                string category = !string.IsNullOrEmpty(SpawnType.name) 
+                    ? SpawnType.name 
                     : "Spawn";
-                return $"{category}: {SpawnType.DisplayName}";
+                return $"{category}: {SpawnType.name}";
             }
             return "Unassigned Fixed Spawn";
         }

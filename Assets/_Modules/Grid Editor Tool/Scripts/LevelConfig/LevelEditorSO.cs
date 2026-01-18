@@ -1,6 +1,7 @@
 #if UNITY_EDITOR
 using System;
 using System.Collections.Generic;
+using _Modules.Grid_Editor_Tool.Scripts.Utils;
 using CTB;
 using Sirenix.OdinInspector;
 using UnityEditor;
@@ -10,13 +11,10 @@ using UnityEngine.SceneManagement;
 namespace GridTool
 {
     [CreateAssetMenu(fileName = "NewLevelData", menuName = "MapTool/Level Data")]
-    public class LevelEditorSO : ScriptableObject, IDisplayNameable
+    public class LevelEditorSO : ScriptableObjectWithActions
     {
         #region Data
         
-        public string levelName = "";
-        public string DisplayName => levelName;
-
         [VerticalGroup("Tabs/LevelSetup/Details")]
         public SceneAsset levelScene;
 
@@ -32,7 +30,7 @@ namespace GridTool
         #endregion
 
         #region Terrain Actions
-        
+
         public void ResetTerrainTypeToDefault()
         {
             if (DefaultGridTerrainsSO == null)
@@ -49,13 +47,16 @@ namespace GridTool
 
         #region Level Deletion
 
-        [HorizontalGroup("Tabs/LevelSetup/Action")]
-        [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.TrashFill)]
-        public void DeleteLevel()
+        [HorizontalGroup("Actions/Buttons")]
+        [Button("Delete", ButtonSizes.Large)]
+        [GUIColor(1f, 0.4f, 0.4f)]
+        [ShowIf(nameof(IsSavedAsset))]
+        [PropertyOrder(999)]
+        protected override void DeleteAsset()
         {
             if (!EditorUtility.DisplayDialog(
                     "Delete Level Data?",
-                    $"Are you sure you want to delete '{levelName}'?\n\nThis will delete the entire folder.",
+                    $"Are you sure you want to delete '{name}'?\n\nThis will delete the entire folder.",
                     "Yes", "No"))
             {
                 return;
@@ -137,6 +138,7 @@ namespace GridTool
         #endregion
 
         #region BakeGrid
+
         [HorizontalGroup("Tabs/Grid Setup/Action")]
         [Button(ButtonSizes.Large, ButtonStyle.CompactBox, Icon = SdfIconType.Grid3x3GapFill)]
         public void BakeGrid()
@@ -147,8 +149,9 @@ namespace GridTool
                 baker.BakeGrid();
             }, "Bake Grid");
         }
+
         #endregion
-        
+
 
         #region Helper Methods
 
@@ -169,7 +172,7 @@ namespace GridTool
 
             if (success)
             {
-                ShowSuccess($"{operationName} completed for '{levelName}'");
+                ShowSuccess($"{operationName} completed for '{name}'");
             }
             else
             {
@@ -179,7 +182,7 @@ namespace GridTool
 
         private bool ValidateForSceneOperation()
         {
-            if (string.IsNullOrEmpty(levelName))
+            if (string.IsNullOrEmpty(name))
             {
                 ShowError("Level name cannot be empty!");
                 return false;
@@ -310,13 +313,13 @@ namespace GridTool
                     if (cell == null)
                     {
                         Debug.LogError(
-                            $"Fixed spawn '{spawn.SpawnType.DisplayName}' at {spawn.Position} is outside grid bounds");
+                            $"Fixed spawn '{spawn.SpawnType.name}' at {spawn.Position} is outside grid bounds");
                         hasErrors = true;
                     }
                     else if (spawn.SpawnType.MustSpawnOnWalkable && !cell.IsWalkable)
                     {
                         Debug.LogError(
-                            $"Fixed spawn '{spawn.SpawnType.DisplayName}' at {spawn.Position} is on non-walkable cell");
+                            $"Fixed spawn '{spawn.SpawnType.name}' at {spawn.Position} is on non-walkable cell");
                         hasErrors = true;
                     }
                 }
@@ -338,7 +341,7 @@ namespace GridTool
                         if (cell == null)
                         {
                             Debug.LogError(
-                                $"Wave {wave.WaveIndex} spawn '{entry.SpawnType.DisplayName}' at {entry.GridPosition} is outside grid bounds");
+                                $"Wave {wave.WaveIndex} spawn '{entry.SpawnType.name}' at {entry.GridPosition} is outside grid bounds");
                             hasErrors = true;
                         }
 
@@ -346,7 +349,7 @@ namespace GridTool
                         if (!entry.SpawnType.CanSpawnInSummonZone && inSummonZone)
                         {
                             Debug.LogError(
-                                $"Wave {wave.WaveIndex} spawn '{entry.SpawnType.DisplayName}' at {entry.GridPosition} is in summon zone but not allowed");
+                                $"Wave {wave.WaveIndex} spawn '{entry.SpawnType.name}' at {entry.GridPosition} is in summon zone but not allowed");
                             hasErrors = true;
                         }
                     }
@@ -364,7 +367,6 @@ namespace GridTool
         }
 
         #endregion
-
     }
 }
 #endif

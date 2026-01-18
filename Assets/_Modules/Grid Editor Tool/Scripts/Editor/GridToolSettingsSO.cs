@@ -20,6 +20,11 @@ namespace GridTool
         [TabGroup("Terrain types settings")]
         [FolderPath]
         public string TerrainTypePath;
+        
+        [TabGroup("Terrain types settings")]
+        [FolderPath]
+        public string DefaultTerrainTypePath;
+        
         [TabGroup("Terrain types settings")]
         [InlineEditor(InlineEditorObjectFieldModes.Hidden)]
         public DefaultGridTerrainsSO TerrainTypeDefaults;

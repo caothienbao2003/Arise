@@ -8,9 +8,6 @@ public class LevelInitializer : MonoBehaviour
 
     private void Start()
     {
-        // Spawns all fixed spawns (King, Resources, etc.) that have "SpawnOnLevelStart = true"
         spawnService.SpawnAllFixed();
-        
-        Debug.Log("Level initialized with all fixed spawns!");
     }
 }

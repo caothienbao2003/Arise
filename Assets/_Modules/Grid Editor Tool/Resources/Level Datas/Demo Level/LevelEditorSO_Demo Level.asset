@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cfab878fe94524dbb4b231fe856645, type: 3}
+  m_Name: LevelEditorSO_Demo Level
+  m_EditorClassIdentifier: Assembly-CSharp::GridTool.LevelEditorSO
+  levelScene: {fileID: 102900000, guid: a787f25371654ec4d8e12cc9339ebb5c, type: 3}
+  DefaultGridTerrainsSO: {fileID: 11400000, guid: 22393a5b62f77c44c8001201b757a757, type: 2}
+  TerrainTypes:
+  - {fileID: 11400000, guid: 8bba1db044ba9c349913d735cae857c5, type: 2}
+  - {fileID: 11400000, guid: ed448acebd643b64ca8219dedff2c907, type: 2}
+  GridData: {fileID: 11400000, guid: 759cf89b838c70f40b216f94160d13ab, type: 2}
+  SpawnData: {fileID: 11400000, guid: 4aac56030eafa3a47a55c34edb123e1e, type: 2}

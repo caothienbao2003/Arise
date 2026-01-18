@@ -1,0 +1,35 @@
+OVDF v1.1
+GridUtilities.PathfindingProfileSO, Assembly-CSharp
+MetaGuid:4779730b8a194791996b7ce687b4121c
+
+# $UJniyurPRWHST5xR9rJcXp
+Position: $root:2
++ [Sirenix.OdinInspector.BoxGroupAttribute]
+	GroupName = "Basic info"
+
+# $FoEw2cdFHW4ixBVjUoWww7
+Position: $root:3
++ [Sirenix.OdinInspector.BoxGroupAttribute]
+	GroupName = "Properties"
+
+# displayName
+Position: $UJniyurPRWHST5xR9rJcXp:0
+
+# AllowDiagonal
+Position: $FoEw2cdFHW4ixBVjUoWww7:3
+- [UnityEngine.HeaderAttribute]
+
+# BlockDiagonalCorner
+Position: $FoEw2cdFHW4ixBVjUoWww7:2
+
+# MoveStraightCost
+Position: $FoEw2cdFHW4ixBVjUoWww7:0
+
+# MoveDiagonalCost
+Position: $FoEw2cdFHW4ixBVjUoWww7:1
+
+# OpenAsset()
+Position: $root:4
+* [Sirenix.OdinInspector.ButtonAttribute]
+	buttonHeight = 30
+	HasDefinedButtonHeight = True

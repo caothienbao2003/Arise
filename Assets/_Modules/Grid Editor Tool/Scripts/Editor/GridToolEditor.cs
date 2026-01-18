@@ -71,12 +71,16 @@ namespace GridTool
         {
             OdinMenuTree tree = new OdinMenuTree();
 
-            // HandleCreateNewTerrainTypeWindow(tree);
-
             OdinEditorUtils.HandleCreateNewScriptableObjectWindow<TerrainTypeSO>(
                 tree,
                 "Terrain Types",
                 settings.TerrainTypePath
+            );
+            
+            OdinEditorUtils.HandleCreateNewScriptableObjectWindow<DefaultGridTerrainsSO>(
+                tree,
+                "Default Grid Terrains",
+                settings.DefaultTerrainTypePath
             );
 
             OdinEditorUtils.HandleCreateNewScriptableObjectWindow<SpawnTypeSO>(
@@ -94,25 +98,16 @@ namespace GridTool
             OdinEditorUtils.HandleCreateNewScriptableObjectWindow<LevelEditorSO>(
                 tree,
                 "Level Editor",
-                settings.LevelDataPath,
-                false);
+                settings.LevelDataPath
+                );
 
-            // HandleCreateNewLevelWindow(tree);
-            
             OdinEditorUtils.HandleCreateNewScriptableObjectWindow<SequenceActionsSetupSO>(
                 tree,
                 "Actions Setup",
-                settings.ActionAssetPath);
-            
-            HandleCreateSettingsWindow(tree);
+                settings.ActionAssetPath
+                );
 
-            // tree.AddAllAssetsAtPath(
-            //     "Actions",
-            //     settings.ActionAssetPath,
-            //     typeof(SequenceActionsSetupSO),
-            //     includeSubDirectories: true,
-            //     flattenSubDirectories: true
-            // );
+            HandleCreateSettingsWindow(tree);
 
             if (settings == null)
             {

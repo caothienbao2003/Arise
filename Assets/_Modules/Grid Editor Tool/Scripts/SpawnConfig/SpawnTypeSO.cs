@@ -1,3 +1,4 @@
+using _Modules.Grid_Editor_Tool.Scripts.Utils;
 using UnityEngine;
 using Sirenix.OdinInspector;
 #if UNITY_EDITOR
@@ -7,16 +8,8 @@ using UnityEditor;
 namespace GridTool
 {
     [CreateAssetMenu(fileName = "SpawnType_", menuName = "GridTool/Spawn Type")]
-    public class SpawnTypeSO : ScriptableObject, IDisplayNameable
+    public class SpawnTypeSO : ScriptableObjectWithActions
     {
-        [TabGroup("Basic Info")]
-        [SerializeField] private string displayName;
-
-        public string DisplayName => displayName;
-
-        // [TabGroup("Basic Info")]
-        // [SerializeField] public string CategoryName;
-
         [TabGroup("Basic Info")]
         [SerializeField, TextArea(1, 5)] public string Description;
 
@@ -70,87 +63,23 @@ namespace GridTool
         {
             if (MustSpawnOnWalkable && !isWalkable)
             {
-                Debug.LogWarning($"[{DisplayName}] Cannot spawn on non-walkable cell at {position}");
+                Debug.LogWarning($"[{name}] Cannot spawn on non-walkable cell at {position}");
                 return false;
             }
 
             if (CheckOccupancy && isOccupied)
             {
-                Debug.LogWarning($"[{DisplayName}] Cell at {position} is already occupied");
+                Debug.LogWarning($"[{name}] Cell at {position} is already occupied");
                 return false;
             }
 
             if (!CanSpawnInSummonZone && isInSummonZone)
             {
-                Debug.LogWarning($"[{DisplayName}] Cannot spawn in summon zone at {position}");
+                Debug.LogWarning($"[{name}] Cannot spawn in summon zone at {position}");
                 return false;
             }
 
             return true;
         }
-
-// #if UNITY_EDITOR
-//         private bool IsSavedAsset => !string.IsNullOrEmpty(AssetDatabase.GetAssetPath(this));
-//
-//         [BoxGroup("Actions"), PropertyOrder(100)]
-//         [Button("Ping Prefab", ButtonSizes.Medium), GUIColor(0.4f, 0.8f, 1f)]
-//         [HorizontalGroup("Actions/Buttons")]
-//         [ShowIf(nameof(Prefab))]
-//         private void PingPrefab()
-//         {
-//             if (Prefab != null)
-//             {
-//                 EditorGUIUtility.PingObject(Prefab);
-//                 Selection.activeObject = Prefab;
-//             }
-//         }
-//
-//         [BoxGroup("Actions"), PropertyOrder(101)]
-//         [Button("Open Asset", ButtonSizes.Medium), GUIColor(0.4f, 0.8f, 1f)]
-//         [HorizontalGroup("Actions/Buttons")]
-//         [ShowIf(nameof(IsSavedAsset))]
-//         private void OpenAsset()
-//         {
-//             Selection.activeObject = this;
-//             EditorGUIUtility.PingObject(this);
-//         }
-//
-//         [BoxGroup("Actions"), PropertyOrder(102)]
-//         [Button("Delete Asset", ButtonSizes.Medium), GUIColor(1f, 0.4f, 0.4f)]
-//         [HorizontalGroup("Actions/Buttons")]
-//         [ShowIf(nameof(IsSavedAsset))]
-//         private void DeleteAsset()
-//         {
-//             string assetPath = AssetDatabase.GetAssetPath(this);
-//
-//             if (string.IsNullOrEmpty(assetPath))
-//             {
-//                 EditorUtility.DisplayDialog("Error", "Cannot delete this asset. Asset path not found.", "OK");
-//                 return;
-//             }
-//
-//             bool confirmed = EditorUtility.DisplayDialog(
-//                 "Delete Spawn Type",
-//                 $"Are you sure you want to delete '{SpawnName}'?\n\nPath: {assetPath}\n\nThis action cannot be undone!",
-//                 "Delete",
-//                 "Cancel"
-//             );
-//
-//             if (confirmed)
-//             {
-//                 bool success = AssetDatabase.DeleteAsset(assetPath);
-//
-//                 if (success)
-//                 {
-//                     AssetDatabase.SaveAssets();
-//                     Debug.Log($"Deleted Spawn Type: {SpawnName} at {assetPath}");
-//                 }
-//                 else
-//                 {
-//                     EditorUtility.DisplayDialog("Error", $"Failed to delete asset at:\n{assetPath}", "OK");
-//                 }
-//             }
-//         }
-// #endif
     }
 }

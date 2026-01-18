@@ -12,12 +12,8 @@ using GridTool;
 namespace SceneSetupTool
 {
     [CreateAssetMenu(fileName = "SequenceActionsSetupSO", menuName = "Scriptable Objects/Sequence Actions Setup")]
-    public class SequenceActionsSetupSO : SerializedScriptableObject, IDisplayNameable
+    public class SequenceActionsSetupSO : SerializedScriptableObject
     {
-        public string DisplayName => displayName;
-        [SerializeField] 
-        private string displayName;
-        
         [FoldoutGroup("Summary", Expanded = true)]
         [HideLabel]
         [ReadOnly]

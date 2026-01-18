@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿#if UNITY_EDITOR
+using System.Collections.Generic;
+using System.IO;
 using Sirenix.OdinInspector.Editor;
 using UnityEngine;
 
@@ -8,7 +10,7 @@ namespace GridTool
     {
         public static void HandleCreateNewScriptableObjectWindow<T>(OdinMenuTree tree, string menuName,
             string folderPath, bool allowCreateNew = true)
-            where T : ScriptableObject, IDisplayNameable
+            where T : ScriptableObject
         {
             if (allowCreateNew)
             {
@@ -26,11 +28,12 @@ namespace GridTool
 
             foreach (var item in items)
             {
-                if (item.Value is IDisplayNameable data)
+                if (item.Value is ScriptableObject so)
                 {
-                    item.Name = data.DisplayName;
+                    item.Name = so.GetTrimmedAssetName();
                 }
             }
         }
     }
 }
+#endif
