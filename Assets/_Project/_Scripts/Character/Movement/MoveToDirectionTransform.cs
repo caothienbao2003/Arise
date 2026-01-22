@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-public class MoveToToDirectionTransform : MonoBehaviour, IMoveToDirection
+public class MoveToDirectionTransform : MonoBehaviour, IMoveToDirection
 {
     [SerializeField] private float moveSpeed;
 

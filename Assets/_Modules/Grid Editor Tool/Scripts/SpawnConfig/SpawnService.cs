@@ -205,7 +205,16 @@ namespace GridTool
 
             if (type.UsePooling)
             {
-                poolService.ReturnToPool(obj);
+                var poolObj = obj.GetComponent<PoolObject>();
+                if (poolObj != null)
+                {
+                    poolObj.Despawn();
+                }
+                else
+                {
+                    Debug.LogWarning($"[SpawnService] {obj.name} is pooled but has no PoolObject");
+                    Object.Destroy(obj);
+                }
             }
             else
             {

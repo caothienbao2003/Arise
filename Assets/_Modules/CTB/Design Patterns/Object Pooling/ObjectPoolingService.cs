@@ -7,11 +7,9 @@ namespace GridTool
 {
     public class ObjectPoolingService : IObjectPoolingService, IInitializable
     {
-        private readonly Dictionary<GameObject, Queue<GameObject>> poolDictionary = new Dictionary<GameObject, Queue<GameObject>>();
-        private readonly Dictionary<GameObject, GameObject> activeObjects = new Dictionary<GameObject, GameObject>();
-        private readonly Dictionary<GameObject, int> activeCountPerPrefab = new Dictionary<GameObject, int>();
-        
+        private readonly Dictionary<GameObject, Queue<PoolObject>> pools = new();
         private Transform poolParent;
+
         private readonly IObjectResolver resolver;
 
         public ObjectPoolingService(IObjectResolver resolver)
@@ -21,192 +19,155 @@ namespace GridTool
 
         public void Initialize()
         {
-            GameObject poolParentGO = new GameObject("Object Pools");
-            Object.DontDestroyOnLoad(poolParentGO);
-            poolParent = poolParentGO.transform;
-            
-            Debug.Log("[ObjectPoolService] Initialized");
+            var go = new GameObject("Object Pooling Parent");
+            Object.DontDestroyOnLoad(go);
+            poolParent = go.transform;
+
+            Debug.Log("[ObjectPoolingService] Initialized");
         }
 
         public GameObject GetPooledObject(GameObject prefab, Transform parent = null)
         {
             if (prefab == null)
             {
-                Debug.LogError("[ObjectPoolService] Cannot get pooled object: prefab is null");
+                Debug.LogError("[ObjectPoolingService] Prefab is null");
                 return null;
             }
 
-            if (!poolDictionary.ContainsKey(prefab))
+            if (!pools.TryGetValue(prefab, out var pool))
             {
-                poolDictionary[prefab] = new Queue<GameObject>();
+                pool = new Queue<PoolObject>();
+                pools[prefab] = pool;
             }
 
-            GameObject obj;
+            PoolObject poolObject;
 
-            if (poolDictionary[prefab].Count > 0)
+            if (pool.Count > 0)
             {
-                obj = poolDictionary[prefab].Dequeue();
-                obj.SetActive(true);
-                
-                resolver?.Inject(obj);
+                poolObject = pool.Dequeue();
             }
             else
             {
-                if (resolver != null)
-                {
-                    obj = resolver.Instantiate(prefab, poolParent);
-                }
-                else
-                {
-                    obj = Object.Instantiate(prefab, poolParent);
-                }
+                var obj = resolver != null
+                    ? resolver.Instantiate(prefab, poolParent)
+                    : Object.Instantiate(prefab, poolParent);
+
                 obj.name = $"{prefab.name} (Pooled)";
+
+                poolObject = obj.GetComponent<PoolObject>() 
+                          ?? obj.AddComponent<PoolObject>();
+
+                poolObject.Initialize(this, prefab);
+
+                resolver?.Inject(obj);
             }
 
-            if (parent != null)
+            var goObj = poolObject.gameObject;
+
+            goObj.transform.SetParent(parent, false);
+            goObj.SetActive(true);
+
+            foreach (var poolable in goObj.GetComponents<IPoolable>())
             {
-                obj.transform.SetParent(parent);
+                poolable.OnSpawned();
             }
 
-            activeObjects[obj] = prefab;
-            
-            activeCountPerPrefab.TryAdd(prefab, 0);
-            activeCountPerPrefab[prefab]++;
-
-            return obj;
+            return goObj;
         }
 
-        public void ReturnToPool(GameObject obj)
+        public void ReturnToPool(PoolObject poolObject)
         {
-            if (obj == null)
-            {
-                Debug.LogWarning("[ObjectPoolService] Attempted to return null object to pool");
+            if (poolObject == null)
                 return;
+
+            var obj = poolObject.gameObject;
+            var prefab = poolObject.Prefab;
+
+            if (!pools.TryGetValue(prefab, out var pool))
+            {
+                pool = new Queue<PoolObject>();
+                pools[prefab] = pool;
             }
 
-            if (!activeObjects.Remove(obj, out var prefab))
+            foreach (var poolable in obj.GetComponents<IPoolable>())
             {
-                Debug.LogWarning($"[ObjectPoolService] Object {obj.name} is not tracked by pool service");
-                Object.Destroy(obj);
-                return;
-            }
-
-            if (activeCountPerPrefab.ContainsKey(prefab))
-            {
-                activeCountPerPrefab[prefab]--;
-                if (activeCountPerPrefab[prefab] < 0)
-                {
-                    activeCountPerPrefab[prefab] = 0;
-                }
+                poolable.OnDespawned();
             }
 
             obj.SetActive(false);
-            obj.transform.SetParent(poolParent);
-            
-            if (!poolDictionary.ContainsKey(prefab))
-            {
-                poolDictionary[prefab] = new Queue<GameObject>();
-            }
-            
-            poolDictionary[prefab].Enqueue(obj);
+            obj.transform.SetParent(poolParent, false);
+
+            pool.Enqueue(poolObject);
         }
 
         public void PrewarmPool(GameObject prefab, int count)
         {
-            if (prefab == null)
-            {
-                Debug.LogError("[ObjectPoolService] Cannot prewarm pool: prefab is null");
+            if (prefab == null || count <= 0)
                 return;
-            }
 
-            if (!poolDictionary.ContainsKey(prefab))
+            if (!pools.TryGetValue(prefab, out var pool))
             {
-                poolDictionary[prefab] = new Queue<GameObject>();
+                pool = new Queue<PoolObject>();
+                pools[prefab] = pool;
             }
 
             for (int i = 0; i < count; i++)
             {
-                GameObject obj;
-                
-                if (resolver != null)
-                {
-                    obj = resolver.Instantiate(prefab, poolParent);
-                }
-                else
-                {
-                    obj = Object.Instantiate(prefab, poolParent);
-                }
-                
+                var obj = resolver != null
+                    ? resolver.Instantiate(prefab, poolParent)
+                    : Object.Instantiate(prefab, poolParent);
+
                 obj.name = $"{prefab.name} (Pooled)";
                 obj.SetActive(false);
-                poolDictionary[prefab].Enqueue(obj);
+
+                var poolObject = obj.GetComponent<PoolObject>() 
+                              ?? obj.AddComponent<PoolObject>();
+
+                poolObject.Initialize(this, prefab);
+                resolver?.Inject(obj);
+
+                pool.Enqueue(poolObject);
             }
 
-            Debug.Log($"[ObjectPoolService] Prewarmed pool for {prefab.name} with {count} objects");
+            Debug.Log($"[ObjectPoolingService] Prewarmed {count} objects for {prefab.name}");
         }
 
         public void ClearPool(GameObject prefab)
         {
-            if (prefab == null || !poolDictionary.ContainsKey(prefab))
-            {
+            if (prefab == null || !pools.TryGetValue(prefab, out var pool))
                 return;
-            }
 
-            while (poolDictionary[prefab].Count > 0)
+            while (pool.Count > 0)
             {
-                GameObject obj = poolDictionary[prefab].Dequeue();
-                if (obj != null)
-                {
-                    Object.Destroy(obj);
-                }
+                var poolObj = pool.Dequeue();
+                if (poolObj != null)
+                    Object.Destroy(poolObj.gameObject);
             }
 
-            poolDictionary.Remove(prefab);
-            
-            activeCountPerPrefab.Remove(prefab);
-
-            Debug.Log($"[ObjectPoolService] Cleared pool for {prefab.name}");
+            pools.Remove(prefab);
         }
 
         public void ClearAllPools()
         {
-            foreach (var kvp in poolDictionary)
+            foreach (var pool in pools.Values)
             {
-                while (kvp.Value.Count > 0)
+                while (pool.Count > 0)
                 {
-                    GameObject obj = kvp.Value.Dequeue();
-                    if (obj != null)
-                    {
-                        Object.Destroy(obj);
-                    }
+                    var poolObj = pool.Dequeue();
+                    if (poolObj != null)
+                        Object.Destroy(poolObj.gameObject);
                 }
             }
 
-            poolDictionary.Clear();
-            activeObjects.Clear();
-            activeCountPerPrefab.Clear();
-
-            Debug.Log("[ObjectPoolService] Cleared all pools");
+            pools.Clear();
+            Debug.Log("[ObjectPoolingService] Cleared all pools");
         }
 
         public int GetPoolSize(GameObject prefab)
         {
-            if (prefab == null || !poolDictionary.TryGetValue(prefab, out var value))
-            {
-                return 0;
-            }
-
-            return value.Count;
-        }
-
-        public int GetActiveCount(GameObject prefab)
-        {
-            if (prefab == null || !activeCountPerPrefab.TryGetValue(prefab, out var activeCount))
-            {
-                return 0;
-            }
-
-            return activeCount;
+            return prefab != null && pools.TryGetValue(prefab, out var pool)
+                ? pool.Count
+                : 0;
         }
     }
 }

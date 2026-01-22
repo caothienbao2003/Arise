@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GridTool.SpawnTypeSO
   Description: Moving units using mouse input
   Prefab: {fileID: 3658718866621034277, guid: 9745a8ab735e88e45a18b260f8b5f0b6, type: 3}
-  MaxSimultaneousSpawns: 1
+  MaxSimultaneousSpawns: 10
   MustSpawnOnWalkable: 1
   CanSpawnInSummonZone: 0
   CheckOccupancy: 1

@@ -78,6 +78,12 @@ namespace GridUtilities
             return new Vector3(cellXYPosition.x, cellXYPosition.y) * cellSize + originPosition;
         }
 
+        public Vector3 GetCellCenterWorldPos(Vector3 worldPosition)
+        {
+            Vector2Int cellXYPos = GetCellXYPos(worldPosition);
+            return GetCellCenterWorldPos(cellXYPos);
+        }
+        
         public Vector3 GetCellCenterWorldPos(Vector2Int cellXYPosition)
         {
             return GetCellWorldPos(cellXYPosition) + new Vector3(cellSize, cellSize) * .5f;

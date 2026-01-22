@@ -11,8 +11,7 @@ GameObject:
   - component: {fileID: 7111630613584292198}
   - component: {fileID: 3544582515805928512}
   - component: {fileID: 5566824170012504769}
-  - component: {fileID: 3078644181702667705}
-  - component: {fileID: 3430595354617029124}
+  - component: {fileID: 8315117099258020511}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -106,7 +105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bb5792698584755b139efd39bcd9495, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovementByMouse
---- !u!114 &3078644181702667705
+--- !u!114 &8315117099258020511
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -115,22 +114,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 3658718866621034277}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b1aac16f1ba7cb48b4d6c9a51db9dbf, type: 3}
+  m_Script: {fileID: 11500000, guid: 9747a3d45dfeddb4f8f0413435d9005d, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MoveController_Pathfinding
-  pathfindingProfileSO: {fileID: 11400000, guid: 3ecd30ad5321f274b919e05fb8310426, type: 2}
-  reachPathPositionDistance: 0.5
-  finalSnapLerpSpeed: 50
---- !u!114 &3430595354617029124
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3658718866621034277}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6bf74a707d9f404eadd6501e8867a509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MovableTransform
-  moveSpeed: 10
+  m_EditorClassIdentifier: Assembly-CSharp::MoveToGridPositionTeleport
